@@ -1,0 +1,37 @@
+{
+  "name": "jee-scraped",
+  "version": "1.0.0",
+  "description": "JEE Exam Data Scraper, Converter and Viewer - Converts raw API data to HTML, PDF, and LLM formats",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "convert:html": "node convert-to-html.js",
+    "convert:llm": "node convert-to-llm.js",
+    "convert:pdf": "node convert-to-pdf.js",
+    "convert:all": "npm run convert:html && npm run convert:llm",
+    "build": "node build.js",
+    "preview": "node server.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "jee",
+    "jee-main",
+    "jee-advanced",
+    "exam",
+    "scraper",
+    "converter",
+    "pdf",
+    "html",
+    "llm"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^21.5.2"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
