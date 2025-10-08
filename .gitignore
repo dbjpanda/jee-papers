@@ -4,6 +4,9 @@ node_modules/
 # Build output
 dist/
 
+# Generated directories
+raw-local-images/
+
 
 # Logs
 *.log
@@ -22,3 +25,5 @@ Thumbs.db
 # Temporary files
 *.tmp
 .cache/
+.tmp/
+images

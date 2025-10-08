@@ -9,6 +9,9 @@
     "convert:llm": "node scripts/convert-to-llm.js",
     "convert:pdf": "node scripts/convert-to-pdf.js",
     "convert:all": "npm run convert:html && npm run convert:llm",
+    "download:images": "node scripts/download-images.js",
+    "localize:images": "node scripts/localize-images.js",
+    "verify:images": "node scripts/verify-images.js",
     "build": "node scripts/build.js",
     "preview": "node scripts/server.js",
     "test": "echo \"No tests specified\" && exit 0"
