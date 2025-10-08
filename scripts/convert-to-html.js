@@ -4,10 +4,11 @@ import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
+const ROOT_DIR = path.resolve(__dirname, '..');
 
 // Directories
-const RAW_DIR = path.join(__dirname, 'raw');
-const HTML_DIR = path.join(__dirname, 'html');
+const RAW_DIR = path.join(ROOT_DIR, 'raw');
+const HTML_DIR = path.join(ROOT_DIR, 'html');
 
 /**
  * Generate HTML content for questions

@@ -4,10 +4,11 @@ import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
+const ROOT_DIR = path.resolve(__dirname, '..');
 
 // Directories
-const RAW_DIR = path.join(__dirname, 'raw');
-const LLM_DIR = path.join(__dirname, 'llm');
+const RAW_DIR = path.join(ROOT_DIR, 'raw');
+const LLM_DIR = path.join(ROOT_DIR, 'llm');
 
 /**
  * Extract year, date, and shift from key

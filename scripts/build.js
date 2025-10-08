@@ -4,9 +4,10 @@ import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
+const ROOT_DIR = path.resolve(__dirname, '..');
 
-const HTML_DIR = path.join(__dirname, 'html');
-const DIST_DIR = path.join(__dirname, 'dist');
+const HTML_DIR = path.join(ROOT_DIR, 'html');
+const DIST_DIR = path.join(ROOT_DIR, 'dist');
 
 /**
  * Parse exam key to get metadata
@@ -71,8 +72,8 @@ function parseExamKey(filename) {
  */
 async function getOrganizedHtmlFiles() {
   const organized = {
-    'jee-advanced': [],
-    'jee-main': []
+    'jee-main': [],
+    'jee-advanced': []
   };
   
   try {
@@ -502,46 +503,8 @@ async function build() {
     console.log('5. Copying HTML files...');
     await copyDirectory(HTML_DIR, path.join(DIST_DIR, 'html'));
     
-    // Step 6: Create _redirects for Netlify (SPA routing)
-    console.log('6. Creating _redirects file...');
-    await fs.writeFile(
-      path.join(DIST_DIR, '_redirects'),
-      '/*    /index.html   200\n',
-      'utf8'
-    );
-    
-    // Step 7: Create netlify.toml
-    console.log('7. Creating netlify.toml...');
-    const netlifyConfig = `[build]
-  publish = "dist"
-  command = "npm run build"
-
-[[headers]]
-  for = "/*"
-  [headers.values]
-    X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block"
-    X-Content-Type-Options = "nosniff"
-
-[[headers]]
-  for = "*.html"
-  [headers.values]
-    Cache-Control = "public, max-age=0, must-revalidate"
-
-[[headers]]
-  for = "*.js"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000, immutable"
-
-[[headers]]
-  for = "*.css"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000, immutable"
-`;
-    await fs.writeFile(path.join(__dirname, 'netlify.toml'), netlifyConfig, 'utf8');
-    
-    // Step 8: Create vercel.json
-    console.log('8. Creating vercel.json...');
+    // Step 6: Create vercel.json
+    console.log('6. Creating vercel.json...');
     const vercelConfig = {
       "buildCommand": "npm run build",
       "outputDirectory": "dist",
@@ -549,7 +512,7 @@ async function build() {
       "trailingSlash": false
     };
     await fs.writeFile(
-      path.join(__dirname, 'vercel.json'),
+      path.join(ROOT_DIR, 'vercel.json'),
       JSON.stringify(vercelConfig, null, 2),
       'utf8'
     );
@@ -563,8 +526,7 @@ async function build() {
     console.log(`✓ JEE Advanced papers: ${organized['jee-advanced'].length}`);
     console.log('='.repeat(60));
     console.log('\n✅ Build completed successfully!\n');
-    console.log('📦 Ready to deploy to:');
-    console.log('   - Netlify: netlify deploy --prod');
+    console.log('📦 Ready to deploy:');
     console.log('   - Vercel: vercel --prod');
     console.log('   - Or drag & drop the "dist" folder to any static hosting\n');
     
