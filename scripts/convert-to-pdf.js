@@ -5,10 +5,11 @@ import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
+const ROOT_DIR = path.resolve(__dirname, '..');
 
 // Directories
-const HTML_DIR = path.join(__dirname, 'html');
-const PDF_DIR = path.join(__dirname, 'pdf');
+const HTML_DIR = path.join(ROOT_DIR, 'html');
+const PDF_DIR = path.join(ROOT_DIR, 'pdf');
 
 /**
  * Get all HTML files recursively from directory

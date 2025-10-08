@@ -5,12 +5,12 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "convert:html": "node convert-to-html.js",
-    "convert:llm": "node convert-to-llm.js",
-    "convert:pdf": "node convert-to-pdf.js",
+    "convert:html": "node scripts/convert-to-html.js",
+    "convert:llm": "node scripts/convert-to-llm.js",
+    "convert:pdf": "node scripts/convert-to-pdf.js",
     "convert:all": "npm run convert:html && npm run convert:llm",
-    "build": "node build.js",
-    "preview": "node server.js",
+    "build": "node scripts/build.js",
+    "preview": "node scripts/server.js",
     "test": "echo \"No tests specified\" && exit 0"
   },
   "keywords": [
@@ -27,11 +27,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^3.3.2",
-    "puppeteer": "^21.5.2"
+    "node-fetch": "^3.3.2"
   },
-  "devDependencies": {},
-  "engines": {
-    "node": ">=18.0.0"
+  "devDependencies": {
+    "puppeteer": "^21.5.2"
   }
 }
