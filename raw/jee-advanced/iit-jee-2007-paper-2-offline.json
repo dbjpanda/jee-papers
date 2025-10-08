@@ -1,0 +1,1703 @@
+{
+  "statusCode": 0,
+  "results": [
+    {
+      "_id": "Chemistry",
+      "questions": [
+        {
+          "country": "in",
+          "examGroup": "jee",
+          "question_id": "UZCIyHJ90wn3BMmc",
+          "exam": "jee-advanced",
+          "marks": 3,
+          "negMarks": 1,
+          "subjectGroup": null,
+          "subject": "chemistry",
+          "chapterGroup": "physical-chemistry",
+          "languages": [
+            "en"
+          ],
+          "chapter": "some-basic-concepts-of-chemistry",
+          "year": 2007,
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "difficulty": "easy",
+          "topicName": null,
+          "type": "mcq",
+          "examDate": null,
+          "question": {
+            "en": {
+              "content": "Consider a titration of potassium dichromate solution with acidified Mohr’s salt solution using diphenylamine as indicator. The number of moles of Mohr’s salt required per mole of dichromate is ",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "3"
+                },
+                {
+                  "identifier": "B",
+                  "content": "4"
+                },
+                {
+                  "identifier": "C",
+                  "content": "5"
+                },
+                {
+                  "identifier": "D",
+                  "content": "6"
+                }
+              ],
+              "correct_options": [
+                "D"
+              ],
+              "answer": null,
+              "explanation": "<p>The formula of Mohr's salt is $$\\mathrm{FeSO_4(NH_4)_2SO_4}$$. It is a mixture of ferrous sulfate and ammonium sulfate. Ferrous sulfate is oxidized by potassium dichromate to ferric sulphate.</p>\n<p>Reaction is as follows:</p>\n<p>$$\\mathrm{K_2Cr_2O_7+6FeSO_4+7H_2SO_4\\to K_2SO_4+Cr_2(SO_4)_3+3Fe_2(SO_4)_3+7H_2O}$$</p>\n<p>1 mole of potassium dichromate reacts with 6 moles of ferrous sulphate. Thus, number of moles of Mohr's salt required per mole of dichromate is 6.<p>"
+            }
+          },
+          "permalink": "consider-a-titration-of-potassium-dichromate-solution-with-a-jee-advanced-2007-marks-2-uzciyhj90wn3bmmc.htm",
+          "timeAllotted": 200000,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "topic": "quantitative-measures-in-chemical-equations",
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "country": "in",
+          "examGroup": "jee",
+          "question_id": "7ZLq4WAokaYTx9sZ",
+          "exam": "jee-advanced",
+          "marks": 3,
+          "negMarks": 1,
+          "subjectGroup": null,
+          "subject": "chemistry",
+          "chapterGroup": "inorganic-chemistry",
+          "languages": [
+            "en"
+          ],
+          "chapter": "p-block-elements",
+          "year": 2007,
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "difficulty": "easy",
+          "topicName": null,
+          "type": "mcq",
+          "examDate": null,
+          "question": {
+            "en": {
+              "content": "<b>STATEMENT-1 :</b> Band gap in germanium is small.<br> <br/>\n<b>STATEMENT-2 :</b> The energy gap of each germanium atomic energy level is infinitesimally small.",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is a correct explanation for Statement - 1"
+                },
+                {
+                  "identifier": "B",
+                  "content": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is not a correct explanation for Statement - 1"
+                },
+                {
+                  "identifier": "C",
+                  "content": "Statement - 1 is True, Statement - 2 is False"
+                },
+                {
+                  "identifier": "D",
+                  "content": "Statement - 1 is False, Statement - 2 is True"
+                }
+              ],
+              "correct_options": [
+                "C"
+              ],
+              "answer": null,
+              "explanation": "<h3><strong>Statement‑1:</strong></h3>\n<p><em>“Band gap in germanium is small.”</em>  </p>\n<p>✅ <strong>True.</strong>  </p>\n<p>Germanium is a semiconductor with an energy band gap of about <strong>0.66 eV at 300 K</strong>, which is much smaller than that of silicon (~1.1 eV).  </p>\n\n<h3><strong>Statement‑2:</strong></h3>\n<p><em>“The energy gap of each germanium atomic energy level is infinitesimally small.”</em>  </p>\n<p>❌ <strong>False.</strong>  </p>\n<p>In a single germanium atom, the energy levels are <strong>discrete</strong> with <strong>finite energy differences</strong> between them — not infinitesimally small.  </p>\n<p>In a solid, when many atoms come together, each discrete atomic level splits into closely spaced energy states due to interactions between atoms, forming continuous <strong>bands</strong>; the gap between valence and conduction bands (the <strong>band gap</strong>) is small but <strong>finite</strong>.</p>\n<p>So, the “infinitesimally small” part is <strong>incorrect</strong>.</p>\n\n<p>✅ <strong>Correct Option: C</strong>  </p>\n<p><strong>Statement‑1 is True, Statement‑2 is False.</strong></p>"
+            }
+          },
+          "permalink": "this-question-contains-statement-1-assertion-and-statement-2007-marks-2-7zlq4waokaytx9sz.htm",
+          "timeAllotted": 200000,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "topic": "group-14-elements-carbon-family",
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "country": "in",
+          "examGroup": "jee",
+          "question_id": "ZYpXxH5vn9SrSME4",
+          "exam": "jee-advanced",
+          "marks": 3,
+          "negMarks": 1,
+          "subjectGroup": null,
+          "subject": "chemistry",
+          "chapterGroup": "physical-chemistry",
+          "languages": [
+            "en"
+          ],
+          "chapter": "chemical-kinetics-and-nuclear-chemistry",
+          "year": 2007,
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "difficulty": "easy",
+          "topicName": null,
+          "type": "mcq",
+          "examDate": null,
+          "question": {
+            "en": {
+              "content": "Consider a reaction aG + bH $$\\to$$ Products. When concentration of both the reactants G and H is doubled, the rate\nincreases by eight times. However, when concentration of G is doubled keeping the concentration of H fixed, the rate is\ndoubled. The overall order of the reaction is ",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "0"
+                },
+                {
+                  "identifier": "B",
+                  "content": "1"
+                },
+                {
+                  "identifier": "C",
+                  "content": "2"
+                },
+                {
+                  "identifier": "D",
+                  "content": "3"
+                }
+              ],
+              "correct_options": [
+                "D"
+              ],
+              "answer": null,
+              "explanation": "<p>The rate law expression is</p>\n<p>$$\\mathrm{R}=k[\\mathrm{G}]^{a}[\\mathrm{H}]^{b}\n$$ ...... (i)</p>\n<p>The rate of reaction increases by a factor of 2 on doubling the concentration of '$$\\mathrm{G}$$'.</p>\n<p>The rate law expression becomes</p>\n<p>$$\\mathrm{R}^{\\prime}=2 \\mathrm{R}=k 2^{a}[\\mathrm{G}]^{a}[\\mathrm{H}]^{b}$$ ..... (ii)</p>\n<p>Divided equation (ii) with eqn. (i)</p>\n<p>$$\\begin{aligned}\\frac{\\mathrm{R}^{\\prime}}{\\mathrm{R}} & =\\frac{2 \\mathrm{R}}{\\mathrm{R}}=\\frac{k 2^{a}[\\mathrm{G}]^{a}[\\mathrm{H}]^{b}}{k 2[\\mathrm{G}]^{a}[\\mathrm{H}]^{b}} \\\\2 & =2^{a} \\\\a & =1\\end{aligned}$$</p>\n<p>The rate of reaction increases by a factor of 8 on doubling the concentration of $$\\mathrm{G}$$ and '$$\\mathrm{H}$$'.</p>\n<p>The rate law expression becomes</p>\n<p>Rate $$=\\mathrm{R}^{\\prime \\prime} k 2^{a}[\\mathrm{G}]^{a} 2^{b}[\\mathrm{H}]^{b}$$ ..... (iii)</p>\n<p>Divide equation (iii) with equation (i)</p>\n<p>$$\\begin{aligned}\\frac{8 \\mathrm{R}}{\\mathrm{R}} & =\\frac{k 2^{a}[\\mathrm{G}]^{a} 2^{b}[\\mathrm{H}]^{b}}{k[\\mathrm{G}]^{a}[\\mathrm{H}]^{b}}\\end{aligned}$$</p>\n<p>$$8=2^a2^b$$</p>\n<p>or $$b=2$$</p>\n<p>The overall order of reaction is</p>\n<p>$$a+b=1+2=3$$</p>"
+            }
+          },
+          "permalink": "consider-a-reaction-ag-bh-to-products-when-concentra-2007-marks-3-zypxxh5vn9srsme4.htm",
+          "timeAllotted": 200000,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "topic": "different-methods-to-determine-order-of-reaction",
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg53v47f",
+          "chapter": "coordination-compounds",
+          "chapterGroup": "inorganic-chemistry",
+          "country": "in",
+          "difficulty": null,
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 3,
+          "negMarks": 1,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "pamong-the-following-metal-carbonyl-the-c-o-bond-order-is-jee-advanced-chemistry-some-basic-concepts-of-chemistry-0yf9nrcsxk041laz",
+          "question": {
+            "en": {
+              "comprehension": null,
+              "direction": null,
+              "content": "<p>Among the following metal carbonyl, the C-O bond order is lowest in</p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "$$\\mathrm{[Mn(CO)_6]^+}$$"
+                },
+                {
+                  "identifier": "B",
+                  "content": "$$\\mathrm{[Fe(CO)_5]}$$"
+                },
+                {
+                  "identifier": "C",
+                  "content": "$$\\mathrm{[Cr(CO)_6]}$$"
+                },
+                {
+                  "identifier": "D",
+                  "content": "$$\\mathrm{[V(CO)_6]^-}$$"
+                }
+              ],
+              "correct_options": [
+                "B"
+              ],
+              "answer": null,
+              "explanation": "<p>(A) $$\\mathrm{Mn^+=3}d^5 4s^1$$; in presence of CO, effective configuration = $$3d^64s^0$$</p>\n<p>Three lone pair of electrons in metal 3d orbitals for back bonding with vacant ($$\\pi$$) pi* orbital of C in CO.</p>\n<p>(B) $$\\mathrm{Fe^0}=3d^6 4s^2$$; in presence of CO, effective configuration = $$3d^8$$</p>\n<p>Four lone pair for back bonding with CO.</p>\n<p>(C) $$\\mathrm{Cr^0}=3d^5 4s^1$$; effective configuration = $$3d^6$$</p>\n<p>Three lone pair for back bonding with CO.</p>\n<p>(D) $$\\mathrm{V^-}=3d^4 4s^2$$; effective configuration = $$3d^6$$</p>\n<p>Three lone pair for back bonding with CO.</p>\n<p>Since, Vanadium has a negative charge, it is present in lower oxidation state and can easily back donate the electrons from metal $$d$$ orbitals to ($$\\pi$$) pi* orbital of carbonyl ligand. Hence, it forms a much stronger bond with carbon or carbonyl thereby weakening the carbon oxygen bond.</p>"
+            }
+          },
+          "subject": "chemistry",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": null,
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg542jdx",
+          "chapter": "salt-analysis",
+          "chapterGroup": "inorganic-chemistry",
+          "country": "in",
+          "difficulty": null,
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 3,
+          "negMarks": 1,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "pa-solution-of-a-metal-ion-when-treated-with-ki-gives-a-re-jee-advanced-chemistry-some-basic-concepts-of-chemistry-uzyo8tuaxynvuqdo",
+          "question": {
+            "en": {
+              "comprehension": null,
+              "direction": null,
+              "content": "<p>A solution of a metal ion when treated with KI gives a red precipitate which dissolves in excess KI to give a colourless solution. Moreover, the solution of metal ion \n treatment with a solution of cobalt (II) thiocyanate gives rise to a deep blue crystalline precipitate. The metal ion is:</p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "Pb$$^{2+}$$"
+                },
+                {
+                  "identifier": "B",
+                  "content": "Hg$$^{2+}$$"
+                },
+                {
+                  "identifier": "C",
+                  "content": "Cu$$^{2+}$$"
+                },
+                {
+                  "identifier": "D",
+                  "content": "Co$$^{2+}$$"
+                }
+              ],
+              "correct_options": [
+                "B"
+              ],
+              "answer": null,
+              "explanation": "<p>A solution of metal ion (Hg$$^{2+}$$) when treated with KI gives a red precipitate which dissolves in excess KI to give a colourless solution. Moreover, the solution of metal ion on treatment with a solution of cobalt (II) thiocyanate gives rise to a deep blue crystalline precipitate. The metal ion is Hg$$^{2+}$$.</p>\n<p>$$\\mathrm{Hg_2+KI\\to Hg ~I_2}$$ (red ppt)</p>\n<p>$$\\mathrm{HgI_2+KI\\to K_2HgI_4}$$</p>\n<p>$$\\mathrm{Co(SCN)_2+K_2HgI_4=Co[Hg(SCN)_4]}$$ (blue crystalline precipitates)</p>"
+            }
+          },
+          "subject": "chemistry",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": null,
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg544tfs",
+          "chapter": "aldehydes-ketones-and-carboxylic-acids",
+          "chapterGroup": "organic-chemistry",
+          "country": "in",
+          "difficulty": null,
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 3,
+          "negMarks": 1,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "pcyclohexene-on-ozonolysis-followed-by-reaction-with-zinc-jee-advanced-chemistry-some-basic-concepts-of-chemistry-dl8aouqzndke81cf",
+          "question": {
+            "en": {
+              "comprehension": null,
+              "direction": null,
+              "content": "<p>Cyclohexene on ozonolysis followed by reaction with zinc dust and water gives compound E. Compound E on further treatment with aqueous KOH yields compound F. Compound F is :</p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/jaoe38c1mghsuvj6/acfabc81-02c9-41a8-bd02-ee5a8b70f4bc/0af2f910-a42b-11f0-beb4-71bca5ea08a4/file-jaoe38c1mghsuvj7.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/jaoe38c1mghsuvj6/acfabc81-02c9-41a8-bd02-ee5a8b70f4bc/0af2f910-a42b-11f0-beb4-71bca5ea08a4/file-jaoe38c1mghsuvj7.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\">"
+                },
+                {
+                  "identifier": "B",
+                  "content": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/jaoe38c1mghsvol6/e56611ea-382b-4d13-b300-3044602f7b6a/2164f9a0-a42b-11f0-beb4-71bca5ea08a4/file-jaoe38c1mghsvol7.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/jaoe38c1mghsvol6/e56611ea-382b-4d13-b300-3044602f7b6a/2164f9a0-a42b-11f0-beb4-71bca5ea08a4/file-jaoe38c1mghsvol7.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\">"
+                },
+                {
+                  "identifier": "C",
+                  "content": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/jaoe38c1mghsw5i2/a0fadac3-6d74-4214-840a-7101003d54bf/2e75b3a0-a42b-11f0-beb4-71bca5ea08a4/file-jaoe38c1mghsw5i3.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/jaoe38c1mghsw5i2/a0fadac3-6d74-4214-840a-7101003d54bf/2e75b3a0-a42b-11f0-beb4-71bca5ea08a4/file-jaoe38c1mghsw5i3.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\">"
+                },
+                {
+                  "identifier": "D",
+                  "content": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/jaoe38c1mghswm86/ca657583-d4bb-427e-8668-0afd2f0e3973/3b613260-a42b-11f0-beb4-71bca5ea08a4/file-jaoe38c1mghswm87.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/jaoe38c1mghswm86/ca657583-d4bb-427e-8668-0afd2f0e3973/3b613260-a42b-11f0-beb4-71bca5ea08a4/file-jaoe38c1mghswm87.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\">"
+                }
+              ],
+              "correct_options": [
+                "A"
+              ],
+              "answer": null,
+              "explanation": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/jaoe38c1mght3m5g/23259f3f-e131-4a52-a958-97c700a6857f/fdfc6150-a42b-11f0-beb4-71bca5ea08a4/file-jaoe38c1mght3m5h.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/jaoe38c1mght3m5g/23259f3f-e131-4a52-a958-97c700a6857f/fdfc6150-a42b-11f0-beb4-71bca5ea08a4/file-jaoe38c1mght3m5h.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\"></p>\n<p>Its open structure is</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/jaoe38c1mght464n/c9aa28e0-8ee6-4e67-a54c-fe8022b8e355/0d6ae170-a42c-11f0-beb4-71bca5ea08a4/file-jaoe38c1mght464o.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/jaoe38c1mght464n/c9aa28e0-8ee6-4e67-a54c-fe8022b8e355/0d6ae170-a42c-11f0-beb4-71bca5ea08a4/file-jaoe38c1mght464o.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\"></p>"
+            }
+          },
+          "subject": "chemistry",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": null,
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg547t3a",
+          "chapter": "basics-of-organic-chemistry",
+          "chapterGroup": "organic-chemistry",
+          "country": "in",
+          "difficulty": null,
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 3,
+          "negMarks": 1,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "pthe-number-of-stereoisomers-obtained-by-bromination-of--jee-advanced-chemistry-some-basic-concepts-of-chemistry-fkkdlvr6we4gqsdy",
+          "question": {
+            "en": {
+              "comprehension": null,
+              "direction": null,
+              "content": "<p>The number of stereoisomers obtained by bromination of $$trans$$-2-butene is :</p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "1"
+                },
+                {
+                  "identifier": "B",
+                  "content": "2"
+                },
+                {
+                  "identifier": "C",
+                  "content": "3"
+                },
+                {
+                  "identifier": "D",
+                  "content": "4"
+                }
+              ],
+              "correct_options": [
+                "A"
+              ],
+              "answer": null,
+              "explanation": "<p>If we add halogens on alkenes it is mostly anti addition. Anti addition of $$\\mathrm{Br_2}$$ on $$trans$$ alkene gives meso compound.</p>\n<p>So, here only 1 stereoisomer is formed.</p>\n<p>$$trans$$-2-butene is</p>\n<p>Image</p>\n<p>Bromination of $$trans$$-2-butene</p>\n<p>Image</p>"
+            }
+          },
+          "subject": "chemistry",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": "isomerism",
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        }
+      ],
+      "title": "Chemistry"
+    },
+    {
+      "_id": "Mathematics",
+      "questions": [
+        {
+          "country": "in",
+          "examGroup": "jee",
+          "question_id": "86EBnqhber2dmieC",
+          "exam": "jee-advanced",
+          "marks": 3,
+          "negMarks": 1,
+          "subjectGroup": null,
+          "subject": "mathematics",
+          "chapterGroup": "algebra",
+          "languages": [
+            "en"
+          ],
+          "chapter": "probability",
+          "year": 2007,
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "difficulty": "medium",
+          "topicName": null,
+          "type": "mcq",
+          "examDate": null,
+          "question": {
+            "en": {
+              "content": "Let $${E^c}$$ denote the complement of an event $$E.$$ Let $$E, F, G$$ be pairwise independent events with $$P\\left( G \\right) &gt; 0$$ and $$P\\left( {E \\cap F \\cap G} \\right) = 0.$$ Then $$P\\left( {{E^c} \\cap {F^c}|G} \\right)$$ equals ",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "$$P\\left( {{E^c}} \\right) + P\\left( {{F^c}} \\right)$$ "
+                },
+                {
+                  "identifier": "B",
+                  "content": "$$P\\left( {{E^c}} \\right) - P\\left( {{F^c}} \\right)$$  "
+                },
+                {
+                  "identifier": "C",
+                  "content": "$$P\\left( {{E^c}} \\right) - P\\left( F \\right)$$ "
+                },
+                {
+                  "identifier": "D",
+                  "content": "$$P\\left( E \\right) - P\\left( {{F^c}} \\right)$$ "
+                }
+              ],
+              "correct_options": [
+                "C"
+              ],
+              "answer": null,
+              "explanation": "<p>$$\\begin{aligned}\n& \\mathrm{E}_{1} f_{1} G \\text { are pairwise independent events. } \\\\\\\\\n& \\therefore \\quad \\mathrm{P}(\\mathrm{E} \\cap \\mathrm{F})=\\mathrm{P}(\\mathrm{E}) \\cdot \\mathrm{P}(\\mathrm{F}) \\\\\\\\\n& \\mathrm{P}(\\mathrm{F} \\cap \\mathrm{G})=\\mathrm{P}(\\mathrm{F}) \\cdot \\mathrm{P}(\\mathrm{G}) \\\\\\\\\n& \\mathrm{P}(\\mathrm{G} \\cap \\mathrm{E})=\\mathrm{P}(\\mathrm{G}) \\cdot \\mathrm{P}(\\mathrm{E}) \\\\\\\\\n& \\mathrm{P}\\left(\\frac{\\mathrm{E}^{\\mathrm{c}} \\cap \\mathrm{F}^{\\mathrm{c}}}{\\mathrm{G}}\\right)=\\mathrm{P}\\left(\\frac{\\left(E^{\\mathrm{c}} \\cap \\mathrm{F}^{\\mathrm{c}}\\right) \\cap G}{\\mathrm{P}(\\mathrm{G})}\\right) \\\\\\\\\n&=\\frac{\\mathrm{P}(\\mathrm{G})-\\mathrm{P}(\\mathrm{G} \\cap \\mathrm{E})-\\mathrm{P}(\\mathrm{G} \\cap \\mathrm{F})}{\\mathrm{P}(\\mathrm{G})} \\\\\\\\\n&=1-\\mathrm{P}(\\mathrm{E})-\\mathrm{P}(\\mathrm{F}) \\\\\\\\\n&=\\mathrm{P}\\left(\\mathrm{E}^{\\mathrm{c}}\\right)-\\mathrm{P}(\\mathrm{F}) .\n\\end{aligned}$$</p>"
+            }
+          },
+          "permalink": "let-ec-denote-the-complement-of-an-event-e-let-e-f-g-be-pair-jee-advanced-2007-marks-3-86ebnqhber2dmiec.htm",
+          "timeAllotted": 200000,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "topic": "conditional-probability-and-multiplication-theorem",
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        }
+      ],
+      "title": "Mathematics"
+    },
+    {
+      "_id": "Physics",
+      "questions": [
+        {
+          "country": "in",
+          "examGroup": "jee",
+          "question_id": "vDoq6SuXEwS65Grw",
+          "exam": "jee-advanced",
+          "marks": 3,
+          "negMarks": 1,
+          "subjectGroup": null,
+          "subject": "physics",
+          "chapterGroup": "mechanics",
+          "languages": [
+            "en"
+          ],
+          "chapter": "units-and-measurements",
+          "year": 2007,
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "difficulty": "medium",
+          "topicName": null,
+          "type": "mcq",
+          "examDate": null,
+          "question": {
+            "en": {
+              "content": "<p>A student performs an experiment to determine the Young's modulus of a wire, exactly 2 m long,\nby Searle's method. In a particular reading, the student measures the extension in the length of\nthe wire to be 0.8 mm with an uncertainty of $$\\pm0.05\\;\\mathrm{mm}$$ at a load of exactly 1.0 kg. The student\nalso measures the diameter of the wire to be 0.4 mm with an uncertainty of $$\\pm0.01\\;\\mathrm{mm}$$. Take\ng = 9.8 m/s<sup>2</sup>\n (exact). The Young's modulus obtained from the reading is</p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "$$\\left(2.0\\;\\pm\\;0.3\\right)\\times10^{11}\\;\\mathrm N/\\mathrm m^2$$ "
+                },
+                {
+                  "identifier": "B",
+                  "content": "$$\\left(2.0\\;\\pm\\;0.2\\right)\\times10^{11}\\;\\mathrm N/\\mathrm m^2$$"
+                },
+                {
+                  "identifier": "C",
+                  "content": "$$\\left(2.0\\;\\pm\\;0.1\\right)\\times10^{11}\\;\\mathrm N/\\mathrm m^2$$"
+                },
+                {
+                  "identifier": "D",
+                  "content": "$$\\left(2.0\\;\\pm\\;0.05\\right)\\times10^{11}\\;\\mathrm N/\\mathrm m^2$$"
+                }
+              ],
+              "correct_options": [
+                "B"
+              ],
+              "answer": null,
+              "explanation": "<p>Young's modulus $$(Y)=\\frac{\\text { Stress }}{\\text { Strain }}=\\frac{4 m g l}{\\pi d^{2} \\Delta l}$$</p>\n<p>$$\\begin{gathered}\n\\mathrm{Y}=\\frac{4 m g l}{\\pi d^{2} l} \\\\\\\\\n=\\frac{4 \\times 1 \\times 9.8 \\times 2}{3.14 \\times(0.4)^{2} \\times(0.8) \\times 10^{-6} \\times 10^{-3}} \\\\\\\\\n=2 \\times 10^{11} \\mathrm{~N} / \\mathrm{m}^{2}\n\\end{gathered}\n$$</p>\n<p>Where, $$\\quad$$ Mass $$(m)=1 \\mathrm{~kg}$$</p>\n<p>$$\\begin{aligned}g & =9.8 \\mathrm{~m} / \\mathrm{s}^{2} \\\\\\\\\n\\text { Length of wire } & =2 \\mathrm{~m} \\\\\\\\\n\\pi & =3.14 \\\\\\\\\n\\text { Diameter }(d) & =0.4 \\mathrm{~mm} \\times 10^{-3} \\mathrm{~m}\n\\end{aligned}$$</p>\n<p>Extension in the length of wire</p>\n<p>$$\\begin{aligned}(\\Delta l) & =0.8 \\mathrm{~mm} \\\\\\\\\n& =0.8 \\times 10^{-3} \\mathrm{~m} \\\\\\\\\n\\frac{\\Delta y}{y} & =\\frac{2 \\Delta d}{d}+\\frac{\\Delta l}{l} \\\\\\\\\n& =\\frac{2 \\times(0.01)}{0.4}+\\frac{(0.05)}{0.8} \\\\\\\\\n& =0.1125\\end{aligned}$$</p>\n<p>$$\\begin{aligned}\\Rightarrow \\Delta \\mathrm{Y} & =(\\mathrm{Y}) \\times 0.1125 \\\\\\\\\n& =2 \\times 10^{11} \\times 0.1125 \\\\\\\\\n& =0.225 \\times 10^{11} \\\\\\\\\n& \\simeq 0.2 \\times 10^{11} \\\\\\\\\n\\text { (b) }\\left(2 \\pm 0.2 \\times 10^{11} \\mathrm{~N/}\\right. & \\left.\\mathrm{m}^{2}\\right)\n\\end{aligned}$$</p>"
+            }
+          },
+          "permalink": "a-student-performs-an-experiment-to-determine-the-youngs-mo-2007-marks-2-vdoq6suxews65grw.htm",
+          "timeAllotted": 200000,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "topic": "errors-in-measurement",
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "country": "in",
+          "examGroup": "jee",
+          "question_id": "fJbMFQFn6GMsZkU7",
+          "exam": "jee-advanced",
+          "marks": 3,
+          "negMarks": 1,
+          "subjectGroup": null,
+          "subject": "physics",
+          "chapterGroup": "mechanics",
+          "languages": [
+            "en"
+          ],
+          "chapter": "laws-of-motion",
+          "year": 2007,
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "difficulty": "easy",
+          "topicName": null,
+          "type": "mcq",
+          "examDate": null,
+          "question": {
+            "en": {
+              "content": "A particle moves in the X - Y plane under the influence of a force such that its linear momentum is $$\\overrightarrow p \\left( t \\right) = A\\left[ {\\widehat i\\cos (kt) - \\widehat j\\sin (kt)} \\right]$$, where A and k are constants. The angle between the force and the momentum is",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "$$0^\\circ $$"
+                },
+                {
+                  "identifier": "B",
+                  "content": "$$30^\\circ $$"
+                },
+                {
+                  "identifier": "C",
+                  "content": "$$45^\\circ $$"
+                },
+                {
+                  "identifier": "D",
+                  "content": "$$90^\\circ $$"
+                }
+              ],
+              "correct_options": [
+                "D"
+              ],
+              "answer": null,
+              "explanation": "<p>Given that,</p>\n<p>$$\\overrightarrow{\\mathrm{P}}(t)=\\mathrm{A}[\\hat{i} \\cos (k t)-\\hat{j} \\sin (k t)]$$</p>\n<p>where, $$\\mathrm{A}$$ and $$k=$$ constant</p>\n<p>$$\\begin{aligned}\\text { Force }\\overrightarrow{\\mathrm{F}}) & =\\frac{d \\overrightarrow{\\mathrm{P}}}{d t}\\left(\\text { from Newton's } 2^{\\text {nd }}\\right. \\text { law) } \\\\\\\\\n\\Rightarrow \\quad \\overrightarrow{\\mathrm{F}} & =\\frac{d}{d t}[\\mathrm{~A}(\\hat{i} \\cos (k t)-\\hat{j} \\sin (k t))] \\\\\\\\& =\\mathrm{A} k[\\hat{i} \\cos (k t)-\\hat{j} \\sin (k t)]\\end{aligned}$$</p>\n<p>By applying dot product between $$\\vec{F} \\& \\vec{P}$$ we have</p>\n<p>$$\\begin{aligned}& \\overrightarrow{\\mathrm{F}} \\cdot \\overrightarrow{\\mathrm{P}}=0 \\\\\\\\\n& \\Rightarrow|\\vec{F}||\\vec{P}| \\cos \\theta=0 \\\\\\\\\n& \\Rightarrow \\quad \\cos \\theta=0 \\\\\\\\\n& \\text {Hence,} \\theta=90^{\\circ}\\end{aligned}$$</p>"
+            }
+          },
+          "permalink": "a-particle-moves-in-the-x-y-plane-under-the-influence-of-a-2007-marks-3-fjbmfqfn6gmszku7.htm",
+          "timeAllotted": 200000,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "topic": "newtons-laws-of-motion",
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg3iicqa",
+          "chapter": "waves",
+          "chapterGroup": "mechanics",
+          "country": "in",
+          "difficulty": "easy",
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 3,
+          "negMarks": 1,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "pin-the-experiment-to-determine-the-speed-of-sound-using-a-jee-advanced-physics-motion-k4spfknlk5cnyttq",
+          "question": {
+            "en": {
+              "comprehension": null,
+              "direction": null,
+              "content": "<p>In the experiment to determine the speed of sound using a resonance column,</p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "prongs of the tuning fork are kept in a vertical plane"
+                },
+                {
+                  "identifier": "B",
+                  "content": "prongs of the tuning fork are kept in a horizontal plane"
+                },
+                {
+                  "identifier": "C",
+                  "content": "in one of the two resonances observed, the length of the resonating air column is close to the wavelength of sound in air"
+                },
+                {
+                  "identifier": "D",
+                  "content": "in one of the two resonances observed, the length of the resonating air column is close to half of the wavelength of sound in air"
+                }
+              ],
+              "correct_options": [
+                "A"
+              ],
+              "answer": null,
+              "explanation": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguemg1u/2d640458-4343-4f39-b535-ee9d923366fe/c782da20-e261-11ed-8ec0-d5a0bb2b1e44/file-1lguemg1v.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguemg1u/2d640458-4343-4f39-b535-ee9d923366fe/c782da20-e261-11ed-8ec0-d5a0bb2b1e44/file-1lguemg1v.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Waves Question 8 English Explanation\"></p>\n<p>Wave produced by tuning Fork in a vertical plane as shown in above figure.</p>\n<p>Therefore, fringes of tuning Fork is kept in vertical plane.</p>"
+            }
+          },
+          "subject": "physics",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": "basic-of-waves-and-progressive-waves",
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg4deatl",
+          "chapter": "rotational-motion",
+          "chapterGroup": "mechanics",
+          "country": "in",
+          "difficulty": "medium",
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 3,
+          "negMarks": 1,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "pa-small-object-of-uniform-density-rolls-up-a-curved-surfa-jee-advanced-physics-motion-twuijfirhthrprzq",
+          "question": {
+            "en": {
+              "comprehension": null,
+              "direction": null,
+              "content": "<p>A small object of uniform density rolls up a curved surface with an initial velocity $$v$$. It reaches up to a maximum height of $$\\frac{3 v^{2}}{4 g}$$ with respect to the initial position. The object is</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgudz2t9/828aa7ea-731d-4a4b-ae58-ddec9a3d643d/3dacaad0-e25f-11ed-ba9c-a9f9d38b5190/file-1lgudz2ta.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgudz2t9/828aa7ea-731d-4a4b-ae58-ddec9a3d643d/3dacaad0-e25f-11ed-ba9c-a9f9d38b5190/file-1lgudz2ta.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Rotational Motion Question 11 English\"></p>\n",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "ring"
+                },
+                {
+                  "identifier": "B",
+                  "content": "solid sphere"
+                },
+                {
+                  "identifier": "C",
+                  "content": "hollow sphere"
+                },
+                {
+                  "identifier": "D",
+                  "content": "disc"
+                }
+              ],
+              "correct_options": [
+                "D"
+              ],
+              "answer": null,
+              "explanation": "<p>By applying conservation of Energy, we have,</p>\n<p>$$\\frac{1}{2} m v^{2}+\\frac{1}{2} \\mathrm{I} \\omega^{2}=m g h_{\\max }$$ ..... (i)</p>\n<p>For pure rolling,</p>\n<p>$$v=R\\omega$$</p>\n<p>$$\\Rightarrow \\quad \\omega=v / \\mathrm{R}$$ ..... (ii)</p>\n<p>Putting eq. (ii) in eq. (i), we get</p>\n<p>$$\\Rightarrow \\frac{1}{2} m v^{2}+\\frac{1}{2} \\mathrm{I}\\left(\\frac{v^{2}}{R^{2}}\\right)=m g \\times \\frac{3 v^{2}}{4 g}$$ $$\\left(\\because h_{\\max } \\times \\frac{3 v^{2}}{4 g}\\right)$$</p>\n<p>$$\\Rightarrow \\quad \\mathrm{I}=\\frac{1}{2} \\mathrm{MR}^{2}$$</p>\n<p>Hence, this is a required formula of moment of Inertia of Disc. Therefore, the object a disc.</p>\n<p>$$2^{\\text {nd }}$$ Method : For pure rolling, the velocity of point of contact is zero i.e., $$v=0$$, So, $$\\Delta x$$ (displacement) is zero. Then work done by the frictional force should be</p>\n<p>$$W=f_{0} \\Delta x=0$$</p>\n<p>If work is done by dissipative force, work done should be zero. It means that work done of system is zero. So energy should be conserved. Initially, the object has both translation as well as rotational motion. If it attains '$$h_{\\max }$$' kinetic energy changes into potential energy.</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgue2y4k/d36f316b-4775-4f0c-bf64-24011aa602c1/a94a9040-e25f-11ed-8ec0-d5a0bb2b1e44/file-1lgue2y4l.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgue2y4k/d36f316b-4775-4f0c-bf64-24011aa602c1/a94a9040-e25f-11ed-8ec0-d5a0bb2b1e44/file-1lgue2y4l.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Rotational Motion Question 11 English Explanation\"></p>\n<p>From energy conservation principle,</p>\n<p>$$\\mathrm{K} . \\mathrm{E}_{\\text {translational }}+\\mathrm{K} . \\mathrm{E}_{\\text {rotational }}=$$ Potential Energy</p>\n<p>$$\\Rightarrow \\quad \\frac{1}{2} m v^{2}+\\frac{1}{2} \\mathrm{I} \\omega^{2}=m g \\times \\frac{3 v^{2}}{4 g}$$</p>\n<p>$$\\Rightarrow \\quad m v^{2}+\\mathrm{I} \\omega_{2}=\\frac{3 v^{2}}{2} m$$</p>\n<p>$$\\Rightarrow \\quad \\mathrm{I} \\omega^{2}=\\frac{1}{2} m v^{2}$$</p>\n<p>$$\\Rightarrow \\quad \\mathrm{I}=\\frac{1}{2} \\frac{m v^{2}}{\\omega^{2}}$$ ..... (i)</p>\n<p>For No slipping,</p>\n<p>$$\\Rightarrow$$ $$\\begin{aligned} &amp; v=\\omega R \\\\\n&amp; \\omega=\\frac{v}{R}\\end{aligned}$$ ..... (ii)</p>\n<p>Put eq (ii) in eq (i)</p>\n<p>Hence, $$\\quad \\mathrm{I}=\\frac{1}{2} \\mathrm{MR}^{2}$$</p>\n<p>$$\\mathrm{I}=\\frac{1}{2} \\mathrm{M} \\frac{v^{2}}{v^{2}} \\times \\mathrm{R}^{2}$$</p>\n<p>this is moment of inertia of disc.</p>\n<p>So, object is a Disc.</p>\n"
+            }
+          },
+          "subject": "physics",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": "combined-translational-and-rotational-motion",
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg4dri6w",
+          "chapter": "properties-of-matter",
+          "chapterGroup": "mechanics",
+          "country": "in",
+          "difficulty": "medium",
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 3,
+          "negMarks": 1,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "pwater-is-filled-up-to-a-height-h-in-a-beaker-of-radiu-jee-advanced-physics-motion-nzwm9tklm5tf9jzn",
+          "question": {
+            "en": {
+              "comprehension": null,
+              "direction": null,
+              "content": "<p>Water is filled up to a height $$h$$ in a beaker of radius $$R$$ as shown in the figure. The density of water is $$\\rho$$, the surface tension of water is $$T$$ and the atmospheric pressure is P. Consider a vertical section $$A B C D$$ of the water column through a diameter of the beaker. The force on water on one side of this section by water on the other side of this section has magnitude</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgueonb3/c643376b-f989-46e5-a160-07b48b4222b9/04bc38f0-e262-11ed-8ec0-d5a0bb2b1e44/file-1lgueonb4.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgueonb3/c643376b-f989-46e5-a160-07b48b4222b9/04bc38f0-e262-11ed-8ec0-d5a0bb2b1e44/file-1lgueonb4.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Properties of Matter Question 4 English\"></p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "$$\\left|2 \\mathrm{P}_{0} \\mathrm{Rh}+\\pi \\mathrm{R}^{2} \\rho g h-2 \\mathrm{RT}\\right|$$"
+                },
+                {
+                  "identifier": "B",
+                  "content": "$$\\left|2 \\mathrm{P}_{0} \\mathrm{Rh}+\\pi \\mathrm{R \\rho gh}^{2}-2 \\mathrm{RT}\\right|$$"
+                },
+                {
+                  "identifier": "C",
+                  "content": "$$\\left|P_{0} \\pi R^{2}+R \\rho g h^{2}-2 R T\\right|$$"
+                },
+                {
+                  "identifier": "D",
+                  "content": "$$\\left|\\mathrm{P}_{0} \\mathrm{R}^{2}+\\mathrm{R} \\rho g \\mathrm{~h}^{2}+2 \\mathrm{RT}\\right|$$"
+                }
+              ],
+              "correct_options": [
+                "B"
+              ],
+              "answer": null,
+              "explanation": "<p>Pressure is acting on area $$A B C D$$, we have</p>\n<p> Pressure Force $$=\\int_{0}^{h}\\left(\\mathrm{P}_{0}+\\rho g x\\right) \\times d x \\times 2 \\mathrm{R}$$</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguepxqv/b67a2f00-62e8-42e7-bd91-6edece896332/289b9270-e262-11ed-8ec0-d5a0bb2b1e44/file-1lguepxqw.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguepxqv/b67a2f00-62e8-42e7-bd91-6edece896332/289b9270-e262-11ed-8ec0-d5a0bb2b1e44/file-1lguepxqw.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Properties of Matter Question 4 English Explanation\"></p>\n<p>Force due to pressure (push)</p>\n<p>$$\\begin{aligned}&amp; =\\left[\\left(\\mathrm{P}_{0}+\\rho g \\frac{x^{2}}{2}\\right) 2 \\mathrm{R}\\right]_{0}^{h} \\\\\\\\\n&amp; =\\left(\\mathrm{P}_{0} h+\\rho g h^{2} / 2\\right) 2 \\mathrm{R} \\\\\\\\&amp; =2 \\mathrm{P}_{0} h \\mathrm{R}+\\rho g h^{2} \\mathrm{R}\\end{aligned}$$</p>\n<p>Surface tension force (push) $$=T \\times 2 R$$</p>\n<p>$$\\therefore \\quad$$ Net Force $$=2 \\mathrm{P}_{0} h \\mathrm{R}+\\rho g h^{2} \\mathrm{R}-2 \\mathrm{TR}$$</p>"
+            }
+          },
+          "subject": "physics",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": "surface-tension-excess-pressure-and-capillarity",
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg4e392r",
+          "chapter": "electrostatics",
+          "chapterGroup": "electricity",
+          "country": "in",
+          "difficulty": "medium",
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 3,
+          "negMarks": 1,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "pa-spherical-portion-has-been-removed-from-a-solid-sphere-jee-advanced-physics-motion-p55oe5ofoivhwybc",
+          "question": {
+            "en": {
+              "comprehension": null,
+              "direction": null,
+              "content": "<p>A spherical portion has been removed from a solid sphere having a charge distributed uniformly in its volume as shown in the figure. The electric field inside the emptied space is</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguerkm4/552d9869-17e7-4135-98a7-cc8efcfb9f9b/5614f5c0-e262-11ed-8ec0-d5a0bb2b1e44/file-1lguerkm5.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguerkm4/552d9869-17e7-4135-98a7-cc8efcfb9f9b/5614f5c0-e262-11ed-8ec0-d5a0bb2b1e44/file-1lguerkm5.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Electrostatics Question 11 English\"></p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": " zero everywhere"
+                },
+                {
+                  "identifier": "B",
+                  "content": "non-zero and uniform"
+                },
+                {
+                  "identifier": "C",
+                  "content": "non-uniform"
+                },
+                {
+                  "identifier": "D",
+                  "content": "zero only at its center"
+                }
+              ],
+              "correct_options": [
+                "B"
+              ],
+              "answer": null,
+              "explanation": "<p>When cavity is not present:</p>\n<p>Electric field inside the solid sphere</p>\n<p>$$\n\\overrightarrow{\\mathrm{E}_{1}}=\\frac{\\rho}{3 \\varepsilon_{0}} \\overrightarrow{r_{1}}\n$$ ..... (i)</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguet8nq/a106cc64-628b-4e39-b8e1-924aa478fe23/84775980-e262-11ed-8ec0-d5a0bb2b1e44/file-1lguet8ns.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguet8nq/a106cc64-628b-4e39-b8e1-924aa478fe23/84775980-e262-11ed-8ec0-d5a0bb2b1e44/file-1lguet8ns.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Electrostatics Question 11 English Explanation 1\"></p>\n<p>Solid sphere after making cavity inside solid sphere,</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgueto5n/16303305-6527-4780-a3a8-b0e83c2605fb/906fecc0-e262-11ed-8ec0-d5a0bb2b1e44/file-1lgueto5o.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgueto5n/16303305-6527-4780-a3a8-b0e83c2605fb/906fecc0-e262-11ed-8ec0-d5a0bb2b1e44/file-1lgueto5o.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Electrostatics Question 11 English Explanation 2\"></p>\n<p>$$\n\\overrightarrow{\\mathrm{E}_{2}}=\\frac{\\rho}{3 \\varepsilon_{0}} \\overrightarrow{r_{2}}\n$$ ...... (ii)</p>\n<p>$${\\overrightarrow E _{net}} = \\overrightarrow {{E_1}}  - \\overrightarrow {{E_2}}  = {\\rho  \\over {3{\\varepsilon _0}}}\\overrightarrow {{r_1}}  - {\\rho  \\over {3{\\varepsilon _0}}}\\overrightarrow {{r_2}} $$</p>\n<p>$$=\\frac{\\rho}{3 \\varepsilon_{0}}\\left(\\overrightarrow{r_{1}}-\\overrightarrow{r_{2}}\\right)\n$$ ...... (iii)</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguevaw3/09eb84a3-3f0b-49b6-9f4b-9e49c2c11971/bdcec330-e262-11ed-8ec0-d5a0bb2b1e44/file-1lguevaw4.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguevaw3/09eb84a3-3f0b-49b6-9f4b-9e49c2c11971/bdcec330-e262-11ed-8ec0-d5a0bb2b1e44/file-1lguevaw4.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Electrostatics Question 11 English Explanation 3\"></p>\n<p>From eq (iii), we get</p>\n<p>$$\\therefore \\quad \\mathrm{E}_{\\mathrm{net}}=\\frac{\\rho}{3 \\varepsilon_{0}}(\\vec{r})$$</p>\n<p>Hence, electric field inside the emptied space (cavity) is non-zero and uniform.</p>"
+            }
+          },
+          "subject": "physics",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": "electric-flux-and-gauss-law",
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg4e7zhm",
+          "chapter": "electrostatics",
+          "chapterGroup": "electricity",
+          "country": "in",
+          "difficulty": "easy",
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 3,
+          "negMarks": 1,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "ppositive-and-negative-point-charges-of-equal-magnitude-ar-jee-advanced-physics-motion-zgnq2ux5rld867gv",
+          "question": {
+            "en": {
+              "comprehension": null,
+              "direction": null,
+              "content": "<p>Positive and negative point charges of equal magnitude are kept at $$\\left(0,0, \\frac{a}{2}\\right)$$ and $$\\left(0,0, \\frac{-a}{2}\\right)$$, respectively. The work done by the electric field when another positive point charge is moved from $$(-a, 0,0)$$ to $$(0, a, 0)$$ is</p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "positive"
+                },
+                {
+                  "identifier": "B",
+                  "content": "negative"
+                },
+                {
+                  "identifier": "C",
+                  "content": "zero"
+                },
+                {
+                  "identifier": "D",
+                  "content": "depends on the path connecting the initial and final positions"
+                }
+              ],
+              "correct_options": [
+                "C"
+              ],
+              "answer": null,
+              "explanation": "<p>Consider that,</p>\n<p>$$\\mathrm{P}=(-a, 0,0)$$ and $$\\mathrm{Q}=(0, a, 0)$$ points lie on the equatorial plane of dipole.</p>\n<p>The charges makes an electric dipole.</p>\n<p>Therefore, potential at $$\\mathrm{P}=$$ Potential at $$\\mathrm{Q}=0$$</p>\n<p>Work done $$(\\mathrm{W})=q\\left(\\mathrm{~V}_{\\mathrm{P}}-\\mathrm{V}_{\\mathrm{Q}}\\right)=0$$</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguexbvs/5c8b98bb-94fd-417f-bdff-2d068cbea9c7/f6311e80-e262-11ed-8ec0-d5a0bb2b1e44/file-1lguexbvt.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguexbvs/5c8b98bb-94fd-417f-bdff-2d068cbea9c7/f6311e80-e262-11ed-8ec0-d5a0bb2b1e44/file-1lguexbvt.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Electrostatics Question 10 English Explanation\"></p>"
+            }
+          },
+          "subject": "physics",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": "electric-potential-energy-and-electric-potential",
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg4eg0gz",
+          "chapter": "magnetism",
+          "chapterGroup": "electricity",
+          "country": "in",
+          "difficulty": "medium",
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 3,
+          "negMarks": 1,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "pa-magnetic-field-overrightarrowmathrmbmathrmb-jee-advanced-physics-motion-gatn1vc09ypkbiau",
+          "question": {
+            "en": {
+              "comprehension": null,
+              "direction": null,
+              "content": "<p>A magnetic field $$\\overrightarrow{\\mathrm{B}}=\\mathrm{B}_{0} \\hat{j}$$ exists in the region $$a &lt; x &lt; 2 a$$ and $$\\overrightarrow{\\mathrm{B}}=-\\mathrm{B}_{0} \\hat{j}$$, in the region $$2 a &lt; x &lt; 3 a$$, where $$\\mathrm{B}_{0}$$ is a positive constant. A positive point charge moving with a velocity $$\\vec{v}=v_{0} \\hat{i}$$, where $$v_{0}$$ is a positive constant, enters the magnetic field at $$x=a$$. The trajectory of the charge in this region can be like,</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgueyxoe/b4873251-874f-4fb9-bd05-e6a2bdaeb47e/22d641e0-e263-11ed-8ec0-d5a0bb2b1e44/file-1lgueyxof.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgueyxoe/b4873251-874f-4fb9-bd05-e6a2bdaeb47e/22d641e0-e263-11ed-8ec0-d5a0bb2b1e44/file-1lgueyxof.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Magnetism Question 7 English\"></p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguf02nd/41f60ce3-4753-4612-a293-d1eb15f1a6f2/427caca0-e263-11ed-8ec0-d5a0bb2b1e44/file-1lguf02ne.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguf02nd/41f60ce3-4753-4612-a293-d1eb15f1a6f2/427caca0-e263-11ed-8ec0-d5a0bb2b1e44/file-1lguf02ne.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Magnetism Question 7 English Option 1\">"
+                },
+                {
+                  "identifier": "B",
+                  "content": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguf0eb2/62fad1ba-aa24-4c53-afce-40874a771396/4b7df8e0-e263-11ed-8ec0-d5a0bb2b1e44/file-1lguf0eb3.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguf0eb2/62fad1ba-aa24-4c53-afce-40874a771396/4b7df8e0-e263-11ed-8ec0-d5a0bb2b1e44/file-1lguf0eb3.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Magnetism Question 7 English Option 2\">"
+                },
+                {
+                  "identifier": "C",
+                  "content": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguf0wnm/00ab0632-e3e0-49ea-84db-daf6e4914624/59aa8320-e263-11ed-8ec0-d5a0bb2b1e44/file-1lguf0wnn.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguf0wnm/00ab0632-e3e0-49ea-84db-daf6e4914624/59aa8320-e263-11ed-8ec0-d5a0bb2b1e44/file-1lguf0wnn.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Magnetism Question 7 English Option 3\">"
+                },
+                {
+                  "identifier": "D",
+                  "content": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguf1bp5/b715dd12-ac44-447e-879d-d1f187746ef2/65493690-e263-11ed-8ec0-d5a0bb2b1e44/file-1lguf1bp6.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguf1bp5/b715dd12-ac44-447e-879d-d1f187746ef2/65493690-e263-11ed-8ec0-d5a0bb2b1e44/file-1lguf1bp6.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Magnetism Question 7 English Option 4\">"
+                }
+              ],
+              "correct_options": [
+                "A"
+              ],
+              "answer": null,
+              "explanation": "<p>For $$a &lt; x &lt; 2 a$$</p>\n<p>$$\\overrightarrow{\\mathrm{B}}=\\mathrm{B}_{0} \\hat{j}\n$$</p>\n<p>The initial velocity is $$\\vec{v}=v \\cdot \\hat{j}$$</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguf2816/e85b161a-008f-4540-ad53-6250c2f1bd56/7e4368a0-e263-11ed-8ec0-d5a0bb2b1e44/file-1lguf2817.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguf2816/e85b161a-008f-4540-ad53-6250c2f1bd56/7e4368a0-e263-11ed-8ec0-d5a0bb2b1e44/file-1lguf2817.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Magnetism Question 7 English Explanation\"></p>\n<p>From the above diagram it is clear that force on the particle is toward $$+z$$-axis (by applying Fleming's left hand rule) at $$x=a$$, which shifts the particle as shown in the x-z plane</p>\n<p>For $$2 a &lt; x &lt; 3 a$$</p>\n<p>$$\\overrightarrow{\\mathrm{B}}=-\\mathrm{B}_{0} \\hat{j}$$</p>\n<p>The direction of velocity is shown at $$x=2 a$$.</p>\n<p>Again by using Fleming's left hand rule, we get direction of force.</p>"
+            }
+          },
+          "subject": "physics",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": "motion-of-charged-particle-inside-magnetic-field",
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg4ekes6",
+          "chapter": "dual-nature-of-radiation",
+          "chapterGroup": "modern-physics",
+          "country": "in",
+          "difficulty": "medium",
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 3,
+          "negMarks": 1,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "pelectrons-with-de-broglie-wavelength-lambda-fall-on-jee-advanced-physics-motion-kfjkfbic5clqocyj",
+          "question": {
+            "en": {
+              "comprehension": null,
+              "direction": null,
+              "content": "<p>Electrons with de-Broglie wavelength $$\\lambda$$ fall on the target in an X-ray tube. The cut-off wavelength of the emitted X-rays is</p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "$$\\lambda_{0}=\\frac{2 m c \\lambda^{2}}{h}$$"
+                },
+                {
+                  "identifier": "B",
+                  "content": "$$\\lambda_{0}=\\frac{2 h}{m c}$$"
+                },
+                {
+                  "identifier": "C",
+                  "content": "$$\\lambda_{0}=\\frac{2 m^{2} c^{2} \\lambda^{3}}{h^{2}}$$"
+                },
+                {
+                  "identifier": "D",
+                  "content": "$$\\lambda_{0}=\\lambda$$"
+                }
+              ],
+              "correct_options": [
+                "A"
+              ],
+              "answer": null,
+              "explanation": "<p>The cut off wavelength is given by</p>\n<p>$$\\lambda_{0}=\\frac{h c}{e v}$$ ..... (i)</p>\n<p>According to de-Broglie equation</p>\n<p>$$\\lambda=\\frac{h}{p}=\\frac{h}{\\sqrt{2 m e \\mathrm{~V}}}$$</p>\n<p>$$\\Rightarrow \\quad \\lambda^{2}=\\frac{h^{2}}{2 m e \\mathrm{~V}}$$</p>\n<p>$$\\Rightarrow \\quad \\mathrm{V}=\\frac{h^{2}}{2 m e \\lambda^{2}}$$ ..... (ii)</p>\n<p>From (i) and (ii)</p>\n<p>$$\\lambda_{0}=\\frac{h c \\times 2 m e \\lambda^{2}}{e h^{2}}=2 m c \\lambda^{2}$$</p>"
+            }
+          },
+          "subject": "physics",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": "matter-waves-davisson-and-germer-experiment",
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg4ennxj",
+          "chapter": "rotational-motion",
+          "chapterGroup": "mechanics",
+          "country": "in",
+          "difficulty": "medium",
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 3,
+          "negMarks": 1,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "pstatement-1p-pif-there-is-no-external-torque-on-a-bo-jee-advanced-physics-motion-p47fhpqce8wlblbz",
+          "question": {
+            "en": {
+              "comprehension": null,
+              "direction": null,
+              "content": "<p>STATEMENT 1</p>\n<p>If there is no external torque on a body about its center of mass, then the velocity of the center of mass remains constant.</p>\n<p>Because</p>\n<p>STATEMENT 2</p>\n<p>The linear momentum of an isolated system remains constant.</p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1."
+                },
+                {
+                  "identifier": "B",
+                  "content": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1."
+                },
+                {
+                  "identifier": "C",
+                  "content": "Statement-1 is True, Statement-2 is False."
+                },
+                {
+                  "identifier": "D",
+                  "content": " Statement-1 is False, Statement-2 is True."
+                }
+              ],
+              "correct_options": [
+                "D"
+              ],
+              "answer": null,
+              "explanation": "<p>Statement 1 : For velocity of centre of mass remains constant, net force acting on body must be zero. Therefore the statement 1 is false.</p>\n<p>Statement 2 : The linear momentum of an isolated system remains constant. The statement is true.</p>"
+            }
+          },
+          "subject": "physics",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": "torque",
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg4epolf",
+          "chapter": "laws-of-motion",
+          "chapterGroup": "mechanics",
+          "country": "in",
+          "difficulty": "medium",
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 3,
+          "negMarks": 1,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "pstatement-1p-pa-cloth-covers-a-table-some-dishes-ar-jee-advanced-physics-motion-7hbfmeflcc2rhtpp",
+          "question": {
+            "en": {
+              "comprehension": null,
+              "direction": null,
+              "content": "<p>STATEMENT 1</p>\n<p>A cloth covers a table. Some dishes are kept on it. The cloth can be pulled out without dislodging the dishes from the table.</p>\n<p>STATEMENT 2</p>\n<p>For every action there is an equal and opposite reaction.</p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1."
+                },
+                {
+                  "identifier": "B",
+                  "content": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1s."
+                },
+                {
+                  "identifier": "C",
+                  "content": " Statement-1 is True, Statement-2 is False."
+                },
+                {
+                  "identifier": "D",
+                  "content": "Statement-1 is False, Statement-2 is True."
+                }
+              ],
+              "correct_options": [
+                "B"
+              ],
+              "answer": null,
+              "explanation": "<p>Statement 1 : Cloth can be pulled out without dislodging the dishes from the table because of inertia. Therefore, statement 1 true.</p>\n<p>Statement 2 : This is Newton's third law and hence true. But statement 2 is not a correct explanation of statement 1 .</p>"
+            }
+          },
+          "subject": "physics",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": "newtons-laws-of-motion",
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg4es9en",
+          "chapter": "alternating-current",
+          "chapterGroup": "electricity",
+          "country": "in",
+          "difficulty": "medium",
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 3,
+          "negMarks": 1,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "pstatement-1p-pa-vertical-iron-rod-has-a-coil-of-wire-jee-advanced-physics-motion-8ozzcie1k5abca2i",
+          "question": {
+            "en": {
+              "comprehension": null,
+              "direction": null,
+              "content": "<p>STATEMENT 1</p>\n<p>A vertical iron rod has a coil of wire wound over it at the bottom end. An alternating current flows in the coil. The rod goes through a conducting ring as shown in the figure. The ring can float at a certain height above the coil.</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguf416o/118a7b5f-ef17-4f37-80ed-c3cf385ecd8c/b097a000-e263-11ed-8ec0-d5a0bb2b1e44/file-1lguf416p.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguf416o/118a7b5f-ef17-4f37-80ed-c3cf385ecd8c/b097a000-e263-11ed-8ec0-d5a0bb2b1e44/file-1lguf416p.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Alternating Current Question 5 English\"></p>\n<p>Because</p>\n<p>STATEMENT 2</p>\n<p>In the above situation, a current is induced in the ring which interacts with the horizontal component of the magnetic field to produce an average force in the upward direction.</p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1."
+                },
+                {
+                  "identifier": "B",
+                  "content": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1."
+                },
+                {
+                  "identifier": "C",
+                  "content": "Statement-1 is True, Statement-2 is False."
+                },
+                {
+                  "identifier": "D",
+                  "content": "Statement-1 is False, Statement-2 is True."
+                }
+              ],
+              "correct_options": [
+                "A"
+              ],
+              "answer": null,
+              "explanation": "<p>As shown in the figure, the horizontal component of the magnetic field interacts with the current in the conducting ring, which produces an average force in the upwards direction (by using Fleming's left hand rule).</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguf4zy6/71b405da-e87f-40dd-a136-f10b74c94305/cb7251e0-e263-11ed-8ec0-d5a0bb2b1e44/file-1lguf4zy7.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguf4zy6/71b405da-e87f-40dd-a136-f10b74c94305/cb7251e0-e263-11ed-8ec0-d5a0bb2b1e44/file-1lguf4zy7.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Alternating Current Question 5 English Explanation\"></p>"
+            }
+          },
+          "subject": "physics",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": "ac-circuits-and-power-in-ac-circuits",
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg4ew7dz",
+          "chapter": "heat-and-thermodynamics",
+          "chapterGroup": "mechanics",
+          "country": "in",
+          "difficulty": "medium",
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 3,
+          "negMarks": 1,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "pstatement-1p-pthe-total-translational-kinetic-energy-jee-advanced-physics-motion-95whc2cimlp1kwq1",
+          "question": {
+            "en": {
+              "comprehension": null,
+              "direction": null,
+              "content": "<p>STATEMENT 1</p>\n<p>The total translational kinetic energy of all the molecules of a given mass of an ideal gas is 1.5 times the product of its pressure and its volume.</p>\n<p>Because</p>\n<p>STATEMENT 2</p>\n<p>The molecules of a gas collide with each other and the velocities of the molecules change due to the collision.</p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1."
+                },
+                {
+                  "identifier": "B",
+                  "content": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct for Statement-1."
+                },
+                {
+                  "identifier": "C",
+                  "content": "Statement-1 is True, Statement-2 is False."
+                },
+                {
+                  "identifier": "D",
+                  "content": "Statement-1 is False, Statement-2 is True."
+                }
+              ],
+              "correct_options": [
+                "B"
+              ],
+              "answer": null,
+              "explanation": "<p>Statement 1 :</p>\n<p>Total translational kinetic energy $$=\\frac{3}{2} n \\mathrm{RT}$$</p>\n<p>where,</p>\n<p>n = no. of moles</p>\n<p>R = gas constant</p>\n<p>T = Temperature</p>\n<p>but, PV = nRT</p>\n<p>$$\\therefore$$ K.E. = 1.5 PV</p>\n<p>Statement 2 : Molecules of a gas collide with each other and the velocities of the molecules change due to collision.</p>\n<p>But statement 2 is not a correct explanation of statement 1 .</p>"
+            }
+          },
+          "subject": "physics",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": "kinetic-theory-of-gases-and-gas-laws",
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg4f3gth",
+          "chapter": "waves",
+          "chapterGroup": "mechanics",
+          "country": "in",
+          "difficulty": "medium",
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 3,
+          "negMarks": 1,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "pthe-speed-of-sound-of-the-whistle-isp-jee-advanced-physics-motion-uvcpnwhed3gjzf9k",
+          "question": {
+            "en": {
+              "comprehension": "<p>Two trains $$A$$ and $$B$$ are moving with speeds $$20 \\mathrm{~m} / \\mathrm{s}$$ and $$30 \\mathrm{~m} / \\mathrm{s}$$ respectively in the same direction on the same straight track, with $$B$$ ahead of $$A$$. The engines are at the front ends. The engines of train A blows a long whistle.</p>\n<p>Assume that the sound of the whistle is composed of components varying in frequency from $$f_{1}=800 \\mathrm{~Hz}$$ to $$f_{2}=1120 \\mathrm{~Hz}$$, as shown in the figure. The spread in the frequency (highest frequency - lowest frequency) is thus $$320 \\mathrm{~Hz}$$. The speed of sound in still air is $$340 \\mathrm{~m} / \\mathrm{s}$$.</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgue4w3h/dc67d1d2-6baa-4f99-b6be-37886c9685ba/df5762d0-e25f-11ed-8ec0-d5a0bb2b1e44/file-1lgue4w3i.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgue4w3h/dc67d1d2-6baa-4f99-b6be-37886c9685ba/df5762d0-e25f-11ed-8ec0-d5a0bb2b1e44/file-1lgue4w3i.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Waves Question 9 English Comprehension\"></p>",
+              "direction": null,
+              "content": "<p>The speed of sound of the whistle is</p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "$$340 \\mathrm{~m} / \\mathrm{s}$$ for passengers in $$\\mathrm{A}$$ and $$310 \\mathrm{~m} / \\mathrm{s}$$ for passengers in $$\\mathrm{B}$$"
+                },
+                {
+                  "identifier": "B",
+                  "content": "$$360 \\mathrm{~m} / \\mathrm{s}$$ for passengers in $$\\mathrm{A}$$ and $$310 \\mathrm{~m} / \\mathrm{s}$$ for passengers in $$\\mathrm{B}$$"
+                },
+                {
+                  "identifier": "C",
+                  "content": "$$310 \\mathrm{~m} / \\mathrm{s}$$ for passengers in $$\\mathrm{A}$$ and $$360 \\mathrm{~m} / \\mathrm{s}$$ for passengers in $$\\mathrm{B}$$"
+                },
+                {
+                  "identifier": "D",
+                  "content": "$$340 \\mathrm{~m} / \\mathrm{s}$$ for passengers in both the trains"
+                }
+              ],
+              "correct_options": [
+                "B"
+              ],
+              "answer": null,
+              "explanation": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguedjot/258ef4d2-99a5-47cc-8ac6-2e7f97df7bc8/d00a09d0-e260-11ed-8ec0-d5a0bb2b1e44/file-1lguedjou.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguedjot/258ef4d2-99a5-47cc-8ac6-2e7f97df7bc8/d00a09d0-e260-11ed-8ec0-d5a0bb2b1e44/file-1lguedjou.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Waves Question 9 English Explanation\"></p>\n<p>$$v_{\\mathrm{SA}}=(340+20) \\mathrm{m} / \\mathrm{s}=360 \\mathrm{~m} / \\mathrm{s}\n$$</p>\n<p>$$v_{\\mathrm{SB}}=(340-30) \\mathrm{m} / \\mathrm{s}=310 \\mathrm{~m} / \\mathrm{s}\n$$</p>\n<p>where, speed of sound in air = 340 m/s</p>\n<p>Hence, the speed of sound depends on the frame of reference of observer.</p>"
+            }
+          },
+          "subject": "physics",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": "doppler-effect",
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg4f6k3w",
+          "chapter": "waves",
+          "chapterGroup": "mechanics",
+          "country": "in",
+          "difficulty": "medium",
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 3,
+          "negMarks": 1,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "pthe-distribution-of-the-sound-intensity-of-the-whistle-as-jee-advanced-physics-motion-oyeei7k8gj3slzjv",
+          "question": {
+            "en": {
+              "comprehension": "<p>Two trains $$A$$ and $$B$$ are moving with speeds $$20 \\mathrm{~m} / \\mathrm{s}$$ and $$30 \\mathrm{~m} / \\mathrm{s}$$ respectively in the same direction on the same straight track, with $$B$$ ahead of $$A$$. The engines are at the front ends. The engines of train A blows a long whistle.</p>\n<p>Assume that the sound of the whistle is composed of components varying in frequency from $$f_{1}=800 \\mathrm{~Hz}$$ to $$f_{2}=1120 \\mathrm{~Hz}$$, as shown in the figure. The spread in the frequency (highest frequency - lowest frequency) is thus $$320 \\mathrm{~Hz}$$. The speed of sound in still air is $$340 \\mathrm{~m} / \\mathrm{s}$$.</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgue4w3h/dc67d1d2-6baa-4f99-b6be-37886c9685ba/df5762d0-e25f-11ed-8ec0-d5a0bb2b1e44/file-1lgue4w3i.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgue4w3h/dc67d1d2-6baa-4f99-b6be-37886c9685ba/df5762d0-e25f-11ed-8ec0-d5a0bb2b1e44/file-1lgue4w3i.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Waves Question 7 English Comprehension\"></p>",
+              "direction": null,
+              "content": "<p>The distribution of the sound intensity of the whistle as observed by the passengers in train $$\\mathrm{A}$$ is best represented by</p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguebw1x/9cc678b9-7e9e-4489-b0f7-3375376c2a51/a1f8d350-e260-11ed-8ec0-d5a0bb2b1e44/file-1lguebw1y.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguebw1x/9cc678b9-7e9e-4489-b0f7-3375376c2a51/a1f8d350-e260-11ed-8ec0-d5a0bb2b1e44/file-1lguebw1y.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Waves Question 7 English Option 1\">"
+                },
+                {
+                  "identifier": "B",
+                  "content": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgueblp0/fdb47341-558e-45cc-9a8d-4d4026e998e1/99f85540-e260-11ed-8ec0-d5a0bb2b1e44/file-1lgueblp1.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgueblp0/fdb47341-558e-45cc-9a8d-4d4026e998e1/99f85540-e260-11ed-8ec0-d5a0bb2b1e44/file-1lgueblp1.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Waves Question 7 English Option 2\">"
+                },
+                {
+                  "identifier": "C",
+                  "content": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgueba1j/007d567f-c8c0-4d57-b22a-185c3307cfbd/90f81a70-e260-11ed-8ec0-d5a0bb2b1e44/file-1lgueba1k.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgueba1j/007d567f-c8c0-4d57-b22a-185c3307cfbd/90f81a70-e260-11ed-8ec0-d5a0bb2b1e44/file-1lgueba1k.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Waves Question 7 English Option 3\">"
+                },
+                {
+                  "identifier": "D",
+                  "content": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgueaxp8/55cc141f-287b-437a-b34a-76927f9dc36a/876f75c0-e260-11ed-8ec0-d5a0bb2b1e44/file-1lgueaxp9.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgueaxp8/55cc141f-287b-437a-b34a-76927f9dc36a/876f75c0-e260-11ed-8ec0-d5a0bb2b1e44/file-1lgueaxp9.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Waves Question 7 English Option 4\">"
+                }
+              ],
+              "correct_options": [
+                "A"
+              ],
+              "answer": null,
+              "explanation": "<p>Since all the passengers in train A are moving with a velocity of $$20 \\mathrm{~m} / \\mathrm{s}$$ therefore the distribution of sound intensity of the whistle by the passengers in the train $$A$$ is uniform.</p>\n<p>Trick : Total frequency $$=(1120-800) \\mathrm{Hz} =320 \\mathrm{~Hz}$$</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguedjot/258ef4d2-99a5-47cc-8ac6-2e7f97df7bc8/d00a09d0-e260-11ed-8ec0-d5a0bb2b1e44/file-1lguedjou.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguedjot/258ef4d2-99a5-47cc-8ac6-2e7f97df7bc8/d00a09d0-e260-11ed-8ec0-d5a0bb2b1e44/file-1lguedjou.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Waves Question 7 English Explanation\"></p>\n<p>There is no relative motion between source and observer.</p>\n<p>Therefore, all the passengers will hear the sound of same intensity.</p>"
+            }
+          },
+          "subject": "physics",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": "superposition-and-reflection-of-waves",
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg4fdey5",
+          "chapter": "waves",
+          "chapterGroup": "mechanics",
+          "country": "in",
+          "difficulty": "medium",
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 3,
+          "negMarks": 1,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "pthe-spread-of-frequency-as-observed-by-the-passengers-in-jee-advanced-physics-motion-aamx28islq1hsksr",
+          "question": {
+            "en": {
+              "comprehension": "<p>Two trains $$A$$ and $$B$$ are moving with speeds $$20 \\mathrm{~m} / \\mathrm{s}$$ and $$30 \\mathrm{~m} / \\mathrm{s}$$ respectively in the same direction on the same straight track, with $$B$$ ahead of $$A$$. The engines are at the front ends. The engines of train A blows a long whistle.</p>\n<p>Assume that the sound of the whistle is composed of components varying in frequency from $$f_{1}=800 \\mathrm{~Hz}$$ to $$f_{2}=1120 \\mathrm{~Hz}$$, as shown in the figure. The spread in the frequency (highest frequency - lowest frequency) is thus $$320 \\mathrm{~Hz}$$. The speed of sound in still air is $$340 \\mathrm{~m} / \\mathrm{s}$$.</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgue4w3h/dc67d1d2-6baa-4f99-b6be-37886c9685ba/df5762d0-e25f-11ed-8ec0-d5a0bb2b1e44/file-1lgue4w3i.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgue4w3h/dc67d1d2-6baa-4f99-b6be-37886c9685ba/df5762d0-e25f-11ed-8ec0-d5a0bb2b1e44/file-1lgue4w3i.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Waves Question 10 English Comprehension\"></p>",
+              "direction": null,
+              "content": "<p>The spread of  frequency as observed by the passengers in train B is</p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "310 Hz"
+                },
+                {
+                  "identifier": "B",
+                  "content": "330 Hz"
+                },
+                {
+                  "identifier": "C",
+                  "content": "350 Hz"
+                },
+                {
+                  "identifier": "D",
+                  "content": "290 Hz"
+                }
+              ],
+              "correct_options": [
+                "A"
+              ],
+              "answer": null,
+              "explanation": "<p> Frequency $$(f') = {f_1}\\left( {{{v - {v_0}} \\over {v - {v_s}}}} \\right) = 800\\left[ {{{340 - 30} \\over {340 - 20}}} \\right]$$</p>\n<p>$$=800 \\times \\frac{31}{32}$$ ..... (i)</p>\n<p>where, $$\\left(\\frac{v-v_{0}}{v-v_{\\mathrm{S}}}\\right)=\\frac{31}{32}$$ ..... (ii)</p>\n<p>Frequency $$\\left(f^{\\prime}\\right)=f_{2}\\left(\\frac{v-v_{0}}{v-v_{\\mathrm{S}}}\\right)=1120 \\times \\frac{31}{32}$$ ..... (iii)</p>\n<p>$$\\therefore \\quad f^{\\prime}-f^{\\prime}=(1120-800) \\frac{31}{32}=320 \\times \\frac{31}{32}$$</p>\n<p>$$=310 \\mathrm{~Hz}$$</p>"
+            }
+          },
+          "subject": "physics",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": "doppler-effect",
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg4fgezm",
+          "chapter": "geometrical-optics",
+          "chapterGroup": "optics",
+          "country": "in",
+          "difficulty": "easy",
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 3,
+          "negMarks": 1,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "plight-travels-as-ap-jee-advanced-physics-motion-9mahllcxlo31ydw7",
+          "question": {
+            "en": {
+              "comprehension": "<p>The figure shows surface XY separating two transparent media, medium -1 and medium -2 . The lines ab and cd represent wavefronts of a light wave traveling in medium -1 and incident on X Y. The lines ef and gh represent wavefronts of the light wave in medium -2 after refraction.</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguf6rwq/9c3cc83b-09f2-4511-8ca5-101d09aab35a/fcdaa2a0-e263-11ed-8ec0-d5a0bb2b1e44/file-1lguf6rwr.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguf6rwq/9c3cc83b-09f2-4511-8ca5-101d09aab35a/fcdaa2a0-e263-11ed-8ec0-d5a0bb2b1e44/file-1lguf6rwr.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Geometrical Optics Question 11 English Comprehension\"></p>",
+              "direction": null,
+              "content": "<p>Light travels as a</p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": " parallel beam in each medium"
+                },
+                {
+                  "identifier": "B",
+                  "content": "convergent beam in each medium"
+                },
+                {
+                  "identifier": "C",
+                  "content": "divergent beam in each medium"
+                },
+                {
+                  "identifier": "D",
+                  "content": "divergent beam in one medium and convergent beam in the other medium."
+                }
+              ],
+              "correct_options": [
+                "A"
+              ],
+              "answer": null,
+              "explanation": "<p>Since the wave fronts are parallel in each medium, the beam is also a parallel beam travelling in the direction perpendicular to the wave fronts. Since the beam would bend inside medium 2 when travelling from medium 1 , the second medium has the higher refractive index.</p>\n<p>Trick : For plane wave fronts the beam of light is parallel.</p>"
+            }
+          },
+          "subject": "physics",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": "refraction-tir-and-prism",
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg4flyc5",
+          "chapter": "geometrical-optics",
+          "chapterGroup": "optics",
+          "country": "in",
+          "difficulty": "medium",
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 3,
+          "negMarks": 1,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "pthe-phases-of-the-light-wave-at-c-d-e-and-f-are-jee-advanced-physics-motion-ahq0l2ci3aqeluqw",
+          "question": {
+            "en": {
+              "comprehension": "<p>The figure shows surface XY separating two transparent media, medium -1 and medium -2 . The lines ab and cd represent wavefronts of a light wave traveling in medium -1 and incident on X Y. The lines ef and gh represent wavefronts of the light wave in medium -2 after refraction.</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguf6rwq/9c3cc83b-09f2-4511-8ca5-101d09aab35a/fcdaa2a0-e263-11ed-8ec0-d5a0bb2b1e44/file-1lguf6rwr.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguf6rwq/9c3cc83b-09f2-4511-8ca5-101d09aab35a/fcdaa2a0-e263-11ed-8ec0-d5a0bb2b1e44/file-1lguf6rwr.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Geometrical Optics Question 10 English Comprehension\"></p>",
+              "direction": null,
+              "content": "<p>The phases of the light wave at $$c, d, e$$ and $$f$$ are $$\\phi_c, \\phi_d, \\phi_{e}$$ and $$\\phi_{f}$$ respectively.</p>\n<p>It is given that $$\\phi_{c} \\neq \\phi_{f}$$.</p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "$$\\phi_{c}$$ cannot be equal to $$\\phi_{d}$$"
+                },
+                {
+                  "identifier": "B",
+                  "content": "$$\\phi_{d}$$ can be equal to $$\\phi_{c}$$"
+                },
+                {
+                  "identifier": "C",
+                  "content": "$$\\left(\\phi_{d}-\\phi_{f}\\right)$$ is equal to $$\\left(\\phi_{c}-\\phi_{e}\\right)$$"
+                },
+                {
+                  "identifier": "D",
+                  "content": "$$\\left(\\phi_{d}-\\phi_{c}\\right)$$ is not equal to $$\\left(\\phi_{f}-\\phi_{e}\\right)$$"
+                }
+              ],
+              "correct_options": [
+                "C"
+              ],
+              "answer": null,
+              "explanation": "<p>Since point c and d are on same wave front.</p>\n<p>Therefore, $$\\phi_d=\\phi_c$$</p>\n<p>Similarly, $$\\phi_e=\\phi_f$$</p>\n<p>$$\\therefore~\\phi_d-\\phi_f=\\phi_c-\\phi_f$$</p>"
+            }
+          },
+          "subject": "physics",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": "refraction-tir-and-prism",
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg4fnq64",
+          "chapter": "wave-optics",
+          "chapterGroup": "optics",
+          "country": "in",
+          "difficulty": "easy",
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 3,
+          "negMarks": 1,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "pspeed-of-the-light-isp-jee-advanced-physics-motion-zfbbiu3tapntpmsp",
+          "question": {
+            "en": {
+              "comprehension": "<p>The figure shows surface XY separating two transparent media, medium -1 and medium -2 . The lines ab and cd represent wavefronts of a light wave traveling in medium -1 and incident on X Y. The lines ef and gh represent wavefronts of the light wave in medium -2 after refraction.</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguf6rwq/9c3cc83b-09f2-4511-8ca5-101d09aab35a/fcdaa2a0-e263-11ed-8ec0-d5a0bb2b1e44/file-1lguf6rwr.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguf6rwq/9c3cc83b-09f2-4511-8ca5-101d09aab35a/fcdaa2a0-e263-11ed-8ec0-d5a0bb2b1e44/file-1lguf6rwr.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Wave Optics Question 7 English Comprehension\"></p>",
+              "direction": null,
+              "content": "<p>Speed of the light is</p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "the same in medium-1 and medium-2"
+                },
+                {
+                  "identifier": "B",
+                  "content": "larger in medium-1 than in medium-2"
+                },
+                {
+                  "identifier": "C",
+                  "content": "larger in medium-2 than in medium-1"
+                },
+                {
+                  "identifier": "D",
+                  "content": "different at b and d"
+                }
+              ],
+              "correct_options": [
+                "B"
+              ],
+              "answer": null,
+              "explanation": "<p>The gap between consecutive wave fronts in medium 2 is less than that in medium 1. Therefore, wavelength of light in medium 2 in less than that in medium 1. Therefore, speed of light is more in medium 1 and less in medium 2.</p>"
+            }
+          },
+          "subject": "physics",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": "huygens-principle-and-interference-of-light",
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg4g4990",
+          "chapter": "waves",
+          "chapterGroup": "mechanics",
+          "country": "in",
+          "difficulty": "medium",
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 4,
+          "negMarks": 0,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "pcolumn-i-describe-some-situations-in-which-a-small-object-jee-advanced-physics-motion-tebezxtsq3rulw7t",
+          "question": {
+            "en": {
+              "comprehension": null,
+              "direction": null,
+              "content": "<p>Column I describe some situations in which a small object moves. Column II describes some characteristics of these motions. Match the situation in Column I with the characteristics in Column II and indicate your answer by darkening appropriate bubbles in the $$4 \\times 4$$ matrix given in the ORS.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 472px\">\n<colgroup>\n<col style=\"width: 48px\">\n<col style=\"width: 192px\">\n<col style=\"width: 53px\">\n<col style=\"width: 179px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">Column I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">Column II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">The object moves on the x-axis under a conservative force in such a way that its \"speed\" and \"position\" satisfy $$v = {c_1}\\sqrt {{c_2} - {x^2}} $$, where $$c_1$$ and $$c_2$$ are positive constants.</td>\n    <td class=\"tg-c3ow\">(P)</td>\n    <td class=\"tg-0pky\">The object executes a simple harmonic motion.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">The object moves on the x-axis in such a way that its velocity and its displacement from the origin satisfy $$v=-kx$$, where $$k$$ is a positive constant.</td>\n    <td class=\"tg-c3ow\">(Q)</td>\n    <td class=\"tg-0pky\">The object does not change its direction.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">The object is attached to one end of a massless spring of a given spring constant. The other end of the spring is attached to the ceiling of an elevator. Initially everything is at rest. The elevator starts going upwards with a constant acceleration a. The motion of the object is observed from the elevator during the period it maintains this acceleration.</td>\n    <td class=\"tg-c3ow\">(R)</td>\n    <td class=\"tg-0pky\">The kinetic energy of the object keeps on decreasing</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">The object is projected from the earth's surface vertically upwards with a speed $$2\\sqrt {GMe/{\\mathop{\\rm Re}\\nolimits} } $$, where, M$$_e$$ is the mass of the earth and R$$_e$$ is the radius of the earth. Neglect forces from objects other than the earth.</td>\n    <td class=\"tg-c3ow\">(S)</td>\n    <td class=\"tg-0pky\">The object can change its direction only once.</td>\n  </tr>\n</tbody>\n</table></p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "$$[\\mathrm{A} \\rightarrow(\\mathrm{P}); \\mathrm{B} \\rightarrow(\\mathrm{Q}, \\mathrm{R}); \\mathrm{C} \\rightarrow(\\mathrm{P}); \\mathrm{D} \\rightarrow(\\mathbf{Q}, \\mathrm{R})]$$"
+                },
+                {
+                  "identifier": "B",
+                  "content": "$$[\\mathrm{A} \\rightarrow(\\mathrm{Q, R}); \\mathrm{B} \\rightarrow(\\mathrm{Q}, \\mathrm{R}); \\mathrm{C} \\rightarrow(\\mathrm{P}); \\mathrm{D} \\rightarrow(\\mathbf{S}, \\mathrm{R})]$$"
+                },
+                {
+                  "identifier": "C",
+                  "content": "$$[\\mathrm{A} \\rightarrow(\\mathrm{P, S}); \\mathrm{B} \\rightarrow(\\mathrm{Q}, \\mathrm{R}); \\mathrm{C} \\rightarrow(\\mathrm{P}); \\mathrm{D} \\rightarrow(\\mathbf{R})]$$"
+                },
+                {
+                  "identifier": "D",
+                  "content": "$$[\\mathrm{A} \\rightarrow(\\mathrm{P, R}); \\mathrm{B} \\rightarrow(\\mathrm{Q}, \\mathrm{R}); \\mathrm{C} \\rightarrow(\\mathrm{P}); \\mathrm{D} \\rightarrow(\\mathbf{S})]$$"
+                }
+              ],
+              "correct_options": [
+                "A"
+              ],
+              "answer": "",
+              "explanation": "<p>Reason:</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgufcv71/823a9581-a7fb-4c50-9f42-a8b275e25d3f/a63f59d0-e264-11ed-8ec0-d5a0bb2b1e44/file-1lgufcv72.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgufcv71/823a9581-a7fb-4c50-9f42-a8b275e25d3f/a63f59d0-e264-11ed-8ec0-d5a0bb2b1e44/file-1lgufcv72.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Waves Question 11 English Explanation 1\"></p>\n<p>In above figure shown that S.H.M</p>\n<p>Therefore, $$f_s=Kx$$</p>\n<p>Given, $$v = {c_1}\\sqrt {{c_2} - {x^2}} $$ ..... (i)</p>\n<p>For a simple harmonic motion,</p>\n<p>$$v = \\omega \\sqrt {{A^2} - {x^2}} $$ ..... (ii)</p>\n<p>On comparing eq. (i) &amp; (ii) therefore it shows the S.H.M of particle.</p>\n<p>A $$\\to$$ P</p>\n<p>(b) Given,</p>\n<p>$$v=-kx$$</p>\n<p>At $$x=0,v=0$$</p>\n<p>$$x=2,v=-2k$$</p>\n<p>$$x=-5,v=+5k$$</p>\n<p>The above consideration show that particle is coming from minus x-axis.</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgufe6nv/b887a192-2786-414f-9661-ec2f7c8fa5a3/caea40b0-e264-11ed-8ec0-d5a0bb2b1e44/file-1lgufe6nw.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgufe6nv/b887a192-2786-414f-9661-ec2f7c8fa5a3/caea40b0-e264-11ed-8ec0-d5a0bb2b1e44/file-1lgufe6nw.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Waves Question 11 English Explanation 2\"><br><br>Velocity is decreasing with time.</p>\n<p>Graph:</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguff2p3/9ed4420a-0cfc-4a49-bc5a-c3c7b654f968/e3a91770-e264-11ed-8ec0-d5a0bb2b1e44/file-1lguff2p4.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguff2p3/9ed4420a-0cfc-4a49-bc5a-c3c7b654f968/e3a91770-e264-11ed-8ec0-d5a0bb2b1e44/file-1lguff2p4.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Waves Question 11 English Explanation 3\"></p>\n<p>Therefore, no change in direction, velocity keeps on decreasing. So that kinetic energy is decreasing with time.</p>\n<p>B $$\\to q_1r$$</p>\n<p>(C) From the reference frame of the observer in the elevator a constant force acts on the object. Hence the motion of the object will remain simple harmonic.</p>\n<p>Therefore, option 1 is correct.</p>\n<p>Velocity of object</p>\n<p>$$v = 2\\sqrt {G{{{M_e}} \\over {{R_e}}}}  = \\sqrt 2 \\sqrt {2G{{{M_e}} \\over {{R_e}}}}  = \\sqrt 2 {v_e}$$</p>\n<p>Since, $$v &gt; {v_e}$$ (where $$v_e$$ is escape velocity) object will move out of earth.</p>\n<p>Hence, option (Q) and (R) are correct.</p>"
+            }
+          },
+          "subject": "physics",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": "superposition-and-reflection-of-waves",
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg4gcle5",
+          "chapter": "magnetism",
+          "chapterGroup": "electricity",
+          "country": "in",
+          "difficulty": "medium",
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 4,
+          "negMarks": 0,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "ptwo-wires-each-carrying-a-steady-current-i-are-shown-in-f-jee-advanced-physics-motion-rvhbmwgzqx3xwfuw",
+          "question": {
+            "en": {
+              "comprehension": null,
+              "direction": null,
+              "content": "<p>Two wires each carrying a steady current I are shown in four configurations in Column I. Some of the resulting effects are described in Column II. Match the statements in Column I with the statements in Column II and indicate your answer by darkening appropriate bubbles in the $$4 \\times 4$$ matrix given in the ORS.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 472px\">\n<colgroup>\n<col style=\"width: 48px\">\n<col style=\"width: 192px\">\n<col style=\"width: 53px\">\n<col style=\"width: 179px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">Column I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">Column II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Point P is situated midway between the wires.<br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguf95mu/327e9997-c5d4-4aea-8798-8edb9d3f753a/3f132660-e264-11ed-8ec0-d5a0bb2b1e44/file-1lguf95mv.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguf95mu/327e9997-c5d4-4aea-8798-8edb9d3f753a/3f132660-e264-11ed-8ec0-d5a0bb2b1e44/file-1lguf95mv.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Magnetism Question 6 English 1\"></td>\n    <td class=\"tg-c3ow\">(P)</td>\n    <td class=\"tg-0pky\">The magnetic fields (B) at P due to the currents in the wire are in same direction.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Point P is situated at the mid-point of the line joining the centers of the circular wires, which have same radii.<br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lguf9t47/245be4d8-f7f1-4e67-975d-9b98839de5ec/5136db70-e264-11ed-8ec0-d5a0bb2b1e44/file-1lguf9t48.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lguf9t47/245be4d8-f7f1-4e67-975d-9b98839de5ec/5136db70-e264-11ed-8ec0-d5a0bb2b1e44/file-1lguf9t48.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Magnetism Question 6 English 2\"></td>\n    <td class=\"tg-c3ow\">(Q)</td>\n    <td class=\"tg-0pky\">The magnetic fields (B) at P due to the currents in the wires are in opposite directions.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Point P is situated at the mid-point of the line joining the centers of the circular wires, which have same radii.<br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgufaeve/aabfa2e8-263c-4e60-8c8c-ad42659ac4b7/620512a0-e264-11ed-8ec0-d5a0bb2b1e44/file-1lgufaevf.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgufaeve/aabfa2e8-263c-4e60-8c8c-ad42659ac4b7/620512a0-e264-11ed-8ec0-d5a0bb2b1e44/file-1lgufaevf.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Magnetism Question 6 English 3\"></td>\n    <td class=\"tg-c3ow\">(R)</td>\n    <td class=\"tg-0pky\">There is no magnetic field at P.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Point P is situated at the common center of the wires.<br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgufb6k1/4e0b8baf-7eeb-42ba-9b22-016314ad120b/7767ed20-e264-11ed-8ec0-d5a0bb2b1e44/file-1lgufb6k2.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgufb6k1/4e0b8baf-7eeb-42ba-9b22-016314ad120b/7767ed20-e264-11ed-8ec0-d5a0bb2b1e44/file-1lgufb6k2.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2007 Paper 2 Offline Physics - Magnetism Question 6 English 4\"></td>\n    <td class=\"tg-c3ow\">(S)</td>\n    <td class=\"tg-0pky\">The wires repel each other.</td>\n  </tr>\n</tbody>\n</table></p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "$$[\\mathrm{A} \\rightarrow(\\mathrm{P}, \\mathrm{R}) ; \\mathrm{B} \\rightarrow(\\mathrm{P}); \\mathrm{C} \\rightarrow(\\mathrm{P}, \\mathrm{R}); \\mathrm{D} \\rightarrow(\\mathrm{Q, R})]$$"
+                },
+                {
+                  "identifier": "B",
+                  "content": "$$[\\mathrm{A} \\rightarrow(\\mathrm{Q}, \\mathrm{R}) ; \\mathrm{B} \\rightarrow(\\mathrm{P}); \\mathrm{C} \\rightarrow(\\mathrm{Q}, \\mathrm{R}); \\mathrm{D} \\rightarrow(\\mathrm{Q})]$$"
+                },
+                {
+                  "identifier": "C",
+                  "content": "$$[\\mathrm{A} \\rightarrow(\\mathrm{P}, \\mathrm{R}) ; \\mathrm{B} \\rightarrow(\\mathrm{P}); \\mathrm{C} \\rightarrow(\\mathrm{P}, \\mathrm{R}); \\mathrm{D} \\rightarrow(\\mathrm{Q})]$$"
+                },
+                {
+                  "identifier": "D",
+                  "content": "$$[\\mathrm{A} \\rightarrow(\\mathrm{S}, \\mathrm{R}) ; \\mathrm{B} \\rightarrow(\\mathrm{P}); \\mathrm{C} \\rightarrow(\\mathrm{P}, \\mathrm{R}); \\mathrm{D} \\rightarrow(\\mathrm{Q})]$$"
+                }
+              ],
+              "correct_options": [
+                "B"
+              ],
+              "answer": "",
+              "explanation": "<p>We can find the direction of magnetic field at $$P$$ due to a wire by using thumb rule, and the direction of force on a wire due to other is calculated by the direction of cross product of direction of current and direction of magnetic field, $$\\vec{f}=q(\\vec{l} \\times \\vec{B})$$</p>\n<p>(A) From thumb rule, the magnetic field at point $$\\mathrm{P}$$ due to both wires is in opposite direction. Since $$\\mathrm{P}$$ is at midpoint, net magnetic field at $$P$$ is zero. The direction of force on one wire is towards another (from above equation), hence they attract each other. Thus, option $$(\\mathrm{Q})$$ are $$(\\mathrm{R})$$ are correct.</p>\n<p>(B) Direction of magnetic field at $$\\mathrm{P}$$ is same due to both the loop. Hence option $$(\\mathrm{P})$$ is correct. If both the loop is very close they might act as single (like solenoid), so we cannot predict loop will attract nor repel.</p>\n<p>(C) Similar to case $$A$$, net $$B$$ at point $$\\mathrm{P}$$ is zero. And direction of force is towards another wire which means attraction. Hence, option (Q) and (R) are correct.</p>\n<p>(D) Magnetic field at the center of current carrying loop is given by $$\\mathrm{B}=\\frac{\\propto_{0} i}{2 R}$$</p>\n<p>Current in the two loop is in opposite direction so magnetic field is in opposite direction due to both the loops. Radius of two loops is different, so it will have non zero field at point $$P$$.</p>"
+            }
+          },
+          "subject": "physics",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": "biot-savarts-law-and-magnetic-field-due-to-current-carrying-wire",
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        },
+        {
+          "question_id": "1lg4gfnu9",
+          "chapter": "properties-of-matter",
+          "chapterGroup": "mechanics",
+          "country": "in",
+          "difficulty": "easy",
+          "exam": "jee-advanced",
+          "examGroup": "jee",
+          "languages": [
+            "en"
+          ],
+          "marks": 4,
+          "negMarks": 0,
+          "paperId": "iit-jee-2007-paper-2-offline",
+          "paperTitle": "IIT-JEE 2007 Paper 2 Offline",
+          "permalink": "pcolumn-i-gives-some-devices-and-column-ii-gives-some-proc-jee-advanced-physics-motion-hwisaonlgaimbvrj",
+          "question": {
+            "en": {
+              "comprehension": null,
+              "direction": null,
+              "content": "<p>Column I gives some devices and Column II gives some process on which the functioning of these devices depend. Match the devices in Column I with the processes in Column II and indicate your answer by darkening appropriate bubbles in the $$4 \\times 4$$ matrix given in the ORS.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 472px\">\n<colgroup>\n<col style=\"width: 48px\">\n<col style=\"width: 192px\">\n<col style=\"width: 53px\">\n<col style=\"width: 179px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">Column I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">Column II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Bimetallic strip</td>\n    <td class=\"tg-c3ow\">(P)</td>\n    <td class=\"tg-0pky\">Radiation from a hot body</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Steam engine</td>\n    <td class=\"tg-c3ow\">(Q)</td>\n    <td class=\"tg-0pky\">Energy conversion</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Incandescent lamp</td>\n    <td class=\"tg-c3ow\">(R)</td>\n    <td class=\"tg-0pky\">Melting</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Electric fuse</td>\n    <td class=\"tg-c3ow\">(S)</td>\n    <td class=\"tg-0pky\">Thermal expansion</td>\n  </tr>\n</tbody>\n</table></p>",
+              "options": [
+                {
+                  "identifier": "A",
+                  "content": "$$[\\mathrm{A} \\rightarrow(\\mathrm{Q, S}); \\mathrm{B} \\rightarrow(\\mathrm{R}); \\mathrm{C} \\rightarrow(\\mathrm{P}); \\mathrm{D} \\rightarrow(\\mathbf{R})]$$"
+                },
+                {
+                  "identifier": "B",
+                  "content": "$$[\\mathrm{A} \\rightarrow(\\mathrm{R, S}); \\mathrm{B} \\rightarrow(\\mathrm{R}); \\mathrm{C} \\rightarrow(\\mathrm{P}); \\mathrm{D} \\rightarrow(\\mathbf{R, S})]$$"
+                },
+                {
+                  "identifier": "C",
+                  "content": "$$[\\mathrm{A} \\rightarrow(\\mathrm{S}); \\mathrm{B} \\rightarrow(\\mathrm{Q}); \\mathrm{C} \\rightarrow(\\mathrm{P}); \\mathrm{D} \\rightarrow(\\mathbf{R})]$$"
+                },
+                {
+                  "identifier": "D",
+                  "content": "$$[\\mathrm{A} \\rightarrow(\\mathrm{P, S}); \\mathrm{B} \\rightarrow(\\mathrm{R}); \\mathrm{C} \\rightarrow(\\mathrm{P}); \\mathrm{D} \\rightarrow(\\mathbf{R})]$$"
+                }
+              ],
+              "correct_options": [
+                "C"
+              ],
+              "answer": "",
+              "explanation": "(A) A bimetallic strip is used to convert a temperature change into mechanical displacement. The strip consists of two strips of different metals having different thermal coefficients.</p>\n<p>(B) Steam engine is a device which converts heat energy into mechanical energy and heat is supplied into the engine through the medium of steam. Thus energy conversion is right answer here.</p>\n<p>(C) The incandescent light bulb works on incandescence, which is the emission of light radiations caused by heating the filament.</p>\n<p>(D) Fuse wire works on the principle of heat and melting, when excess current passes in the circuit, due to heat produced by the excess current fuse melts and prevent the damage."
+            }
+          },
+          "subject": "physics",
+          "subjectGroup": null,
+          "timeAllotted": 200000,
+          "topic": "newtons-law-of-cooling",
+          "type": "mcq",
+          "year": 2007,
+          "isOutOfSyllabus": false,
+          "isBonus": false,
+          "yearKey": "iit-jee-2007-paper-2-offline"
+        }
+      ],
+      "title": "Physics"
+    }
+  ]
+}
