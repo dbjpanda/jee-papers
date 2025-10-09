@@ -9,6 +9,75 @@ const ROOT_DIR = path.resolve(__dirname, '..');
 // Directories
 const RAW_DIR = path.join(ROOT_DIR, 'raw');
 const LLM_DIR = path.join(ROOT_DIR, 'llm');
+const IMAGES_INDEX = path.join(ROOT_DIR, 'images', 'index.json');
+
+// Global image mapping (url -> {localPath, description})
+let imageMap = new Map();
+
+/**
+ * Load images index with descriptions
+ */
+async function loadImagesIndex() {
+    try {
+        const imagesData = JSON.parse(await fs.readFile(IMAGES_INDEX, 'utf8'));
+        
+        imagesData.images.forEach(img => {
+            if (img.status === 'success') {
+                // Map both original URL and local path
+                imageMap.set(img.url, {
+                    localPath: img.localPath,
+                    description: img.description || ''
+                });
+                
+                // Also map by local path for easier lookup
+                imageMap.set(img.localPath, {
+                    localPath: img.localPath,
+                    description: img.description || ''
+                });
+            }
+        });
+        
+        console.log(`   Loaded ${imageMap.size / 2} image mappings`);
+    } catch (error) {
+        console.warn('Warning: Could not load images/index.json:', error.message);
+        console.log('   Image descriptions will not be included.');
+    }
+}
+
+/**
+ * Extract image paths and descriptions from HTML content
+ */
+function extractImages(content) {
+    if (!content) return { paths: [], descriptions: [] };
+    
+    const imagePaths = [];
+    const imageDescriptions = [];
+    
+    // Find all img tags with local src
+    const imgMatches = content.matchAll(/<img[^>]+src="([^"]+)"[^>]*>/g);
+    
+    for (const match of imgMatches) {
+        const src = match[1];
+        
+        // Extract the local path (remove ../../ prefix)
+        const localPath = src.replace(/^\.\.\/\.\.\//, '');
+        
+        imagePaths.push(localPath);
+        
+        // Get description from imageMap
+        const imageData = imageMap.get(localPath);
+        if (imageData && imageData.description) {
+            imageDescriptions.push(imageData.description);
+        } else {
+            imageDescriptions.push('');
+        }
+    }
+    
+    return {
+        paths: imagePaths,
+        descriptions: imageDescriptions
+    };
+}
 
 /**
  * Extract year, date, and shift from key
@@ -120,30 +189,70 @@ function extractOptions(options) {
 }
 
 /**
+ * Extract images from options - with path and description
+ */
+function extractOptionsImages(options) {
+    const optionsImages = {};
+    if (!options || options.length === 0) {
+        return optionsImages;
+    }
+    
+    options.forEach(option => {
+        const imageData = extractImages(option.content);
+        if (imageData.paths.length > 0) {
+            // Use first image if multiple
+            optionsImages[option.identifier] = {
+                path: imageData.paths[0] || '',
+                description: imageData.descriptions[0] || ''
+            };
+        }
+    });
+    
+    return optionsImages;
+}
+
+/**
  * Convert a single question to LLM format
  */
 function convertQuestion(question, questionNumber, metadata) {
     const { examType, year, date, shift } = metadata;
     const questionContent = question.question.en;
     
+    // Extract images from question content
+    const questionImages = extractImages(questionContent.content);
+    
+    // Extract images from explanation
+    const explanationImages = extractImages(questionContent.explanation);
+    
+    // Combine all question images with path and description objects
+    const allPaths = [...questionImages.paths, ...explanationImages.paths];
+    const allDescriptions = [...questionImages.descriptions, ...explanationImages.descriptions];
+    
+    const questionImagesArray = allPaths.map((imagePath, idx) => ({
+        path: imagePath,
+        description: allDescriptions[idx] || ''
+    }));
+    
+    // Extract images from options
+    const optionImagesData = extractOptionsImages(questionContent.options);
+    
     return {
+        question_number: questionNumber,
         year,
         exam_type: examType,
         shift,
-        question_number: questionNumber,
-        question_text: stripHtml(questionContent.content),
         subject: question.subject.charAt(0).toUpperCase() + question.subject.slice(1),
         topic: question.chapter || "",
         sub_topic: question.chapterGroup || "",
-        images: "",
-        options_images: {},
-        image_description: "",
-        options: extractOptions(questionContent.options),
+        question_text: stripHtml(questionContent.content),
+        question_images: questionImagesArray,
+        option_texts: extractOptions(questionContent.options),
+        option_images: optionImagesData,
         correct_answer: questionContent.correct_options?.[0] || "",
-        question: convertToLatex(questionContent.content),
-        isOutOfSyllabus: question.isOutOfSyllabus || false,
         marks: question.marks || 4,
-        negMarks: question.negMarks || 1
+        negMarks: question.negMarks || 1,
+        difficulty: question.difficulty || null,
+        isOutOfSyllabus: question.isOutOfSyllabus || false
     };
 }
 
@@ -291,7 +400,12 @@ async function main() {
         console.log('Convert Raw JSON to LLM Format');
         console.log('='.repeat(60));
         
+        // Load image mappings
+        console.log('\n1. Loading image index...');
+        await loadImagesIndex();
+        
         // Get all exam type directories
+        console.log('\n2. Processing exam files...');
         const examTypes = await fs.readdir(RAW_DIR);
         
         let totalProcessed = 0;
