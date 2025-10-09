@@ -8,1660 +8,1800 @@
   },
   "questions": [
     {
+      "question_number": 1,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 1,
-      "question_text": "STATEMENT - 1 : The plot of atomic number (y-axis) versus number of neutrons (x-axis) for stable nuclei shows a curvature towards x-axis from the line of 45o slope as the atomic number is increased.\n\n\n\nSTATEMENT - 2 : Proton-proton electrostatic repulsions begin to overcome attractive forces involving protons and neutrons in heavier nuclides",
       "subject": "Chemistry",
       "topic": "structure-of-atom",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "STATEMENT - 1 : The plot of atomic number (y-axis) versus number of neutrons (x-axis) for stable nuclei shows a curvature towards x-axis from the line of 45o slope as the atomic number is increased.\n\n\n\nSTATEMENT - 2 : Proton-proton electrostatic repulsions begin to overcome attractive forces involving protons and neutrons in heavier nuclides",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg6or3um/5a0a5387-f76d-4f65-82d6-174d2ba41bbf/94d675e0-d556-11ed-a8c9-174ee3544ddd/file-1lg6or3un.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is a correct explanation for Statement - 1",
         "B": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is NOT a correct explanation for Statement - 1",
         "C": "Statement - 1 is true, Statement - 2 is False",
         "D": "Statement - 1 is False, Statement - 2 is True"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "STATEMENT - 1 : The plot of atomic number (y-axis) versus number of neutrons (x-axis) for stable nuclei shows a curvature towards x-axis from the line of 45^{o} slope as the atomic number is increased.\nSTATEMENT - 2 : Proton-proton electrostatic repulsions begin to overcome attractive forces involving protons and neutrons in heavier nuclides",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 2,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 2,
-      "question_text": "Hyperconjugation involves overlapping of the following orbitals:",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Hyperconjugation involves overlapping of the following orbitals:",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\sigma-\\sigma$$",
         "B": "$$\\sigma-p$$",
         "C": "$$p-p$$",
         "D": "$$\\pi-\\pi$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Hyperconjugation involves overlapping of the following orbitals:",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 3,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 3,
-      "question_text": "The major product of the following reaction is:",
       "subject": "Chemistry",
       "topic": "haloalkanes-and-haloarenes",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The major product of the following reaction is:",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg870gif/a7dc522f-c59f-4d96-a64f-17cba805f2ca/c5dfea70-d62a-11ed-8aa5-3d8518058bec/file-1lg870gig.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg87c96w/4d30c3ab-e61f-4d6d-a00f-ae9d22605c46/0dee0080-d62c-11ed-a810-4d71dabfb4ba/file-1lg87c96x.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg870zhs/17c493ac-465a-4815-bfbe-b4506f3e548f/d48993f0-d62a-11ed-a810-4d71dabfb4ba/file-1lg870zht.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg871nvl/b8a30a49-26e9-41b4-b00f-c8173840f302/e75fa910-d62a-11ed-a810-4d71dabfb4ba/file-1lg871nvm.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg872a2r/b2476fd3-733b-4269-a3e8-d0ba110e7728/f8859d30-d62a-11ed-a810-4d71dabfb4ba/file-1lg872a2s.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg872tf1/cf36844c-9074-4b5a-90fc-db98b4390f7e/077661d0-d62b-11ed-a810-4d71dabfb4ba/file-1lg872tf2.png",
+          "description": ""
+        }
+      },
       "correct_answer": "A",
-      "question": "The major product of the following reaction is:",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 4,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 4,
-      "question_text": "Aqueous solutions of Na$$_2$$S$$_2$$O$$_3$$ on reaction with Cl$$_2$$ gives:",
       "subject": "Chemistry",
       "topic": "s-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Aqueous solutions of Na$$_2$$S$$_2$$O$$_3$$ on reaction with Cl$$_2$$ gives:",
+      "question_images": [],
+      "option_texts": {
         "A": "Na$$_2$$S$$_4$$O$$_6$$",
         "B": "NaHSO$$_4$$",
         "C": "NaCl",
         "D": "NaOH"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Aqueous solutions of Na$$_2$$S$$_2$$O$$_3$$ on reaction with Cl$$_2$$ gives:",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 5,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 5,
-      "question_text": "Native silver metal forms a water soluble complex with a dilute aqueous solution of NaCN in the presence of:",
       "subject": "Chemistry",
       "topic": "isolation-of-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Native silver metal forms a water soluble complex with a dilute aqueous solution of NaCN in the presence of:",
+      "question_images": [],
+      "option_texts": {
         "A": "nitrogen",
         "B": "oxygen",
         "C": "carbon dioxide",
         "D": "argon"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Native silver metal forms a water soluble complex with a dilute aqueous solution of NaCN in the presence of:",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 6,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 6,
-      "question_text": "Under the same reaction conditions, initial concentration of 1.386 mol dm$$^{-3}$$ of a substance becomes half in 40 seconds and 20 seconds through first order and zero order kinetics, respectively. Ratio $$\\left( {{{{k_1}} \\over {{k_0}}}} \\right)$$ of the rate constants for first order ($$k_1$$) and zero order ($$k_0$$) of the reactions is:",
       "subject": "Chemistry",
       "topic": "chemical-kinetics-and-nuclear-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Under the same reaction conditions, initial concentration of 1.386 mol dm$$^{-3}$$ of a substance becomes half in 40 seconds and 20 seconds through first order and zero order kinetics, respectively. Ratio $$\\left( {{{{k_1}} \\over {{k_0}}}} \\right)$$ of the rate constants for first order ($$k_1$$) and zero order ($$k_0$$) of the reactions is:",
+      "question_images": [],
+      "option_texts": {
         "A": "0.5 mol$$^{-1}$$ dm$$^3$$",
         "B": "1.0 mol dm$$^{-3}$$",
         "C": "1.5 mol dm$$^{-3}$$",
         "D": "2.0 mol$$^{-1}$$ dm$$^3$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Under the same reaction conditions, initial concentration of 1.386 mol dm$$^{-3}$$ of a substance becomes half in 40 seconds and 20 seconds through first order and zero order kinetics, respectively. Ratio $$\\left( {{{{k_1}} \\over {{k_0}}}} \\right)$$ of the rate constants for first order ($$k_1$$) and zero order ($$k_0$$) of the reactions is:",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 7,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 7,
-      "question_text": "2.5 mL of $$\\frac{2}{5}$$M weak monoacidic base (K$$_b$$ = 1 $$\\times$$ 10$$^{-12}$$ at 25$$^\\circ$$C) is titrated with $$\\frac{2}{15}$$M HCl in water at 25$$^\\circ$$C. The concentration of H$$^+$$ at equivalence point is (K$$_w$$ = 1 $$\\times$$ 10$$^{-14}$$ at 25$$^\\circ$$C).",
       "subject": "Chemistry",
       "topic": "ionic-equilibrium",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "2.5 mL of $$\\frac{2}{5}$$M weak monoacidic base (K$$_b$$ = 1 $$\\times$$ 10$$^{-12}$$ at 25$$^\\circ$$C) is titrated with $$\\frac{2}{15}$$M HCl in water at 25$$^\\circ$$C. The concentration of H$$^+$$ at equivalence point is (K$$_w$$ = 1 $$\\times$$ 10$$^{-14}$$ at 25$$^\\circ$$C).",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg94ilt5/dfd32efd-30aa-4bff-84b7-0e2195de3f36/cbcb2d90-d6ad-11ed-bed1-af88ff705dba/file-1lg94ilt6.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "3.7 $$\\times$$ 10$$^{-13}$$ M",
         "B": "3.2 $$\\times$$ 10$$^{-7}$$ M",
         "C": "3.2 $$\\times$$ 10$$^{-2}$$ M",
         "D": "2.7 $$\\times$$ 10$$^{-2}$$ M"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "2.5 mL of $$\\frac{2}{5}$$M weak monoacidic base (K$$_b$$ = 1 $$\\times$$ 10$$^{-12}$$ at 25$$^\\circ$$C) is titrated with $$\\frac{2}{15}$$M HCl in water at 25$$^\\circ$$C. The concentration of H$$^+$$ at equivalence point is (K$$_w$$ = 1 $$\\times$$ 10$$^{-14}$$ at 25$$^\\circ$$C).",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 8,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 8,
-      "question_text": "The correct statement(s) about the compound given below is(are):",
       "subject": "Chemistry",
       "topic": "haloalkanes-and-haloarenes",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The correct statement(s) about the compound given below is(are):",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg94ninp/2e60ee92-d515-4dd0-89fe-79437490b1db/54678f40-d6ae-11ed-89f6-65b3651d9edd/file-1lg94ninq.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg94r1z1/210adddc-5648-4cde-b0b4-6f10ad06bc43/b6c0b6d0-d6ae-11ed-89f6-65b3651d9edd/file-1lg94r1z2.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "The compound is optically active.",
         "B": "The compound possesses centre of symmetry.",
         "C": "The compound possesses plane of symmetry.",
         "D": "The compound possesses axis of symmetry."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The correct statement(s) about the compound given below is(are):",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 9,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 9,
-      "question_text": "The correct statement(s) concerning the structures E, F and G is(are) :",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The correct statement(s) concerning the structures E, F and G is(are) :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg94vmxn/28af962c-06cc-4ec2-a826-fd939f61eacc/362e7ab0-d6af-11ed-89f6-65b3651d9edd/file-1lg94vmxo.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "E, F and G are resonance structures.",
         "B": "E, F and E, G are tautomers.",
         "C": "F and G are geometrical isomers.",
         "D": "F and G are diasteromers."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The correct statement(s) concerning the structures E, F and G is(are) :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 10,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 10,
-      "question_text": "A solution of colourless salt H on boiling with excess NaOH produces a non-flammable gas. The gas evolution ceases after sometime. Upon addition of Zn dust to the same solution, the gas evolution restarts. The colourless salt(s) H is(are):",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A solution of colourless salt H on boiling with excess NaOH produces a non-flammable gas. The gas evolution ceases after sometime. Upon addition of Zn dust to the same solution, the gas evolution restarts. The colourless salt(s) H is(are):",
+      "question_images": [],
+      "option_texts": {
         "A": "NH$$_4$$NO$$_3$$",
         "B": "NH$$_4$$NO$$_2$$",
         "C": "NH$$_4$$Cl",
         "D": "(NH$$_4$$)$$_2$$SO$$_4$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A solution of colourless salt H on boiling with excess NaOH produces a non-flammable gas. The gas evolution ceases after sometime. Upon addition of Zn dust to the same solution, the gas evolution restarts. The colourless salt(s) H is(are):",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 11,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 11,
-      "question_text": "A gas described by van Der Waals equation",
       "subject": "Chemistry",
       "topic": "gaseous-state",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A gas described by van Der Waals equation",
+      "question_images": [],
+      "option_texts": {
         "A": "behaves similar to an ideal gas in the limit of large molar volumes.",
         "B": "behaves similar to an ideal gas in the limit of large pressures.",
         "C": "is characterized by van der Waals coefficients that are dependent on the identity of the gas but are independent of the temperature.",
         "D": "has the pressure that is lower than the pressure exerted by the same gas behaving ideally."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A gas described by van Der Waals equation",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 12,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 12,
-      "question_text": "Statement 1 : Bromobenzene upon reaction with Br$$_2$$/Fe gives 1, 4-dibromobenzene as the major product.\n\nand\n\nStatement 2: In bromobenzene, the inductive effect of the bromo group is more dominant than the mesomeric effect in directing the incoming electrophile.",
       "subject": "Chemistry",
       "topic": "haloalkanes-and-haloarenes",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Statement 1 : Bromobenzene upon reaction with Br$$_2$$/Fe gives 1, 4-dibromobenzene as the major product.\n\nand\n\nStatement 2: In bromobenzene, the inductive effect of the bromo group is more dominant than the mesomeric effect in directing the incoming electrophile.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg6ow6bf/ff85daa2-45dc-4401-b2e3-956a7a0fc47c/21c9fcb0-d557-11ed-a8c9-174ee3544ddd/file-1lg6ow6bg.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg6oxz2n/c1278a6b-ce60-4aed-88dc-7748ef4cae20/53cfc5f0-d557-11ed-a8c9-174ee3544ddd/file-1lg6oxz2o.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "Statement 1 is True, Statement 2 is True; Statement 2 is a correct explanation for Statement 1.",
         "B": "Statement 1 is True, Statement 2 is True; Statement 2 is a NOT correct explanation for Statement 1.",
         "C": "Statement 1 is True, Statement 2 is False.",
         "D": "Statement 1 is False, Statement 2 is True."
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Statement 1 : Bromobenzene upon reaction with Br$$_2$$/Fe gives 1, 4-dibromobenzene as the major product. \nand \nStatement 2: In bromobenzene, the inductive effect of the bromo group is more dominant than the mesomeric effect in directing the incoming electrophile.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 13,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 13,
-      "question_text": "Statement 1 : Pb$$^{4+}$$ compounds are stronger oxidising agents than Sn$$^{4+}$$ compounds.\n\nand\n\nStatement 2 : The higher oxidation states for the group 14 elements are more stable for the heavier members of the group due to 'inert pair effect'.",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Statement 1 : Pb$$^{4+}$$ compounds are stronger oxidising agents than Sn$$^{4+}$$ compounds.\n\nand\n\nStatement 2 : The higher oxidation states for the group 14 elements are more stable for the heavier members of the group due to 'inert pair effect'.",
+      "question_images": [],
+      "option_texts": {
         "A": "Statement 1 is True, Statement 2 is True; Statement 2 is correct explanation for Statement 1.",
         "B": "Statement 1 is True, Statement 2 is True; Statement 2 is NOT correct explanation for Statement 1.",
         "C": "Statement 1 is True, Statement 2 is False.",
         "D": "Statement 1 is False, Statement 2 is True."
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Statement 1 : Pb$$^{4+}$$ compounds are stronger oxidising agents than Sn$$^{4+}$$ compounds. \nand \nStatement 2 : The higher oxidation states for the group 14 elements are more stable for the heavier members of the group due to 'inert pair effect'.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 14,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 14,
-      "question_text": "Statement 1 : For every chemical reaction at equilibrium, standard Gibbs energy of reaction is zero.\n\nand\n\nStatement 2 : At constant temperature and pressure, chemical reactions are spontaneous in the direction of decreasing Gibbs energy.",
       "subject": "Chemistry",
       "topic": "chemical-equilibrium",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Statement 1 : For every chemical reaction at equilibrium, standard Gibbs energy of reaction is zero.\n\nand\n\nStatement 2 : At constant temperature and pressure, chemical reactions are spontaneous in the direction of decreasing Gibbs energy.",
+      "question_images": [],
+      "option_texts": {
         "A": "Statement 1 is True, Statement 2 is True; Statement 2 is correct explanation for Statement 1.",
         "B": "Statement 1 is True, Statement 2 is True; Statement 2 is NOT correct explanation for Statement 1.",
         "C": "Statement 1 is True, Statement 2 is False.",
         "D": "Statement 1 is False, Statement 2 is True."
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Statement 1 : For every chemical reaction at equilibrium, standard Gibbs energy of reaction is zero. \nand \nStatement 2 : At constant temperature and pressure, chemical reactions are spontaneous in the direction of decreasing Gibbs energy.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 15,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 15,
-      "question_text": "The structure of the product I is :",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The structure of the product I is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg95eac3/34ddc079-70da-4e85-95c0-2270385d49b2/3cd2b230-d6b1-11ed-8608-b9646d8e6014/file-1lg95eac4.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg958qhd/fe6a9547-2bed-44f6-9b1e-690640fc3253/a270e810-d6b0-11ed-8608-b9646d8e6014/file-1lg958qhe.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg95bhxj/f0c37107-7537-43ef-a887-c934eb0571ca/ef435970-d6b0-11ed-89f6-65b3651d9edd/file-1lg95bhxk.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg95bxym/f9abf674-6cc8-4262-8736-ceb66ec8b315/fba583f0-d6b0-11ed-89f6-65b3651d9edd/file-1lg95bxyn.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg95ccjv/47bbb134-386a-4797-92b9-90045af70f90/06eaa5b0-d6b1-11ed-89f6-65b3651d9edd/file-1lg95ccjw.png",
+          "description": ""
+        }
+      },
       "correct_answer": "D",
-      "question": "The structure of the product I is :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 16,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 16,
-      "question_text": "The structure of compounds J and K, respectively, are:",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The structure of compounds J and K, respectively, are:",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg95txol/f68eae54-ce27-4f0b-8124-bea5b733146e/effecf50-d6b2-11ed-8608-b9646d8e6014/file-1lg95txom.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
+      },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg95lsjy/21aafbaa-7bac-4312-b862-825ee2993e94/0d8f6ee0-d6b2-11ed-8608-b9646d8e6014/file-1lg95lsjz.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg95m5wb/681c497c-b97c-47ba-a9f0-0f7d2d22604c/17de22b0-d6b2-11ed-8608-b9646d8e6014/file-1lg95m5wc.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg95migs/fcfd38e0-2e6e-4ea3-9365-9d6864bce7de/2193a3c0-d6b2-11ed-8608-b9646d8e6014/file-1lg95migt.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg95n3ua/f1b7b044-31fc-40c5-b14b-9014e80a93c7/3216a120-d6b2-11ed-8608-b9646d8e6014/file-1lg95n3ub.png",
+          "description": ""
+        }
       },
       "correct_answer": "A",
-      "question": "The structure of compounds J and K, respectively, are:",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 17,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 17,
-      "question_text": "The structure of product L is :",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The structure of product L is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg6ph5f4/85089cbe-ce8c-4e3e-a385-d5626d32dd34/69167b00-d559-11ed-a8c9-174ee3544ddd/file-1lg6ph5f5.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg6pcg4h/2ad7d9f5-ea9f-4cf9-af66-44c86f39001d/e64fc820-d558-11ed-a8c9-174ee3544ddd/file-1lg6pcg4i.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg6pda4y/11fb1201-395f-46a1-bf37-e4e9241bb4cc/fd7ed720-d558-11ed-a8c9-174ee3544ddd/file-1lg6pda4z.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg6pdq75/b164f78d-40ca-4de7-a6d8-924bd6ec79f9/09e6f510-d559-11ed-a8c9-174ee3544ddd/file-1lg6pdq76.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lg6peal2/3062894c-06d0-42aa-aad9-c5981af4b196/19a67b60-d559-11ed-a8c9-174ee3544ddd/file-1lg6peal3.png",
+          "description": ""
+        }
+      },
       "correct_answer": "C",
-      "question": "The structure of product L is :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 18,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 18,
-      "question_text": "Among the following, the correct statement is:",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Among the following, the correct statement is:",
+      "question_images": [],
+      "option_texts": {
         "A": "Phosphates have no biological significance in humans.",
         "B": "Between nitrates and phosphates, phosphates are less abundant in earth's crust.",
         "C": "Between nitrates and phosphates, nitrates are less abundant in earth's crust.",
         "D": "Oxidation of nitrates is possible in soil."
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Among the following, the correct statement is:",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 19,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 19,
-      "question_text": "Among the following, the correct statement is :",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Among the following, the correct statement is :",
+      "question_images": [],
+      "option_texts": {
         "A": "Between NH$$_3$$ and PH$$_3$$, NH$$_3$$ is better electron donor because the lone pair of electrons occupies spherical 's' orbital and is less directional.",
         "B": "Between NH$$_3$$ and PH$$_3$$, PH$$_3$$ is a better electron donor because the lone pair of electrons occupies sp$$^3$$ orbital and is more directional.",
         "C": "Between NH$$_3$$ and PH$$_3$$, NH$$_3$$ is a better electron donor because the lone pair of electrons occupies sp$$^3$$ orbital and is more directional.",
         "D": "Between NH$$_3$$ and PH$$_3$$, PH$$_3$$ is better electron donor because the lone pair of electrons occupies spherical 's' orbital and is less directional."
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Among the following, the correct statement is :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 20,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 20,
-      "question_text": "White phosphorus on reaction with NaOH gives PH$$_3$$ as one of the products. This is a:",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "White phosphorus on reaction with NaOH gives PH$$_3$$ as one of the products. This is a:",
+      "question_images": [],
+      "option_texts": {
         "A": "dimerisation reaction",
         "B": "disproportionation reaction",
         "C": "condensation reaction",
         "D": "precipitation reaction"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "White phosphorus on reaction with NaOH gives PH$$_3$$ as one of the products. This is a:",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 21,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 21,
-      "question_text": "The freezing point of the solution M is :",
       "subject": "Chemistry",
       "topic": "solutions",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The freezing point of the solution M is :",
+      "question_images": [],
+      "option_texts": {
         "A": "268.7 K",
         "B": "268.5 K",
         "C": "234.2 K",
         "D": "150.9 K"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The freezing point of the solution M is :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 22,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 22,
-      "question_text": "The vapour pressure of the solution M is :",
       "subject": "Chemistry",
       "topic": "solutions",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The vapour pressure of the solution M is :",
+      "question_images": [],
+      "option_texts": {
         "A": "39.3 mm Hg",
         "B": "36.0 mm Hg",
         "C": "29.5 mm Hg",
         "D": "28.8 mm Hg"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The vapour pressure of the solution M is :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 23,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 23,
-      "question_text": "Water is added to the solution M such that the fraction of water in the solution becomes 0.9 mole. The boiling point of this solution is:",
       "subject": "Chemistry",
       "topic": "solutions",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Water is added to the solution M such that the fraction of water in the solution becomes 0.9 mole. The boiling point of this solution is:",
+      "question_images": [],
+      "option_texts": {
         "A": "380.4 K",
         "B": "376.2 K",
         "C": "375.5 K",
         "D": "354.7 K"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Water is added to the solution M such that the fraction of water in the solution becomes 0.9 mole. The boiling point of this solution is:",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 24,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 24,
-      "question_text": "Let z be any point in $$A \\cap B \\cap C$$ \n\n Then, $${\\left| {z + 1 - i} \\right|^2} + {\\left| {z - 5 - i} \\right|^2}$$ lies between :",
       "subject": "Mathematics",
       "topic": "complex-numbers",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let z be any point in $$A \\cap B \\cap C$$ \n\n Then, $${\\left| {z + 1 - i} \\right|^2} + {\\left| {z - 5 - i} \\right|^2}$$ lies between :",
+      "question_images": [],
+      "option_texts": {
         "A": "25 and 29",
         "B": "30 and 34",
         "C": "35 and 39",
         "D": "40 and 44"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let z be any point in $$A \\cap B \\cap C$$  \n Then, $${\\left| {z + 1 - i} \\right|^2} + {\\left| {z - 5 - i} \\right|^2}$$ lies between :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 25,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 25,
-      "question_text": "The number of elements in the set $$A \\cap B \\cap C$$ is",
       "subject": "Mathematics",
       "topic": "complex-numbers",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The number of elements in the set $$A \\cap B \\cap C$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "0",
         "B": "1",
         "C": "2",
         "D": "$$\\infty $$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The number of elements in the set $$A \\cap B \\cap C$$ is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 26,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 26,
-      "question_text": "Consider three planes \n$$${P_1}:x - y + z = 1$$$\n$$${P_2}:x + y - z = 1$$$\n$$${P_3}:x - 3y + 3z = 2$$$\nLet $${L_1},$$ $${L_2},$$ $${L_3}$$ be the lines of intersection of the planes $${P_2}$$ and  $${P_3},$$  $${P_3}$$ and  $${P_1},$$  $${P_1}$$ and  $${P_2},$$ respectively. \n\n\nSTATEMENT - 1Z: At least two of the lines $${L_1},$$ $${L_2}$$ and $${L_3}$$ are non-parallel and \n\n\nSTATEMENT - 2: The three planes doe not have a common point.",
       "subject": "Mathematics",
       "topic": "3d-geometry",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider three planes \n$$${P_1}:x - y + z = 1$$$\n$$${P_2}:x + y - z = 1$$$\n$$${P_3}:x - 3y + 3z = 2$$$\nLet $${L_1},$$ $${L_2},$$ $${L_3}$$ be the lines of intersection of the planes $${P_2}$$ and  $${P_3},$$  $${P_3}$$ and  $${P_1},$$  $${P_1}$$ and  $${P_2},$$ respectively. \n\n\nSTATEMENT - 1Z: At least two of the lines $${L_1},$$ $${L_2}$$ and $${L_3}$$ are non-parallel and \n\n\nSTATEMENT - 2: The three planes doe not have a common point.",
+      "question_images": [],
+      "option_texts": {
         "A": "STATEMENT - 1 is True, STATEMENT - 2 is True; STATEMENT - 2 is a correct explanation for STATEMENT - 1",
         "B": "STATEMENT - 1 is True, STATEMENT - 2 is True; STATEMENT - 2 is NOT a correct explanation for STATEMENT - 1",
         "C": "STATEMENT - 1 is True, STATEMENT - 2 is False",
         "D": "STATEMENT - 1 is False, STATEMENT - 2 is True"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Consider three planes \n$$${P_1}:x - y + z = 1$$$\n$$${P_2}:x + y - z = 1$$$\n$$${P_3}:x - 3y + 3z = 2$$$\nLet $${L_1},$$ $${L_2},$$ $${L_3}$$ be the lines of intersection of the planes $${P_2}$$ and  $${P_3},$$  $${P_3}$$ and  $${P_1},$$  $${P_1}$$ and  $${P_2},$$ respectively. \nSTATEMENT - 1Z: At least two of the lines $${L_1},$$ $${L_2}$$ and $${L_3}$$ are non-parallel and \nSTATEMENT - 2: The three planes doe not have a common point.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 27,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 27,
-      "question_text": "The edges of a parallelopiped are of unit length and are parallel to non-coplanar unit vectors $$\\overrightarrow a \\,,\\,\\overrightarrow b ,\\overrightarrow c $$ such that $$\\widehat a\\,.\\,\\widehat b = \\widehat b\\,.\\,\\widehat c = \\widehat c\\,.\\,\\widehat a = {1 \\over 2}.$$ Then, the volume of the parallelopiped is :",
       "subject": "Mathematics",
       "topic": "vector-algebra",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The edges of a parallelopiped are of unit length and are parallel to non-coplanar unit vectors $$\\overrightarrow a \\,,\\,\\overrightarrow b ,\\overrightarrow c $$ such that $$\\widehat a\\,.\\,\\widehat b = \\widehat b\\,.\\,\\widehat c = \\widehat c\\,.\\,\\widehat a = {1 \\over 2}.$$ Then, the volume of the parallelopiped is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${1 \\over {\\sqrt 2 }}$$",
         "B": "$${1 \\over {2\\sqrt 2 }}$$",
         "C": "$${{\\sqrt 3 } \\over 2}$$",
         "D": "$${1 \\over {\\sqrt 3 }}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The edges of a parallelopiped are of unit length and are parallel to non-coplanar unit vectors $$\\overrightarrow a \\,,\\,\\overrightarrow b ,\\overrightarrow c $$ such that $$\\widehat a\\,.\\,\\widehat b = \\widehat b\\,.\\,\\widehat c = \\widehat c\\,.\\,\\widehat a = {1 \\over 2}.$$ Then, the volume of the parallelopiped is :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 28,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 28,
-      "question_text": "Consider the system of equations $$ax+by=0; cx+dy=0,$$ \n\nwhere $$a,b,c,d$$ $$ \\in \\left\\{ {0,1} \\right\\}$$\n\n\nSTATEMENT - 1 : The probability that the system of equations has a unique solution is $${3 \\over 8}.$$ and \n\n\nSTATEMENT - 2 :  The probability that the system of equations has a solution is $$1.$$",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider the system of equations $$ax+by=0; cx+dy=0,$$ \n\nwhere $$a,b,c,d$$ $$ \\in \\left\\{ {0,1} \\right\\}$$\n\n\nSTATEMENT - 1 : The probability that the system of equations has a unique solution is $${3 \\over 8}.$$ and \n\n\nSTATEMENT - 2 :  The probability that the system of equations has a solution is $$1.$$",
+      "question_images": [],
+      "option_texts": {
         "A": "STATEMENT - 1 is True, STATEMENT - 2 is True; STATEMENT - 2 is a correct explanation for STATEMENT - 1",
         "B": "STATEMENT - 1 is True, STATEMENT - 2 is True; STATEMENT - 2 is NOT a correct explanation for STATEMENT - 1",
         "C": "STATEMENT - 1 is True, STATEMENT - 2 is False.",
         "D": "STATEMENT - 1 is False, STATEMENT - 2 is True."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Consider the system of equations $$ax+by=0; cx+dy=0,$$ \nwhere $$a,b,c,d$$ $$ \\in \\left\\{ {0,1} \\right\\}$$\nSTATEMENT - 1 : The probability that the system of equations has a unique solution is $${3 \\over 8}.$$ and \nSTATEMENT - 2 :  The probability that the system of equations has a solution is $$1.$$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 29,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 29,
-      "question_text": "$$\\int\\limits_{ - 1}^1 {g'\\left( x \\right)dx = } $$",
       "subject": "Mathematics",
       "topic": "definite-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "$$\\int\\limits_{ - 1}^1 {g'\\left( x \\right)dx = } $$",
+      "question_images": [],
+      "option_texts": {
         "A": "$$2g(-1)$$",
         "B": "$$0$$",
         "C": "$$-2g(1)$$",
         "D": "$$2g(1)$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "$$\\int\\limits_{ - 1}^1 {g'\\left( x \\right)dx = } $$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 30,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 30,
-      "question_text": "The area of the region bounded by the curve $$y=f(x),$$ the\n\n$$x$$-axis, and the lines $$x=a$$ and $$x=b$$, where $$ - \\infty  < a < b <  - 2,$$ is :",
       "subject": "Mathematics",
       "topic": "application-of-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The area of the region bounded by the curve $$y=f(x),$$ the\n\n$$x$$-axis, and the lines $$x=a$$ and $$x=b$$, where $$ - \\infty  < a < b <  - 2,$$ is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\int\\limits_a^b {{x \\over {3\\left( {{{(f(x))}^2} - 1} \\right)}}} dx + bf\\left( b \\right) - af\\left( a \\right)$$",
         "B": "$$ - \\int\\limits_a^b {{x \\over {3\\left( {{{(f(x))}^2} - 1} \\right)}}} dx + bf\\left( b \\right) - af\\left( a \\right)$$",
         "C": "$$\\int\\limits_a^b {{x \\over {3\\left( {{{(f(x))}^2} - 1} \\right)}}} dx - bf\\left( b \\right) + af\\left( a \\right)$$",
         "D": "$$ - \\int\\limits_a^b {{x \\over {3\\left( {{{(f(x))}^2} - 1} \\right)}}} dx - bf\\left( b \\right) + af\\left( a \\right)$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The area of the region bounded by the curve $$y=f(x),$$ the\n$$x$$-axis, and the lines $$x=a$$ and $$x=b$$, where $$ - \\infty  < a < b <  - 2,$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 31,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 31,
-      "question_text": "If $$f\\left( { - 10\\sqrt 2 } \\right) = 2\\sqrt 2 ,$$ then $$f''\\left( { - 10\\sqrt 2 } \\right) = $$",
       "subject": "Mathematics",
       "topic": "differentiation",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If $$f\\left( { - 10\\sqrt 2 } \\right) = 2\\sqrt 2 ,$$ then $$f''\\left( { - 10\\sqrt 2 } \\right) = $$",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{4\\sqrt 2 } \\over {{7^3}{3^2}}}$$",
         "B": "$$-{{4\\sqrt 2 } \\over {{7^3}{3^2}}}$$",
         "C": "$${{4\\sqrt 2 } \\over {{7^3}3}}$$",
         "D": "$$-{{4\\sqrt 2 } \\over {{7^3}3}}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "If $$f\\left( { - 10\\sqrt 2 } \\right) = 2\\sqrt 2 ,$$ then $$f''\\left( { - 10\\sqrt 2 } \\right) = $$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 32,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 32,
-      "question_text": "Let $$f(x)$$ be a non-constant twice differentiable function defined on $$\\left( { - \\infty ,\\infty } \\right)$$ \n\n\n\nsuch that $$f\\left( x \\right) = f\\left( {1 - x} \\right)$$ and $$f'\\left( {{1 \\over 4}} \\right) = 0.$$ Then,",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$f(x)$$ be a non-constant twice differentiable function defined on $$\\left( { - \\infty ,\\infty } \\right)$$ \n\n\n\nsuch that $$f\\left( x \\right) = f\\left( {1 - x} \\right)$$ and $$f'\\left( {{1 \\over 4}} \\right) = 0.$$ Then,",
+      "question_images": [],
+      "option_texts": {
         "A": "$$f''\\left( x \\right)$$ vanishes at least twice on $$\\left[ {0,1} \\right]$$",
         "B": "$$f'\\left( {{1 \\over 2}} \\right) = 0$$",
         "C": "$$\\int\\limits_{ - 1/2}^{1/2} {f\\left( {x + {1 \\over 2}} \\right)\\sin x\\,dx}  = 0$$",
         "D": "$$\\int\\limits_0^{1/2} {f\\left( t \\right){e^{\\sin \\,\\pi t}}dt = } \\int\\limits_{1/2}^1 {f\\left( {1 - t} \\right){e^{\\sin \\,\\pi t}}dt} $$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $$f(x)$$ be a non-constant twice differentiable function defined on $$\\left( { - \\infty ,\\infty } \\right)$$ \nsuch that $$f\\left( x \\right) = f\\left( {1 - x} \\right)$$ and $$f'\\left( {{1 \\over 4}} \\right) = 0.$$ Then,",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 33,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 33,
-      "question_text": "If $$0 < x < 1$$, then \n\n\n$$\\sqrt {1 + {x^2}} {\\left[ {{{\\left\\{ {x\\cos \\left( {{{\\cot }^{ - 1}}x} \\right) + \\sin \\left( {{{\\cot }^{ - 1}}x} \\right)} \\right\\}}^2} - 1} \\right]^{1/2}} = $$",
       "subject": "Mathematics",
       "topic": "inverse-trigonometric-functions",
       "sub_topic": "trigonometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If $$0 < x < 1$$, then \n\n\n$$\\sqrt {1 + {x^2}} {\\left[ {{{\\left\\{ {x\\cos \\left( {{{\\cot }^{ - 1}}x} \\right) + \\sin \\left( {{{\\cot }^{ - 1}}x} \\right)} \\right\\}}^2} - 1} \\right]^{1/2}} = $$",
+      "question_images": [],
+      "option_texts": {
         "A": "$${x \\over {\\sqrt {1 + {x^2}} }}$$",
         "B": "$$x$$",
         "C": "$$x\\sqrt {1 + {x^2}} $$",
         "D": "$$\\sqrt {1 + {x^2}} $$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "If $$0 < x < 1$$, then \n$$\\sqrt {1 + {x^2}} {\\left[ {{{\\left\\{ {x\\cos \\left( {{{\\cot }^{ - 1}}x} \\right) + \\sin \\left( {{{\\cot }^{ - 1}}x} \\right)} \\right\\}}^2} - 1} \\right]^{1/2}} = $$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 34,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 34,
-      "question_text": "Consider the two curves $${C_1}:{y^2} = 4x,\\,{C_2}:{x^2} + {y^2} - 6x + 1 = 0$$. Then,",
       "subject": "Mathematics",
       "topic": "ellipse",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider the two curves $${C_1}:{y^2} = 4x,\\,{C_2}:{x^2} + {y^2} - 6x + 1 = 0$$. Then,",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lgg71znh/3aedb621-8e24-424a-beeb-a845d8111408/35aa26d0-da91-11ed-b475-959e4e33238c/file-1lgg71zni.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${C_1}$$ and $${C_2}$$ touch each other only at one point.",
         "B": "$${C_1}$$ and $${C_2}$$ touch each other exactly at two points",
         "C": "$${C_1}$$ and $${C_2}$$  intersect (but do not touch ) at exactly two points",
         "D": "$${C_1}$$ and $${C_2}$$  neither intersect nor touch each other"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Consider the two curves $${C_1}:{y^2} = 4x,\\,{C_2}:{x^2} + {y^2} - 6x + 1 = 0$$. Then,",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 35,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 35,
-      "question_text": "Let z be any point $$A \\cap B \\cap C$$ and let w be any point satisfying $$\\left| {w - 2 - i} \\right| < 3\\,$$. Then, $$\\left| z \\right| - \\left| w \\right| + 3$$ lies between :",
       "subject": "Mathematics",
       "topic": "complex-numbers",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let z be any point $$A \\cap B \\cap C$$ and let w be any point satisfying $$\\left| {w - 2 - i} \\right| < 3\\,$$. Then, $$\\left| z \\right| - \\left| w \\right| + 3$$ lies between :",
+      "question_images": [],
+      "option_texts": {
         "A": "- 6 and 3",
         "B": "- 3 and 6",
         "C": "- 6 and 6",
         "D": "- 3 and 9"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Let z be any point $$A \\cap B \\cap C$$ and let w be any point satisfying $$\\left| {w - 2 - i} \\right| < 3\\,$$. Then, $$\\left| z \\right| - \\left| w \\right| + 3$$ lies between :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 36,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 36,
-      "question_text": "Let $${S_n} = \\sum\\limits_{k = 1}^n {{n \\over {{n^2} + kn + {k^2}}}} $$ and $${T_n} = \\sum\\limits_{k = 0}^{n - 1} {{n \\over {{n^2} + kn + {k^2}}}} $$ for $$n$$ $$=1, 2, 3, ............$$ Then,",
       "subject": "Mathematics",
       "topic": "sequences-and-series",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $${S_n} = \\sum\\limits_{k = 1}^n {{n \\over {{n^2} + kn + {k^2}}}} $$ and $${T_n} = \\sum\\limits_{k = 0}^{n - 1} {{n \\over {{n^2} + kn + {k^2}}}} $$ for $$n$$ $$=1, 2, 3, ............$$ Then,",
+      "question_images": [],
+      "option_texts": {
         "A": "$${S_n} < {\\pi  \\over {3\\sqrt 3 }}$$",
         "B": "$${S_n} > {\\pi  \\over {3\\sqrt 3 }}$$",
         "C": "$${T_n} < {\\pi  \\over {3\\sqrt 3 }}$$",
         "D": "$${T_n} > {\\pi  \\over {3\\sqrt 3 }}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $${S_n} = \\sum\\limits_{k = 1}^n {{n \\over {{n^2} + kn + {k^2}}}} $$ and $${T_n} = \\sum\\limits_{k = 0}^{n - 1} {{n \\over {{n^2} + kn + {k^2}}}} $$ for $$n$$ $$=1, 2, 3, ............$$ Then,",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 37,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 37,
-      "question_text": "A straight line through the vertex p of a triangle PQR intersects the side QR at the point S and the circumcircle of the triangle PQR at the point T. If S is not the centre of the circumcircle, then :",
       "subject": "Mathematics",
       "topic": "straight-lines-and-pair-of-straight-lines",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A straight line through the vertex p of a triangle PQR intersects the side QR at the point S and the circumcircle of the triangle PQR at the point T. If S is not the centre of the circumcircle, then :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lgg7hqbg/df54dc17-c1f4-447a-9ac7-78933159026f/eb668bc0-da92-11ed-b475-959e4e33238c/file-1lgg7hqbh.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${1 \\over {PS}} + {1 \\over {ST}} < {2 \\over {\\sqrt {QS \\times SR} }}$$",
         "B": "$${1 \\over {PS}} + {1 \\over {ST}} > {2 \\over {\\sqrt {QS \\times SR} }}$$",
         "C": "$${1 \\over {PS}} + {1 \\over {ST}} < {4 \\over {QR}}$$",
         "D": "$${1 \\over {PS}} + {1 \\over {ST}} > {4 \\over {QR}}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A straight line through the vertex p of a triangle PQR intersects the side QR at the point S and the circumcircle of the triangle PQR at the point T. If S is not the centre of the circumcircle, then :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 38,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 38,
-      "question_text": "The equation of circle C is",
       "subject": "Mathematics",
       "topic": "circle",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The equation of circle C is",
+      "question_images": [],
+      "option_texts": {
         "A": "$${\\left( {x\\, - 2\\sqrt 3 \\,} \\right)^2} + {(y - 1)^2} = 1$$",
         "B": "$${\\left( {x\\, - 2\\sqrt 3 \\,} \\right)^2} + {(y + {1 \\over 2})^2} = 1$$",
         "C": "$${\\left( {x\\, - \\sqrt 3 \\,} \\right)^2} + {(y + 1)^2} = 1$$",
         "D": "$${\\left( {x\\, - \\sqrt 3 \\,} \\right)^2} + {(y - 1)^2} = 1$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The equation of circle C is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 39,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 39,
-      "question_text": "Points E and F are given by",
       "subject": "Mathematics",
       "topic": "circle",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Points E and F are given by",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\left( {{{\\,\\sqrt 3 } \\over 2},\\,{3 \\over 2}} \\right),\\,\\left( {\\sqrt 3 ,\\,0} \\right)$$",
         "B": "$$\\left( {{{\\,\\sqrt 3 } \\over 2},\\,{1 \\over 2}} \\right),\\,\\left( {\\sqrt 3 ,\\,0} \\right)$$",
         "C": "$$\\left( {{{\\,\\sqrt 3 } \\over 2},\\,{3 \\over 2}} \\right),\\,\\left( {{{\\,\\sqrt 3 } \\over 2},\\,{1 \\over 2}} \\right)$$",
         "D": "$$\\left( {{{\\,3} \\over 2},\\,{{\\sqrt 3 } \\over 2}} \\right),\\,\\left( {{{\\,\\sqrt 3 } \\over 2},\\,{1 \\over 2}} \\right)$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Points E and F are given by",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 40,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 40,
-      "question_text": "Equations of the sides QR, RP are",
       "subject": "Mathematics",
       "topic": "circle",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Equations of the sides QR, RP are",
+      "question_images": [],
+      "option_texts": {
         "A": "$$y = {2 \\over {\\sqrt 3 }}\\,x + \\,1,\\,\\,y = \\,  - {2 \\over {\\sqrt 3 }}\\,x - 1$$",
         "B": "$$y = {1 \\over {\\sqrt 3 }}\\,x,\\,\\,y = \\,0$$",
         "C": "$$y = {{\\sqrt 3 } \\over 2}\\,x + \\,1,\\,\\,y = \\, - {{\\sqrt 3 } \\over 2}\\,x - 1$$",
         "D": "$$y = \\sqrt 3 \\,x,\\,\\,y = \\,0$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Equations of the sides QR, RP are",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 41,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 41,
-      "question_text": "Let $$P\\left( {{x_1},{y_1}} \\right)$$ and $$Q\\left( {{x_2},{y_2}} \\right),{y_1} < 0,{y_2} < 0,$$ be the end points of the latus rectum of the ellipse $${x^2} + 4{y^2} = 4.$$  The equations of parabolas with latus rectum $$PQ$$ are :",
       "subject": "Mathematics",
       "topic": "ellipse",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$P\\left( {{x_1},{y_1}} \\right)$$ and $$Q\\left( {{x_2},{y_2}} \\right),{y_1} < 0,{y_2} < 0,$$ be the end points of the latus rectum of the ellipse $${x^2} + 4{y^2} = 4.$$  The equations of parabolas with latus rectum $$PQ$$ are :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${x^2} + 2\\sqrt 3y = 3 + \\sqrt 3 $$",
         "B": "$${x^2} - 2\\sqrt 3y = 3 + \\sqrt 3 $$",
         "C": "$${x^2} + 2\\sqrt 3y = 3 - \\sqrt 3 $$",
         "D": "$${x^2} - 2\\sqrt 3 y = 3 - \\sqrt 3 $$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $$P\\left( {{x_1},{y_1}} \\right)$$ and $$Q\\left( {{x_2},{y_2}} \\right),{y_1} < 0,{y_2} < 0,$$ be the end points of the latus rectum of the ellipse $${x^2} + 4{y^2} = 4.$$  The equations of parabolas with latus rectum $$PQ$$ are :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 42,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 42,
-      "question_text": "Let $$f$$ and $$g$$ be real valued functions defined on interval $$(-1, 1)$$ such that $$g''(x)$$ is continuous, $$g\\left( 0 \\right) \\ne 0.$$ $$g'\\left( 0 \\right) = 0$$, $$g''\\left( 0 \\right) \\ne 0$$, and $$f\\left( x \\right) = g\\left( x \\right)\\sin x$$ \nSTATEMENT - 1: $$\\mathop {\\lim }\\limits_{x \\to 0} \\,\\,\\left[ {g\\left( x \\right)\\cot x - g\\left( 0 \\right)\\cos ec\\,x} \\right] = f''\\left( 0 \\right)$$ and \n\n\nSTATEMENT - 2: $$f'\\left( 0 \\right) = g\\left( 0 \\right)$$",
       "subject": "Mathematics",
       "topic": "differentiation",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$f$$ and $$g$$ be real valued functions defined on interval $$(-1, 1)$$ such that $$g''(x)$$ is continuous, $$g\\left( 0 \\right) \\ne 0.$$ $$g'\\left( 0 \\right) = 0$$, $$g''\\left( 0 \\right) \\ne 0$$, and $$f\\left( x \\right) = g\\left( x \\right)\\sin x$$ \nSTATEMENT - 1: $$\\mathop {\\lim }\\limits_{x \\to 0} \\,\\,\\left[ {g\\left( x \\right)\\cot x - g\\left( 0 \\right)\\cos ec\\,x} \\right] = f''\\left( 0 \\right)$$ and \n\n\nSTATEMENT - 2: $$f'\\left( 0 \\right) = g\\left( 0 \\right)$$",
+      "question_images": [],
+      "option_texts": {
         "A": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is a correct explanation for Statement - 1",
         "B": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is NOT a correct explanation for Statement - 1",
         "C": "Statement - 1 is True, Statement -2 is False",
         "D": "Statement - 1 is False, Statement -2 is True"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $$f$$ and $$g$$ be real valued functions defined on interval $$(-1, 1)$$ such that $$g''(x)$$ is continuous, $$g\\left( 0 \\right) \\ne 0.$$ $$g'\\left( 0 \\right) = 0$$, $$g''\\left( 0 \\right) \\ne 0$$, and $$f\\left( x \\right) = g\\left( x \\right)\\sin x$$ \nSTATEMENT - 1: $$\\mathop {\\lim }\\limits_{x \\to 0} \\,\\,\\left[ {g\\left( x \\right)\\cot x - g\\left( 0 \\right)\\cos ec\\,x} \\right] = f''\\left( 0 \\right)$$ and \nSTATEMENT - 2: $$f'\\left( 0 \\right) = g\\left( 0 \\right)$$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 43,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 43,
-      "question_text": "Let a and b be non-zero real numbers. Then, the equation \n\n$$(a{x^2} + b{y^2} + c)({x^2} - 5xy + 6{y^2}) = 0$$ represents :",
       "subject": "Mathematics",
       "topic": "straight-lines-and-pair-of-straight-lines",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let a and b be non-zero real numbers. Then, the equation \n\n$$(a{x^2} + b{y^2} + c)({x^2} - 5xy + 6{y^2}) = 0$$ represents :",
+      "question_images": [],
+      "option_texts": {
         "A": "four straight lines, when c = 0 and a, b are of the same sign",
         "B": "two straight lines and a circle, when a = b, and c is of sign opposite to that of a",
         "C": "two straight lines and a hyperbola, when a and b are of the same sign and c is of sign opposite to that of a",
         "D": "a circle and an ellipse, when a and b are of the same sign and c is of sign opposite to that of a"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let a and b be non-zero real numbers. Then, the equation $$(a{x^2} + b{y^2} + c)({x^2} - 5xy + 6{y^2}) = 0$$ represents :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 44,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 44,
-      "question_text": "Let $$g(x) = {{{{(x - 1)}^n}} \\over {\\log {{\\cos }^m}(x - 1)}};0  0$$, and let $$p$$ be the left hand derivative of $$|x - 1|$$ at $$x = 1$$. If $$\\mathop {\\lim }\\limits_{x \\to {1^ + }} g(x) = p$$, then",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$g(x) = {{{{(x - 1)}^n}} \\over {\\log {{\\cos }^m}(x - 1)}};0  0$$, and let $$p$$ be the left hand derivative of $$|x - 1|$$ at $$x = 1$$. If $$\\mathop {\\lim }\\limits_{x \\to {1^ + }} g(x) = p$$, then",
+      "question_images": [],
+      "option_texts": {
         "A": "$$n = 1,m = 1$$",
         "B": "$$n = 1,m =  - 1$$",
         "C": "$$n = 2,m = 2$$",
         "D": "$$n > 2,m = n$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let $$g(x) = {{{{(x - 1)}^n}} \\over {\\log {{\\cos }^m}(x - 1)}};0  0$$, and let $$p$$ be the left hand derivative of $$|x - 1|$$ at $$x = 1$$. If $$\\mathop {\\lim }\\limits_{x \\to {1^ + }} g(x) = p$$, then",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 45,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 45,
-      "question_text": "The total number of local maxima and local minima of the function \n\n$$f(x) = \\left\\{ {\\matrix{\n   {{{(2 + x)}^3},} & { - 3 < x \\le  - 1}  \\cr \n   {{x^{2/3}},} & { - 1 < x < 2}  \\cr \n\n } } \\right.$$ is",
       "subject": "Mathematics",
       "topic": "application-of-derivatives",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The total number of local maxima and local minima of the function \n\n$$f(x) = \\left\\{ {\\matrix{\n   {{{(2 + x)}^3},} & { - 3 < x \\le  - 1}  \\cr \n   {{x^{2/3}},} & { - 1 < x < 2}  \\cr \n\n } } \\right.$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "0",
         "B": "1",
         "C": "2",
         "D": "3"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The total number of local maxima and local minima of the function $$f(x) = \\left\\{ {\\matrix{\n   {{{(2 + x)}^3},} & { - 3",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 46,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 46,
-      "question_text": "Consider the system of equations:\n\n$$x-2y+3z=-1$$\n\n$$-x+y-2z=k$$\n\n$$x-3y+4z=1$$\n\nStatement - 1 : The system of equations has no solution for $$k\\ne3$$.\n\nand\n\nStatement - 2 : The determinant $$\\left| {\\matrix{\n   1 & 3 & { - 1}  \\cr \n   { - 1} & { - 2} & k  \\cr \n   1 & 4 & 1  \\cr \n\n } } \\right| \\ne 0$$, for $$k \\ne 3$$.",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider the system of equations:\n\n$$x-2y+3z=-1$$\n\n$$-x+y-2z=k$$\n\n$$x-3y+4z=1$$\n\nStatement - 1 : The system of equations has no solution for $$k\\ne3$$.\n\nand\n\nStatement - 2 : The determinant $$\\left| {\\matrix{\n   1 & 3 & { - 1}  \\cr \n   { - 1} & { - 2} & k  \\cr \n   1 & 4 & 1  \\cr \n\n } } \\right| \\ne 0$$, for $$k \\ne 3$$.",
+      "question_images": [],
+      "option_texts": {
         "A": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is a correct explanation for Statement - 1",
         "B": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is NOT a correct explanation for Statement - 1",
         "C": "Statement - 1 is True, Statement - 2 is False",
         "D": "Statement - 1 is False, Statement - 2 is True"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Consider the system of equations: \n$$x-2y+3z=-1$$ \n$$-x+y-2z=k$$ \n$$x-3y+4z=1$$ \nStatement - 1 : The system of equations has no solution for $$k\\ne3$$. \nand \nStatement - 2 : The determinant $$\\left| {\\matrix{\n   1 & 3 & { - 1}  \\cr \n   { - 1} & { - 2} & k  \\cr \n   1 & 4 & 1  \\cr \n\n } } \\right| \\ne 0$$, for $$k \\ne 3$$.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 47,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 47,
-      "question_text": "Student I, II and III perform an experiment for measuring the acceleration due to gravity (g) using a\nsimple pendulum. They use different length of the pendulum and/or record time for different number\nof oscillations. The observations area shown in the table.\n\nLeast count for length = 0.1 cm\n\nLeast count for time = 0.1 s\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg .tg-s6z2{text-align:center}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n\n\n\n  \n    Student\n    Length of the\npendulum\n(cm)\n    No. of\noscillations\n(n)\n    Total time\nfor(n)\noscillations\n(s)\n    Time\nperiods\n(s)\n  \n  \n    I\n    64.0\n    8\n    128.0\n    16.0\n  \n  \n    II\n    64.0\n    4\n    64.0\n    16.0\n  \n  \n    III\n    20.0\n    4\n    36.0\n    9.0\n  \n\n\nIf EI, EII and EIII are the percentage errors in g, i.e., $$\\left(\\frac{\\triangle g}g\\times100\\right)$$ for students I, II and III, respectively,then",
       "subject": "Physics",
       "topic": "units-and-measurements",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Student I, II and III perform an experiment for measuring the acceleration due to gravity (g) using a\nsimple pendulum. They use different length of the pendulum and/or record time for different number\nof oscillations. The observations area shown in the table.\n\nLeast count for length = 0.1 cm\n\nLeast count for time = 0.1 s\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg .tg-s6z2{text-align:center}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n\n\n\n  \n    Student\n    Length of the\npendulum\n(cm)\n    No. of\noscillations\n(n)\n    Total time\nfor(n)\noscillations\n(s)\n    Time\nperiods\n(s)\n  \n  \n    I\n    64.0\n    8\n    128.0\n    16.0\n  \n  \n    II\n    64.0\n    4\n    64.0\n    16.0\n  \n  \n    III\n    20.0\n    4\n    36.0\n    9.0\n  \n\n\nIf EI, EII and EIII are the percentage errors in g, i.e., $$\\left(\\frac{\\triangle g}g\\times100\\right)$$ for students I, II and III, respectively,then",
+      "question_images": [],
+      "option_texts": {
         "A": "E_{I} = 0",
         "B": "E_{I} is minimum",
         "C": "E_{I} = E_{II}",
         "D": "E_{II} is maximum"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Student I, II and III perform an experiment for measuring the acceleration due to gravity (g) using a\nsimple pendulum. They use different length of the pendulum and/or record time for different number\nof oscillations. The observations area shown in the table.\nLeast count for length = 0.1 cm \nLeast count for time = 0.1 s \n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg .tg-s6z2{text-align:center}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n\n\n\n  \n    Student\n    Length of thependulum(cm)\n    No. ofoscillations(n)\n    Total timefor(n)oscillations(s)\n    Timeperiods(s)\n  \n  \n    I\n    64.0\n    8\n    128.0\n    16.0\n  \n  \n    II\n    64.0\n    4\n    64.0\n    16.0\n  \n  \n    III\n    20.0\n    4\n    36.0\n    9.0\n  \n\n\nIf E_{I}, E_{II} and E_{III} are the percentage errors in g, i.e., $$\\left(\\frac{\\triangle g}g\\times100\\right)$$ for students I, II and III, respectively,then",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 48,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 48,
-      "question_text": "Figure shows three resistor configurations R1, R2 and R3 connected to 3 V battery. If the power dissipated by the configuration R1, R2 and R3 is P1, P2 and P3, respectively, then",
       "subject": "Physics",
       "topic": "current-electricity",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Figure shows three resistor configurations R1, R2 and R3 connected to 3 V battery. If the power dissipated by the configuration R1, R2 and R3 is P1, P2 and P3, respectively, then",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lgkiqbst/5e436f62-090f-4e85-8216-43ece60e45f4/017cb5e0-dcf2-11ed-88c8-bd53f47e749e/file-1lgkiqbsu.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lgkir7jc/697a3de8-aba1-4c78-a19c-cd3dcf8ba194/1a00cd90-dcf2-11ed-8877-b7080ed8ce1c/file-1lgkir7jd.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lgkixrs6/820fa9e1-7cea-47ff-a6cc-a9a466f68e6c/d07f1860-dcf2-11ed-8877-b7080ed8ce1c/file-1lgkixrs7.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lgkiybe1/936d1fb1-a7f6-4c1b-8e1a-6798279a5dcb/dfa48190-dcf2-11ed-8877-b7080ed8ce1c/file-1lgkiybe2.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lgkj3cmq/c8b67254-17ec-4a24-bfd6-acd64000ff60/6ba5b920-dcf3-11ed-8877-b7080ed8ce1c/file-1lgkj3cmr.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lgkj3txg/6ee946b8-3cb9-4d09-b02d-54f1677255c6/79027040-dcf3-11ed-8877-b7080ed8ce1c/file-1lgkj3txh.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lgkj4le4/55a4e0c4-a57d-4b2b-a968-3882198871fa/8e3958c0-dcf3-11ed-8877-b7080ed8ce1c/file-1lgkj4le5.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "P1 > P2 > P3",
         "B": "P1 > P3 > P2",
         "C": "P2 > P1 > P3",
         "D": "P3 > P2 > P1"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Figure shows three resistor configurations R1, R2 and R3 connected to 3 V battery. If the power dissipated by the configuration R1, R2 and R3 is P1, P2 and P3, respectively, then",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 49,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 49,
-      "question_text": "Which one of the following statements is WRONG in the context of X-rays generated from a X-ray tube?",
       "subject": "Physics",
       "topic": "dual-nature-of-radiation",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which one of the following statements is WRONG in the context of X-rays generated from a X-ray tube?",
+      "question_images": [],
+      "option_texts": {
         "A": "Wavelength of characteristic X-rays decreases when the atomic number of the target increases.",
         "B": "Cut-off wavelength of the continuous X-rays depends on the atomic number of the target.",
         "C": "Intensity of the characteristic X-rays depends on the electrical power given to the X-ray tube.",
         "D": "Cut-off wavelength of the continuous X-rays depends on the energy of the electrons in the X-ray tube."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Which one of the following statements is WRONG in the context of X-rays generated from a X-ray tube?",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 50,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 50,
-      "question_text": "Two beams of red and violet colours are made to pass separately through a prism (angle of the prism is 60$$^\\circ$$). In the position of minimum deviation, the angle of refraction will be :",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two beams of red and violet colours are made to pass separately through a prism (angle of the prism is 60$$^\\circ$$). In the position of minimum deviation, the angle of refraction will be :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lgkjizin/3d46bf0d-50ac-4432-9782-21b053623fef/1e76bdf0-dcf5-11ed-85ee-bd5aa9f0ed3f/file-1lgkjizio.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lgkjjq2g/7a6f39f1-094e-4711-81e6-a553b2a7114a/32f92380-dcf5-11ed-8877-b7080ed8ce1c/file-1lgkjjq2h.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "30$$^\\circ$$ for both the colours",
         "B": "greater for the violet colour",
         "C": "greater for the red colour",
         "D": "equal but not 30$$^\\circ$$ for both the colours"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Two beams of red and violet colours are made to pass separately through a prism (angle of the prism is 60$$^\\circ$$). In the position of minimum deviation, the angle of refraction will be :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 51,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 51,
-      "question_text": "An ideal gas is expanding such that PT$$^2$$ = constant. The coefficient of volume expansion of the gas is",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An ideal gas is expanding such that PT$$^2$$ = constant. The coefficient of volume expansion of the gas is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\frac{1}{\\mathrm{T}}$$",
         "B": "$$\\frac{2}{\\mathrm{T}}$$",
         "C": "$$\\frac{3}{\\mathrm{T}}$$",
         "D": "$$\\frac{4}{\\mathrm{T}}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "An ideal gas is expanding such that PT$$^2$$ = constant. The coefficient of volume expansion of the gas is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 52,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 52,
-      "question_text": "A spherically symmetric gravitational system of particles has a mass density\n\n$$\\rho  = \\left\\{ {\\matrix{\n   {{\\rho _0}} & {for} & {r \\le R}  \\cr \n   0 & {for} & {r > R}  \\cr \n\n } } \\right.$$\n\nWhere $$\\rho_0$$ is a constant. A test mass can undergo circular motion under the influence of the gravitational field of particles. Its speed V as a function of distance $$r(0 < r < \\infty)$$ from the centre of the system is represented by",
       "subject": "Physics",
       "topic": "gravitation",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A spherically symmetric gravitational system of particles has a mass density\n\n$$\\rho  = \\left\\{ {\\matrix{\n   {{\\rho _0}} & {for} & {r \\le R}  \\cr \n   0 & {for} & {r > R}  \\cr \n\n } } \\right.$$\n\nWhere $$\\rho_0$$ is a constant. A test mass can undergo circular motion under the influence of the gravitational field of particles. Its speed V as a function of distance $$r(0 < r < \\infty)$$ from the centre of the system is represented by",
+      "question_images": [],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lgklpy4g/36e5c537-dbd6-405c-a7c7-57098bba23d2/b24f2000-dcfd-11ed-b5ad-97b01a9acc6f/file-1lgklpy4h.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lgklql4g/af03d53c-fe59-4e24-b120-ea3c2b45a47c/c4137700-dcfd-11ed-8c7b-9d434a19d7bf/file-1lgklql4h.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lgklr2bh/737a72d3-7f92-435a-ad25-b8649a6c8b8a/d15be2d0-dcfd-11ed-8c7b-9d434a19d7bf/file-1lgklr2bi.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lgklrilh/cf921c98-db21-4df1-9c3d-fb0fac2b7d17/ddeee150-dcfd-11ed-8c7b-9d434a19d7bf/file-1lgklrili.png",
+          "description": ""
+        }
+      },
       "correct_answer": "C",
-      "question": "A spherically symmetric gravitational system of particles has a mass density \n$$\\rho  = \\left\\{ {\\matrix{\n   {{\\rho _0}} & {for} & {r \\le R}  \\cr \n   0 & {for} & {r > R}  \\cr \n\n } } \\right.$$\nWhere $$\\rho_0$$ is a constant. A test mass can undergo circular motion under the influence of the gravitational field of particles. Its speed V as a function of distance $$r(0 < r < \\infty)$$ from the centre of the system is represented by",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 53,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 53,
-      "question_text": "Two balls, having linear momenta $${\\overrightarrow p _1} = p\\widehat i$$ and $${\\overrightarrow p _2} =  - p\\widehat i$$, undergo a collision in free space. There is no external force acting on the balls. Let $${\\overrightarrow {p'} _1}$$ and $${\\overrightarrow {p'} _2}$$ be their final momenta. The following option(s) is (are) NOT ALLOWED for any non-zero value of $$p,{a_1},{a_2},{b_1},{b_2},{c_1}$$ and $${c_2}$$ :",
       "subject": "Physics",
       "topic": "impulse-and-momentum",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two balls, having linear momenta $${\\overrightarrow p _1} = p\\widehat i$$ and $${\\overrightarrow p _2} =  - p\\widehat i$$, undergo a collision in free space. There is no external force acting on the balls. Let $${\\overrightarrow {p'} _1}$$ and $${\\overrightarrow {p'} _2}$$ be their final momenta. The following option(s) is (are) NOT ALLOWED for any non-zero value of $$p,{a_1},{a_2},{b_1},{b_2},{c_1}$$ and $${c_2}$$ :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${\\overrightarrow {p'} _1} = {a_1}\\widehat i + {b_1}\\widehat j + {c_1}\\widehat k;{\\overrightarrow {p'} _2} = {a_2}\\widehat i + {b_2}\\widehat j$$",
         "B": "$${\\overrightarrow {p'} _1} = {c_1}\\widehat k;{\\overrightarrow {p'} _2} = {c_2}\\widehat k$$",
         "C": "$${\\overrightarrow {p'} _1} = {a_1}\\widehat i + {b_1}\\widehat j + {c_1}\\widehat k;{\\overrightarrow {p'} _2} = {a_2}\\widehat i + {b_2}\\widehat j - {c_1}\\widehat k$$",
         "D": "$${\\overrightarrow {p'} _1} = {a_1}\\widehat i + {b_1}\\widehat j;{\\overrightarrow {p'} _2} = {a_2}\\widehat i + {b_1}\\widehat j$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Two balls, having linear momenta $${\\overrightarrow p _1} = p\\widehat i$$ and $${\\overrightarrow p _2} =  - p\\widehat i$$, undergo a collision in free space. There is no external force acting on the balls. Let $${\\overrightarrow {p'} _1}$$ and $${\\overrightarrow {p'} _2}$$ be their final momenta. The following option(s) is (are) NOT ALLOWED for any non-zero value of $$p,{a_1},{a_2},{b_1},{b_2},{c_1}$$ and $${c_2}$$ :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 54,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 54,
-      "question_text": "Assume that the nuclear binding energy per nucleon (B/A) versus mass number (A) is as shown in the figure. Use this plot to choose the correct choice(s) given below.",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Assume that the nuclear binding energy per nucleon (B/A) versus mass number (A) is as shown in the figure. Use this plot to choose the correct choice(s) given below.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lgktehr3/db9100ff-cf1f-4db6-a410-bb2960159141/bccb77e0-dd1b-11ed-a2c0-e13eeaa5d3e7/file-1lgktehr4.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "Fusion of two nuclei with mass number lying in the range of 1 < A < 50 will release energy",
         "B": "Fusion of two nuclei with mass numbers lying in the range of 51 < A < 100 will release energy",
         "C": "Fission of a nucleus lying in the mass range of 100 < A < 200 will release energy when broken into two equal fragments",
         "D": "Fission of a nucleus lying in the mass range of 200 < A < 260 will release energy when broken into two equal fragments"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Assume that the nuclear binding energy per nucleon (B/A) versus mass number (A) is as shown in the figure. Use this plot to choose the correct choice(s) given below.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 55,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 55,
-      "question_text": "A particle of mass m and charge q, moving with velocity v enters Region II normal to the boundary as shown in the figure. Region II has a uniform magnetic field B perpendicular to the plane of the paper. The length of the Region II is $$l$$. Choose the correct choice (s).",
       "subject": "Physics",
       "topic": "magnetism",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A particle of mass m and charge q, moving with velocity v enters Region II normal to the boundary as shown in the figure. Region II has a uniform magnetic field B perpendicular to the plane of the paper. The length of the Region II is $$l$$. Choose the correct choice (s).",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lgktk8km/74d13ad3-f331-40c1-ab00-eab268555eff/5c8f2060-dd1c-11ed-a69d-59b96e0d72fa/file-1lgktk8kn.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lgktx4iy/33e10a73-450e-4988-9210-d78065d7f021/c2f3efb0-dd1d-11ed-a69d-59b96e0d72fa/file-1lgktx4iz.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "The particle enters Region III only if its velocity $$v > {{qlB} \\over m}$$",
         "B": "The particle enters Region III only if its velocity $$v < {{qlB} \\over m}$$",
         "C": "Path length of the particle in Region II is maximum when velocity $$v = {{qlB} \\over m}$$",
         "D": "Time spent in Region II is same for any velocity v as long as the particle returns to Region I"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A particle of mass m and charge q, moving with velocity v enters Region II normal to the boundary as shown in the figure. Region II has a uniform magnetic field B perpendicular to the plane of the paper. The length of the Region II is $$l$$. Choose the correct choice (s).",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 56,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 56,
-      "question_text": "In a Young's double slit experiment, the separation between the two slits is d and the wavelength of the light is $$\\lambda$$. The intensity of light falling on slit 1 is four times the intensity of light falling on slit 2. Choose the correct choice(s).",
       "subject": "Physics",
       "topic": "wave-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In a Young's double slit experiment, the separation between the two slits is d and the wavelength of the light is $$\\lambda$$. The intensity of light falling on slit 1 is four times the intensity of light falling on slit 2. Choose the correct choice(s).",
+      "question_images": [],
+      "option_texts": {
         "A": "If $$d=\\lambda$$, the screen will contain only one maximum",
         "B": "If $$\\lambda < d < 2\\lambda$$, at least one more maximum (besides the central maximum) will be observed on the screen",
         "C": "If the intensity of light falling on slit 1 is reduced so that it becomes equal to that of slit 2, the intensities of the observed dark and bright fringes will increase",
         "D": "If the intensity of light falling on slit 2 is increased so that it becomes equal to that of slit 1, the intensities of the observed dark and bright fringes will increase"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "In a Young's double slit experiment, the separation between the two slits is d and the wavelength of the light is $$\\lambda$$. The intensity of light falling on slit 1 is four times the intensity of light falling on slit 2. Choose the correct choice(s).",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 57,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 57,
-      "question_text": "STATEMENT - 1\n\nIn a Meter Bridge experiment, null point for an unknown resistance is measured. Now, the unknown resistance is put inside an enclosure maintained at a higher temperature. The null point can be obtained at the same point as before by decreasing the value of the standard resistance.\n\nand\n\nSTATEMENT - 2\n\nResistance of a metal increases with increase in temperature.",
       "subject": "Physics",
       "topic": "current-electricity",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "STATEMENT - 1\n\nIn a Meter Bridge experiment, null point for an unknown resistance is measured. Now, the unknown resistance is put inside an enclosure maintained at a higher temperature. The null point can be obtained at the same point as before by decreasing the value of the standard resistance.\n\nand\n\nSTATEMENT - 2\n\nResistance of a metal increases with increase in temperature.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lgkud1qx/84a999b0-8f1f-4552-b2cb-1c3c72090d54/7dc09090-dd1f-11ed-a69d-59b96e0d72fa/file-1lgkud1qy.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is a correct explanation for Statement - 1",
         "B": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is NOT a correct explanation for Statement - 1",
         "C": "Statement - 1 is True, Statement - 2 is False",
         "D": "Statement - 1 is False, Statement - 2 is True"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "STATEMENT - 1 \nIn a Meter Bridge experiment, null point for an unknown resistance is measured. Now, the unknown resistance is put inside an enclosure maintained at a higher temperature. The null point can be obtained at the same point as before by decreasing the value of the standard resistance. \nand \nSTATEMENT - 2 \nResistance of a metal increases with increase in temperature.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 58,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 58,
-      "question_text": "STATEMENT - 1\n\nAn astronaut in an orbiting space station above the Earth experiences weightlessness.\n\nand\n\nSTATEMENT - 2\n\nAn object moving around the Earth under the influence of Earth's gravitational force is in a state of 'free-fall'.",
       "subject": "Physics",
       "topic": "gravitation",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "STATEMENT - 1\n\nAn astronaut in an orbiting space station above the Earth experiences weightlessness.\n\nand\n\nSTATEMENT - 2\n\nAn object moving around the Earth under the influence of Earth's gravitational force is in a state of 'free-fall'.",
+      "question_images": [],
+      "option_texts": {
         "A": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is a correct explanation for Statement - 1",
         "B": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is NOT a correct explanation for Statement - 1",
         "C": "Statement - 1 is True, Statement - 2 is False",
         "D": "Statement - 1 is False, Statement - 2 is True"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "STATEMENT - 1 \nAn astronaut in an orbiting space station above the Earth experiences weightlessness. \nand \nSTATEMENT - 2 \nAn object moving around the Earth under the influence of Earth's gravitational force is in a state of 'free-fall'.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 59,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 59,
-      "question_text": "STATEMENT - 1 :\n\nTwo cylinders, one hollow (metal) and the other solid (wood) with the same mass and identical dimensions are simultaneously allowed to roll without slipping down an inclined plane from the same height. The hollow cylinder will reach the bottom of the inclined plane first.\n\nand\n\nSTATEMENT - 2 :\n\nBy the principle of conservation of energy, the total kinetic energies of both the cylinders are identical when they reach the bottom of the incline.",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "STATEMENT - 1 :\n\nTwo cylinders, one hollow (metal) and the other solid (wood) with the same mass and identical dimensions are simultaneously allowed to roll without slipping down an inclined plane from the same height. The hollow cylinder will reach the bottom of the inclined plane first.\n\nand\n\nSTATEMENT - 2 :\n\nBy the principle of conservation of energy, the total kinetic energies of both the cylinders are identical when they reach the bottom of the incline.",
+      "question_images": [],
+      "option_texts": {
         "A": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is a correct explanation for Statement - 1",
         "B": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is NOT a correct explanation for Statement - 1",
         "C": "Statement - 1 is True, Statement - 2 is False",
         "D": "Statement - 1 is False, Statement - 2 is True"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "STATEMENT - 1 : \nTwo cylinders, one hollow (metal) and the other solid (wood) with the same mass and identical dimensions are simultaneously allowed to roll without slipping down an inclined plane from the same height. The hollow cylinder will reach the bottom of the inclined plane first. \nand \nSTATEMENT - 2 : \nBy the principle of conservation of energy, the total kinetic energies of both the cylinders are identical when they reach the bottom of the incline.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 60,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 60,
-      "question_text": "STATEMENT - 1 :\n\nThe stream of water flowing at high speed from a garden hose pipe tends to spread line a fountain when held vertically up, but tends to narrow down when held vertically down.\n\nand\n\nSTATEMENT - 2 :\n\nIn any steady flow of an incompressible fluid, the volume flow rate of the fluid remains constant.",
       "subject": "Physics",
       "topic": "properties-of-matter",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "STATEMENT - 1 :\n\nThe stream of water flowing at high speed from a garden hose pipe tends to spread line a fountain when held vertically up, but tends to narrow down when held vertically down.\n\nand\n\nSTATEMENT - 2 :\n\nIn any steady flow of an incompressible fluid, the volume flow rate of the fluid remains constant.",
+      "question_images": [],
+      "option_texts": {
         "A": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is a correct explanation for Statement - 1",
         "B": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is NOT a correct explanation for Statement - 1",
         "C": "Statement - 1 is True, Statement - 2 is False",
         "D": "Statement - 1 is False, Statement - 2 is True"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "STATEMENT - 1 : \nThe stream of water flowing at high speed from a garden hose pipe tends to spread line a fountain when held vertically up, but tends to narrow down when held vertically down. \nand \nSTATEMENT - 2 : \nIn any steady flow of an incompressible fluid, the volume flow rate of the fluid remains constant.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 61,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 61,
-      "question_text": "As the bubble moves upwards, besides the buoyancy force the following forces are acting on it",
       "subject": "Physics",
       "topic": "properties-of-matter",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "As the bubble moves upwards, besides the buoyancy force the following forces are acting on it",
+      "question_images": [],
+      "option_texts": {
         "A": "Only the force of gravity",
         "B": "The force due to gravity and the force due to the pressure of the liquid",
         "C": "The force due to gravity, the force due to the pressure of the liquid and the force due to viscosity of the liquid",
         "D": "The force due to gravity and the force due to viscosity of the liquid"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "As the bubble moves upwards, besides the buoyancy force the following forces are acting on it",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 62,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 62,
-      "question_text": "When the gas bubble is at a height y from the bottom, its temperature is :",
       "subject": "Physics",
       "topic": "properties-of-matter",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "When the gas bubble is at a height y from the bottom, its temperature is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${T_0}{\\left( {{{{P_0} + {\\rho _l}gH} \\over {{P_0} + {\\rho _l}gy}}} \\right)^{{2 \\over 5}}}$$",
         "B": "$${T_0}{\\left( {{{{P_0} + {\\rho _l}g(H - y)} \\over {{P_0} + {\\rho _l}gH}}} \\right)^{{2 \\over 5}}}$$",
         "C": "$${T_0}{\\left( {{{{P_0} + {\\rho _l}gH} \\over {{P_0} + {\\rho _l}gy}}} \\right)^{{3 \\over 5}}}$$",
         "D": "$${T_0}{\\left( {{{{P_0} + {\\rho _l}g(H - y)} \\over {{P_0} + {\\rho _l}gH}}} \\right)^{{3 \\over 5}}}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "When the gas bubble is at a height y from the bottom, its temperature is :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 63,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 63,
-      "question_text": "The buoyancy force acting on the gas bubble is (Assume R is the universal gas constant)",
       "subject": "Physics",
       "topic": "properties-of-matter",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The buoyancy force acting on the gas bubble is (Assume R is the universal gas constant)",
+      "question_images": [],
+      "option_texts": {
         "A": "$${\\rho _l}nRg{T_0}{{{{({P_0} + {\\rho _l}gH)}^{{2 \\over 5}}}} \\over {{{({P_0} + {\\rho _l}gy)}^{{7 \\over 5}}}}}$$",
         "B": "$${{{\\rho _l}nRg{T_0}} \\over {{{({P_0} + {\\rho _l}gH)}^{{2 \\over 5}}}{{[{P_0} + {\\rho _l}g(H - y)]}^{{3 \\over 5}}}}}$$",
         "C": "$${\\rho _l}nRg{T_0}{{{{({P_0} + {\\rho _l}gH)}^{{3 \\over 5}}}} \\over {{{({P_0} + {\\rho _l}gy)}^{{8 \\over 5}}}}}$$",
         "D": "$${{{\\rho _l}nRg{T_0}} \\over {{{({P_0} + {\\rho _l}gH)}^{{3 \\over 5}}}[{P_0} + {\\rho _l}g{{(H - y)}^{{2 \\over 5}}}}}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The buoyancy force acting on the gas bubble is (Assume R is the universal gas constant)",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 64,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 64,
-      "question_text": "The quantum number n of the state finally populated in He$$^+$$ ions is :",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The quantum number n of the state finally populated in He$$^+$$ ions is :",
+      "question_images": [],
+      "option_texts": {
         "A": "2",
         "B": "3",
         "C": "4",
         "D": "5"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The quantum number n of the state finally populated in He$$^+$$ ions is :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 65,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 65,
-      "question_text": "The wavelength of light emitted in the visible region by He$$^+$$ ions after collisions with H atoms is",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The wavelength of light emitted in the visible region by He$$^+$$ ions after collisions with H atoms is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$6.5\\times10^{-7}$$ m",
         "B": "$$5.6\\times10^{-7}$$ m",
         "C": "$$4.8\\times10^{-7}$$ m",
         "D": "$$4.0\\times10^{-7}$$ m"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The wavelength of light emitted in the visible region by He$$^+$$ ions after collisions with H atoms is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 66,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 66,
-      "question_text": "The ratio of the kinetic energy of the $$n=2$$ electron for the H atom to that of He$$^+$$ ion is",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The ratio of the kinetic energy of the $$n=2$$ electron for the H atom to that of He$$^+$$ ion is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\frac{1}{4}$$",
         "B": "$$\\frac{1}{2}$$",
         "C": "1",
         "D": "2"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The ratio of the kinetic energy of the $$n=2$$ electron for the H atom to that of He$$^+$$ ion is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 67,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 67,
-      "question_text": "The speed of the block at point B immediately after it strikes the second incline is",
       "subject": "Physics",
       "topic": "laws-of-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The speed of the block at point B immediately after it strikes the second incline is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\sqrt{60}$$ m/s",
         "B": "$$\\sqrt{45}$$ m/s",
         "C": "$$\\sqrt{30}$$ m/s",
         "D": "$$\\sqrt{75}$$ m/s"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The speed of the block at point B immediately after it strikes the second incline is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 68,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 68,
-      "question_text": "The speed of the block at point C, immediately before it leaves the second incline is",
       "subject": "Physics",
       "topic": "laws-of-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The speed of the block at point C, immediately before it leaves the second incline is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\sqrt{120}$$ m/s",
         "B": "$$\\sqrt{105}$$ m/s",
         "C": "$$\\sqrt{90}$$ m/s",
         "D": "$$\\sqrt{75}$$ m/s"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The speed of the block at point C, immediately before it leaves the second incline is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 69,
       "year": 2008,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 69,
-      "question_text": "If collision between the block and the incline is completely elastic, then the vertical (upward) component of the velocity of the block at point B, immediately after it strikes the second incline is",
       "subject": "Physics",
       "topic": "impulse-and-momentum",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If collision between the block and the incline is completely elastic, then the vertical (upward) component of the velocity of the block at point B, immediately after it strikes the second incline is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\sqrt{30}$$ m/s",
         "B": "$$\\sqrt{15}$$ m/s",
         "C": "0",
         "D": "$$-\\sqrt{15}$$ m/s"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "If collision between the block and the incline is completely elastic, then the vertical (upward) component of the velocity of the block at point B, immediately after it strikes the second incline is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     }
   ]
 }

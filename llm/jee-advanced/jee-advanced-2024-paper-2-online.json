@@ -8,1078 +8,1297 @@
   },
   "questions": [
     {
+      "question_number": 1,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 1,
-      "question_text": "According to Bohr's model, the highest kinetic energy is associated with the electron in the",
       "subject": "Chemistry",
       "topic": "structure-of-atom",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "According to Bohr's model, the highest kinetic energy is associated with the electron in the",
+      "question_images": [],
+      "option_texts": {
         "A": "first orbit of $\\mathrm{H}$ atom",
         "B": "first orbit of $\\mathrm{He}^{+}$",
         "C": "second orbit of $\\mathrm{He}^{+}$",
         "D": "second orbit of $\\mathrm{Li}^{2+}$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "According to Bohr's model, the highest kinetic energy is associated with the electron in the",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 2,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 2,
-      "question_text": "In a metal deficient oxide sample, $\\mathbf{M}_{\\mathbf{x}} \\mathbf{Y}_2 \\mathbf{O}_4$ ( $\\mathbf{M}$ and $\\mathbf{Y}$ are metals), $\\mathbf{M}$ is present in both +2 and +3 oxidation states and $\\mathbf{Y}$ is in +3 oxidation state. If the fraction of $\\mathbf{M}^{2+}$ ions present in $\\mathbf{M}$ is $\\frac{1}{3}$, the value of $\\mathbf{X}$ is _______ .",
       "subject": "Chemistry",
       "topic": "solid-state",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In a metal deficient oxide sample, $\\mathbf{M}_{\\mathbf{x}} \\mathbf{Y}_2 \\mathbf{O}_4$ ( $\\mathbf{M}$ and $\\mathbf{Y}$ are metals), $\\mathbf{M}$ is present in both +2 and +3 oxidation states and $\\mathbf{Y}$ is in +3 oxidation state. If the fraction of $\\mathbf{M}^{2+}$ ions present in $\\mathbf{M}$ is $\\frac{1}{3}$, the value of $\\mathbf{X}$ is _______ .",
+      "question_images": [],
+      "option_texts": {
         "A": "0.25",
         "B": "0.33",
         "C": "0.67",
         "D": "0.75"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "In a metal deficient oxide sample, $\\mathbf{M}_{\\mathbf{x}} \\mathbf{Y}_2 \\mathbf{O}_4$ ( $\\mathbf{M}$ and $\\mathbf{Y}$ are metals), $\\mathbf{M}$ is present in both +2 and +3 oxidation states and $\\mathbf{Y}$ is in +3 oxidation state. If the fraction of $\\mathbf{M}^{2+}$ ions present in $\\mathbf{M}$ is $\\frac{1}{3}$, the value of $\\mathbf{X}$ is _______ .",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 3,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 3,
-      "question_text": "In the following reaction sequence, the major product $\\mathbf{Q}$ is",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In the following reaction sequence, the major product $\\mathbf{Q}$ is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpxx8op/45c5626f-12df-42f3-b4b5-a62859bc2ad9/cbfdbb80-1cb0-11ef-853e-dba8720394f1/file-6y3zli1lwpxx8oq.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrv7b2t/d62ff332-6409-4243-85d0-8e08583ba866/b9d77940-1dbf-11ef-822e-992e590d1c31/file-6y3zli1lwrv7b2u.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpxzcuc/85a00619-586c-427c-b426-d778cc226103/06d22840-1cb1-11ef-853e-dba8720394f1/file-6y3zli1lwpxzcud.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpxzh7b/73415ea2-5b53-4b75-9bd1-6a17eaf5879f/0a309580-1cb1-11ef-853e-dba8720394f1/file-6y3zli1lwpxzh7c.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpxzodh/0c8d8d37-5469-48e8-bee9-030b97e1dbfb/0fbabc60-1cb1-11ef-853e-dba8720394f1/file-6y3zli1lwpxzodi.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpxzuge/447cc802-79b7-4fbf-922d-5bfd92a2e63d/146d20e0-1cb1-11ef-853e-dba8720394f1/file-6y3zli1lwpxzugf.png",
+          "description": ""
+        }
+      },
       "correct_answer": "D",
-      "question": "In the following reaction sequence, the major product $\\mathbf{Q}$ is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 4,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 4,
-      "question_text": "The species formed on fluorination of phosphorus pentachloride in a polar organic solvent are",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The species formed on fluorination of phosphorus pentachloride in a polar organic solvent are",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\left[\\mathrm{PF}_4\\right]^{+}\\left[\\mathrm{PF}_6\\right]^{-}$and $\\left[\\mathrm{PCl}_4\\right]^{+}\\left[\\mathrm{PF}_6\\right]^{-}$",
         "B": "$\\left[\\mathrm{PCl}_4\\right]^{+}\\left[\\mathrm{PCl}_4 \\mathrm{~F}_2\\right]^{-}$and $\\left[\\mathrm{PCl}_4\\right]^{+}\\left[\\mathrm{PF}_6\\right]^{-}$",
         "C": "$\\mathrm{PF}_3$ and $\\mathrm{PCl}_3$",
         "D": "$\\mathrm{PF}_5$ and $\\mathrm{PCl}_3$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The species formed on fluorination of phosphorus pentachloride in a polar organic solvent are",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 5,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 5,
-      "question_text": "An aqueous solution of hydrazine $\\left(\\mathrm{N}_2 \\mathrm{H}_4\\right)$ is electrochemically oxidized by $\\mathrm{O}_2$, thereby releasing chemical energy in the form of electrical energy. One of the products generated from the electrochemical reaction is $\\mathrm{N}_2(\\mathrm{~g})$.\n\n\nChoose the correct statement(s) about the above process",
       "subject": "Chemistry",
       "topic": "electrochemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An aqueous solution of hydrazine $\\left(\\mathrm{N}_2 \\mathrm{H}_4\\right)$ is electrochemically oxidized by $\\mathrm{O}_2$, thereby releasing chemical energy in the form of electrical energy. One of the products generated from the electrochemical reaction is $\\mathrm{N}_2(\\mathrm{~g})$.\n\n\nChoose the correct statement(s) about the above process",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\mathrm{OH}^{-}$ions react with $\\mathrm{N}_2 \\mathrm{H}_4$ at the anode to form $\\mathrm{N}_2(\\mathrm{~g})$ and water, releasing 4 electrons to the anode.",
         "B": "At the cathode, $\\mathrm{N}_2 \\mathrm{H}_4$ breaks to $\\mathrm{N}_2(\\mathrm{~g})$ and nascent hydrogen released at the electrode reacts with oxygen to form water.",
         "C": "At the cathode, molecular oxygen gets converted to $\\mathrm{OH}^{-}$.",
         "D": "Oxides of nitrogen are major by-products of the electrochemical process."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "An aqueous solution of hydrazine $\\left(\\mathrm{N}_2 \\mathrm{H}_4\\right)$ is electrochemically oxidized by $\\mathrm{O}_2$, thereby releasing chemical energy in the form of electrical energy. One of the products generated from the electrochemical reaction is $\\mathrm{N}_2(\\mathrm{~g})$. \n\nChoose the correct statement(s) about the above process",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 6,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 6,
-      "question_text": "The option(s) with correct sequence of reagents for the conversion of $\\mathbf{P}$ to $\\mathbf{Q}$ is(are)",
       "subject": "Chemistry",
       "topic": "compounds-containing-nitrogen",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The option(s) with correct sequence of reagents for the conversion of $\\mathbf{P}$ to $\\mathbf{Q}$ is(are)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpy6cx2/745013bc-aee5-43ea-a3ac-9ca37a3f293f/c98b1860-1cb1-11ef-853e-dba8720394f1/file-6y3zli1lwpy6cx3.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxj4lrza/f18bc93a-7596-4daa-836b-030c693d3459/a7ec5860-2cbd-11ef-8492-452a31590566/file-jaoe38c1lxj4lrzb.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxj4lofh/a4f55d02-ca7a-4c3b-a98a-3ff8d033a6b2/a52e49d0-2cbd-11ef-8492-452a31590566/file-jaoe38c1lxj4lofi.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "i) Lindlar's catalyst, $\\mathrm{H}_2$; \n\nii) $\\mathrm{SnCl}_2 / \\mathrm{HCl}$; \n\niii) $\\mathrm{NaBH}_4$; \n\niv) $\\mathrm{H}_3 \\mathrm{O}^{+}$",
         "B": "i) Lindlar's catalyst, $\\mathrm{H}_2$; \n\nii) $\\mathrm{H}_3 \\mathrm{O}^{+}$; \n\niii) $\\mathrm{SnCl}_2 / \\mathrm{HCl}$; \n\niv) $\\mathrm{NaBH}_4$",
         "C": "i) $\\mathrm{NaBH}_4$; \n\nii) $\\mathrm{SnCl}_2 / \\mathrm{HCl}$; \n\niii) $\\mathrm{H}_3 \\mathrm{O}^{+}$; \n\niv) Lindlar's catalyst, $\\mathrm{H}_2$",
         "D": "i) Lindlar's catalyst, $\\mathrm{H}_2$; \n\nii) $\\mathrm{NaBH}_4$; \n\niii) $\\mathrm{SnCl}_2 / \\mathrm{HCl}$; \n\niv) $\\mathrm{H}_3 \\mathrm{O}^{+}$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The option(s) with correct sequence of reagents for the conversion of $\\mathbf{P}$ to $\\mathbf{Q}$ is(are)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 7,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 7,
-      "question_text": "The compound(s) having peroxide linkage is(are)",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The compound(s) having peroxide linkage is(are)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwruf2fq/24226c4d-a6c2-4eae-8113-aa68fe46bde3/a882db60-1dbc-11ef-96c4-819c2e9c4d31/file-6y3zli1lwruf2fr.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrueyyf/86fa2505-a883-41df-a27a-6946d1ed4269/a5d28870-1dbc-11ef-96c4-819c2e9c4d31/file-6y3zli1lwrueyyg.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwruevh1/460570f8-aba9-4995-a908-6b2a59d4380f/a321c050-1dbc-11ef-96c4-819c2e9c4d31/file-6y3zli1lwruevh2.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwruerp4/84d476aa-891f-43c6-8629-5439e9595776/a0372380-1dbc-11ef-96c4-819c2e9c4d31/file-6y3zli1lwruerp5.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$\\mathrm{H}_2 \\mathrm{~S}_2 \\mathrm{O}_7$",
         "B": "$\\mathrm{H}_2 \\mathrm{~S}_2 \\mathrm{O}_8$",
         "C": "$\\mathrm{H}_2 \\mathrm{~S}_2 \\mathrm{O}_5$",
         "D": "$\\mathrm{H}_2 \\mathrm{SO}_5$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The compound(s) having peroxide linkage is(are)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 8,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 8,
-      "question_text": "To form a complete monolayer of acetic acid on $1 \\mathrm{~g}$ of charcoal, $100 \\mathrm{~mL}$ of $0.5 \\mathrm{M}$ acetic acid was used. Some of the acetic acid remained unadsorbed. To neutralize the unadsorbed acetic acid, 40 $\\mathrm{mL}$ of $1 \\mathrm{M} \\mathrm{NaOH}$ solution was required. If each molecule of acetic acid occupies $\\mathbf{P} \\times 10^{-23} \\mathrm{~m}^2$ surface area on charcoal, the value of $\\mathbf{P}$ is  _____.\n\n [Use given data: Surface area of charcoal $=1.5 \\times 10^2 \\mathrm{~m}^2 \\mathrm{~g}^{-1}$; Avogadro's number $\\left(\\mathrm{N}_{\\mathrm{A}}\\right)=6.0 \\times 10^{23}$ $\\left.\\mathrm{mol}^{-1}\\right]$",
       "subject": "Chemistry",
       "topic": "surface-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "To form a complete monolayer of acetic acid on $1 \\mathrm{~g}$ of charcoal, $100 \\mathrm{~mL}$ of $0.5 \\mathrm{M}$ acetic acid was used. Some of the acetic acid remained unadsorbed. To neutralize the unadsorbed acetic acid, 40 $\\mathrm{mL}$ of $1 \\mathrm{M} \\mathrm{NaOH}$ solution was required. If each molecule of acetic acid occupies $\\mathbf{P} \\times 10^{-23} \\mathrm{~m}^2$ surface area on charcoal, the value of $\\mathbf{P}$ is  _____.\n\n [Use given data: Surface area of charcoal $=1.5 \\times 10^2 \\mathrm{~m}^2 \\mathrm{~g}^{-1}$; Avogadro's number $\\left(\\mathrm{N}_{\\mathrm{A}}\\right)=6.0 \\times 10^{23}$ $\\left.\\mathrm{mol}^{-1}\\right]$",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "To form a complete monolayer of acetic acid on $1 \\mathrm{~g}$ of charcoal, $100 \\mathrm{~mL}$ of $0.5 \\mathrm{M}$ acetic acid was used. Some of the acetic acid remained unadsorbed. To neutralize the unadsorbed acetic acid, 40 $\\mathrm{mL}$ of $1 \\mathrm{M} \\mathrm{NaOH}$ solution was required. If each molecule of acetic acid occupies $\\mathbf{P} \\times 10^{-23} \\mathrm{~m}^2$ surface area on charcoal, the value of $\\mathbf{P}$ is  _____. [Use given data: Surface area of charcoal $=1.5 \\times 10^2 \\mathrm{~m}^2 \\mathrm{~g}^{-1}$; Avogadro's number $\\left(\\mathrm{N}_{\\mathrm{A}}\\right)=6.0 \\times 10^{23}$ $\\left.\\mathrm{mol}^{-1}\\right]$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 9,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 9,
-      "question_text": "Vessel-1 contains $\\mathbf{w}_2 \\mathrm{~g}$ of a non-volatile solute $\\mathbf{X}$ dissolved in $\\mathbf{w}_1 \\mathrm{~g}$ of water. Vessel- 2 contains $\\mathbf{w}_2 \\mathrm{~g}$ of another non-volatile solute $\\mathbf{Y}$ dissolved in $\\mathbf{w}_1 \\mathrm{~g}$ of water. Both the vessels are at the same temperature and pressure. The molar mass of $\\mathbf{X}$ is $80 \\%$ of that of $\\mathbf{Y}$. The van't Hoff factor for $\\mathbf{X}$ is 1.2 times of that of $\\mathbf{Y}$ for their respective concentrations.\n\n\n\nThe elevation of boiling point for solution in Vessel-1 is ________ $\\%$ of the solution in Vessel-2.",
       "subject": "Chemistry",
       "topic": "solutions",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Vessel-1 contains $\\mathbf{w}_2 \\mathrm{~g}$ of a non-volatile solute $\\mathbf{X}$ dissolved in $\\mathbf{w}_1 \\mathrm{~g}$ of water. Vessel- 2 contains $\\mathbf{w}_2 \\mathrm{~g}$ of another non-volatile solute $\\mathbf{Y}$ dissolved in $\\mathbf{w}_1 \\mathrm{~g}$ of water. Both the vessels are at the same temperature and pressure. The molar mass of $\\mathbf{X}$ is $80 \\%$ of that of $\\mathbf{Y}$. The van't Hoff factor for $\\mathbf{X}$ is 1.2 times of that of $\\mathbf{Y}$ for their respective concentrations.\n\n\n\nThe elevation of boiling point for solution in Vessel-1 is ________ $\\%$ of the solution in Vessel-2.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Vessel-1 contains $\\mathbf{w}_2 \\mathrm{~g}$ of a non-volatile solute $\\mathbf{X}$ dissolved in $\\mathbf{w}_1 \\mathrm{~g}$ of water. Vessel- 2 contains $\\mathbf{w}_2 \\mathrm{~g}$ of another non-volatile solute $\\mathbf{Y}$ dissolved in $\\mathbf{w}_1 \\mathrm{~g}$ of water. Both the vessels are at the same temperature and pressure. The molar mass of $\\mathbf{X}$ is $80 \\%$ of that of $\\mathbf{Y}$. The van't Hoff factor for $\\mathbf{X}$ is 1.2 times of that of $\\mathbf{Y}$ for their respective concentrations.\n\nThe elevation of boiling point for solution in Vessel-1 is ________ $\\%$ of the solution in Vessel-2.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 10,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 10,
-      "question_text": "For a double strand DNA, one strand is given below:\n\n\nThe amount of energy required to split the double strand DNA into two single strands is _______ kcal $\\operatorname{mol}^{-1}$.\n\n\n[Given: Average energy per H-bond for A-T base pair $=1.0 ~\\mathrm{kcal}~ \\mathrm{mol}^{-1}$, G-C base pair $=1.5 ~\\mathrm{kcal}$ $\\mathrm{mol}^{-1}$, and A-U base pair $=1.25 ~\\mathrm{kcal} ~\\mathrm{mol}^{-1}$. Ignore electrostatic repulsion between the phosphate groups.]",
       "subject": "Chemistry",
       "topic": "biomolecules",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "For a double strand DNA, one strand is given below:\n\n\nThe amount of energy required to split the double strand DNA into two single strands is _______ kcal $\\operatorname{mol}^{-1}$.\n\n\n[Given: Average energy per H-bond for A-T base pair $=1.0 ~\\mathrm{kcal}~ \\mathrm{mol}^{-1}$, G-C base pair $=1.5 ~\\mathrm{kcal}$ $\\mathrm{mol}^{-1}$, and A-U base pair $=1.25 ~\\mathrm{kcal} ~\\mathrm{mol}^{-1}$. Ignore electrostatic repulsion between the phosphate groups.]",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpydf2w/e2b61bf4-e5fa-41d3-b918-c961c3d150cf/8de0a180-1cb2-11ef-853e-dba8720394f1/file-6y3zli1lwpydf2x.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxj3qijl/b1756b78-c360-47bd-9af4-4a0735d780be/428cfd10-2cba-11ef-ac42-5fb2032377c1/file-jaoe38c1lxj3qijm.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "For a double strand DNA, one strand is given below: \n\nThe amount of energy required to split the double strand DNA into two single strands is _______ kcal $\\operatorname{mol}^{-1}$. \n\n[Given: Average energy per H-bond for A-T base pair $=1.0 ~\\mathrm{kcal}~ \\mathrm{mol}^{-1}$, G-C base pair $=1.5 ~\\mathrm{kcal}$ $\\mathrm{mol}^{-1}$, and A-U base pair $=1.25 ~\\mathrm{kcal} ~\\mathrm{mol}^{-1}$. Ignore electrostatic repulsion between the phosphate groups.]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 11,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 11,
-      "question_text": "A sample initially contains only U-238 isotope of uranium. With time, some of the U-238 radioactively decays into $\\mathrm{Pb}-206$ while the rest of it remains undisintegrated.\n\n\nWhen the age of the sample is $\\mathbf{P} \\times 10^8$ years, the ratio of mass of $\\mathrm{Pb}-206$ to that of $\\mathrm{U}-238$ in the sample is found to be 7. The value of $\\mathbf{P}$ is _______.\n\n\n[Given: Half-life of $\\mathrm{U}-238$ is $4.5 \\times 10^9$ years; $\\log _e 2=0.693$ ]",
       "subject": "Chemistry",
       "topic": "chemical-kinetics-and-nuclear-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A sample initially contains only U-238 isotope of uranium. With time, some of the U-238 radioactively decays into $\\mathrm{Pb}-206$ while the rest of it remains undisintegrated.\n\n\nWhen the age of the sample is $\\mathbf{P} \\times 10^8$ years, the ratio of mass of $\\mathrm{Pb}-206$ to that of $\\mathrm{U}-238$ in the sample is found to be 7. The value of $\\mathbf{P}$ is _______.\n\n\n[Given: Half-life of $\\mathrm{U}-238$ is $4.5 \\times 10^9$ years; $\\log _e 2=0.693$ ]",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A sample initially contains only U-238 isotope of uranium. With time, some of the U-238 radioactively decays into $\\mathrm{Pb}-206$ while the rest of it remains undisintegrated. \n\nWhen the age of the sample is $\\mathbf{P} \\times 10^8$ years, the ratio of mass of $\\mathrm{Pb}-206$ to that of $\\mathrm{U}-238$ in the sample is found to be 7. The value of $\\mathbf{P}$ is _______. \n\n[Given: Half-life of $\\mathrm{U}-238$ is $4.5 \\times 10^9$ years; $\\log _e 2=0.693$ ]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 12,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 12,
-      "question_text": "Among $\\left[\\mathrm{Co}(\\mathrm{CN})_4\\right]^{4-},\\left[\\mathrm{Co}(\\mathrm{CO})_3(\\mathrm{NO})\\right], \\mathrm{XeF}_4,\\left[\\mathrm{PCl}_4\\right]^{+},\\left[\\mathrm{PdCl}_4\\right]^{2-},\\left[\\mathrm{ICl}_4\\right]^{-},\\left[\\mathrm{Cu}(\\mathrm{CN})_4\\right]^{3-}$ and $\\mathrm{P}_4$ the total number of species with tetrahedral geometry is _______.",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Among $\\left[\\mathrm{Co}(\\mathrm{CN})_4\\right]^{4-},\\left[\\mathrm{Co}(\\mathrm{CO})_3(\\mathrm{NO})\\right], \\mathrm{XeF}_4,\\left[\\mathrm{PCl}_4\\right]^{+},\\left[\\mathrm{PdCl}_4\\right]^{2-},\\left[\\mathrm{ICl}_4\\right]^{-},\\left[\\mathrm{Cu}(\\mathrm{CN})_4\\right]^{3-}$ and $\\mathrm{P}_4$ the total number of species with tetrahedral geometry is _______.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxj5bgkr/0d1c43f3-6214-4ff9-a5c9-55622d47a894/7226e7b0-2cc0-11ef-8454-cd58bdc4f1de/file-jaoe38c1lxj5bgks.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxkgsh7g/40e209fa-3382-45f4-90ba-28b818f52a02/1876e5c0-2d7a-11ef-9186-4957bf033493/file-jaoe38c1lxkgsh7h.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxkgwz0q/e4bd454e-d8eb-49d0-a018-ea70083a88d9/95761aa0-2d7a-11ef-9186-4957bf033493/file-jaoe38c1lxkgwz0r.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxkh0g8l/fa5f2526-ae72-4797-a8d6-058d640b0137/f6308650-2d7a-11ef-9186-4957bf033493/file-jaoe38c1lxkh0g8m.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxkh3hfn/31117f05-1f8d-43ca-a95b-7ee8ea96c625/4a8a7530-2d7b-11ef-9186-4957bf033493/file-jaoe38c1lxkh3hfo.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxkh5o1y/1035909f-1eb1-4e5c-857b-3f6c94da3c55/8745f170-2d7b-11ef-9186-4957bf033493/file-jaoe38c1lxkh5o1z.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxkh9303/21597256-29ef-4d1c-ab5b-1fd7fb4ccf5f/e6400f80-2d7b-11ef-9186-4957bf033493/file-jaoe38c1lxkh9308.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxkhfg20/8befe9a3-d2f0-4b3c-b615-38b8a4aa2d8f/972f7880-2d7c-11ef-9186-4957bf033493/file-jaoe38c1lxkhfg21.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxkhhtcu/eb27dfd1-1ca4-4862-8c7a-746e5f310221/d9140fe0-2d7c-11ef-9186-4957bf033493/file-jaoe38c1lxkhhtcw.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Among $\\left[\\mathrm{Co}(\\mathrm{CN})_4\\right]^{4-},\\left[\\mathrm{Co}(\\mathrm{CO})_3(\\mathrm{NO})\\right], \\mathrm{XeF}_4,\\left[\\mathrm{PCl}_4\\right]^{+},\\left[\\mathrm{PdCl}_4\\right]^{2-},\\left[\\mathrm{ICl}_4\\right]^{-},\\left[\\mathrm{Cu}(\\mathrm{CN})_4\\right]^{3-}$ and $\\mathrm{P}_4$ the total number of species with tetrahedral geometry is _______.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2024,
-      "exam_type": "JEE Advanced",
-      "shift": 1,
       "question_number": 13,
+      "year": 2024,
+      "exam_type": "JEE Advanced",
+      "shift": 1,
+      "subject": "Chemistry",
+      "topic": "aldehydes-ketones-and-carboxylic-acids",
+      "sub_topic": "organic-chemistry",
       "question_text": "An organic compound $\\mathbf{P}$ having molecular formula $\\mathrm{C}_6 \\mathrm{H}_6 \\mathrm{O}_3$ gives ferric chloride test and does not have intramolecular hydrogen bond. The compound $\\mathbf{P}$ reacts with 3 equivalents of $\\mathrm{NH}_2 \\mathrm{OH}$ to produce oxime $\\mathbf{Q}$. Treatment of $\\mathbf{P}$ with excess methyl iodide in the presence of $\\mathrm{KOH}$ produces compound $\\mathbf{R}$ as the major product. Reaction of $\\mathbf{R}$ with excess iso-butylmagnesium bromide followed by treatment with $\\mathrm{H}_3 \\mathrm{O}^{+}$gives compound $\\mathbf{S}$ as the major product.\n\n\nThe total number of methyl $\\left(-\\mathrm{CH}_3\\right)$ group(s) in compound $\\mathbf{S}$ is ___.",
-      "subject": "Chemistry",
-      "topic": "aldehydes-ketones-and-carboxylic-acids",
-      "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "An organic compound $\\mathbf{P}$ having molecular formula $\\mathrm{C}_6 \\mathrm{H}_6 \\mathrm{O}_3$ gives ferric chloride test and does not have intramolecular hydrogen bond. The compound $\\mathbf{P}$ reacts with 3 equivalents of $\\mathrm{NH}_2 \\mathrm{OH}$ to produce oxime $\\mathbf{Q}$. Treatment of $\\mathbf{P}$ with excess methyl iodide in the presence of $\\mathrm{KOH}$ produces compound $\\mathbf{R}$ as the major product. Reaction of $\\mathbf{R}$ with excess iso-butylmagnesium bromide followed by treatment with $\\mathrm{H}_3 \\mathrm{O}^{+}$gives compound $\\mathbf{S}$ as the major product. \n\nThe total number of methyl $\\left(-\\mathrm{CH}_3\\right)$ group(s) in compound $\\mathbf{S}$ is ___.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2024,
-      "exam_type": "JEE Advanced",
-      "shift": 1,
       "question_number": 14,
+      "year": 2024,
+      "exam_type": "JEE Advanced",
+      "shift": 1,
+      "subject": "Chemistry",
+      "topic": "aldehydes-ketones-and-carboxylic-acids",
+      "sub_topic": "organic-chemistry",
       "question_text": "Sum of number of oxygen atoms in $\\mathbf{S}$ and $\\mathbf{T}$ is _______.",
-      "subject": "Chemistry",
-      "topic": "aldehydes-ketones-and-carboxylic-acids",
-      "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxj3lfi3/1bd00ece-e35d-4a24-952d-2c97ab972ad8/b527c8b0-2cb9-11ef-ac42-5fb2032377c1/file-jaoe38c1lxj3lfi4.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxj3l9sz/42eff025-2a3f-43e3-ad39-cac0140bbffd/b0c6b880-2cb9-11ef-ac42-5fb2032377c1/file-jaoe38c1lxj3l9u0.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Sum of number of oxygen atoms in $\\mathbf{S}$ and $\\mathbf{T}$ is _______.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2024,
-      "exam_type": "JEE Advanced",
-      "shift": 1,
       "question_number": 15,
-      "question_text": "The molecular weight of $\\mathbf{U}$ is ______ .",
+      "year": 2024,
+      "exam_type": "JEE Advanced",
+      "shift": 1,
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The molecular weight of $\\mathbf{U}$ is ______ .",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxj3ga4r/eeee42c1-06bc-40d8-8625-3624b919ab1d/25f611b0-2cb9-11ef-97b8-c3b7559d876f/file-jaoe38c1lxj3ga4s.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The molecular weight of $\\mathbf{U}$ is ______ .",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2024,
-      "exam_type": "JEE Advanced",
-      "shift": 1,
       "question_number": 16,
+      "year": 2024,
+      "exam_type": "JEE Advanced",
+      "shift": 1,
+      "subject": "Chemistry",
+      "topic": "salt-analysis",
+      "sub_topic": "inorganic-chemistry",
       "question_text": "The number of moles of potassium iodide required to produce two moles of $\\mathbf{P}$ is _______.",
-      "subject": "Chemistry",
-      "topic": "salt-analysis",
-      "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The number of moles of potassium iodide required to produce two moles of $\\mathbf{P}$ is _______.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2024,
-      "exam_type": "JEE Advanced",
-      "shift": 1,
       "question_number": 17,
-      "question_text": "The number of zinc ions present in the molecular formula of $\\mathbf{Q}$ is _______.",
-      "subject": "Chemistry",
-      "topic": "salt-analysis",
-      "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
-      "correct_answer": "",
-      "question": "The number of zinc ions present in the molecular formula of $\\mathbf{Q}$ is _______.",
-      "isOutOfSyllabus": false,
-      "marks": 3,
-      "negMarks": 1
-    },
-    {
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
+      "subject": "Chemistry",
+      "topic": "salt-analysis",
+      "sub_topic": "inorganic-chemistry",
+      "question_text": "The number of zinc ions present in the molecular formula of $\\mathbf{Q}$ is _______.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
+      "correct_answer": "",
+      "marks": 3,
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
+    },
+    {
       "question_number": 18,
-      "question_text": "Considering only the principal values of the inverse trigonometric functions, the value of\n\n\n$$ \\tan \\left(\\sin ^{-1}\\left(\\frac{3}{5}\\right)-2 \\cos ^{-1}\\left(\\frac{2}{\\sqrt{5}}\\right)\\right) $$\n\n\nis",
+      "year": 2024,
+      "exam_type": "JEE Advanced",
+      "shift": 1,
       "subject": "Mathematics",
       "topic": "inverse-trigonometric-functions",
       "sub_topic": "trigonometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Considering only the principal values of the inverse trigonometric functions, the value of\n\n\n$$ \\tan \\left(\\sin ^{-1}\\left(\\frac{3}{5}\\right)-2 \\cos ^{-1}\\left(\\frac{2}{\\sqrt{5}}\\right)\\right) $$\n\n\nis",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\frac{7}{24}$",
         "B": "$\\frac{-7}{24}$",
         "C": "$\\frac{-5}{24}$",
         "D": "$\\frac{5}{24}$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Considering only the principal values of the inverse trigonometric functions, the value of \n\n$$ \\tan \\left(\\sin ^{-1}\\left(\\frac{3}{5}\\right)-2 \\cos ^{-1}\\left(\\frac{2}{\\sqrt{5}}\\right)\\right) $$ \n\nis",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 19,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 19,
-      "question_text": "Let $S=\\left\\{(x, y) \\in \\mathbb{R} \\times \\mathbb{R}: x \\geq 0, y \\geq 0, y^2 \\leq 4 x, y^2 \\leq 12-2 x\\right.$ and $\\left.3 y+\\sqrt{8} x \\leq 5 \\sqrt{8}\\right\\}$. If the area of the region $S$ is $\\alpha \\sqrt{2}$, then $\\alpha$ is equal to",
       "subject": "Mathematics",
       "topic": "application-of-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $S=\\left\\{(x, y) \\in \\mathbb{R} \\times \\mathbb{R}: x \\geq 0, y \\geq 0, y^2 \\leq 4 x, y^2 \\leq 12-2 x\\right.$ and $\\left.3 y+\\sqrt{8} x \\leq 5 \\sqrt{8}\\right\\}$. If the area of the region $S$ is $\\alpha \\sqrt{2}$, then $\\alpha$ is equal to",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lze6u1b0/a081ff82-f056-4f01-ac72-3c5de24a945a/e35eacd0-519e-11ef-87ad-e1eb316f3e80/file-jaoe38c1lze6u1b1.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$\\frac{17}{2}$",
         "B": "$\\frac{17}{3}$",
         "C": "$\\frac{17}{4}$",
         "D": "$\\frac{17}{5}$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $S=\\left\\{(x, y) \\in \\mathbb{R} \\times \\mathbb{R}: x \\geq 0, y \\geq 0, y^2 \\leq 4 x, y^2 \\leq 12-2 x\\right.$ and $\\left.3 y+\\sqrt{8} x \\leq 5 \\sqrt{8}\\right\\}$. If the area of the region $S$ is $\\alpha \\sqrt{2}$, then $\\alpha$ is equal to",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 20,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 20,
-      "question_text": "Let $k \\in \\mathbb{R}$. If $\\lim \\limits_{x \\rightarrow 0+}(\\sin (\\sin k x)+\\cos x+x)^{\\frac{2}{x}}=e^6$, then the value of $k$ is",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $k \\in \\mathbb{R}$. If $\\lim \\limits_{x \\rightarrow 0+}(\\sin (\\sin k x)+\\cos x+x)^{\\frac{2}{x}}=e^6$, then the value of $k$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "1",
         "B": "2",
         "C": "3",
         "D": "4"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $k \\in \\mathbb{R}$. If $\\lim \\limits_{x \\rightarrow 0+}(\\sin (\\sin k x)+\\cos x+x)^{\\frac{2}{x}}=e^6$, then the value of $k$ is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 21,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 21,
-      "question_text": "Let $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ be a function defined by\n\n\n$$ f(x)=\\left\\{\\begin{array}{cc} x^2 \\sin \\left(\\frac{\\pi}{x^2}\\right), & \\text { if } x \\neq 0, \\\\ 0, & \\text { if } x=0 . \\end{array}\\right. $$\n\n\nThen which of the following statements is TRUE?",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ be a function defined by\n\n\n$$ f(x)=\\left\\{\\begin{array}{cc} x^2 \\sin \\left(\\frac{\\pi}{x^2}\\right), & \\text { if } x \\neq 0, \\\\ 0, & \\text { if } x=0 . \\end{array}\\right. $$\n\n\nThen which of the following statements is TRUE?",
+      "question_images": [],
+      "option_texts": {
         "A": "$f(x)=0$ has infinitely many solutions in the interval $\\left[\\frac{1}{10^{10}}, \\infty\\right)$.",
         "B": "$f(x)=0$ has no solutions in the interval $\\left[\\frac{1}{\\pi}, \\infty\\right)$.",
         "C": "The set of solutions of $f(x)=0$ in the interval $\\left(0, \\frac{1}{10^{10}}\\right)$ is finite.",
         "D": "$f(x)=0$ has more than 25 solutions in the interval $\\left(\\frac{1}{\\pi^2}, \\frac{1}{\\pi}\\right)$."
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Let $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ be a function defined by \n\n$$ f(x)=\\left\\{\\begin{array}{cc} x^2 \\sin \\left(\\frac{\\pi}{x^2}\\right), & \\text { if } x \\neq 0, \\\\ 0, & \\text { if } x=0 . \\end{array}\\right. $$ \n\nThen which of the following statements is TRUE?",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 22,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 22,
-      "question_text": "Let $S$ be the set of all $(\\alpha, \\beta) \\in \\mathbb{R} \\times \\mathbb{R}$ such that\n\n\n$$ \\lim\\limits_{x \\rightarrow \\infty} \\frac{\\sin \\left(x^2\\right)\\left(\\log _e x\\right)^\\alpha \\sin \\left(\\frac{1}{x^2}\\right)}{x^{\\alpha \\beta}\\left(\\log _e(1+x)\\right)^\\beta}=0 . $$\n\n\nThen which of the following is (are) correct?",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $S$ be the set of all $(\\alpha, \\beta) \\in \\mathbb{R} \\times \\mathbb{R}$ such that\n\n\n$$ \\lim\\limits_{x \\rightarrow \\infty} \\frac{\\sin \\left(x^2\\right)\\left(\\log _e x\\right)^\\alpha \\sin \\left(\\frac{1}{x^2}\\right)}{x^{\\alpha \\beta}\\left(\\log _e(1+x)\\right)^\\beta}=0 . $$\n\n\nThen which of the following is (are) correct?",
+      "question_images": [],
+      "option_texts": {
         "A": "$(-1,3) \\in S$",
         "B": "$(-1,1) \\in S$",
         "C": "$(1,-1) \\in S$",
         "D": "$(1,-2) \\in S$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $S$ be the set of all $(\\alpha, \\beta) \\in \\mathbb{R} \\times \\mathbb{R}$ such that \n\n$$ \\lim\\limits_{x \\rightarrow \\infty} \\frac{\\sin \\left(x^2\\right)\\left(\\log _e x\\right)^\\alpha \\sin \\left(\\frac{1}{x^2}\\right)}{x^{\\alpha \\beta}\\left(\\log _e(1+x)\\right)^\\beta}=0 . $$ \n\nThen which of the following is (are) correct?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 23,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 23,
-      "question_text": "A straight line drawn from the point $P(1,3,2)$, parallel to the line $\\frac{x-2}{1}=\\frac{y-4}{2}=\\frac{z-6}{1}$, intersects the plane $L_1: x-y+3 z=6$ at the point $Q$. Another straight line which passes through $Q$ and is perpendicular to the plane $L_1$ intersects the plane $L_2: 2 x-y+z=-4$ at the point $R$. Then which of the following statements is (are) TRUE?",
       "subject": "Mathematics",
       "topic": "3d-geometry",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A straight line drawn from the point $P(1,3,2)$, parallel to the line $\\frac{x-2}{1}=\\frac{y-4}{2}=\\frac{z-6}{1}$, intersects the plane $L_1: x-y+3 z=6$ at the point $Q$. Another straight line which passes through $Q$ and is perpendicular to the plane $L_1$ intersects the plane $L_2: 2 x-y+z=-4$ at the point $R$. Then which of the following statements is (are) TRUE?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lze8f5v1/87e4791d-ed67-4296-b374-c88daf262d7b/1802b8e0-51a5-11ef-bd25-890ddf541e6c/file-jaoe38c1lze8f5v2.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "The length of the line segment $P Q$ is $\\sqrt{6}$",
         "B": "The coordinates of $R$ are $(1,6,3)$",
         "C": "The centroid of the triangle $P Q R$ is $\\left(\\frac{4}{3}, \\frac{14}{3}, \\frac{5}{3}\\right)$",
         "D": "The perimeter of the triangle $P Q R$ is $\\sqrt{2}+\\sqrt{6}+\\sqrt{11}$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A straight line drawn from the point $P(1,3,2)$, parallel to the line $\\frac{x-2}{1}=\\frac{y-4}{2}=\\frac{z-6}{1}$, intersects the plane $L_1: x-y+3 z=6$ at the point $Q$. Another straight line which passes through $Q$ and is perpendicular to the plane $L_1$ intersects the plane $L_2: 2 x-y+z=-4$ at the point $R$. Then which of the following statements is (are) TRUE?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 24,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 24,
-      "question_text": "Let $A_1, B_1, C_1$ be three points in the $x y$-plane. Suppose that the lines $A_1 C_1$ and $B_1 C_1$ are tangents to the curve $y^2=8 x$ at $A_1$ and $B_1$, respectively. If $O=(0,0)$ and $C_1=(-4,0)$, then which of the following statements is (are) TRUE?",
       "subject": "Mathematics",
       "topic": "parabola",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $A_1, B_1, C_1$ be three points in the $x y$-plane. Suppose that the lines $A_1 C_1$ and $B_1 C_1$ are tangents to the curve $y^2=8 x$ at $A_1$ and $B_1$, respectively. If $O=(0,0)$ and $C_1=(-4,0)$, then which of the following statements is (are) TRUE?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lze8ti07/1b168875-2980-4349-aa8c-1cb2b2a8e3ff/a6b7f770-51a6-11ef-bd25-890ddf541e6c/file-jaoe38c1lze8ti08.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "The length of the line segment $O A_1$ is $4 \\sqrt{3}$",
         "B": "The length of the line segment $A_1 B_1$ is 16",
         "C": "The orthocenter of the triangle $A_1 B_1 C_1$ is $(0,0)$",
         "D": "The orthocenter of the triangle $A_1 B_1 C_1$ is $(1,0)$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $A_1, B_1, C_1$ be three points in the $x y$-plane. Suppose that the lines $A_1 C_1$ and $B_1 C_1$ are tangents to the curve $y^2=8 x$ at $A_1$ and $B_1$, respectively. If $O=(0,0)$ and $C_1=(-4,0)$, then which of the following statements is (are) TRUE?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 25,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 25,
-      "question_text": "Let $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ be a function such that $f(x+y)=f(x)+f(y)$ for all $x, y \\in \\mathbb{R}$, and $g: \\mathbb{R} \\rightarrow(0, \\infty)$ be a function such that $g(x+y)=g(x) g(y)$ for all $x, y \\in \\mathbb{R}$. If $f\\left(\\frac{-3}{5}\\right)=12$ and $g\\left(\\frac{-1}{3}\\right)=2$, then the value of $\\left(f\\left(\\frac{1}{4}\\right)+g(-2)-8\\right) g(0)$ is _________.",
       "subject": "Mathematics",
       "topic": "functions",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ be a function such that $f(x+y)=f(x)+f(y)$ for all $x, y \\in \\mathbb{R}$, and $g: \\mathbb{R} \\rightarrow(0, \\infty)$ be a function such that $g(x+y)=g(x) g(y)$ for all $x, y \\in \\mathbb{R}$. If $f\\left(\\frac{-3}{5}\\right)=12$ and $g\\left(\\frac{-1}{3}\\right)=2$, then the value of $\\left(f\\left(\\frac{1}{4}\\right)+g(-2)-8\\right) g(0)$ is _________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ be a function such that $f(x+y)=f(x)+f(y)$ for all $x, y \\in \\mathbb{R}$, and $g: \\mathbb{R} \\rightarrow(0, \\infty)$ be a function such that $g(x+y)=g(x) g(y)$ for all $x, y \\in \\mathbb{R}$. If $f\\left(\\frac{-3}{5}\\right)=12$ and $g\\left(\\frac{-1}{3}\\right)=2$, then the value of $\\left(f\\left(\\frac{1}{4}\\right)+g(-2)-8\\right) g(0)$ is _________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 26,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 26,
-      "question_text": "A bag contains $N$ balls out of which 3 balls are white, 6 balls are green, and the remaining balls are blue. Assume that the balls are identical otherwise. Three balls are drawn randomly one after the other without replacement. For $i=1,2,3$, let $W_i, G_i$, and $B_i$ denote the events that the ball drawn in the $i^{\\text {th }}$ draw is a white ball, green ball, and blue ball, respectively. If the probability $P\\left(W_1 \\cap G_2 \\cap B_3\\right)=\\frac{2}{5 N}$ and the conditional probability $P\\left(B_3 \\mid W_1 \\cap G_2\\right)=\\frac{2}{9}$, then $N$ equals ________.",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A bag contains $N$ balls out of which 3 balls are white, 6 balls are green, and the remaining balls are blue. Assume that the balls are identical otherwise. Three balls are drawn randomly one after the other without replacement. For $i=1,2,3$, let $W_i, G_i$, and $B_i$ denote the events that the ball drawn in the $i^{\\text {th }}$ draw is a white ball, green ball, and blue ball, respectively. If the probability $P\\left(W_1 \\cap G_2 \\cap B_3\\right)=\\frac{2}{5 N}$ and the conditional probability $P\\left(B_3 \\mid W_1 \\cap G_2\\right)=\\frac{2}{9}$, then $N$ equals ________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A bag contains $N$ balls out of which 3 balls are white, 6 balls are green, and the remaining balls are blue. Assume that the balls are identical otherwise. Three balls are drawn randomly one after the other without replacement. For $i=1,2,3$, let $W_i, G_i$, and $B_i$ denote the events that the ball drawn in the $i^{\\text {th }}$ draw is a white ball, green ball, and blue ball, respectively. If the probability $P\\left(W_1 \\cap G_2 \\cap B_3\\right)=\\frac{2}{5 N}$ and the conditional probability $P\\left(B_3 \\mid W_1 \\cap G_2\\right)=\\frac{2}{9}$, then $N$ equals ________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 27,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 27,
-      "question_text": "Let the function $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ be defined by\n\n\n$$ f(x)=\\frac{\\sin x}{e^{\\pi x}} \\frac{\\left(x^{2023}+2024 x+2025\\right)}{\\left(x^2-x+3\\right)}+\\frac{2}{e^{\\pi x}} \\frac{\\left(x^{2023}+2024 x+2025\\right)}{\\left(x^2-x+3\\right)} . $$\n\n\nThen the number of solutions of $f(x)=0$ in $\\mathbb{R}$ is _________.",
       "subject": "Mathematics",
       "topic": "functions",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let the function $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ be defined by\n\n\n$$ f(x)=\\frac{\\sin x}{e^{\\pi x}} \\frac{\\left(x^{2023}+2024 x+2025\\right)}{\\left(x^2-x+3\\right)}+\\frac{2}{e^{\\pi x}} \\frac{\\left(x^{2023}+2024 x+2025\\right)}{\\left(x^2-x+3\\right)} . $$\n\n\nThen the number of solutions of $f(x)=0$ in $\\mathbb{R}$ is _________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let the function $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ be defined by \n\n$$ f(x)=\\frac{\\sin x}{e^{\\pi x}} \\frac{\\left(x^{2023}+2024 x+2025\\right)}{\\left(x^2-x+3\\right)}+\\frac{2}{e^{\\pi x}} \\frac{\\left(x^{2023}+2024 x+2025\\right)}{\\left(x^2-x+3\\right)} . $$ \n\nThen the number of solutions of $f(x)=0$ in $\\mathbb{R}$ is _________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 28,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 28,
-      "question_text": "Let $\\vec{p}=2 \\hat{i}+\\hat{j}+3 \\hat{k}$ and $\\vec{q}=\\hat{i}-\\hat{j}+\\hat{k}$. If for some real numbers $\\alpha, \\beta$, and $\\gamma$, we have\n\n\n$$ 15 \\hat{i}+10 \\hat{j}+6 \\hat{k}=\\alpha(2 \\vec{p}+\\vec{q})+\\beta(\\vec{p}-2 \\vec{q})+\\gamma(\\vec{p} \\times \\vec{q}), $$\n\n\nthen the value of $\\gamma$ is ________.",
       "subject": "Mathematics",
       "topic": "vector-algebra",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $\\vec{p}=2 \\hat{i}+\\hat{j}+3 \\hat{k}$ and $\\vec{q}=\\hat{i}-\\hat{j}+\\hat{k}$. If for some real numbers $\\alpha, \\beta$, and $\\gamma$, we have\n\n\n$$ 15 \\hat{i}+10 \\hat{j}+6 \\hat{k}=\\alpha(2 \\vec{p}+\\vec{q})+\\beta(\\vec{p}-2 \\vec{q})+\\gamma(\\vec{p} \\times \\vec{q}), $$\n\n\nthen the value of $\\gamma$ is ________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $\\vec{p}=2 \\hat{i}+\\hat{j}+3 \\hat{k}$ and $\\vec{q}=\\hat{i}-\\hat{j}+\\hat{k}$. If for some real numbers $\\alpha, \\beta$, and $\\gamma$, we have \n\n$$ 15 \\hat{i}+10 \\hat{j}+6 \\hat{k}=\\alpha(2 \\vec{p}+\\vec{q})+\\beta(\\vec{p}-2 \\vec{q})+\\gamma(\\vec{p} \\times \\vec{q}), $$ \n\nthen the value of $\\gamma$ is ________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 29,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 29,
-      "question_text": "A normal with slope $\\frac{1}{\\sqrt{6}}$ is drawn from the point $(0,-\\alpha)$ to the parabola $x^2=-4 a y$, where $a>0$. Let $L$ be the line passing through $(0,-\\alpha)$ and parallel to the directrix of the parabola. Suppose that $L$ intersects the parabola at two points $A$ and $B$. Let $r$ denote the length of the latus rectum and $s$ denote the square of the length of the line segment $A B$. If $r: s=1: 16$, then the value of $24 a$ is _______.",
       "subject": "Mathematics",
       "topic": "parabola",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A normal with slope $\\frac{1}{\\sqrt{6}}$ is drawn from the point $(0,-\\alpha)$ to the parabola $x^2=-4 a y$, where $a>0$. Let $L$ be the line passing through $(0,-\\alpha)$ and parallel to the directrix of the parabola. Suppose that $L$ intersects the parabola at two points $A$ and $B$. Let $r$ denote the length of the latus rectum and $s$ denote the square of the length of the line segment $A B$. If $r: s=1: 16$, then the value of $24 a$ is _______.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lze9yuw9/e18f5267-4eea-4935-9540-833027281aff/24d9dd90-51ab-11ef-bd25-890ddf541e6c/file-jaoe38c1lze9yuwa.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A normal with slope $\\frac{1}{\\sqrt{6}}$ is drawn from the point $(0,-\\alpha)$ to the parabola $x^2=-4 a y$, where $a>0$. Let $L$ be the line passing through $(0,-\\alpha)$ and parallel to the directrix of the parabola. Suppose that $L$ intersects the parabola at two points $A$ and $B$. Let $r$ denote the length of the latus rectum and $s$ denote the square of the length of the line segment $A B$. If $r: s=1: 16$, then the value of $24 a$ is _______.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 30,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 30,
-      "question_text": "Let the function $f:[1, \\infty) \\rightarrow \\mathbb{R}$ be defined by\n\n\n$$ f(t)=\\left\\{\\begin{array}{cc} (-1)^{n+1} 2, & \\text { if } t=2 n-1, n \\in \\mathbb{N}, \\\\ \\frac{(2 n+1-t)}{2} f(2 n-1)+\\frac{(t-(2 n-1))}{2} f(2 n+1), & \\text { if } 2 n-1 Define $g(x)=\\int_1^x f(t) d t, x \\in(1, \\infty)$. Let $\\alpha$ denote the number of solutions of the equation $g(x)=0$ in the interval $(1,8]$ and $\\beta=\\lim \\limits_{x \\rightarrow l+} \\frac{g(x)}{x-1}$. \n\nThen the value of $\\alpha+\\beta$ is equal to _______.",
       "subject": "Mathematics",
       "topic": "application-of-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let the function $f:[1, \\infty) \\rightarrow \\mathbb{R}$ be defined by\n\n\n$$ f(t)=\\left\\{\\begin{array}{cc} (-1)^{n+1} 2, & \\text { if } t=2 n-1, n \\in \\mathbb{N}, \\\\ \\frac{(2 n+1-t)}{2} f(2 n-1)+\\frac{(t-(2 n-1))}{2} f(2 n+1), & \\text { if } 2 n-1 Define $g(x)=\\int_1^x f(t) d t, x \\in(1, \\infty)$. Let $\\alpha$ denote the number of solutions of the equation $g(x)=0$ in the interval $(1,8]$ and $\\beta=\\lim \\limits_{x \\rightarrow l+} \\frac{g(x)}{x-1}$. \n\nThen the value of $\\alpha+\\beta$ is equal to _______.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzeah8bo/c0813a3c-2916-4592-baef-a0eb62dd7938/23c9e240-51ad-11ef-8049-292a7257bd55/file-jaoe38c1lzeah8bp.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let the function $f:[1, \\infty) \\rightarrow \\mathbb{R}$ be defined by \n\n$$ f(t)=\\left\\{\\begin{array}{cc} (-1)^{n+1} 2, & \\text { if } t=2 n-1, n \\in \\mathbb{N}, \\\\ \\frac{(2 n+1-t)}{2} f(2 n-1)+\\frac{(t-(2 n-1))}{2} f(2 n+1), & \\text { if } 2 n-1 Then the value of $\\alpha+\\beta$ is equal to _______.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2024,
-      "exam_type": "JEE Advanced",
-      "shift": 1,
       "question_number": 31,
+      "year": 2024,
+      "exam_type": "JEE Advanced",
+      "shift": 1,
+      "subject": "Mathematics",
+      "topic": "permutations-and-combinations",
+      "sub_topic": "algebra",
       "question_text": "If $n(X)={ }^m C_6$, then the value of $m$ is _____",
-      "subject": "Mathematics",
-      "topic": "permutations-and-combinations",
-      "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "If $n(X)={ }^m C_6$, then the value of $m$ is _____",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2024,
-      "exam_type": "JEE Advanced",
-      "shift": 1,
       "question_number": 32,
-      "question_text": "If the value of $n(Y)+n(Z)$ is $k^2$, then $|k|$ is _________.",
+      "year": 2024,
+      "exam_type": "JEE Advanced",
+      "shift": 1,
       "subject": "Mathematics",
       "topic": "permutations-and-combinations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "If the value of $n(Y)+n(Z)$ is $k^2$, then $|k|$ is _________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzeat596/1deeeaba-9a91-4822-a902-1e277fdd34c1/6f2093a0-51ae-11ef-8049-292a7257bd55/file-jaoe38c1lzeat597.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "If the value of $n(Y)+n(Z)$ is $k^2$, then $|k|$ is _________.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2024,
-      "exam_type": "JEE Advanced",
-      "shift": 1,
       "question_number": 33,
+      "year": 2024,
+      "exam_type": "JEE Advanced",
+      "shift": 1,
+      "subject": "Mathematics",
+      "topic": "definite-integration",
+      "sub_topic": "calculus",
       "question_text": "The value of $2 \\int\\limits_0^{\\frac{\\pi}{2}} f(x) g(x) d x-\\int\\limits_0^{\\frac{\\pi}{2}} g(x) d x$ is ____________.",
-      "subject": "Mathematics",
-      "topic": "definite-integration",
-      "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The value of $2 \\int\\limits_0^{\\frac{\\pi}{2}} f(x) g(x) d x-\\int\\limits_0^{\\frac{\\pi}{2}} g(x) d x$ is ____________.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2024,
-      "exam_type": "JEE Advanced",
-      "shift": 1,
       "question_number": 34,
-      "question_text": "The value of $\\frac{16}{\\pi^3} \\int\\limits_0^{\\frac{\\pi}{2}} f(x) g(x) d x$ is ______.",
-      "subject": "Mathematics",
-      "topic": "definite-integration",
-      "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
-      "correct_answer": "",
-      "question": "The value of $\\frac{16}{\\pi^3} \\int\\limits_0^{\\frac{\\pi}{2}} f(x) g(x) d x$ is ______.",
-      "isOutOfSyllabus": false,
-      "marks": 3,
-      "negMarks": 1
-    },
-    {
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
+      "subject": "Mathematics",
+      "topic": "definite-integration",
+      "sub_topic": "calculus",
+      "question_text": "The value of $\\frac{16}{\\pi^3} \\int\\limits_0^{\\frac{\\pi}{2}} f(x) g(x) d x$ is ______.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
+      "correct_answer": "",
+      "marks": 3,
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
+    },
+    {
       "question_number": 35,
-      "question_text": "A region in the form of an equilateral triangle (in $x-y$ plane) of height $L$ has a uniform magnetic field $\\vec{B}$ pointing in the $+z$-direction. A conducting loop $\\mathrm{PQR}$, in the form of an equilateral triangle of the same height $L$, is placed in the $x-y$ plane with its vertex $\\mathrm{P}$ at $x=0$ in the orientation shown in the figure. At $t=0$, the loop starts entering the region of the magnetic field with a uniform velocity $\\vec{v}$ along the $+x$-direction. The plane of the loop and its orientation remain unchanged throughout its motion.\n\n\n\n\nWhich of the following graph best depicts the variation of the induced emf $(E)$ in the loop as a function of the distance $(x)$ starting from $x=0$ ?",
+      "year": 2024,
+      "exam_type": "JEE Advanced",
+      "shift": 1,
       "subject": "Physics",
       "topic": "electromagnetic-induction",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A region in the form of an equilateral triangle (in $x-y$ plane) of height $L$ has a uniform magnetic field $\\vec{B}$ pointing in the $+z$-direction. A conducting loop $\\mathrm{PQR}$, in the form of an equilateral triangle of the same height $L$, is placed in the $x-y$ plane with its vertex $\\mathrm{P}$ at $x=0$ in the orientation shown in the figure. At $t=0$, the loop starts entering the region of the magnetic field with a uniform velocity $\\vec{v}$ along the $+x$-direction. The plane of the loop and its orientation remain unchanged throughout its motion.\n\n\n\n\nWhich of the following graph best depicts the variation of the induced emf $(E)$ in the loop as a function of the distance $(x)$ starting from $x=0$ ?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpw4d6x/10223706-4d59-4a88-8e49-de89a0b486c2/bfe0db90-1ca9-11ef-a7f1-8b6b33c30c4d/file-6y3zli1lwpw4d6y.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzgfpu7m/f6b5e43d-6421-406c-b0a9-3f1e13bd3581/321d2120-52db-11ef-a041-4983d2813081/file-jaoe38c1lzgfpu7n.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzgfqz4g/945ad91c-81fc-4e04-b5c9-58a8b32bbeac/51b7a500-52db-11ef-a041-4983d2813081/file-jaoe38c1lzgfqz4h.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpw6ycx/dd3369a2-d59e-4324-8249-b5dbe5747c4c/07d8ee10-1caa-11ef-a7f1-8b6b33c30c4d/file-6y3zli1lwpw6ycy.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpw8egq/281935ff-a679-4e84-9c5c-dc974890c61b/301909a0-1caa-11ef-a7f1-8b6b33c30c4d/file-6y3zli1lwpw8egr.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpw9l19/1e9d17ae-7619-4b92-8fd5-056587a062cb/50fb76d0-1caa-11ef-a7f1-8b6b33c30c4d/file-6y3zli1lwpw9l1a.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpwafui/923205bd-d53a-4607-88b6-3ea03b7630a0/68c8c1a0-1caa-11ef-a7f1-8b6b33c30c4d/file-6y3zli1lwpwafuj.png",
+          "description": ""
+        }
+      },
       "correct_answer": "A",
-      "question": "A region in the form of an equilateral triangle (in $x-y$ plane) of height $L$ has a uniform magnetic field $\\vec{B}$ pointing in the $+z$-direction. A conducting loop $\\mathrm{PQR}$, in the form of an equilateral triangle of the same height $L$, is placed in the $x-y$ plane with its vertex $\\mathrm{P}$ at $x=0$ in the orientation shown in the figure. At $t=0$, the loop starts entering the region of the magnetic field with a uniform velocity $\\vec{v}$ along the $+x$-direction. The plane of the loop and its orientation remain unchanged throughout its motion. \n\n\n\nWhich of the following graph best depicts the variation of the induced emf $(E)$ in the loop as a function of the distance $(x)$ starting from $x=0$ ?",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 36,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 36,
-      "question_text": "A particle of mass $m$ is under the influence of the gravitational field of a body of mass $M(\\gg m)$. The particle is moving in a circular orbit of radius $r_0$ with time period $T_0$ around the mass $M$. Then, the particle is subjected to an additional central force, corresponding to the potential energy $V_{\\mathrm{c}}(r)=m \\alpha / r^3$, where $\\alpha$ is a positive constant of suitable dimensions and $r$ is the distance from the center of the orbit. If the particle moves in the same circular orbit of radius $r_0$ in the combined gravitational potential due to $M$ and $V_{\\mathrm{c}}(r)$, but with a new time period $T_1$, then $\\left(T_1^2-T_0^2\\right) / T_1^2$ is given by\n\n\n[G is the gravitational constant.]",
       "subject": "Physics",
       "topic": "gravitation",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A particle of mass $m$ is under the influence of the gravitational field of a body of mass $M(\\gg m)$. The particle is moving in a circular orbit of radius $r_0$ with time period $T_0$ around the mass $M$. Then, the particle is subjected to an additional central force, corresponding to the potential energy $V_{\\mathrm{c}}(r)=m \\alpha / r^3$, where $\\alpha$ is a positive constant of suitable dimensions and $r$ is the distance from the center of the orbit. If the particle moves in the same circular orbit of radius $r_0$ in the combined gravitational potential due to $M$ and $V_{\\mathrm{c}}(r)$, but with a new time period $T_1$, then $\\left(T_1^2-T_0^2\\right) / T_1^2$ is given by\n\n\n[G is the gravitational constant.]",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\frac{3 \\alpha}{G M r_0^2}$",
         "B": "$\\frac{\\alpha}{2 G M r_0^2}$",
         "C": "$\\frac{\\alpha}{G M r_0^2}$",
         "D": "$\\frac{2 \\alpha}{G M r_0^2}$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A particle of mass $m$ is under the influence of the gravitational field of a body of mass $M(\\gg m)$. The particle is moving in a circular orbit of radius $r_0$ with time period $T_0$ around the mass $M$. Then, the particle is subjected to an additional central force, corresponding to the potential energy $V_{\\mathrm{c}}(r)=m \\alpha / r^3$, where $\\alpha$ is a positive constant of suitable dimensions and $r$ is the distance from the center of the orbit. If the particle moves in the same circular orbit of radius $r_0$ in the combined gravitational potential due to $M$ and $V_{\\mathrm{c}}(r)$, but with a new time period $T_1$, then $\\left(T_1^2-T_0^2\\right) / T_1^2$ is given by \n\n[G is the gravitational constant.]",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 37,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 37,
-      "question_text": "A metal target with atomic number $Z=46$ is bombarded with a high energy electron beam. The emission of X-rays from the target is analyzed. The ratio $r$ of the wavelengths of the $K_\\alpha$-line and the cut-off is found to be $r=2$. If the same electron beam bombards another metal target with $Z=41$, the value of $r$ will be",
       "subject": "Physics",
       "topic": "dual-nature-of-radiation",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A metal target with atomic number $Z=46$ is bombarded with a high energy electron beam. The emission of X-rays from the target is analyzed. The ratio $r$ of the wavelengths of the $K_\\alpha$-line and the cut-off is found to be $r=2$. If the same electron beam bombards another metal target with $Z=41$, the value of $r$ will be",
+      "question_images": [],
+      "option_texts": {
         "A": "2.53",
         "B": "1.27",
         "C": "2.24",
         "D": "1.58"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A metal target with atomic number $Z=46$ is bombarded with a high energy electron beam. The emission of X-rays from the target is analyzed. The ratio $r$ of the wavelengths of the $K_\\alpha$-line and the cut-off is found to be $r=2$. If the same electron beam bombards another metal target with $Z=41$, the value of $r$ will be",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 38,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 38,
-      "question_text": "A thin stiff insulated metal wire is bent into a circular loop with its two ends extending tangentially from the same point of the loop. The wire loop has mass $m$ and radius $r$ and it is in a uniform vertical magnetic field $B_0$, as shown in the figure. Initially, it hangs vertically downwards, because of acceleration due to gravity $g$, on two conducting supports at $\\mathrm{P}$ and $\\mathrm{Q}$. When a current $I$ is passed through the loop, the loop turns about the line $\\mathrm{PQ}$ by an angle $\\theta$ given by",
       "subject": "Physics",
       "topic": "magnetism",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A thin stiff insulated metal wire is bent into a circular loop with its two ends extending tangentially from the same point of the loop. The wire loop has mass $m$ and radius $r$ and it is in a uniform vertical magnetic field $B_0$, as shown in the figure. Initially, it hangs vertically downwards, because of acceleration due to gravity $g$, on two conducting supports at $\\mathrm{P}$ and $\\mathrm{Q}$. When a current $I$ is passed through the loop, the loop turns about the line $\\mathrm{PQ}$ by an angle $\\theta$ given by",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpwitsv/1cb8dbae-90d0-4e58-80a9-b9c6f0f03edf/52096ef0-1cab-11ef-a7f1-8b6b33c30c4d/file-6y3zli1lwpwitsw.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzggvnub/d56027e5-ddea-4a69-a860-420bc8ad0faf/bd2d6c30-52df-11ef-8f96-055705a0b9ff/file-jaoe38c1lzggvnuc.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$\\tan \\theta=\\pi r I B_0 /(m g)$",
         "B": "$\\tan \\theta=2 \\pi r I B_0 /(m g)$",
         "C": "$\\tan \\theta=\\pi r I B_0 /(2 m g)$",
         "D": "$\\tan \\theta=m g /\\left(\\pi r I B_0\\right)$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A thin stiff insulated metal wire is bent into a circular loop with its two ends extending tangentially from the same point of the loop. The wire loop has mass $m$ and radius $r$ and it is in a uniform vertical magnetic field $B_0$, as shown in the figure. Initially, it hangs vertically downwards, because of acceleration due to gravity $g$, on two conducting supports at $\\mathrm{P}$ and $\\mathrm{Q}$. When a current $I$ is passed through the loop, the loop turns about the line $\\mathrm{PQ}$ by an angle $\\theta$ given by",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 39,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 39,
-      "question_text": "A small electric dipole $\\vec{p}_0$, having a moment of inertia $I$ about its center, is kept at a distance $r$ from the center of a spherical shell of radius $R$. The surface charge density $\\sigma$ is uniformly distributed on the spherical shell. The dipole is initially oriented at a small angle $\\theta$ as shown in the figure. While staying at a distance $r$, the dipole is free to rotate about its center.\n\n\n\n\nIf released from rest, then which of the following statement(s) is(are) correct?\n\n\n[ $\\varepsilon_0$ is the permittivity of free space.]",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A small electric dipole $\\vec{p}_0$, having a moment of inertia $I$ about its center, is kept at a distance $r$ from the center of a spherical shell of radius $R$. The surface charge density $\\sigma$ is uniformly distributed on the spherical shell. The dipole is initially oriented at a small angle $\\theta$ as shown in the figure. While staying at a distance $r$, the dipole is free to rotate about its center.\n\n\n\n\nIf released from rest, then which of the following statement(s) is(are) correct?\n\n\n[ $\\varepsilon_0$ is the permittivity of free space.]",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpwmowr/e80a602d-02f5-45f9-894d-4d50adc8b8eb/bd7e96b0-1cab-11ef-a7f1-8b6b33c30c4d/file-6y3zli1lwpwmows.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "The dipole will undergo small oscillations at any finite value of $r$.",
         "B": "The dipole will undergo small oscillations at any finite value of $r>R$.",
         "C": "The dipole will undergo small oscillations with an angular frequency of $\\sqrt{\\frac{2 \\sigma p_0}{\\epsilon_0 I}}$ at $r=2 R$.",
         "D": "The dipole will undergo small oscillations with an angular frequency of $\\sqrt{\\frac{\\sigma p_0}{100 \\epsilon_0 I}}$ at $r=10 R$."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A small electric dipole $\\vec{p}_0$, having a moment of inertia $I$ about its center, is kept at a distance $r$ from the center of a spherical shell of radius $R$. The surface charge density $\\sigma$ is uniformly distributed on the spherical shell. The dipole is initially oriented at a small angle $\\theta$ as shown in the figure. While staying at a distance $r$, the dipole is free to rotate about its center. \n\n\n\nIf released from rest, then which of the following statement(s) is(are) correct? \n\n[ $\\varepsilon_0$ is the permittivity of free space.]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 40,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 40,
-      "question_text": "A table tennis ball has radius $(3 / 2) \\times 10^{-2} \\mathrm{~m}$ and mass $(22 / 7) \\times 10^{-3} \\mathrm{~kg}$. It is slowly pushed down into a swimming pool to a depth of $d=0.7 \\mathrm{~m}$ below the water surface and then released from rest. It emerges from the water surface at speed $v$, without getting wet, and rises up to a height $H$. Which of the following option(s) is(are) correct?\n\n\n[Given: $\\pi=22 / 7, g=10 \\mathrm{~m} \\mathrm{~s}^{-2}$, density of water $=1 \\times 10^3 \\mathrm{~kg} \\mathrm{~m}^{-3}$, viscosity of water $=1 \\times 10^{-3} \\mathrm{~Pa}$-s.]",
       "subject": "Physics",
       "topic": "properties-of-matter",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A table tennis ball has radius $(3 / 2) \\times 10^{-2} \\mathrm{~m}$ and mass $(22 / 7) \\times 10^{-3} \\mathrm{~kg}$. It is slowly pushed down into a swimming pool to a depth of $d=0.7 \\mathrm{~m}$ below the water surface and then released from rest. It emerges from the water surface at speed $v$, without getting wet, and rises up to a height $H$. Which of the following option(s) is(are) correct?\n\n\n[Given: $\\pi=22 / 7, g=10 \\mathrm{~m} \\mathrm{~s}^{-2}$, density of water $=1 \\times 10^3 \\mathrm{~kg} \\mathrm{~m}^{-3}$, viscosity of water $=1 \\times 10^{-3} \\mathrm{~Pa}$-s.]",
+      "question_images": [],
+      "option_texts": {
         "A": "The work done in pushing the ball to the depth $d$ is $0.077 \\mathrm{~J}$.",
         "B": "If we neglect the viscous force in water, then the speed $v=7 \\mathrm{~m} / \\mathrm{s}$.",
         "C": "If we neglect the viscous force in water, then the height $H=1.4 \\mathrm{~m}$.",
         "D": "The ratio of the magnitudes of the net force excluding the viscous force to the maximum viscous force in water is $500 / 9$."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A table tennis ball has radius $(3 / 2) \\times 10^{-2} \\mathrm{~m}$ and mass $(22 / 7) \\times 10^{-3} \\mathrm{~kg}$. It is slowly pushed down into a swimming pool to a depth of $d=0.7 \\mathrm{~m}$ below the water surface and then released from rest. It emerges from the water surface at speed $v$, without getting wet, and rises up to a height $H$. Which of the following option(s) is(are) correct? \n\n[Given: $\\pi=22 / 7, g=10 \\mathrm{~m} \\mathrm{~s}^{-2}$, density of water $=1 \\times 10^3 \\mathrm{~kg} \\mathrm{~m}^{-3}$, viscosity of water $=1 \\times 10^{-3} \\mathrm{~Pa}$-s.]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 41,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 41,
-      "question_text": "A positive, singly ionized atom of mass number $A_{\\mathrm{M}}$ is accelerated from rest by the voltage $192 \\mathrm{~V}$. Thereafter, it enters a rectangular region of width $w$ with magnetic field $\\vec{B}_0=0.1 \\hat{k}$ Tesla, as shown in the figure. The ion finally hits a detector at the distance $x$ below its starting trajectory.\n\n\n[Given: Mass of neutron/proton $=(5 / 3) \\times 10^{-27} \\mathrm{~kg}$, charge of the electron $=1.6 \\times 10^{-19} \\mathrm{C}$.]\n\n\n\n\nWhich of the following option(s) is(are) correct?",
       "subject": "Physics",
       "topic": "magnetism",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A positive, singly ionized atom of mass number $A_{\\mathrm{M}}$ is accelerated from rest by the voltage $192 \\mathrm{~V}$. Thereafter, it enters a rectangular region of width $w$ with magnetic field $\\vec{B}_0=0.1 \\hat{k}$ Tesla, as shown in the figure. The ion finally hits a detector at the distance $x$ below its starting trajectory.\n\n\n[Given: Mass of neutron/proton $=(5 / 3) \\times 10^{-27} \\mathrm{~kg}$, charge of the electron $=1.6 \\times 10^{-19} \\mathrm{C}$.]\n\n\n\n\nWhich of the following option(s) is(are) correct?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpws4a7/cbba90e3-77ec-4288-acb0-204aa25d5dc6/546a73f0-1cac-11ef-a7f1-8b6b33c30c4d/file-6y3zli1lwpws4a8.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzghv3k4/64638e2c-35a2-4e4d-9585-258017a8958b/96a36840-52e3-11ef-8b51-4b9049082fdf/file-jaoe38c1lzghv3k5.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "The value of $x$ for $H^{+}$ion is $4 \\mathrm{~cm}$.",
         "B": "The value of $x$ for an ion with $A_{\\mathrm{M}}=144$ is $48 \\mathrm{~cm}$.",
         "C": "For detecting ions with $1 \\leq A_{\\mathrm{M}} \\leq 196$, the minimum height $\\left(x_1-x_0\\right)$ of the detector is $55 \\mathrm{~cm}$.",
         "D": "The minimum width $w$ of the region of the magnetic field for detecting ions with $A_{\\mathrm{M}}=196$ is $56 \\mathrm{~cm}$."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A positive, singly ionized atom of mass number $A_{\\mathrm{M}}$ is accelerated from rest by the voltage $192 \\mathrm{~V}$. Thereafter, it enters a rectangular region of width $w$ with magnetic field $\\vec{B}_0=0.1 \\hat{k}$ Tesla, as shown in the figure. The ion finally hits a detector at the distance $x$ below its starting trajectory. \n\n[Given: Mass of neutron/proton $=(5 / 3) \\times 10^{-27} \\mathrm{~kg}$, charge of the electron $=1.6 \\times 10^{-19} \\mathrm{C}$.] \n\n\n\nWhich of the following option(s) is(are) correct?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 42,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 42,
-      "question_text": "The dimensions of a cone are measured using a scale with a least count of $2 \\mathrm{~mm}$. The diameter of the base and the height are both measured to be $20.0 \\mathrm{~cm}$. The maximum percentage error in the determination of the volume is _______.",
       "subject": "Physics",
       "topic": "units-and-measurements",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The dimensions of a cone are measured using a scale with a least count of $2 \\mathrm{~mm}$. The diameter of the base and the height are both measured to be $20.0 \\mathrm{~cm}$. The maximum percentage error in the determination of the volume is _______.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The dimensions of a cone are measured using a scale with a least count of $2 \\mathrm{~mm}$. The diameter of the base and the height are both measured to be $20.0 \\mathrm{~cm}$. The maximum percentage error in the determination of the volume is _______.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 43,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 43,
-      "question_text": "A ball is thrown from the location $\\left(x_0, y_0\\right)=(0,0)$ of a horizontal playground with an initial speed $v_0$ at an angle $\\theta_0$ from the $+x$-direction. The ball is to be hit by a stone, which is thrown at the same time from the location $\\left(x_1, y_1\\right)=(L, 0)$. The stone is thrown at an angle $\\left(180-\\theta_1\\right)$ from the $+x$-direction with a suitable initial speed. For a fixed $v_0$, when $\\left(\\theta_0, \\theta_1\\right)=\\left(45^{\\circ}, 45^{\\circ}\\right)$, the stone hits the ball after time $T_1$, and when $\\left(\\theta_0, \\theta_1\\right)=\\left(60^{\\circ}, 30^{\\circ}\\right)$, it hits the ball after time $T_2$. In such a case, $\\left(T_1 / T_2\\right)^2$ is ______.",
       "subject": "Physics",
       "topic": "motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A ball is thrown from the location $\\left(x_0, y_0\\right)=(0,0)$ of a horizontal playground with an initial speed $v_0$ at an angle $\\theta_0$ from the $+x$-direction. The ball is to be hit by a stone, which is thrown at the same time from the location $\\left(x_1, y_1\\right)=(L, 0)$. The stone is thrown at an angle $\\left(180-\\theta_1\\right)$ from the $+x$-direction with a suitable initial speed. For a fixed $v_0$, when $\\left(\\theta_0, \\theta_1\\right)=\\left(45^{\\circ}, 45^{\\circ}\\right)$, the stone hits the ball after time $T_1$, and when $\\left(\\theta_0, \\theta_1\\right)=\\left(60^{\\circ}, 30^{\\circ}\\right)$, it hits the ball after time $T_2$. In such a case, $\\left(T_1 / T_2\\right)^2$ is ______.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzgibi9v/f50eea7a-a4fb-49e8-bbb0-282d73d50069/5ef3a930-52e5-11ef-8b51-4b9049082fdf/file-jaoe38c1lzgibi9w.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzgid6s0/130c6274-525b-45e0-bec8-2b6981ef9b87/8db08900-52e5-11ef-8b51-4b9049082fdf/file-jaoe38c1lzgid6s1.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A ball is thrown from the location $\\left(x_0, y_0\\right)=(0,0)$ of a horizontal playground with an initial speed $v_0$ at an angle $\\theta_0$ from the $+x$-direction. The ball is to be hit by a stone, which is thrown at the same time from the location $\\left(x_1, y_1\\right)=(L, 0)$. The stone is thrown at an angle $\\left(180-\\theta_1\\right)$ from the $+x$-direction with a suitable initial speed. For a fixed $v_0$, when $\\left(\\theta_0, \\theta_1\\right)=\\left(45^{\\circ}, 45^{\\circ}\\right)$, the stone hits the ball after time $T_1$, and when $\\left(\\theta_0, \\theta_1\\right)=\\left(60^{\\circ}, 30^{\\circ}\\right)$, it hits the ball after time $T_2$. In such a case, $\\left(T_1 / T_2\\right)^2$ is ______.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 44,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 44,
-      "question_text": "A charge is kept at the central point $\\mathrm{P}$ of a cylindrical region. The two edges subtend a half-angle $\\theta$ at $\\mathrm{P}$, as shown in the figure. When $\\theta=30^{\\circ}$, then the electric flux through the curved surface of the cylinder is $\\Phi$. If $\\theta=60^{\\circ}$, then the electric flux through the curved surface becomes $\\Phi / \\sqrt{n}$, where the value of $n$ is ___.",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A charge is kept at the central point $\\mathrm{P}$ of a cylindrical region. The two edges subtend a half-angle $\\theta$ at $\\mathrm{P}$, as shown in the figure. When $\\theta=30^{\\circ}$, then the electric flux through the curved surface of the cylinder is $\\Phi$. If $\\theta=60^{\\circ}$, then the electric flux through the curved surface becomes $\\Phi / \\sqrt{n}$, where the value of $n$ is ___.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpwz485/37aa84bd-f29d-4048-be41-27e03c06328f/17092550-1cad-11ef-a7f1-8b6b33c30c4d/file-6y3zli1lwpwz486.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9xqq4eb/76fa8029-1002-42ab-b9a3-05df0d39e1ad/bb3b8840-2259-11f0-b1df-99d03504fa2d/file-jaoe38c1m9xqq4ec.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A charge is kept at the central point $\\mathrm{P}$ of a cylindrical region. The two edges subtend a half-angle $\\theta$ at $\\mathrm{P}$, as shown in the figure. When $\\theta=30^{\\circ}$, then the electric flux through the curved surface of the cylinder is $\\Phi$. If $\\theta=60^{\\circ}$, then the electric flux through the curved surface becomes $\\Phi / \\sqrt{n}$, where the value of $n$ is ___.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 45,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 45,
-      "question_text": "Two equilateral-triangular prisms $\\mathrm{P}_1$ and $\\mathrm{P}_2$ are kept with their sides parallel to each other, in vacuum, as shown in the figure. A light ray enters prism $\\mathrm{P}_1$ at an angle of incidence $\\theta$ such that the outgoing ray undergoes minimum deviation in prism $\\mathrm{P}_2$. If the respective refractive indices of $\\mathrm{P}_1$ and $\\mathrm{P}_2$ are $\\sqrt{\\frac{3}{2}}$ and $\\sqrt{3}$, then $\\theta=\\sin ^{-1}\\left[\\sqrt{\\frac{3}{2}} \\sin \\left(\\frac{\\pi}{\\beta}\\right)\\right]$, where the value of $\\beta$ is ____.",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Two equilateral-triangular prisms $\\mathrm{P}_1$ and $\\mathrm{P}_2$ are kept with their sides parallel to each other, in vacuum, as shown in the figure. A light ray enters prism $\\mathrm{P}_1$ at an angle of incidence $\\theta$ such that the outgoing ray undergoes minimum deviation in prism $\\mathrm{P}_2$. If the respective refractive indices of $\\mathrm{P}_1$ and $\\mathrm{P}_2$ are $\\sqrt{\\frac{3}{2}}$ and $\\sqrt{3}$, then $\\theta=\\sin ^{-1}\\left[\\sqrt{\\frac{3}{2}} \\sin \\left(\\frac{\\pi}{\\beta}\\right)\\right]$, where the value of $\\beta$ is ____.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpx4jkd/771b8365-f2ad-4f6c-8cf9-cf2ccef72a53/adee4bd0-1cad-11ef-a7f1-8b6b33c30c4d/file-6y3zli1lwpx4jke.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzgix1fu/ef988f02-aa84-4d56-912d-2d6696d083c1/b5bfbea0-52e7-11ef-8b51-4b9049082fdf/file-jaoe38c1lzgix1fv.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Two equilateral-triangular prisms $\\mathrm{P}_1$ and $\\mathrm{P}_2$ are kept with their sides parallel to each other, in vacuum, as shown in the figure. A light ray enters prism $\\mathrm{P}_1$ at an angle of incidence $\\theta$ such that the outgoing ray undergoes minimum deviation in prism $\\mathrm{P}_2$. If the respective refractive indices of $\\mathrm{P}_1$ and $\\mathrm{P}_2$ are $\\sqrt{\\frac{3}{2}}$ and $\\sqrt{3}$, then $\\theta=\\sin ^{-1}\\left[\\sqrt{\\frac{3}{2}} \\sin \\left(\\frac{\\pi}{\\beta}\\right)\\right]$, where the value of $\\beta$ is ____.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 46,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 46,
-      "question_text": "An infinitely long thin wire, having a uniform charge density per unit length of $5 \\mathrm{nC} / \\mathrm{m}$, is passing through a spherical shell of radius $1 \\mathrm{~m}$, as shown in the figure. A $10 \\mathrm{nC}$ charge is distributed uniformly over the spherical shell. If the configuration of the charges remains static, the magnitude of the potential difference between points $\\mathrm{P}$ and $\\mathrm{R}$, in Volt, is ________.\n\n\n[Given: In SI units $\\frac{1}{4 \\pi \\epsilon_0}=9 \\times 10^9, \\ln 2=0.7$. Ignore the area pierced by the wire.]",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "An infinitely long thin wire, having a uniform charge density per unit length of $5 \\mathrm{nC} / \\mathrm{m}$, is passing through a spherical shell of radius $1 \\mathrm{~m}$, as shown in the figure. A $10 \\mathrm{nC}$ charge is distributed uniformly over the spherical shell. If the configuration of the charges remains static, the magnitude of the potential difference between points $\\mathrm{P}$ and $\\mathrm{R}$, in Volt, is ________.\n\n\n[Given: In SI units $\\frac{1}{4 \\pi \\epsilon_0}=9 \\times 10^9, \\ln 2=0.7$. Ignore the area pierced by the wire.]",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpx6vn9/578e82d5-01e8-4528-9808-19d31dc92cc0/eee17e50-1cad-11ef-a7f1-8b6b33c30c4d/file-6y3zli1lwpx6vna.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzgj3mrw/7f9c3f6e-7b97-4e1e-a1f6-dacb509ffe8e/6d15a4c0-52e8-11ef-8b51-4b9049082fdf/file-jaoe38c1lzgj3mrx.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "An infinitely long thin wire, having a uniform charge density per unit length of $5 \\mathrm{nC} / \\mathrm{m}$, is passing through a spherical shell of radius $1 \\mathrm{~m}$, as shown in the figure. A $10 \\mathrm{nC}$ charge is distributed uniformly over the spherical shell. If the configuration of the charges remains static, the magnitude of the potential difference between points $\\mathrm{P}$ and $\\mathrm{R}$, in Volt, is ________. \n\n[Given: In SI units $\\frac{1}{4 \\pi \\epsilon_0}=9 \\times 10^9, \\ln 2=0.7$. Ignore the area pierced by the wire.]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 47,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 47,
-      "question_text": "A spherical soap bubble inside an air chamber at pressure $P_0=10^5 \\mathrm{~Pa}$ has a certain radius so that the excess pressure inside the bubble is $\\Delta P=144 \\mathrm{~Pa}$. Now, the chamber pressure is reduced to $8 P_0 / 27$ so that the bubble radius and its excess pressure change. In this process, all the temperatures remain unchanged. Assume air to be an ideal gas and the excess pressure $\\Delta P$ in both the cases to be much smaller than the chamber pressure. The new excess pressure $\\Delta P$ in $\\mathrm{Pa}$ is ______.",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A spherical soap bubble inside an air chamber at pressure $P_0=10^5 \\mathrm{~Pa}$ has a certain radius so that the excess pressure inside the bubble is $\\Delta P=144 \\mathrm{~Pa}$. Now, the chamber pressure is reduced to $8 P_0 / 27$ so that the bubble radius and its excess pressure change. In this process, all the temperatures remain unchanged. Assume air to be an ideal gas and the excess pressure $\\Delta P$ in both the cases to be much smaller than the chamber pressure. The new excess pressure $\\Delta P$ in $\\mathrm{Pa}$ is ______.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzgj9byu/1f626a93-3fec-4fb7-bb7a-bece810f8a92/0b975760-52e9-11ef-8b51-4b9049082fdf/file-jaoe38c1lzgj9byv.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzgja2n1/efce9eb5-ebfb-44c5-a6ea-71d8ec06915f/2031d8d0-52e9-11ef-8b51-4b9049082fdf/file-jaoe38c1lzgja2n2.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A spherical soap bubble inside an air chamber at pressure $P_0=10^5 \\mathrm{~Pa}$ has a certain radius so that the excess pressure inside the bubble is $\\Delta P=144 \\mathrm{~Pa}$. Now, the chamber pressure is reduced to $8 P_0 / 27$ so that the bubble radius and its excess pressure change. In this process, all the temperatures remain unchanged. Assume air to be an ideal gas and the excess pressure $\\Delta P$ in both the cases to be much smaller than the chamber pressure. The new excess pressure $\\Delta P$ in $\\mathrm{Pa}$ is ______.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2024,
-      "exam_type": "JEE Advanced",
-      "shift": 1,
       "question_number": 48,
+      "year": 2024,
+      "exam_type": "JEE Advanced",
+      "shift": 1,
+      "subject": "Physics",
+      "topic": "wave-optics",
+      "sub_topic": "optics",
       "question_text": "The $8^{\\text {th }}$ bright fringe above the point $\\mathrm{O}$ oscillates with time between two extreme positions. The separation between these two extreme positions, in micrometer $(\\mu \\mathrm{m})$, is _________ .",
-      "subject": "Physics",
-      "topic": "wave-optics",
-      "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The $8^{\\text {th }}$ bright fringe above the point $\\mathrm{O}$ oscillates with time between two extreme positions. The separation between these two extreme positions, in micrometer $(\\mu \\mathrm{m})$, is _________ .",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2024,
-      "exam_type": "JEE Advanced",
-      "shift": 1,
       "question_number": 49,
-      "question_text": "The maximum speed in $\\mu \\mathrm{m} / \\mathrm{s}$ at which the $8^{\\text {th }}$ bright fringe will move is ______.",
+      "year": 2024,
+      "exam_type": "JEE Advanced",
+      "shift": 1,
       "subject": "Physics",
       "topic": "wave-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The maximum speed in $\\mu \\mathrm{m} / \\mathrm{s}$ at which the $8^{\\text {th }}$ bright fringe will move is ______.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The maximum speed in $\\mu \\mathrm{m} / \\mathrm{s}$ at which the $8^{\\text {th }}$ bright fringe will move is ______.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2024,
-      "exam_type": "JEE Advanced",
-      "shift": 1,
       "question_number": 50,
-      "question_text": "If the collision occurs at time $t_0=0$, the value of $v_{\\mathrm{cm}} /(a \\omega)$ will be ______.",
-      "subject": "Physics",
-      "topic": "simple-harmonic-motion",
-      "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
-      "correct_answer": "",
-      "question": "If the collision occurs at time $t_0=0$, the value of $v_{\\mathrm{cm}} /(a \\omega)$ will be ______.",
-      "isOutOfSyllabus": false,
-      "marks": 3,
-      "negMarks": 1
-    },
-    {
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 51,
-      "question_text": "If the collision occurs at time $t_0=\\pi /(2 \\omega)$, then the value of $4 b^2 / a^2$ will be ______.",
       "subject": "Physics",
       "topic": "simple-harmonic-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "If the collision occurs at time $t_0=0$, the value of $v_{\\mathrm{cm}} /(a \\omega)$ will be ______.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzgjrng2/332c4d18-4245-47b3-8fa4-ff4d07729ba8/0905c520-52eb-11ef-8b51-4b9049082fdf/file-jaoe38c1lzgjrng3.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzgjs9aa/2717b0fc-62cf-4700-80a6-716a7752cd9c/19e49e20-52eb-11ef-8b51-4b9049082fdf/file-jaoe38c1lzgjs9ab.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "If the collision occurs at time $t_0=\\pi /(2 \\omega)$, then the value of $4 b^2 / a^2$ will be ______.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
+    },
+    {
+      "question_number": 51,
+      "year": 2024,
+      "exam_type": "JEE Advanced",
+      "shift": 1,
+      "subject": "Physics",
+      "topic": "simple-harmonic-motion",
+      "sub_topic": "mechanics",
+      "question_text": "If the collision occurs at time $t_0=\\pi /(2 \\omega)$, then the value of $4 b^2 / a^2$ will be ______.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzgqa4l4/970b3bcf-2b12-4e16-8dc1-b090361979db/819a4380-5304-11ef-8a37-e3d681a4faeb/file-jaoe38c1lzgqa4l5.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzgqatnw/7b555e7a-bfb1-4d1c-8503-3f8123128ea3/94f95ec0-5304-11ef-8a37-e3d681a4faeb/file-jaoe38c1lzgqatnx.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzgqcfgv/8ede624b-b632-44a9-8042-dc305f983a7f/c1a07df0-5304-11ef-8a37-e3d681a4faeb/file-jaoe38c1lzgqcfgw.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzgqczt1/73a0ec3c-0360-45ee-80bc-725cd102925d/d156b570-5304-11ef-8a37-e3d681a4faeb/file-jaoe38c1lzgqczt3.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
+      "correct_answer": "",
+      "marks": 3,
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     }
   ]
 }

@@ -8,1066 +8,1484 @@
   },
   "questions": [
     {
+      "question_number": 1,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 1,
-      "question_text": "The heating of NH4NO2 at 60–70 °C and NH4NO3 at 200–250 °C is associated with the formation of nitrogen containing compounds X and Y, respectively. X and Y, respectively, are",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The heating of NH4NO2 at 60–70 °C and NH4NO3 at 200–250 °C is associated with the formation of nitrogen containing compounds X and Y, respectively. X and Y, respectively, are",
+      "question_images": [],
+      "option_texts": {
         "A": "N_{2} and N_{2}O",
         "B": "NH_{3} and NO_{2}",
         "C": "NO and N_{2}O",
         "D": "N_{2} and NH_{3}"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The heating of NH_{4}NO_{2} at 60–70 °C and NH_{4}NO_{3} at 200–250 °C is associated with the formation of nitrogen containing compounds X and Y, respectively. X and Y, respectively, are",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 2,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 2,
-      "question_text": "The correct order of the wavelength maxima of the absorption band in the ultraviolet-visible region for the given complexes is",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The correct order of the wavelength maxima of the absorption band in the ultraviolet-visible region for the given complexes is",
+      "question_images": [],
+      "option_texts": {
         "A": "[Co(CN)_{6}] ^{3−} < [Co(NH_{3})_{6}]^{3+} < [Co(NH_{3})_{5}(H_{2}O)]^{3+} < [Co(NH_{3})_{5}(Cl)]^{2+}",
         "B": "[Co(NH_{3})_{5}(Cl)]^{2+} < [Co(NH_{3})_{5}(H_{2}O)]^{3+} < [Co(NH_{3})_{6}]^{3+} < [Co(CN)_{6}]^{3−}",
         "C": "[Co(CN)_{6}]^{3−} < [Co(NH_{3})_{5}(Cl)]^{2+} < [Co(NH_{3})_{5}(H_{2}O)]^{3+} < [Co(NH_{3})_{6}]^{3+}",
         "D": "[Co(NH_{3})_{6}]^{3+} < [Co(CN)_{6}]^{3−} < [Co(NH_{3})_{5}(Cl)]^{2+} < [Co(NH_{3})_{5}(H_{2}O)]^{3+}"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The correct order of the wavelength maxima of the absorption band in the ultraviolet-visible region for the given complexes is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 3,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 3,
-      "question_text": "One of the products formed from the reaction of permanganate ion with iodide ion in neutral aqueous medium is",
       "subject": "Chemistry",
       "topic": "redox-reactions",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "One of the products formed from the reaction of permanganate ion with iodide ion in neutral aqueous medium is",
+      "question_images": [],
+      "option_texts": {
         "A": "I_{2}",
         "B": "IO_{3}^{−}",
         "C": "IO_{4}^{−}",
         "D": "IO_{2}^{−}"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "One of the products formed from the reaction of permanganate ion with iodide ion in neutral aqueous medium is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 4,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 4,
-      "question_text": "Consider the depicted hydrogen (H) in the hydrocarbons given below. The most acidic hydrogen (H) is",
       "subject": "Chemistry",
       "topic": "hydrocarbons",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider the depicted hydrogen (H) in the hydrocarbons given below. The most acidic hydrogen (H) is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbrp4sit/c11e74d5-05b1-4350-ace0-376de614729c/3bcc6240-469f-11f0-8bdf-c928f436ae39/file-jaoe38c1mbrp4siu.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb1ngu3c/7709b9e9-0f5e-4f76-99f8-de52970c479b/57941d80-384c-11f0-aca4-dfd8c6b21521/file-jaoe38c1mb1ngu3d.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb1nh3ap/cf2bc7d4-9cfe-4106-b861-7e61d1026b7d/5eb05610-384c-11f0-aca4-dfd8c6b21521/file-jaoe38c1mb1nh3aq.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb1ni3q0/be8fc52f-524d-45b8-a621-14a352e4c9e5/7ad38d80-384c-11f0-aca4-dfd8c6b21521/file-jaoe38c1mb1ni3q1.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb1niacu/f33b4b80-184a-42eb-afc8-8744b71d525d/7ff380e0-384c-11f0-aca4-dfd8c6b21521/file-jaoe38c1mb1niacv.png",
+          "description": ""
+        }
+      },
       "correct_answer": "B",
-      "question": "Consider the depicted hydrogen (H) in the hydrocarbons given below. The most acidic hydrogen (H) is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 5,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 5,
-      "question_text": "Regarding the molecular orbital (MO) energy levels for homonuclear diatomic molecules, the INCORRECT statement(s) is(are)",
       "subject": "Chemistry",
       "topic": "chemical-bonding-and-molecular-structure",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Regarding the molecular orbital (MO) energy levels for homonuclear diatomic molecules, the INCORRECT statement(s) is(are)",
+      "question_images": [],
+      "option_texts": {
         "A": "Bond order of Ne_{2} is zero.",
         "B": "The highest occupied molecular orbital (HOMO) of F_{2} is $\\sigma$-type.",
         "C": "Bond energy of $O_2^{+}$ is smaller than the bond energy of O_{2}.",
         "D": "Bond length of Li_{2} is larger than the bond length of B_{2}."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Regarding the molecular orbital (MO) energy levels for homonuclear diatomic molecules, the INCORRECT statement(s) is(are)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 6,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 6,
-      "question_text": "The pair(s) of diamagnetic ions is(are)",
       "subject": "Chemistry",
       "topic": "d-and-f-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The pair(s) of diamagnetic ions is(are)",
+      "question_images": [],
+      "option_texts": {
         "A": "La^{3+}, Ce^{4+}",
         "B": "Yb^{2+}, Lu^{3+}",
         "C": "La^{2+}, Ce^{3+}",
         "D": "Yb^{3+}, Lu^{2+}"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The pair(s) of diamagnetic ions is(are)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 7,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 7,
-      "question_text": "For the reaction sequence given below, the correct statement(s) is(are)\n (In the options, X is any atom other than carbon and hydrogen, and it is different in P, Q and R)",
       "subject": "Chemistry",
       "topic": "haloalkanes-and-haloarenes",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "For the reaction sequence given below, the correct statement(s) is(are)\n (In the options, X is any atom other than carbon and hydrogen, and it is different in P, Q and R)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb1nmpd5/64ab3c18-00b3-4cb9-9299-ac9d29f68eba/fac80d90-384c-11f0-aca4-dfd8c6b21521/file-jaoe38c1mb1nmpd6.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbz24hv9/1e037a9f-55a9-4788-bcdc-f98dcf8aeba8/86cb7870-4aab-11f0-923a-1595f23bdd58/file-jaoe38c1mbz24hvb.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbz263jt/92ad4cb0-7838-4bc8-b69c-7d44790ca492/b35a0690-4aab-11f0-923a-1595f23bdd58/file-jaoe38c1mbz263ju.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbz2csh3/52dff1d8-c6e9-466d-aef0-aaaec1f93d45/6d75c370-4aac-11f0-923a-1595f23bdd58/file-jaoe38c1mbz2csh4.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbz2ioyk/e3ed7dc6-4e55-47ba-a6bb-ea5493b69c0f/119991c0-4aad-11f0-923a-1595f23bdd58/file-jaoe38c1mbz2ioyl.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbz2j704/1fd80d20-4e40-4b69-91bd-9a6b104a56d5/1f89af40-4aad-11f0-923a-1595f23bdd58/file-jaoe38c1mbz2j705.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbz2pql2/e73e5eb4-e4e4-4f2d-8967-0b47adb970f8/d584e760-4aad-11f0-923a-1595f23bdd58/file-jaoe38c1mbz2pql3.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbz2q76j/8df8c105-6b72-412f-91f4-7e4980be1c1a/e256eab0-4aad-11f0-923a-1595f23bdd58/file-jaoe38c1mbz2q76k.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "C–X bond length in P, Q and R follows the order Q > R > P.",
         "B": "C–X bond enthalpy in P, Q and R follows the order R > P > Q.",
         "C": "Relative reactivity toward S_{N}2 reaction in P, Q and R follows the order P > R > Q.",
         "D": "pK_{a} value of the conjugate acids of the leaving groups in P, Q and R follows the order R > Q > P."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "For the reaction sequence given below, the correct statement(s) is(are)  (In the options, X is any atom other than carbon and hydrogen, and it is different in P, Q and R)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 8,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 8,
-      "question_text": "In an electrochemical cell, dichromate ions in aqueous acidic medium are reduced to Cr3+. The current (in amperes) that flows through the cell for 48.25 minutes to produce 1 mole of Cr3+ is ______.\nUse: 1 Faraday = 96500 C mol−1",
       "subject": "Chemistry",
       "topic": "electrochemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "In an electrochemical cell, dichromate ions in aqueous acidic medium are reduced to Cr3+. The current (in amperes) that flows through the cell for 48.25 minutes to produce 1 mole of Cr3+ is ______.\nUse: 1 Faraday = 96500 C mol−1",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "In an electrochemical cell, dichromate ions in aqueous acidic medium are reduced to Cr^{3+}. The current (in amperes) that flows through the cell for 48.25 minutes to produce 1 mole of Cr^{3+} is ______. Use: 1 Faraday = 96500 C mol^{−1}",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 9,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 9,
-      "question_text": "At 25 &deg;C, the concentration of H+ ions in 1.00 &times; 10−3 M aqueous solution of a weak monobasic acid having acid dissociation constant (Ka) of 4.00 &times; 10−11 is X &times; 10−7 M. The value of X is ______.\nUse: Ionic product of water (Kw) = 1.00 &times; 10−14 at 25 &deg;C",
       "subject": "Chemistry",
       "topic": "ionic-equilibrium",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "At 25 &deg;C, the concentration of H+ ions in 1.00 &times; 10−3 M aqueous solution of a weak monobasic acid having acid dissociation constant (Ka) of 4.00 &times; 10−11 is X &times; 10−7 M. The value of X is ______.\nUse: Ionic product of water (Kw) = 1.00 &times; 10−14 at 25 &deg;C",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "At 25 &deg;C, the concentration of H^{+} ions in 1.00 &times; 10^{−3} M aqueous solution of a weak monobasic acid having acid dissociation constant (K_{a}) of 4.00 &times; 10^{−11} is X &times; 10^{−7} M. The value of X is ______. Use: Ionic product of water (K_{w}) = 1.00 &times; 10^{−14} at 25 &deg;C",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 10,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 10,
-      "question_text": "Molar volume (Vm) of a van der Waals gas can be calculated by expressing the van der Waals equation as a cubic equation with Vm as the variable. The ratio (in mol dm−3) of the coefficient of Vm2 to the coefficient of Vm for a gas having van der Waals constants a = 6.0 dm6 atm mol−2 and b = 0.060 dm3 mol−1 at 300 K and 300 atm is ______.\nUse: Universal gas constant (R) = 0.082 dm3 atm mol−1 K−1",
       "subject": "Chemistry",
       "topic": "gaseous-state",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Molar volume (Vm) of a van der Waals gas can be calculated by expressing the van der Waals equation as a cubic equation with Vm as the variable. The ratio (in mol dm−3) of the coefficient of Vm2 to the coefficient of Vm for a gas having van der Waals constants a = 6.0 dm6 atm mol−2 and b = 0.060 dm3 mol−1 at 300 K and 300 atm is ______.\nUse: Universal gas constant (R) = 0.082 dm3 atm mol−1 K−1",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Molar volume (V_{m}) of a van der Waals gas can be calculated by expressing the van der Waals equation as a cubic equation with V_{m} as the variable. The ratio (in mol dm^{−3}) of the coefficient of V_{m}^{2} to the coefficient of V_{m} for a gas having van der Waals constants a = 6.0 dm^{6} atm mol^{−2} and b = 0.060 dm^{3} mol^{−1} at 300 K and 300 atm is ______. Use: Universal gas constant (R) = 0.082 dm^{3} atm mol^{−1} K^{−1}",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 11,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 11,
-      "question_text": "Considering ideal gas behavior, the expansion work done (in kJ) when 144 g of water is electrolyzed completely under constant pressure at 300 K is ______.\nUse: Universal gas constant (R) = 8.3 J K−1 mol−1; Atomic mass (in amu): H = 1, O = 16",
       "subject": "Chemistry",
       "topic": "thermodynamics",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Considering ideal gas behavior, the expansion work done (in kJ) when 144 g of water is electrolyzed completely under constant pressure at 300 K is ______.\nUse: Universal gas constant (R) = 8.3 J K−1 mol−1; Atomic mass (in amu): H = 1, O = 16",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Considering ideal gas behavior, the expansion work done (in kJ) when 144 g of water is electrolyzed completely under constant pressure at 300 K is ______. Use: Universal gas constant (R) = 8.3 J K^{−1} mol^{−1}; Atomic mass (in amu): H = 1, O = 16",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 12,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 12,
-      "question_text": "The monomer (X) involved in the synthesis of Nylon 6,6 gives positive carbylamine test. If 10 moles of X are analyzed using Dumas method, the amount (in grams) of nitrogen gas evolved is ______.\nUse: Atomic mass of N (in amu) = 14",
       "subject": "Chemistry",
       "topic": "polymers",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The monomer (X) involved in the synthesis of Nylon 6,6 gives positive carbylamine test. If 10 moles of X are analyzed using Dumas method, the amount (in grams) of nitrogen gas evolved is ______.\nUse: Atomic mass of N (in amu) = 14",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbryl0o3/55e7f0bd-1035-4d3e-a5c7-92e2d3b60307/31338640-46c4-11f0-a627-6570b0590e29/file-jaoe38c1mbryl0o4.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The monomer (X) involved in the synthesis of Nylon 6,6 gives positive carbylamine test. If 10 moles of X are analyzed using Dumas method, the amount (in grams) of nitrogen gas evolved is ______. Use: Atomic mass of N (in amu) = 14",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 13,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 13,
-      "question_text": "The reaction sequence given below is carried out with 16 moles of X. The yield of the major product in each step is given below the product in parentheses. The amount (in grams) of S produced is ______.\nUse: Atomic mass (in amu): H = 1, C = 12, O = 16, Br = 80",
       "subject": "Chemistry",
       "topic": "alcohols-phenols-and-ethers",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The reaction sequence given below is carried out with 16 moles of X. The yield of the major product in each step is given below the product in parentheses. The amount (in grams) of S produced is ______.\nUse: Atomic mass (in amu): H = 1, C = 12, O = 16, Br = 80",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb1ntg6k/e3e8a968-1307-409b-b41a-db55d674e870/b65a16c0-384d-11f0-aca4-dfd8c6b21521/file-jaoe38c1mb1ntg6l.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbudxdhy/ca138e46-65f0-41a4-8d7b-3645909720bc/c30e9360-4819-11f0-bd94-d3c63c8acac1/file-jaoe38c1mbudxdhz.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbue4m2o/996d3feb-141e-466d-80cf-6ddef7ee7300/8c586c00-481a-11f0-bd94-d3c63c8acac1/file-jaoe38c1mbue4m2p.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbue77qp/3701ee81-9b46-4375-a7df-cfe2b246cf6c/d4b3ad20-481a-11f0-bd94-d3c63c8acac1/file-jaoe38c1mbue77qq.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbue82ao/2488311c-8402-4ed9-a8e3-0e9aaa0da152/ec4dda00-481a-11f0-bd94-d3c63c8acac1/file-jaoe38c1mbue82ap.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbue9fan/da274608-451b-4b44-9f4f-ebf4a9351ebc/1227cb00-481b-11f0-bd94-d3c63c8acac1/file-jaoe38c1mbue9fao.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbue9t4h/30b04717-17c8-4dea-84bf-c4b8457755a7/1cd65210-481b-11f0-bd94-d3c63c8acac1/file-jaoe38c1mbue9t4i.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbueaajm/493a7246-578b-47c0-8777-b5764ace2279/2a4b7330-481b-11f0-bd94-d3c63c8acac1/file-jaoe38c1mbueaajn.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbueaplz/16d90cd7-e507-4434-ab11-ec32a875061c/35ee9370-481b-11f0-bd94-d3c63c8acac1/file-jaoe38c1mbueapm0.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbueb6iy/31480f44-57e6-44e6-ba38-7faca3ec0434/42ffc2a0-481b-11f0-bd94-d3c63c8acac1/file-jaoe38c1mbueb6iz.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbuebuho/27e627fd-852a-45db-ab68-c85f88f6eec0/5582d5c0-481b-11f0-bd94-d3c63c8acac1/file-jaoe38c1mbuebuhp.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbuexml7/729f8d10-22ac-4c84-a2e8-fe3cbdcc1d67/b3356dc0-481d-11f0-bd94-d3c63c8acac1/file-jaoe38c1mbuexml8.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbuey169/3e417593-bb99-4d0e-9a53-f4774ab5aac5/be797e10-481d-11f0-bd94-d3c63c8acac1/file-jaoe38c1mbuey16a.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbuf6wbg/c8649b5e-3f41-43f5-8cf0-b2f7e98fe396/b50185c0-481e-11f0-bd94-d3c63c8acac1/file-jaoe38c1mbuf6wbh.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbufcupw/199905f5-99c9-4cb8-ba98-3e7dda1810ad/5aa03440-481f-11f0-bd94-d3c63c8acac1/file-jaoe38c1mbufcupx.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbufqrj6/6d285db4-8d57-423b-bb6d-a00a43d7b386/dd7dfc20-4820-11f0-bd94-d3c63c8acac1/file-jaoe38c1mbufqrj7.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbufut6s/c0cc8bec-db87-44a8-9d20-085d848d3371/4e020040-4821-11f0-bd94-d3c63c8acac1/file-jaoe38c1mbufut6t.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbufyklw/d8f251ba-8be2-4e5a-9805-87a19360e452/b69dc940-4821-11f0-bd94-d3c63c8acac1/file-jaoe38c1mbufyklx.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbufzm3w/489df619-2bda-4190-a584-1a33da1bc1cf/d3958ec0-4821-11f0-bd94-d3c63c8acac1/file-jaoe38c1mbufzm3x.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbug37ip/4e861f99-c3cc-4649-832e-81ab65ff9e5e/378d2410-4822-11f0-bd94-d3c63c8acac1/file-jaoe38c1mbug37iq.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The reaction sequence given below is carried out with 16 moles of X. The yield of the major product in each step is given below the product in parentheses. The amount (in grams) of S produced is ______. Use: Atomic mass (in amu): H = 1, C = 12, O = 16, Br = 80",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 14,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 14,
-      "question_text": "The correct match of the group reagents in List-I for precipitating the metal ion given in List-II from solutions, is\n\n\n\n\n  \n\n    List–I\n\n    List–II\n\n  \n\n  \n\n    (P) Passing $\\mathrm{H_2S}$ in the presence of $\\mathrm{NH_4OH}$\n\n    (1) $\\mathrm{Cu^{2+}}$\n\n  \n\n  \n\n    (Q) $\\mathrm{(NH_4)_2CO_3}$ in the presence of $\\mathrm{NH_4OH}$\n\n    (2) $\\mathrm{Al^{3+}}$\n\n  \n\n  \n\n    (R) $\\mathrm{NH_4OH}$ in the presence of $\\mathrm{NH_4Cl}$\n\n    (3) $\\mathrm{Mn^{2+}}$\n\n  \n\n  \n\n    (S) Passing $\\mathrm{H_2S}$ in the presence of dilute $\\mathrm{HCl}$\n\n     (4) $\\mathrm{Ba^{2+}}$\n\n  \n\n  \n\n    \n\n    (5) $\\mathrm{Mg^{2+}}$",
       "subject": "Chemistry",
       "topic": "salt-analysis",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The correct match of the group reagents in List-I for precipitating the metal ion given in List-II from solutions, is\n\n\n\n\n  \n\n    List–I\n\n    List–II\n\n  \n\n  \n\n    (P) Passing $\\mathrm{H_2S}$ in the presence of $\\mathrm{NH_4OH}$\n\n    (1) $\\mathrm{Cu^{2+}}$\n\n  \n\n  \n\n    (Q) $\\mathrm{(NH_4)_2CO_3}$ in the presence of $\\mathrm{NH_4OH}$\n\n    (2) $\\mathrm{Al^{3+}}$\n\n  \n\n  \n\n    (R) $\\mathrm{NH_4OH}$ in the presence of $\\mathrm{NH_4Cl}$\n\n    (3) $\\mathrm{Mn^{2+}}$\n\n  \n\n  \n\n    (S) Passing $\\mathrm{H_2S}$ in the presence of dilute $\\mathrm{HCl}$\n\n     (4) $\\mathrm{Ba^{2+}}$\n\n  \n\n  \n\n    \n\n    (5) $\\mathrm{Mg^{2+}}$",
+      "question_images": [],
+      "option_texts": {
         "A": "P → 3; Q → 4; R → 2; S → 1",
         "B": "P → 4; Q → 2; R → 3; S → 1",
         "C": "P → 3; Q → 4; R → 1; S → 5",
         "D": "P → 5; Q → 3; R → 2; S → 4"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The correct match of the group reagents in List-I for precipitating the metal ion given in List-II from solutions, is \n\n\n\n  \n\n    List–I\n\n    List–II\n\n  \n\n  \n\n    (P) Passing $\\mathrm{H_2S}$ in the presence of $\\mathrm{NH_4OH}$\n\n    (1) $\\mathrm{Cu^{2+}}$\n\n  \n\n  \n\n    (Q) $\\mathrm{(NH_4)_2CO_3}$ in the presence of $\\mathrm{NH_4OH}$\n\n    (2) $\\mathrm{Al^{3+}}$\n\n  \n\n  \n\n    (R) $\\mathrm{NH_4OH}$ in the presence of $\\mathrm{NH_4Cl}$\n\n    (3) $\\mathrm{Mn^{2+}}$\n\n  \n\n  \n\n    (S) Passing $\\mathrm{H_2S}$ in the presence of dilute $\\mathrm{HCl}$\n\n     (4) $\\mathrm{Ba^{2+}}$\n\n  \n\n  \n\n    \n\n    (5) $\\mathrm{Mg^{2+}}$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 15,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 15,
-      "question_text": "The major products obtained from the reactions in List-II are the reactants for the named reactions mentioned in List-I. Match each entry in List-I with the appropriate entry in List-II and choose the correct option.\n\n  \n    List–I\n    List–II\n  \n  \n    (P) Stephen reaction\n    (1) $$\n\\text { Toluene } \\xrightarrow{\\begin{array}{l}\n\\text { (i) } \\mathrm{CrO}_2 \\mathrm{Cl}_2 / \\mathrm{CS}_2 \\\\\n\\text { (ii) } \\mathrm{H}_3 \\mathrm{O}^{+}\n\\end{array}}\n$$\n    \n  \n  \n    (Q) Sandmeyer reaction\n    (2) $$\n\\text { Benzoic acid } \\xrightarrow{\\substack{\\text { (i) } \\mathrm{PCl}_5 \\\\ \\text { (ii) } \\mathrm{NH}_3 \\\\ \\text { (iii) } \\mathrm{P}_4 \\mathrm{O}_{10}, \\Delta}}\n$$\n    \n  \n  \n    (R) Hoffmann bromamide degradation reaction\n    (3) $$\n\\text { Nitrobenzene } \\xrightarrow{\\begin{array}{l}\n\\text { (i) } \\mathrm{Fe}, \\mathrm{HCl} \\\\\n\\text { (ii) } \\mathrm{HCl}, \\mathrm{NaNO}_2 \\\\\n(273-278 \\mathrm{~K}), \\mathrm{H}_2 \\mathrm{O}\n\\end{array}}\n$$\n    \n  \n  \n    (S) Cannizzaro reaction\n    (4) $$\n\n\\text { Toluene } \\xrightarrow{\\begin{array}{ll}\n\\text { (i) } \\mathrm{Cl}_2 / \\mathrm{h\\nu}, \\mathrm{H}_2 \\mathrm{O} \\\\\n\\text { (ii) Tollen's reagent } \\\\\n\\text { (iii) } \\mathrm{SO}_2 \\mathrm{Cl}_2 \\\\ \\text { (iv) } \\mathrm{NH}_3 \\end{array}}\n\n$$\n    \n  \n  \n    \n    (5) $$\n\\text { Aniline } \\xrightarrow{\\begin{array}{l}\n\\text { (i) }\\left(\\mathrm{CH}_3 \\mathrm{CO}\\right)_2 \\mathrm{O}, \\text { Pyridine } \\\\\n\\text { (ii) } \\mathrm{HNO}_3, \\mathrm{H}_2 \\mathrm{SO}_4, 288 \\mathrm{~K} \\\\\n\\text { (iii) aq. } \\mathrm{NaOH}\n\\end{array}}\n$$",
       "subject": "Chemistry",
       "topic": "compounds-containing-nitrogen",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The major products obtained from the reactions in List-II are the reactants for the named reactions mentioned in List-I. Match each entry in List-I with the appropriate entry in List-II and choose the correct option.\n\n  \n    List–I\n    List–II\n  \n  \n    (P) Stephen reaction\n    (1) $$\n\\text { Toluene } \\xrightarrow{\\begin{array}{l}\n\\text { (i) } \\mathrm{CrO}_2 \\mathrm{Cl}_2 / \\mathrm{CS}_2 \\\\\n\\text { (ii) } \\mathrm{H}_3 \\mathrm{O}^{+}\n\\end{array}}\n$$\n    \n  \n  \n    (Q) Sandmeyer reaction\n    (2) $$\n\\text { Benzoic acid } \\xrightarrow{\\substack{\\text { (i) } \\mathrm{PCl}_5 \\\\ \\text { (ii) } \\mathrm{NH}_3 \\\\ \\text { (iii) } \\mathrm{P}_4 \\mathrm{O}_{10}, \\Delta}}\n$$\n    \n  \n  \n    (R) Hoffmann bromamide degradation reaction\n    (3) $$\n\\text { Nitrobenzene } \\xrightarrow{\\begin{array}{l}\n\\text { (i) } \\mathrm{Fe}, \\mathrm{HCl} \\\\\n\\text { (ii) } \\mathrm{HCl}, \\mathrm{NaNO}_2 \\\\\n(273-278 \\mathrm{~K}), \\mathrm{H}_2 \\mathrm{O}\n\\end{array}}\n$$\n    \n  \n  \n    (S) Cannizzaro reaction\n    (4) $$\n\n\\text { Toluene } \\xrightarrow{\\begin{array}{ll}\n\\text { (i) } \\mathrm{Cl}_2 / \\mathrm{h\\nu}, \\mathrm{H}_2 \\mathrm{O} \\\\\n\\text { (ii) Tollen's reagent } \\\\\n\\text { (iii) } \\mathrm{SO}_2 \\mathrm{Cl}_2 \\\\ \\text { (iv) } \\mathrm{NH}_3 \\end{array}}\n\n$$\n    \n  \n  \n    \n    (5) $$\n\\text { Aniline } \\xrightarrow{\\begin{array}{l}\n\\text { (i) }\\left(\\mathrm{CH}_3 \\mathrm{CO}\\right)_2 \\mathrm{O}, \\text { Pyridine } \\\\\n\\text { (ii) } \\mathrm{HNO}_3, \\mathrm{H}_2 \\mathrm{SO}_4, 288 \\mathrm{~K} \\\\\n\\text { (iii) aq. } \\mathrm{NaOH}\n\\end{array}}\n$$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbui2iyj/2e4f1ff0-3112-463d-a814-36d051810aee/f6d664b0-4829-11f0-ac6c-bf7bd77a29e6/file-jaoe38c1mbui2iyk.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbuiqvss/83bda2cf-fedf-41f0-85e9-8096c01799f1/9c2cfbc0-482c-11f0-9e3d-a7fe14f35457/file-jaoe38c1mbuiqvst.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbuiwcf0/8eec3d0d-89ec-480a-9f43-8f9f5079b484/340ed1c0-482d-11f0-9e3d-a7fe14f35457/file-jaoe38c1mbuiwcf1.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbuj04g9/a976e5f4-fec9-40b5-86e4-7a270a340d18/9d243790-482d-11f0-9e3d-a7fe14f35457/file-jaoe38c1mbuj04ga.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbuj65sl/a7bf6629-e1f1-495f-a775-b9f96954d749/45089050-482e-11f0-9e3d-a7fe14f35457/file-jaoe38c1mbuj65sm.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbuj9zxi/9abfc364-6743-4c13-b2ec-c07f0c0d0a00/afbd9c60-482e-11f0-9e3d-a7fe14f35457/file-jaoe38c1mbuj9zxj.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbujgihn/bae0d81e-e97d-45a1-8d77-99791ace3991/64eea6b0-482f-11f0-9e3d-a7fe14f35457/file-jaoe38c1mbujgiho.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbujj2xs/50e01268-9b8b-466b-b6e2-8902bacc8496/ac58aa00-482f-11f0-9e3d-a7fe14f35457/file-jaoe38c1mbujj2xt.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbujl7fg/6a51e586-e091-4b8a-b8bd-3730b3b7e99d/e76f01c0-482f-11f0-9e3d-a7fe14f35457/file-jaoe38c1mbujl7fh.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbujmazm/723be1a4-c548-4c13-8cb4-df1a7f5c9696/05fe3020-4830-11f0-9e3d-a7fe14f35457/file-jaoe38c1mbujmazn.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbujnlii/f756161b-0cca-4b2a-938c-626b4483c985/29eea0a0-4830-11f0-9e3d-a7fe14f35457/file-jaoe38c1mbujnlij.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbujwa99/93041f1f-956b-4875-8e32-95ab0530eace/1b84c9d0-4831-11f0-9e3d-a7fe14f35457/file-jaoe38c1mbujwa9a.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbujy9zq/4fa76f9b-a3a3-4054-9b07-ac2883e522ba/52eebb60-4831-11f0-9e3d-a7fe14f35457/file-jaoe38c1mbujy9zr.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbuk15gs/2b7a94c8-6293-44b3-b7c7-70d492c68197/a2dd12c0-4831-11f0-9e3d-a7fe14f35457/file-jaoe38c1mbuk15gt.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbuk9ry8/27eaf215-2058-41e4-986e-b1a1dcb2f8e6/92b49c00-4832-11f0-9e3d-a7fe14f35457/file-jaoe38c1mbuk9ry9.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbukhn2o/d6df1ef8-dd23-4473-bdbb-de36b7a3238e/6d696100-4833-11f0-9e3d-a7fe14f35457/file-jaoe38c1mbukhn2p.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "P &rarr; 2; Q &rarr; 4; R &rarr; 1; S &rarr; 3",
         "B": "P &rarr; 2; Q &rarr; 3; R &rarr; 4; S &rarr; 1",
         "C": "P &rarr; 5; Q &rarr; 3; R &rarr; 4; S &rarr; 2",
         "D": "P &rarr; 5; Q &rarr; 4; R &rarr; 2; S &rarr; 1"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The major products obtained from the reactions in List-II are the reactants for the named reactions mentioned in List-I. Match each entry in List-I with the appropriate entry in List-II and choose the correct option. \n  \n    List–I\n    List–II\n  \n  \n    (P) Stephen reaction\n    (1) $$\n\\text { Toluene } \\xrightarrow{\\begin{array}{l}\n\\text { (i) } \\mathrm{CrO}_2 \\mathrm{Cl}_2 / \\mathrm{CS}_2 \\\\\n\\text { (ii) } \\mathrm{H}_3 \\mathrm{O}^{+}\n\\end{array}}\n$$\n    \n  \n  \n    (Q) Sandmeyer reaction\n    (2) $$\n\\text { Benzoic acid } \\xrightarrow{\\substack{\\text { (i) } \\mathrm{PCl}_5 \\\\ \\text { (ii) } \\mathrm{NH}_3 \\\\ \\text { (iii) } \\mathrm{P}_4 \\mathrm{O}_{10}, \\Delta}}\n$$\n    \n  \n  \n    (R) Hoffmann bromamide degradation reaction\n    (3) $$\n\\text { Nitrobenzene } \\xrightarrow{\\begin{array}{l}\n\\text { (i) } \\mathrm{Fe}, \\mathrm{HCl} \\\\\n\\text { (ii) } \\mathrm{HCl}, \\mathrm{NaNO}_2 \\\\\n(273-278 \\mathrm{~K}), \\mathrm{H}_2 \\mathrm{O}\n\\end{array}}\n$$\n    \n  \n  \n    (S) Cannizzaro reaction\n    (4) $$\n\n\\text { Toluene } \\xrightarrow{\\begin{array}{ll}\n\\text { (i) } \\mathrm{Cl}_2 / \\mathrm{h\\nu}, \\mathrm{H}_2 \\mathrm{O} \\\\\n\\text { (ii) Tollen's reagent } \\\\\n\\text { (iii) } \\mathrm{SO}_2 \\mathrm{Cl}_2 \\\\ \\text { (iv) } \\mathrm{NH}_3 \\end{array}}\n\n$$\n    \n  \n  \n    \n    (5) $$\n\\text { Aniline } \\xrightarrow{\\begin{array}{l}\n\\text { (i) }\\left(\\mathrm{CH}_3 \\mathrm{CO}\\right)_2 \\mathrm{O}, \\text { Pyridine } \\\\\n\\text { (ii) } \\mathrm{HNO}_3, \\mathrm{H}_2 \\mathrm{SO}_4, 288 \\mathrm{~K} \\\\\n\\text { (iii) aq. } \\mathrm{NaOH}\n\\end{array}}\n$$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 16,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 16,
-      "question_text": "Match the compounds in List-I with the appropriate observations in List-II and choose the correct option.\n \n  \n    List–I\n    List–II\n  \n  \n    (P) \n    (1) Reaction with phenyl diazonium salt gives\nyellow dye. \n    \n  \n  \n    (Q) \n    (2) Reaction with ninhydrin gives purple color\nand it also reacts with FeCl3 to give violet\ncolor.\n    \n  \n  \n    (R) \n    (3) Reaction with glucose will give\ncorresponding hydrazone.\n    \n  \n  \n    (S) \n    (4) Lassiagne extract of the compound treated with dilute HCl followed by addition of aqueous $\\mathrm{FeCl}_3$ gives blood red color.\n    \n  \n  \n    \n    (5) After complete hydrolysis, it will give ninhydrin test and it DOES NOT give positive phthalein dye test.",
       "subject": "Chemistry",
       "topic": "practical-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Match the compounds in List-I with the appropriate observations in List-II and choose the correct option.\n \n  \n    List–I\n    List–II\n  \n  \n    (P) \n    (1) Reaction with phenyl diazonium salt gives\nyellow dye. \n    \n  \n  \n    (Q) \n    (2) Reaction with ninhydrin gives purple color\nand it also reacts with FeCl3 to give violet\ncolor.\n    \n  \n  \n    (R) \n    (3) Reaction with glucose will give\ncorresponding hydrazone.\n    \n  \n  \n    (S) \n    (4) Lassiagne extract of the compound treated with dilute HCl followed by addition of aqueous $\\mathrm{FeCl}_3$ gives blood red color.\n    \n  \n  \n    \n    (5) After complete hydrolysis, it will give ninhydrin test and it DOES NOT give positive phthalein dye test.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb1obmi9/a6a33f77-e5a8-48d6-b95f-d73722a6bf12/afcd6210-384f-11f0-aca4-dfd8c6b21521/file-jaoe38c1mb1obmia.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb1obtat/232f5c63-9b18-4cb2-84d0-b407c9c74ebd/b50cc450-384f-11f0-aca4-dfd8c6b21521/file-jaoe38c1mb1obtau.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb1oczyo/bf77cae2-3d34-41b3-894f-c8ac68e2abdd/d6018100-384f-11f0-aca4-dfd8c6b21521/file-jaoe38c1mb1oczyp.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb1od73b/69593f6a-74ec-43b3-9e68-6c11622392d4/db834370-384f-11f0-aca4-dfd8c6b21521/file-jaoe38c1mb1od73c.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbun28il/8756640e-5bd1-45b0-9aff-380416213b5d/7c6a6dc0-483d-11f0-835a-0b5df02d2019/file-jaoe38c1mbun28im.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbunb5b2/c88a0fb7-6794-42d6-a2ca-4e476a148787/74383be0-483e-11f0-835a-0b5df02d2019/file-jaoe38c1mbunb5b3.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbunifwb/65b50474-8d98-46b4-9791-4a007698701f/3f107cb0-483f-11f0-835a-0b5df02d2019/file-jaoe38c1mbunifwc.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbunkqp4/7ec41105-c2e4-4921-b442-55dc547252b2/7f068a80-483f-11f0-835a-0b5df02d2019/file-jaoe38c1mbunkqp5.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbunlv1z/36d12d57-359f-4775-b6d0-8b88ca44de09/9e3be3f0-483f-11f0-835a-0b5df02d2019/file-jaoe38c1mbunlv3j.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbunn66a/f9cfe793-acd0-4836-9007-c27ad2d2cbcc/c2996e20-483f-11f0-835a-0b5df02d2019/file-jaoe38c1mbunn66b.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbunnu73/0c0e36d7-ab68-4f6c-bf3a-83a28f5132e0/d527f2f0-483f-11f0-835a-0b5df02d2019/file-jaoe38c1mbunnu74.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "P → 1; Q → 5; R → 4; S → 2",
         "B": "P → 2; Q → 5; R → 1; S → 3",
         "C": "P → 5; Q → 2; R → 1; S → 4",
         "D": "P → 2; Q → 1; R → 5; S → 3"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Match the compounds in List-I with the appropriate observations in List-II and choose the correct option.  \n  \n    List–I\n    List–II\n  \n  \n    (P) \n    (1) Reaction with phenyl diazonium salt gives\nyellow dye. \n    \n  \n  \n    (Q) \n    (2) Reaction with ninhydrin gives purple color\nand it also reacts with FeCl_{3} to give violet\ncolor.\n    \n  \n  \n    (R) \n    (3) Reaction with glucose will give\ncorresponding hydrazone.\n    \n  \n  \n    (S) \n    (4) Lassiagne extract of the compound treated with dilute HCl followed by addition of aqueous $\\mathrm{FeCl}_3$ gives blood red color.\n    \n  \n  \n    \n    (5) After complete hydrolysis, it will give ninhydrin test and it DOES NOT give positive phthalein dye test.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 17,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 17,
-      "question_text": "Let $\\mathbb{R}$ denote the set of all real numbers. Let $a_i, b_i \\in \\mathbb{R}$ for $i \\in \\{1, 2, 3\\}$.\n\nDefine the functions $f: \\mathbb{R} \\to \\mathbb{R}$, $g: \\mathbb{R} \\to \\mathbb{R}$, and $h: \\mathbb{R} \\to \\mathbb{R}$ by\n\n$f(x) = a_1 + 10x + a_2 x^2 + a_3 x^3 + x^4$\n\n$g(x) = b_1 + 3x + b_2 x^2 + b_3 x^3 + x^4$\n\n$h(x) = f(x + 1) - g(x + 2)$\n\nIf $f(x) \\neq g(x)$ for every $x \\in \\mathbb{R}$, then the coefficient of $x^3$ in $h(x)$ is",
       "subject": "Mathematics",
       "topic": "quadratic-equation-and-inequalities",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $\\mathbb{R}$ denote the set of all real numbers. Let $a_i, b_i \\in \\mathbb{R}$ for $i \\in \\{1, 2, 3\\}$.\n\nDefine the functions $f: \\mathbb{R} \\to \\mathbb{R}$, $g: \\mathbb{R} \\to \\mathbb{R}$, and $h: \\mathbb{R} \\to \\mathbb{R}$ by\n\n$f(x) = a_1 + 10x + a_2 x^2 + a_3 x^3 + x^4$\n\n$g(x) = b_1 + 3x + b_2 x^2 + b_3 x^3 + x^4$\n\n$h(x) = f(x + 1) - g(x + 2)$\n\nIf $f(x) \\neq g(x)$ for every $x \\in \\mathbb{R}$, then the coefficient of $x^3$ in $h(x)$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "8",
         "B": "2",
         "C": "-4",
         "D": "-6"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let $\\mathbb{R}$ denote the set of all real numbers. Let $a_i, b_i \\in \\mathbb{R}$ for $i \\in \\{1, 2, 3\\}$. \nDefine the functions $f: \\mathbb{R} \\to \\mathbb{R}$, $g: \\mathbb{R} \\to \\mathbb{R}$, and $h: \\mathbb{R} \\to \\mathbb{R}$ by \n$f(x) = a_1 + 10x + a_2 x^2 + a_3 x^3 + x^4$ \n$g(x) = b_1 + 3x + b_2 x^2 + b_3 x^3 + x^4$ \n$h(x) = f(x + 1) - g(x + 2)$ \nIf $f(x) \\neq g(x)$ for every $x \\in \\mathbb{R}$, then the coefficient of $x^3$ in $h(x)$ is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 18,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 18,
-      "question_text": "Three students $S_1, S_2,$ and $S_3$ are given a problem to solve. Consider the following events:\n\nU: At least one of $S_1, S_2,$ and $S_3$ can solve the problem,\n\nV: $S_1$ can solve the problem, given that neither $S_2$ nor $S_3$ can solve the problem,\n\nW: $S_2$ can solve the problem and $S_3$ cannot solve the problem,\n\nT: $S_3$ can solve the problem.\n\nFor any event $E$, let $P(E)$ denote the probability of $E$. If\n\n$P(U) = \\dfrac{1}{2}$ , $P(V) = \\dfrac{1}{10}$ , and $P(W) = \\dfrac{1}{12}$,\n\nthen $P(T)$ is equal to",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Three students $S_1, S_2,$ and $S_3$ are given a problem to solve. Consider the following events:\n\nU: At least one of $S_1, S_2,$ and $S_3$ can solve the problem,\n\nV: $S_1$ can solve the problem, given that neither $S_2$ nor $S_3$ can solve the problem,\n\nW: $S_2$ can solve the problem and $S_3$ cannot solve the problem,\n\nT: $S_3$ can solve the problem.\n\nFor any event $E$, let $P(E)$ denote the probability of $E$. If\n\n$P(U) = \\dfrac{1}{2}$ , $P(V) = \\dfrac{1}{10}$ , and $P(W) = \\dfrac{1}{12}$,\n\nthen $P(T)$ is equal to",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\dfrac{13}{36}$",
         "B": "$\\dfrac{1}{3}$",
         "C": "$\\dfrac{19}{60}$",
         "D": "$\\dfrac{1}{4}$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Three students $S_1, S_2,$ and $S_3$ are given a problem to solve. Consider the following events: \nU: At least one of $S_1, S_2,$ and $S_3$ can solve the problem, \nV: $S_1$ can solve the problem, given that neither $S_2$ nor $S_3$ can solve the problem, \nW: $S_2$ can solve the problem and $S_3$ cannot solve the problem, \nT: $S_3$ can solve the problem. \nFor any event $E$, let $P(E)$ denote the probability of $E$. If \n$P(U) = \\dfrac{1}{2}$ , $P(V) = \\dfrac{1}{10}$ , and $P(W) = \\dfrac{1}{12}$, \nthen $P(T)$ is equal to",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 19,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 19,
-      "question_text": "Let $\\mathbb{R}$ denote the set of all real numbers. Define the function $f : \\mathbb{R} \\to \\mathbb{R}$ by\n$f(x)=\\left\\{\\begin{array}{cc}2-2 x^2-x^2 \\sin \\frac{1}{x} & \\text { if } x \\neq 0, \\\\ 2 & \\text { if } x=0 .\\end{array}\\right.$\nThen which one of the following statements is TRUE?",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $\\mathbb{R}$ denote the set of all real numbers. Define the function $f : \\mathbb{R} \\to \\mathbb{R}$ by\n$f(x)=\\left\\{\\begin{array}{cc}2-2 x^2-x^2 \\sin \\frac{1}{x} & \\text { if } x \\neq 0, \\\\ 2 & \\text { if } x=0 .\\end{array}\\right.$\nThen which one of the following statements is TRUE?",
+      "question_images": [],
+      "option_texts": {
         "A": "The function $f$ is NOT differentiable at $x = 0$",
         "B": "There is a positive real number $\\delta$, such that $f$ is a decreasing function on the interval $(0, \\delta)$",
         "C": "For any positive real number $\\delta$, the function $f$ is NOT an increasing function on the interval $(-\\delta, 0)$",
         "D": "$x = 0$ is a point of local minima of $f$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let $\\mathbb{R}$ denote the set of all real numbers. Define the function $f : \\mathbb{R} \\to \\mathbb{R}$ by $f(x)=\\left\\{\\begin{array}{cc}2-2 x^2-x^2 \\sin \\frac{1}{x} & \\text { if } x \\neq 0, \\\\ 2 & \\text { if } x=0 .\\end{array}\\right.$ Then which one of the following statements is TRUE?",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 20,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 20,
-      "question_text": "Consider the matrix\n$$ P = \\begin{pmatrix} 2 & 0 & 0 \\\\ 0 & 2 & 0 \\\\ 0 & 0 & 3 \\end{pmatrix}. $$\nLet the transpose of a matrix $X$ be denoted by $X^T$. Then the number of $3 \\times 3$ invertible matrices $Q$ with integer entries, such that\n$$ Q^{-1} = Q^T \\quad \\text{and} \\quad PQ = QP, $$\nis",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider the matrix\n$$ P = \\begin{pmatrix} 2 & 0 & 0 \\\\ 0 & 2 & 0 \\\\ 0 & 0 & 3 \\end{pmatrix}. $$\nLet the transpose of a matrix $X$ be denoted by $X^T$. Then the number of $3 \\times 3$ invertible matrices $Q$ with integer entries, such that\n$$ Q^{-1} = Q^T \\quad \\text{and} \\quad PQ = QP, $$\nis",
+      "question_images": [],
+      "option_texts": {
         "A": "32",
         "B": "8",
         "C": "16",
         "D": "24"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Consider the matrix $$ P = \\begin{pmatrix} 2 & 0 & 0 \\\\ 0 & 2 & 0 \\\\ 0 & 0 & 3 \\end{pmatrix}. $$ Let the transpose of a matrix $X$ be denoted by $X^T$. Then the number of $3 \\times 3$ invertible matrices $Q$ with integer entries, such that $$ Q^{-1} = Q^T \\quad \\text{and} \\quad PQ = QP, $$ is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 21,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 21,
-      "question_text": "Let $L_1$ be the line of intersection of the planes given by the equations\n$2x + 3y + z = 4$ and $x + 2y + z = 5$.\nLet $L_2$ be the line passing through the point $P(2, -1, 3)$ and parallel to $L_1$. Let $M$ denote the plane given by the equation\n$2x + y - 2z = 6$.\nSuppose that the line $L_2$ meets the plane $M$ at the point $Q$. Let $R$ be the foot of the perpendicular drawn from $P$ to the plane $M$.\nThen which of the following statements is (are) TRUE?",
       "subject": "Mathematics",
       "topic": "3d-geometry",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $L_1$ be the line of intersection of the planes given by the equations\n$2x + 3y + z = 4$ and $x + 2y + z = 5$.\nLet $L_2$ be the line passing through the point $P(2, -1, 3)$ and parallel to $L_1$. Let $M$ denote the plane given by the equation\n$2x + y - 2z = 6$.\nSuppose that the line $L_2$ meets the plane $M$ at the point $Q$. Let $R$ be the foot of the perpendicular drawn from $P$ to the plane $M$.\nThen which of the following statements is (are) TRUE?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb2gbpkj/0064fc5a-6776-4b76-8e87-4530f7a8f339/31c8e830-38bd-11f0-b6a5-9d73f07d03e8/file-jaoe38c1mb2gbpkk.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "The length of the line segment $PQ$ is $9\\sqrt{3}$",
         "B": "The length of the line segment $QR$ is $15$",
         "C": "The area of $\\triangle PQR$ is $\\dfrac{3}{2}\\sqrt{234}$",
         "D": "The acute angle between the line segments $PQ$ and $PR$ is $\\cos^{-1}\\left(\\dfrac{1}{2\\sqrt{3}}\\right)$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $L_1$ be the line of intersection of the planes given by the equations $2x + 3y + z = 4$ and $x + 2y + z = 5$. Let $L_2$ be the line passing through the point $P(2, -1, 3)$ and parallel to $L_1$. Let $M$ denote the plane given by the equation $2x + y - 2z = 6$. Suppose that the line $L_2$ meets the plane $M$ at the point $Q$. Let $R$ be the foot of the perpendicular drawn from $P$ to the plane $M$. Then which of the following statements is (are) TRUE?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 22,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 22,
-      "question_text": "Let &#8469; denote the set of all natural numbers, and &#8484; denote the set of all integers. Consider the functions f: &#8469; &rarr; &#8484; and g: &#8484; &rarr; &#8469; defined by\n$$ f(n) = \\begin{cases} \\frac{(n + 1)}{2} & \\text{if } n \\text{ is odd,} \\\\ \\frac{(4-n)}{2} & \\text{if } n \\text{ is even,} \\end{cases} $$\nand\n$$ g(n) = \\begin{cases} 3 + 2n & \\text{if } n \\ge 0 , \\\\ -2n & \\text{if } n < 0 . \\end{cases} $$ \nDefine $$(g \\circ f)(n) = g(f(n))$$ for all $n \\in \\mathbb{N}$, and $$(f \\circ g)(n) = f(g(n))$$ for all $n \\in \\mathbb{Z}$.\nThen which of the following statements is (are) TRUE?",
       "subject": "Mathematics",
       "topic": "functions",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let &#8469; denote the set of all natural numbers, and &#8484; denote the set of all integers. Consider the functions f: &#8469; &rarr; &#8484; and g: &#8484; &rarr; &#8469; defined by\n$$ f(n) = \\begin{cases} \\frac{(n + 1)}{2} & \\text{if } n \\text{ is odd,} \\\\ \\frac{(4-n)}{2} & \\text{if } n \\text{ is even,} \\end{cases} $$\nand\n$$ g(n) = \\begin{cases} 3 + 2n & \\text{if } n \\ge 0 , \\\\ -2n & \\text{if } n < 0 . \\end{cases} $$ \nDefine $$(g \\circ f)(n) = g(f(n))$$ for all $n \\in \\mathbb{N}$, and $$(f \\circ g)(n) = f(g(n))$$ for all $n \\in \\mathbb{Z}$.\nThen which of the following statements is (are) TRUE?",
+      "question_images": [],
+      "option_texts": {
         "A": "g $\\circ $ f is NOT one-one and g $\\circ $ f is NOT onto",
         "B": "f $\\circ $ g is NOT one-one but f $\\circ $ g is onto",
         "C": "g is one-one and g is onto",
         "D": "f is NOT one-one but f is onto"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let &#8469; denote the set of all natural numbers, and &#8484; denote the set of all integers. Consider the functions f: &#8469; &rarr; &#8484; and g: &#8484; &rarr; &#8469; defined by $$ f(n) = \\begin{cases} \\frac{(n + 1)}{2} & \\text{if } n \\text{ is odd,} \\\\ \\frac{(4-n)}{2} & \\text{if } n \\text{ is even,} \\end{cases} $$ and $$ g(n) = \\begin{cases} 3 + 2n & \\text{if } n \\ge 0 , \\\\ -2n & \\text{if } n < 0 . \\end{cases} $$  Define $$(g \\circ f)(n) = g(f(n))$$ for all $n \\in \\mathbb{N}$, and $$(f \\circ g)(n) = f(g(n))$$ for all $n \\in \\mathbb{Z}$. Then which of the following statements is (are) TRUE?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 23,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 23,
-      "question_text": "Let &#8477; denote the set of all real numbers. Let $z_1 = 1 + 2i$ and $z_2 = 3i$ be two complex numbers, where $i = \\sqrt{-1}$. Let\n$$S = \\{(x, y) \\in \\mathbb{R} \\times \\mathbb{R} : |x + iy - z_1| = 2|x + iy - z_2| \\}.$$\nThen which of the following statements is (are) TRUE?",
       "subject": "Mathematics",
       "topic": "complex-numbers",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let &#8477; denote the set of all real numbers. Let $z_1 = 1 + 2i$ and $z_2 = 3i$ be two complex numbers, where $i = \\sqrt{-1}$. Let\n$$S = \\{(x, y) \\in \\mathbb{R} \\times \\mathbb{R} : |x + iy - z_1| = 2|x + iy - z_2| \\}.$$\nThen which of the following statements is (are) TRUE?",
+      "question_images": [],
+      "option_texts": {
         "A": "S is a circle with centre $\\left(-\\frac{1}{3}, \\frac{10}{3}\\right)$",
         "B": "S is a circle with centre $\\left(\\frac{1}{3}, \\frac{8}{3} \\right)$",
         "C": "S is a circle with radius $\\frac{\\sqrt{2}}{3}$",
         "D": "S is a circle with radius $\\frac{2\\sqrt{2}}{3}$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let &#8477; denote the set of all real numbers. Let $z_1 = 1 + 2i$ and $z_2 = 3i$ be two complex numbers, where $i = \\sqrt{-1}$. Let $$S = \\{(x, y) \\in \\mathbb{R} \\times \\mathbb{R} : |x + iy - z_1| = 2|x + iy - z_2| \\}.$$ Then which of the following statements is (are) TRUE?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 24,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 24,
-      "question_text": "Let the set of all relations $R$ on the set $\\{a, b, c, d, e, f\\}$, such that $R$ is reflexive and symmetric, and $R$ contains exactly $10$ elements, be denoted by $\\mathcal{S}$.\nThen the number of elements in $\\mathcal{S}$ is ________________.",
       "subject": "Mathematics",
       "topic": "permutations-and-combinations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let the set of all relations $R$ on the set $\\{a, b, c, d, e, f\\}$, such that $R$ is reflexive and symmetric, and $R$ contains exactly $10$ elements, be denoted by $\\mathcal{S}$.\nThen the number of elements in $\\mathcal{S}$ is ________________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mfqo4lx9/66f33394-e448-4a2c-828f-552f7f6d65c7/627023c0-953f-11f0-b466-cf7cd36ec50c/file-jaoe38c1mfqo4lxa.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let the set of all relations $R$ on the set $\\{a, b, c, d, e, f\\}$, such that $R$ is reflexive and symmetric, and $R$ contains exactly $10$ elements, be denoted by $\\mathcal{S}$. Then the number of elements in $\\mathcal{S}$ is ________________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 25,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 25,
-      "question_text": "For any two points $M$ and $N$ in the $XY$-plane, let $\\overrightarrow{MN}$ denote the vector from $M$ to $N$, and $\\vec{0}$ denote the zero vector. Let $P, Q$ and $R$ be three distinct points in the $XY$-plane. Let $S$ be a point inside the triangle $\\triangle PQR$ such that\n$$\\overrightarrow{SP} + 5\\; \\overrightarrow{SQ} + 6\\; \\overrightarrow{SR} = \\vec{0}.$$\nLet $E$ and $F$ be the mid-points of the sides $PR$ and $QR$, respectively. Then the value of\n$\\frac{\\text { length of the line segment } E F}{\\text { length of the line segment } E S}$\nis ________________.",
       "subject": "Mathematics",
       "topic": "vector-algebra",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "For any two points $M$ and $N$ in the $XY$-plane, let $\\overrightarrow{MN}$ denote the vector from $M$ to $N$, and $\\vec{0}$ denote the zero vector. Let $P, Q$ and $R$ be three distinct points in the $XY$-plane. Let $S$ be a point inside the triangle $\\triangle PQR$ such that\n$$\\overrightarrow{SP} + 5\\; \\overrightarrow{SQ} + 6\\; \\overrightarrow{SR} = \\vec{0}.$$\nLet $E$ and $F$ be the mid-points of the sides $PR$ and $QR$, respectively. Then the value of\n$\\frac{\\text { length of the line segment } E F}{\\text { length of the line segment } E S}$\nis ________________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "For any two points $M$ and $N$ in the $XY$-plane, let $\\overrightarrow{MN}$ denote the vector from $M$ to $N$, and $\\vec{0}$ denote the zero vector. Let $P, Q$ and $R$ be three distinct points in the $XY$-plane. Let $S$ be a point inside the triangle $\\triangle PQR$ such that $$\\overrightarrow{SP} + 5\\; \\overrightarrow{SQ} + 6\\; \\overrightarrow{SR} = \\vec{0}.$$ Let $E$ and $F$ be the mid-points of the sides $PR$ and $QR$, respectively. Then the value of $\\frac{\\text { length of the line segment } E F}{\\text { length of the line segment } E S}$ is ________________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 26,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 26,
-      "question_text": "Let $S$ be the set of all seven-digit numbers that can be formed using the digits $0, 1$ and $2$. For example, $2210222$ is in $S$, but $0210222$ is NOT in $S$.\nThen the number of elements $x$ in $S$ such that at least one of the digits $0$ and $1$ appears exactly twice in $x$, is equal to ____________.",
       "subject": "Mathematics",
       "topic": "permutations-and-combinations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $S$ be the set of all seven-digit numbers that can be formed using the digits $0, 1$ and $2$. For example, $2210222$ is in $S$, but $0210222$ is NOT in $S$.\nThen the number of elements $x$ in $S$ such that at least one of the digits $0$ and $1$ appears exactly twice in $x$, is equal to ____________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $S$ be the set of all seven-digit numbers that can be formed using the digits $0, 1$ and $2$. For example, $2210222$ is in $S$, but $0210222$ is NOT in $S$. Then the number of elements $x$ in $S$ such that at least one of the digits $0$ and $1$ appears exactly twice in $x$, is equal to ____________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 27,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 27,
-      "question_text": "Let α and β be the real numbers such that\n\n$ \\lim\\limits_{x \\to 0} \\frac{1}{x^3} \\left( \\frac{\\alpha}{2} \\int\\limits_0^x \\frac{1}{1-t^2} \\, dt + \\beta x \\cos x \\right) = 2. $\n\nThen the value of α + β is ___________.",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let α and β be the real numbers such that\n\n$ \\lim\\limits_{x \\to 0} \\frac{1}{x^3} \\left( \\frac{\\alpha}{2} \\int\\limits_0^x \\frac{1}{1-t^2} \\, dt + \\beta x \\cos x \\right) = 2. $\n\nThen the value of α + β is ___________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let α and β be the real numbers such that \n$ \\lim\\limits_{x \\to 0} \\frac{1}{x^3} \\left( \\frac{\\alpha}{2} \\int\\limits_0^x \\frac{1}{1-t^2} \\, dt + \\beta x \\cos x \\right) = 2. $ \nThen the value of α + β is ___________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 28,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 28,
-      "question_text": "Let ℝ denote the set of all real numbers. Let f: ℝ → ℝ be a function such that f(x) > 0 for all x ∈ ℝ, and f(x+y) = f(x)f(y) for all x, y ∈ ℝ.\n\nLet the real numbers a₁, a₂, ..., a₅₀ be in an arithmetic progression. If f(a₃₁) = 64f(a₂₅), and\n\n$ \\sum\\limits_{i=1}^{50} f(a_i) = 3(2^{25}+1), $\n\nthen the value of\n\n$ \\sum\\limits_{i=6}^{30} f(a_i) $\n\nis ________________.",
       "subject": "Mathematics",
       "topic": "functions",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let ℝ denote the set of all real numbers. Let f: ℝ → ℝ be a function such that f(x) > 0 for all x ∈ ℝ, and f(x+y) = f(x)f(y) for all x, y ∈ ℝ.\n\nLet the real numbers a₁, a₂, ..., a₅₀ be in an arithmetic progression. If f(a₃₁) = 64f(a₂₅), and\n\n$ \\sum\\limits_{i=1}^{50} f(a_i) = 3(2^{25}+1), $\n\nthen the value of\n\n$ \\sum\\limits_{i=6}^{30} f(a_i) $\n\nis ________________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let ℝ denote the set of all real numbers. Let f: ℝ → ℝ be a function such that f(x) > 0 for all x ∈ ℝ, and f(x+y) = f(x)f(y) for all x, y ∈ ℝ. \nLet the real numbers a₁, a₂, ..., a₅₀ be in an arithmetic progression. If f(a₃₁) = 64f(a₂₅), and \n$ \\sum\\limits_{i=1}^{50} f(a_i) = 3(2^{25}+1), $ \nthen the value of \n$ \\sum\\limits_{i=6}^{30} f(a_i) $ \nis ________________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 29,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 29,
-      "question_text": "For all x > 0, let y₁(x), y₂(x), and y₃(x) be the functions satisfying\n\n$ \\frac{dy_1}{dx} - (\\sin x)^2 y_1 = 0, \\quad y_1(1) = 5, $ \n\n$ \\frac{dy_2}{dx} - (\\cos x)^2 y_2 = 0, \\quad y_2(1) = \\frac{1}{3}, $ \n\n$ \\frac{dy_3}{dx} - \\frac{(2-x^3)}{x^3} y_3 = 0, \\quad y_3(1) = \\frac{3}{5e}, $\n\nrespectively. Then\n\n$ \\lim\\limits_{x \\to 0^+} \\frac{y_1(x)y_2(x)y_3(x) + 2x}{e^{3x} \\sin x} $\n\nis equal to __________________.",
       "subject": "Mathematics",
       "topic": "differential-equations",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "For all x > 0, let y₁(x), y₂(x), and y₃(x) be the functions satisfying\n\n$ \\frac{dy_1}{dx} - (\\sin x)^2 y_1 = 0, \\quad y_1(1) = 5, $ \n\n$ \\frac{dy_2}{dx} - (\\cos x)^2 y_2 = 0, \\quad y_2(1) = \\frac{1}{3}, $ \n\n$ \\frac{dy_3}{dx} - \\frac{(2-x^3)}{x^3} y_3 = 0, \\quad y_3(1) = \\frac{3}{5e}, $\n\nrespectively. Then\n\n$ \\lim\\limits_{x \\to 0^+} \\frac{y_1(x)y_2(x)y_3(x) + 2x}{e^{3x} \\sin x} $\n\nis equal to __________________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "For all x > 0, let y₁(x), y₂(x), and y₃(x) be the functions satisfying \n$ \\frac{dy_1}{dx} - (\\sin x)^2 y_1 = 0, \\quad y_1(1) = 5, $ $ \\frac{dy_2}{dx} - (\\cos x)^2 y_2 = 0, \\quad y_2(1) = \\frac{1}{3}, $ $ \\frac{dy_3}{dx} - \\frac{(2-x^3)}{x^3} y_3 = 0, \\quad y_3(1) = \\frac{3}{5e}, $ \nrespectively. Then \n$ \\lim\\limits_{x \\to 0^+} \\frac{y_1(x)y_2(x)y_3(x) + 2x}{e^{3x} \\sin x} $ \nis equal to __________________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 30,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 30,
-      "question_text": "Consider the following frequency distribution:\ntable {width: 100%;border-collapse: collapse;margin: 20px 0;} th {background-color: blue;color: white;border: 1px solid lightgrey;padding: 10px;} td {border: 1px solid lightgrey;padding: 10px;text-align: left;} Value458961211Frequency5$f_1$$f_2$2113Suppose that the sum of the frequencies is 19 and the median of this frequency distribution is 6.\nFor the given frequency distribution, let $\\alpha$ denote the mean deviation about the mean, $\\beta$ denote the mean deviation about the median, and $\\sigma^2$ denote the variance.\nMatch each entry in List-I to the correct entry in List-II and choose the correct option.\n\n  \n    List – I\n    List – II\n  \n  \n    (P) 7 f1 + 9 f2 is equal to\n    (1) 146\n  \n  \n    (Q) 19 α is equal to\n    (2) 47\n  \n  \n    (R) 19 β is equal to\n    (3) 48\n  \n  \n    (S) 19 σ2 is equal to\n    (4) 145\n  \n  \n    \n    (5) 55",
       "subject": "Mathematics",
       "topic": "statistics",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider the following frequency distribution:\ntable {width: 100%;border-collapse: collapse;margin: 20px 0;} th {background-color: blue;color: white;border: 1px solid lightgrey;padding: 10px;} td {border: 1px solid lightgrey;padding: 10px;text-align: left;} Value458961211Frequency5$f_1$$f_2$2113Suppose that the sum of the frequencies is 19 and the median of this frequency distribution is 6.\nFor the given frequency distribution, let $\\alpha$ denote the mean deviation about the mean, $\\beta$ denote the mean deviation about the median, and $\\sigma^2$ denote the variance.\nMatch each entry in List-I to the correct entry in List-II and choose the correct option.\n\n  \n    List – I\n    List – II\n  \n  \n    (P) 7 f1 + 9 f2 is equal to\n    (1) 146\n  \n  \n    (Q) 19 α is equal to\n    (2) 47\n  \n  \n    (R) 19 β is equal to\n    (3) 48\n  \n  \n    (S) 19 σ2 is equal to\n    (4) 145\n  \n  \n    \n    (5) 55",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbdkszsx/17ad6406-ca2b-42e7-9c5a-4179f865d302/561aeb10-3edb-11f0-a83c-090ddc267f1c/file-jaoe38c1mbdkszsy.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "(P) → (5)    (Q) → (3)    (R) → (2)    (S) → (4)",
         "B": "(P) → (5)    (Q) → (2)    (R) → (3)    (S) → (1)",
         "C": "(P) → (5)    (Q) → (3)    (R) → (2)    (S) → (1)",
         "D": "(P) → (3)    (Q) → (2)    (R) → (5)    (S) → (4)"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Consider the following frequency distribution: table {width: 100%;border-collapse: collapse;margin: 20px 0;} th {background-color: blue;color: white;border: 1px solid lightgrey;padding: 10px;} td {border: 1px solid lightgrey;padding: 10px;text-align: left;} Value458961211Frequency5$f_1$$f_2$2113Suppose that the sum of the frequencies is 19 and the median of this frequency distribution is 6. For the given frequency distribution, let $\\alpha$ denote the mean deviation about the mean, $\\beta$ denote the mean deviation about the median, and $\\sigma^2$ denote the variance. Match each entry in List-I to the correct entry in List-II and choose the correct option. \n  \n    List – I\n    List – II\n  \n  \n    (P) 7 f_{1} + 9 f_{2} is equal to\n    (1) 146\n  \n  \n    (Q) 19 α is equal to\n    (2) 47\n  \n  \n    (R) 19 β is equal to\n    (3) 48\n  \n  \n    (S) 19 σ_{2} is equal to\n    (4) 145\n  \n  \n    \n    (5) 55",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 31,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 31,
-      "question_text": "Let $\\mathbb{R}$ denote the set of all real numbers. For a real number $x$, let [ x ] denote the greatest integer less than or equal to $x$. Let $n$ denote a natural number.\n\nMatch each entry in List-I to the correct entry in List-II and choose the correct option.\n\n\n\n  \n\n    List–I\n\n    List–II\n\n  \n\n\n\n\n\n  \n\n    (P) The minimum value of $n$ for which the function\n\n$$\nf(x)=\\left[\\frac{10 x^3-45 x^2+60 x+35}{n}\\right]\n$$\n\nis continuous on the interval $[1,2]$, is\n\n    (1) 8\n\n  \n\n  \n\n    (Q) The minimum value of $n$ for which $g(x)=\\left(2 n^2-13 n-15\\right)\\left(x^3+3 x\\right)$, $x \\in \\mathbb{R}$, is an increasing function on $\\mathbb{R}$, is\n\n    (2) 9\n\n  \n\n  \n\n    (R) The smallest natural number $n$ which is greater than 5 , such that $x=3$ is a point of local minima of\n\n$$\nh(x)=\\left(x^2-9\\right)^n\\left(x^2+2 x+3\\right)\n$$\n is\n\n    (3) 5\n\n  \n\n  \n\n    (S) Number of $x_0 \\in \\mathbb{R}$ such that\n\n\n\n$$\nl(x)=\\sum\\limits_{k=0}^4\\left(\\sin |x-k|+\\cos \\left|x-k+\\frac{1}{2}\\right|\\right)\n$$\n\n\n\n$x \\in \\mathbb{R}$, is NOT differentiable at $x_0$, is\n\n    (4) 6\n\n  \n\n  \n\n    \n\n    (5) 10",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $\\mathbb{R}$ denote the set of all real numbers. For a real number $x$, let [ x ] denote the greatest integer less than or equal to $x$. Let $n$ denote a natural number.\n\nMatch each entry in List-I to the correct entry in List-II and choose the correct option.\n\n\n\n  \n\n    List–I\n\n    List–II\n\n  \n\n\n\n\n\n  \n\n    (P) The minimum value of $n$ for which the function\n\n$$\nf(x)=\\left[\\frac{10 x^3-45 x^2+60 x+35}{n}\\right]\n$$\n\nis continuous on the interval $[1,2]$, is\n\n    (1) 8\n\n  \n\n  \n\n    (Q) The minimum value of $n$ for which $g(x)=\\left(2 n^2-13 n-15\\right)\\left(x^3+3 x\\right)$, $x \\in \\mathbb{R}$, is an increasing function on $\\mathbb{R}$, is\n\n    (2) 9\n\n  \n\n  \n\n    (R) The smallest natural number $n$ which is greater than 5 , such that $x=3$ is a point of local minima of\n\n$$\nh(x)=\\left(x^2-9\\right)^n\\left(x^2+2 x+3\\right)\n$$\n is\n\n    (3) 5\n\n  \n\n  \n\n    (S) Number of $x_0 \\in \\mathbb{R}$ such that\n\n\n\n$$\nl(x)=\\sum\\limits_{k=0}^4\\left(\\sin |x-k|+\\cos \\left|x-k+\\frac{1}{2}\\right|\\right)\n$$\n\n\n\n$x \\in \\mathbb{R}$, is NOT differentiable at $x_0$, is\n\n    (4) 6\n\n  \n\n  \n\n    \n\n    (5) 10",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbdk4k02/fe558ae5-3030-447c-aa48-1553d93d6b71/ae7ab220-3ed8-11f0-a83c-090ddc267f1c/file-jaoe38c1mbdk4k03.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbdkb5if/89b8c443-302a-47e2-8f33-f5957c05badd/65f33b70-3ed9-11f0-a83c-090ddc267f1c/file-jaoe38c1mbdkb5ig.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "(P) &rarr; (1)   (Q) &rarr; (3)   (R) &rarr; (2)   (S) &rarr; (5)",
         "B": "(P) &rarr; (2)   (Q) &rarr; (1)   (R) &rarr; (4)   (S) &rarr; (3)",
         "C": "(P) &rarr; (5)   (Q) &rarr; (1)   (R) &rarr; (4)   (S) &rarr; (3)",
         "D": "(P) &rarr; (2)   (Q) &rarr; (3)   (R) &rarr; (1)   (S) &rarr; (5)"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $\\mathbb{R}$ denote the set of all real numbers. For a real number $x$, let [ x ] denote the greatest integer less than or equal to $x$. Let $n$ denote a natural number. \nMatch each entry in List-I to the correct entry in List-II and choose the correct option. \n\n\n  \n\n    List–I\n\n    List–II\n\n  \n\n\n\n\n\n  \n\n    (P) The minimum value of $n$ for which the function\n\n$$\nf(x)=\\left[\\frac{10 x^3-45 x^2+60 x+35}{n}\\right]\n$$\n\nis continuous on the interval $[1,2]$, is\n\n    (1) 8\n\n  \n\n  \n\n    (Q) The minimum value of $n$ for which $g(x)=\\left(2 n^2-13 n-15\\right)\\left(x^3+3 x\\right)$, $x \\in \\mathbb{R}$, is an increasing function on $\\mathbb{R}$, is\n\n    (2) 9\n\n  \n\n  \n\n    (R) The smallest natural number $n$ which is greater than 5 , such that $x=3$ is a point of local minima of\n\n$$\nh(x)=\\left(x^2-9\\right)^n\\left(x^2+2 x+3\\right)\n$$\n is\n\n    (3) 5\n\n  \n\n  \n\n    (S) Number of $x_0 \\in \\mathbb{R}$ such that\n\n$$\nl(x)=\\sum\\limits_{k=0}^4\\left(\\sin |x-k|+\\cos \\left|x-k+\\frac{1}{2}\\right|\\right)\n$$\n\n$x \\in \\mathbb{R}$, is NOT differentiable at $x_0$, is\n\n    (4) 6\n\n  \n\n  \n\n    \n\n    (5) 10",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 32,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 32,
-      "question_text": "Let $\\vec{w} = \\hat{i} + \\hat{j} - 2\\hat{k}$, and $\\vec{u}$ and $\\vec{v}$ be two vectors, such that $\\vec{u} \\times \\vec{v} = \\vec{w}$ and $\\vec{v} \\times \\vec{w} = \\vec{u}$. Let $\\alpha, \\beta, \\gamma$, and $t$ be real numbers such that \n\n$\\vec{u} = \\alpha \\hat{i} + \\beta \\hat{j} + \\gamma \\hat{k},\\ \\ \\ - t \\alpha + \\beta + \\gamma = 0,\\ \\ \\ \\alpha - t \\beta + \\gamma = 0,\\ \\ \\ \\alpha + \\beta - t \\gamma = 0.$\n\nMatch each entry in List-I to the correct entry in List-II and choose the correct option.\n\n\n\n  \n\n    List – I\n\n    List – II\n\n  \n\n  \n\n    (P) $\\lvert \\vec{v} \\rvert^2$ is equal to\n\n    (1) 0\n\n  \n\n  \n\n    (Q) If $\\alpha = \\sqrt{3}$, then $\\gamma^2$ is equal to\n\n    (2) 1\n\n  \n\n  \n\n    (R) If $\\alpha = \\sqrt{3}$, then $(\\beta + \\gamma)^2$ is equal to\n\n    (3) 2\n\n  \n\n  \n\n    (S) If $\\alpha = \\sqrt{2}$, then $t + 3$ is equal to\n\n    (4) 3\n\n  \n\n  \n\n    \n\n    (5) 5",
       "subject": "Mathematics",
       "topic": "vector-algebra",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $\\vec{w} = \\hat{i} + \\hat{j} - 2\\hat{k}$, and $\\vec{u}$ and $\\vec{v}$ be two vectors, such that $\\vec{u} \\times \\vec{v} = \\vec{w}$ and $\\vec{v} \\times \\vec{w} = \\vec{u}$. Let $\\alpha, \\beta, \\gamma$, and $t$ be real numbers such that \n\n$\\vec{u} = \\alpha \\hat{i} + \\beta \\hat{j} + \\gamma \\hat{k},\\ \\ \\ - t \\alpha + \\beta + \\gamma = 0,\\ \\ \\ \\alpha - t \\beta + \\gamma = 0,\\ \\ \\ \\alpha + \\beta - t \\gamma = 0.$\n\nMatch each entry in List-I to the correct entry in List-II and choose the correct option.\n\n\n\n  \n\n    List – I\n\n    List – II\n\n  \n\n  \n\n    (P) $\\lvert \\vec{v} \\rvert^2$ is equal to\n\n    (1) 0\n\n  \n\n  \n\n    (Q) If $\\alpha = \\sqrt{3}$, then $\\gamma^2$ is equal to\n\n    (2) 1\n\n  \n\n  \n\n    (R) If $\\alpha = \\sqrt{3}$, then $(\\beta + \\gamma)^2$ is equal to\n\n    (3) 2\n\n  \n\n  \n\n    (S) If $\\alpha = \\sqrt{2}$, then $t + 3$ is equal to\n\n    (4) 3\n\n  \n\n  \n\n    \n\n    (5) 5",
+      "question_images": [],
+      "option_texts": {
         "A": "(P) $\\to$ (2) &emsp; (Q) $\\to$ (1) &emsp; (R) $\\to$ (4) &emsp; (S) $\\to$ (5)",
         "B": "(P) $\\to$ (2) &emsp; (Q) $\\to$ (4) &emsp; (R) $\\to$ (3) &emsp; (S) $\\to$ (5)",
         "C": "(P) $\\to$ (2) &emsp; (Q) $\\to$ (1) &emsp; (R) $\\to$ (4) &emsp; (S) $\\to$ (3)",
         "D": "(P) $\\to$ (5) &emsp; (Q) $\\to$ (4) &emsp; (R) $\\to$ (1) &emsp; (S) $\\to$ (3)"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $\\vec{w} = \\hat{i} + \\hat{j} - 2\\hat{k}$, and $\\vec{u}$ and $\\vec{v}$ be two vectors, such that $\\vec{u} \\times \\vec{v} = \\vec{w}$ and $\\vec{v} \\times \\vec{w} = \\vec{u}$. Let $\\alpha, \\beta, \\gamma$, and $t$ be real numbers such that  \n$\\vec{u} = \\alpha \\hat{i} + \\beta \\hat{j} + \\gamma \\hat{k},\\ \\ \\ - t \\alpha + \\beta + \\gamma = 0,\\ \\ \\ \\alpha - t \\beta + \\gamma = 0,\\ \\ \\ \\alpha + \\beta - t \\gamma = 0.$ \nMatch each entry in List-I to the correct entry in List-II and choose the correct option. \n\n\n  \n\n    List – I\n\n    List – II\n\n  \n\n  \n\n    (P) $\\lvert \\vec{v} \\rvert^2$ is equal to\n\n    (1) 0\n\n  \n\n  \n\n    (Q) If $\\alpha = \\sqrt{3}$, then $\\gamma^2$ is equal to\n\n    (2) 1\n\n  \n\n  \n\n    (R) If $\\alpha = \\sqrt{3}$, then $(\\beta + \\gamma)^2$ is equal to\n\n    (3) 2\n\n  \n\n  \n\n    (S) If $\\alpha = \\sqrt{2}$, then $t + 3$ is equal to\n\n    (4) 3\n\n  \n\n  \n\n    \n\n    (5) 5",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 33,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 33,
-      "question_text": "The center of a disk of radius $r$ and mass $m$ is attached to a spring of spring constant $k$, inside a ring of radius $R>r$ as shown in the figure. The other end of the spring is attached on the periphery of the ring. Both the ring and the disk are in the same vertical plane. The disk can only roll along the inside periphery of the ring, without slipping. The spring can only be stretched or compressed along the periphery of the ring, following the Hooke's law. In equilibrium, the disk is at the bottom of the ring. Assuming small displacement of the disc, the time period of oscillation of center of mass of the disk is written as $T=\\frac{2 \\pi}{\\omega}$. The correct expression for $\\omega$ is ( $g$ is the acceleration due to gravity):",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The center of a disk of radius $r$ and mass $m$ is attached to a spring of spring constant $k$, inside a ring of radius $R>r$ as shown in the figure. The other end of the spring is attached on the periphery of the ring. Both the ring and the disk are in the same vertical plane. The disk can only roll along the inside periphery of the ring, without slipping. The spring can only be stretched or compressed along the periphery of the ring, following the Hooke's law. In equilibrium, the disk is at the bottom of the ring. Assuming small displacement of the disc, the time period of oscillation of center of mass of the disk is written as $T=\\frac{2 \\pi}{\\omega}$. The correct expression for $\\omega$ is ( $g$ is the acceleration due to gravity):",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0cr8wg/a022b8f1-a67f-440e-861f-165249d1e9dc/ac0a0d00-3795-11f0-831e-111c9abd7f64/file-jaoe38c1mb0cr8wh.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mcxfyhs4/7ccd6997-3144-4bfb-8382-1e8b905054a1/45c29b50-5d94-11f0-8739-f57b903a4e81/file-jaoe38c1mcxfyhs5.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mdpwwfbs/7101bd14-a454-44c8-8ac8-8bb97756ae8d/799fda70-6d3c-11f0-86ea-e36465a4aae6/file-jaoe38c1mdpwwfbt.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$ \\sqrt{\\frac{2}{3} \\left( \\frac{g}{R - r} + \\frac{k}{m} \\right)} $",
         "B": "$ \\sqrt{\\frac{2g}{3(R - r)} + \\frac{k}{m}} $",
         "C": "$ \\sqrt{\\frac{1}{6} \\left( \\frac{g}{R - r} + \\frac{k}{m} \\right)} $",
         "D": "$ \\sqrt{\\frac{1}{4} \\left( \\frac{g}{R - r} + \\frac{k}{m} \\right)} $"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The center of a disk of radius $r$ and mass $m$ is attached to a spring of spring constant $k$, inside a ring of radius $R>r$ as shown in the figure. The other end of the spring is attached on the periphery of the ring. Both the ring and the disk are in the same vertical plane. The disk can only roll along the inside periphery of the ring, without slipping. The spring can only be stretched or compressed along the periphery of the ring, following the Hooke's law. In equilibrium, the disk is at the bottom of the ring. Assuming small displacement of the disc, the time period of oscillation of center of mass of the disk is written as $T=\\frac{2 \\pi}{\\omega}$. The correct expression for $\\omega$ is ( $g$ is the acceleration due to gravity):",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 34,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 34,
-      "question_text": "In a scattering experiment, a particle of mass 2m collides with another particle of mass m, which is initially at rest. Assuming the collision to be perfectly elastic, the maximum angular deviation θ of the heavier particle, as shown in the figure, in radians is:",
       "subject": "Physics",
       "topic": "impulse-and-momentum",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In a scattering experiment, a particle of mass 2m collides with another particle of mass m, which is initially at rest. Assuming the collision to be perfectly elastic, the maximum angular deviation θ of the heavier particle, as shown in the figure, in radians is:",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0d0p1x/0204133b-95f9-4322-bb75-acf58e062c51/b2cc7050-3796-11f0-831e-111c9abd7f64/file-jaoe38c1mb0d0p1y.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mcvt7d0z/7a114be1-63c5-41c9-bc03-840cfa59be37/81bff030-5cae-11f0-923f-5f7895b2cf68/file-jaoe38c1mcvt7d10.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$\\pi$",
         "B": "$\\tan^{-1}\\left(\\frac{1}{2}\\right)$",
         "C": "$\\frac{\\pi}{3}$",
         "D": "$\\frac{\\pi}{6}$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "In a scattering experiment, a particle of mass 2m collides with another particle of mass m, which is initially at rest. Assuming the collision to be perfectly elastic, the maximum angular deviation θ of the heavier particle, as shown in the figure, in radians is:",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 35,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 35,
-      "question_text": "A conducting square loop initially lies in the $X Z$ plane with its lower edge hinged along the $X$-axis. Only in the region $y \\geq 0$, there is a time dependent magnetic field pointing along the $Z$-direction, $\\vec{B}(t)=B_0(\\cos \\omega t) \\hat{k}$, where $B_0$ is a constant. The magnetic field is zero everywhere else. At time $t=0$, the loop starts rotating with constant angular speed $\\omega$ about the $X$ axis in the clockwise direction as viewed from the $+X$ axis (as shown in the figure). Ignoring self-inductance of the loop and gravity, which of the following plots correctly represents the induced e.m.f. $(V)$ in the loop as a function of time:",
       "subject": "Physics",
       "topic": "electromagnetic-induction",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A conducting square loop initially lies in the $X Z$ plane with its lower edge hinged along the $X$-axis. Only in the region $y \\geq 0$, there is a time dependent magnetic field pointing along the $Z$-direction, $\\vec{B}(t)=B_0(\\cos \\omega t) \\hat{k}$, where $B_0$ is a constant. The magnetic field is zero everywhere else. At time $t=0$, the loop starts rotating with constant angular speed $\\omega$ about the $X$ axis in the clockwise direction as viewed from the $+X$ axis (as shown in the figure). Ignoring self-inductance of the loop and gravity, which of the following plots correctly represents the induced e.m.f. $(V)$ in the loop as a function of time:",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0d4mxe/df82da9d-ff3f-4b31-a18d-98c81855f931/20649f20-3797-11f0-831e-111c9abd7f64/file-jaoe38c1mb0d4mxf.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mcxgnyrn/0d91adff-2ca1-449a-86e4-734fd96519af/0a1c3130-5d97-11f0-bda7-076bd952ff48/file-jaoe38c1mcxgnyro.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mcxgoxbs/671abdb6-d9bb-40ce-83f8-2c82697456db/24ce9a90-5d97-11f0-bda7-076bd952ff48/file-jaoe38c1mcxgoxbt.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0d6cnr/64782b9a-f5a0-49de-b34c-dd600f60fdc2/50146a70-3797-11f0-831e-111c9abd7f64/file-jaoe38c1mb0d6cns.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0d6elg/b497bc1d-9942-4ee7-a7a1-b8b90b27187b/51934240-3797-11f0-831e-111c9abd7f64/file-jaoe38c1mb0d6elh.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0d6h7r/b43776e9-882c-4cf6-beba-a60f93638ae9/53994b70-3797-11f0-831e-111c9abd7f64/file-jaoe38c1mb0d6h7s.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0d6j8b/a9e7d0e1-41f0-4d3a-b0e5-573b60d658a5/552801c0-3797-11f0-831e-111c9abd7f64/file-jaoe38c1mb0d6j8c.png",
+          "description": ""
+        }
+      },
       "correct_answer": "A",
-      "question": "A conducting square loop initially lies in the $X Z$ plane with its lower edge hinged along the $X$-axis. Only in the region $y \\geq 0$, there is a time dependent magnetic field pointing along the $Z$-direction, $\\vec{B}(t)=B_0(\\cos \\omega t) \\hat{k}$, where $B_0$ is a constant. The magnetic field is zero everywhere else. At time $t=0$, the loop starts rotating with constant angular speed $\\omega$ about the $X$ axis in the clockwise direction as viewed from the $+X$ axis (as shown in the figure). Ignoring self-inductance of the loop and gravity, which of the following plots correctly represents the induced e.m.f. $(V)$ in the loop as a function of time:",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 36,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 36,
-      "question_text": "Figure 1 shows the configuration of main scale and Vernier scale before measurement. Fig. 2 shows the configuration corresponding to the measurement of diameter D of a tube. The measured value of D is:",
       "subject": "Physics",
       "topic": "units-and-measurements",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Figure 1 shows the configuration of main scale and Vernier scale before measurement. Fig. 2 shows the configuration corresponding to the measurement of diameter D of a tube. The measured value of D is:",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0d9wo5/ff2003e3-bb0a-41bd-ac30-ea4aed1b4788/b2f70d50-3797-11f0-831e-111c9abd7f64/file-jaoe38c1mb0d9wo6.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "0.12 cm",
         "B": "0.11 cm",
         "C": "0.13 cm",
         "D": "0.14 cm"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Figure 1 shows the configuration of main scale and Vernier scale before measurement. Fig. 2 shows the configuration corresponding to the measurement of diameter D of a tube. The measured value of D is:",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 37,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 37,
-      "question_text": "A conducting square loop of side $L$, mass $M$ and resistance $R$ is moving in the $X Y$ plane with its edges parallel to the $X$ and $Y$ axes. The region $y \\geq 0$ has a uniform magnetic field, $\\vec{B}=B_0 \\widehat{k}$. The magnetic field is zero everywhere else. At time $t=0$, the loop starts to enter the magnetic field with an initial velocity $v_0 \\hat{\\jmath} \\mathrm{~m} / \\mathrm{s}$, as shown in the figure. Considering the quantity $K=\\frac{B_0^2 L^2}{R M}$ in appropriate units, ignoring self-inductance of the loop and gravity, which of the following statements is/are correct:",
       "subject": "Physics",
       "topic": "electromagnetic-induction",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A conducting square loop of side $L$, mass $M$ and resistance $R$ is moving in the $X Y$ plane with its edges parallel to the $X$ and $Y$ axes. The region $y \\geq 0$ has a uniform magnetic field, $\\vec{B}=B_0 \\widehat{k}$. The magnetic field is zero everywhere else. At time $t=0$, the loop starts to enter the magnetic field with an initial velocity $v_0 \\hat{\\jmath} \\mathrm{~m} / \\mathrm{s}$, as shown in the figure. Considering the quantity $K=\\frac{B_0^2 L^2}{R M}$ in appropriate units, ignoring self-inductance of the loop and gravity, which of the following statements is/are correct:",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0de11y/f3275e7c-5007-460f-970f-8e501371f704/25967760-3798-11f0-831e-111c9abd7f64/file-jaoe38c1mb0de11z.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mdmcfgw6/1496c3c8-fc1a-4d27-9e26-6fb2ccd531e3/118c5e60-6b46-11f0-bae7-5b879bf7dc8b/file-jaoe38c1mdmcfgw7.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "If $v_0 = 1.5KL$, the loop will stop before it enters completely inside the region of magnetic field.",
         "B": "When the complete loop is inside the region of magnetic field, the net force acting on the loop is zero.",
         "C": "If $v_0 = \\frac{KL}{10}$, the loop comes to rest at $t = \\left(\\frac{1}{K}\\right) \\ln\\left(\\frac{5}{2}\\right)$.",
         "D": "If $v_0 = 3KL$, the complete loop enters inside the region of magnetic field at time $t = \\left(\\frac{1}{K}\\right) \\ln\\left(\\frac{3}{2}\\right)$."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A conducting square loop of side $L$, mass $M$ and resistance $R$ is moving in the $X Y$ plane with its edges parallel to the $X$ and $Y$ axes. The region $y \\geq 0$ has a uniform magnetic field, $\\vec{B}=B_0 \\widehat{k}$. The magnetic field is zero everywhere else. At time $t=0$, the loop starts to enter the magnetic field with an initial velocity $v_0 \\hat{\\jmath} \\mathrm{~m} / \\mathrm{s}$, as shown in the figure. Considering the quantity $K=\\frac{B_0^2 L^2}{R M}$ in appropriate units, ignoring self-inductance of the loop and gravity, which of the following statements is/are correct:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 38,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 38,
-      "question_text": "Length, breadth and thickness of a strip having a uniform cross section are measured to be 10.5 cm, 0.05 mm, and 6.0 &mu;m, respectively. Which of the following option(s) give(s) the volume of the strip in cm3 with correct significant figures:",
       "subject": "Physics",
       "topic": "units-and-measurements",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Length, breadth and thickness of a strip having a uniform cross section are measured to be 10.5 cm, 0.05 mm, and 6.0 &mu;m, respectively. Which of the following option(s) give(s) the volume of the strip in cm3 with correct significant figures:",
+      "question_images": [],
+      "option_texts": {
         "A": "$3.2 \\times 10^{-5}$",
         "B": "$32.0 \\times 10^{-6}$",
         "C": "$3.0 \\times 10^{-5}$",
         "D": "$3 \\times 10^{-5}$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Length, breadth and thickness of a strip having a uniform cross section are measured to be 10.5 cm, 0.05 mm, and 6.0 &mu;m, respectively. Which of the following option(s) give(s) the volume of the strip in cm^{3} with correct significant figures:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 39,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 39,
-      "question_text": "Consider a system of three connected strings, $S_1, S_2$ and $S_3$ with uniform linear mass densities $\\mu$ $\\mathrm{kg} / \\mathrm{m}, 4 \\mu \\mathrm{~kg} / \\mathrm{m}$ and $16 \\mu \\mathrm{~kg} / \\mathrm{m}$, respectively, as shown in the figure. $S_1$ and $S_2$ are connected at the point $P$, whereas $S_2$ and $S_3$ are connected at the point $Q$, and the other end of $S_3$ is connected to a wall. A wave generator 0 is connected to the free end of $S_1$. The wave from the generator is represented by $y=y_0 \\cos (\\omega t-k x) \\mathrm{cm}$, where $y_0, \\omega$ and $k$ are constants of appropriate dimensions. Which of the following statements is/are correct:",
       "subject": "Physics",
       "topic": "wave-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider a system of three connected strings, $S_1, S_2$ and $S_3$ with uniform linear mass densities $\\mu$ $\\mathrm{kg} / \\mathrm{m}, 4 \\mu \\mathrm{~kg} / \\mathrm{m}$ and $16 \\mu \\mathrm{~kg} / \\mathrm{m}$, respectively, as shown in the figure. $S_1$ and $S_2$ are connected at the point $P$, whereas $S_2$ and $S_3$ are connected at the point $Q$, and the other end of $S_3$ is connected to a wall. A wave generator 0 is connected to the free end of $S_1$. The wave from the generator is represented by $y=y_0 \\cos (\\omega t-k x) \\mathrm{cm}$, where $y_0, \\omega$ and $k$ are constants of appropriate dimensions. Which of the following statements is/are correct:",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0dix2p/043066fe-5e6c-4b26-b347-fe46b3c4ef2a/ad8f4610-3798-11f0-831e-111c9abd7f64/file-jaoe38c1mb0dix2q.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mcxher6h/66208116-a62a-4176-aabc-948bdfbbee19/f3187090-5d99-11f0-bda7-076bd952ff48/file-jaoe38c1mcxher6i.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "When the wave reflects from $P$ for the first time, the reflected wave is represented by $y=\\alpha_1 \\mathrm{y}_0 \\cos (\\omega t+k x+\\pi) \\mathrm{cm}$, where $\\alpha_1$ is a positive constant.",
         "B": "When the wave transmits through $P$ for the first time, the transmitted wave is represented by $y=\\alpha_2 y_0 \\cos (\\omega t-k x) \\mathrm{cm}$, where $\\alpha_2$ is a positive constant.",
         "C": "When the wave reflects from $Q$ for the first time, the reflected wave is represented by $y=\\alpha_3 \\mathrm{y}_0 \\cos (\\omega t-k x+\\pi) \\mathrm{cm}$, where $\\alpha_3$ is a positive constant.",
         "D": "When the wave transmits through $Q$ for the first time, the transmitted wave is represented by $y=\\alpha_4 y_0 \\cos (\\omega t-4 k x) \\mathrm{cm}$, where $\\alpha_4$ is a positive constant."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Consider a system of three connected strings, $S_1, S_2$ and $S_3$ with uniform linear mass densities $\\mu$ $\\mathrm{kg} / \\mathrm{m}, 4 \\mu \\mathrm{~kg} / \\mathrm{m}$ and $16 \\mu \\mathrm{~kg} / \\mathrm{m}$, respectively, as shown in the figure. $S_1$ and $S_2$ are connected at the point $P$, whereas $S_2$ and $S_3$ are connected at the point $Q$, and the other end of $S_3$ is connected to a wall. A wave generator 0 is connected to the free end of $S_1$. The wave from the generator is represented by $y=y_0 \\cos (\\omega t-k x) \\mathrm{cm}$, where $y_0, \\omega$ and $k$ are constants of appropriate dimensions. Which of the following statements is/are correct:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 40,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 40,
-      "question_text": "A person sitting inside an elevator performs a weighing experiment with an object of mass 50 kg . Suppose that the variation of the height $y$ (in m ) of the elevator, from the ground, with time $t$ (in s) is given by $y=8\\left[1+\\sin \\left(\\frac{2 \\pi t}{T}\\right)\\right]$, where $T=40 \\pi \\mathrm{~s}$. Taking acceleration due to gravity, $g=10$ $\\mathrm{m} / \\mathrm{s}^2$, the maximum variation of the object's weight (in N ) as observed in the experiment is ___________.",
       "subject": "Physics",
       "topic": "simple-harmonic-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A person sitting inside an elevator performs a weighing experiment with an object of mass 50 kg . Suppose that the variation of the height $y$ (in m ) of the elevator, from the ground, with time $t$ (in s) is given by $y=8\\left[1+\\sin \\left(\\frac{2 \\pi t}{T}\\right)\\right]$, where $T=40 \\pi \\mathrm{~s}$. Taking acceleration due to gravity, $g=10$ $\\mathrm{m} / \\mathrm{s}^2$, the maximum variation of the object's weight (in N ) as observed in the experiment is ___________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A person sitting inside an elevator performs a weighing experiment with an object of mass 50 kg . Suppose that the variation of the height $y$ (in m ) of the elevator, from the ground, with time $t$ (in s) is given by $y=8\\left[1+\\sin \\left(\\frac{2 \\pi t}{T}\\right)\\right]$, where $T=40 \\pi \\mathrm{~s}$. Taking acceleration due to gravity, $g=10$ $\\mathrm{m} / \\mathrm{s}^2$, the maximum variation of the object's weight (in N ) as observed in the experiment is ___________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 41,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 41,
-      "question_text": "A cube of unit volume contains $35 \\times 10^7$ photons of frequency $10^{15} \\mathrm{~Hz}$. If the energy of all the photons is viewed as the average energy being contained in the electromagnetic waves within the same volume, then the amplitude of the magnetic field is $\\alpha \\times 10^{-9} \\mathrm{~T}$. Taking permeability of free space $\\mu_0=4 \\pi \\times 10^{-7} \\mathrm{Tm} / \\mathrm{A}$, Planck's constant $h=6 \\times 10^{-34} \\mathrm{Js}$ and $\\pi=\\frac{22}{7}$, the value of $\\alpha$ is ____________.",
       "subject": "Physics",
       "topic": "electromagnetic-waves",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A cube of unit volume contains $35 \\times 10^7$ photons of frequency $10^{15} \\mathrm{~Hz}$. If the energy of all the photons is viewed as the average energy being contained in the electromagnetic waves within the same volume, then the amplitude of the magnetic field is $\\alpha \\times 10^{-9} \\mathrm{~T}$. Taking permeability of free space $\\mu_0=4 \\pi \\times 10^{-7} \\mathrm{Tm} / \\mathrm{A}$, Planck's constant $h=6 \\times 10^{-34} \\mathrm{Js}$ and $\\pi=\\frac{22}{7}$, the value of $\\alpha$ is ____________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A cube of unit volume contains $35 \\times 10^7$ photons of frequency $10^{15} \\mathrm{~Hz}$. If the energy of all the photons is viewed as the average energy being contained in the electromagnetic waves within the same volume, then the amplitude of the magnetic field is $\\alpha \\times 10^{-9} \\mathrm{~T}$. Taking permeability of free space $\\mu_0=4 \\pi \\times 10^{-7} \\mathrm{Tm} / \\mathrm{A}$, Planck's constant $h=6 \\times 10^{-34} \\mathrm{Js}$ and $\\pi=\\frac{22}{7}$, the value of $\\alpha$ is ____________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 42,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 42,
-      "question_text": "Two identical plates P and Q , radiating as perfect black bodies, are kept in vacuum at constant absolute temperatures $\\mathrm{T}_{\\mathrm{P}}$ and $\\mathrm{T}_{\\mathrm{Q}}$, respectively, with $\\mathrm{T}_{\\mathrm{Q}}<\\mathrm{T}_{\\mathrm{P}}$, as shown in Fig. 1. The radiated power transferred per unit area from P to Q is $W_0$. Subsequently, two more plates, identical to P and Q , are introduced between P and Q, as shown in Fig. 2. Assume that heat transfer takes place only between adjacent plates. If the power transferred per unit area in the direction from $P$ to $Q$ (Fig. 2) in the steady state is $W_S$, then the ratio $\\frac{W_0}{W_S}$ is ________.",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Two identical plates P and Q , radiating as perfect black bodies, are kept in vacuum at constant absolute temperatures $\\mathrm{T}_{\\mathrm{P}}$ and $\\mathrm{T}_{\\mathrm{Q}}$, respectively, with $\\mathrm{T}_{\\mathrm{Q}}<\\mathrm{T}_{\\mathrm{P}}$, as shown in Fig. 1. The radiated power transferred per unit area from P to Q is $W_0$. Subsequently, two more plates, identical to P and Q , are introduced between P and Q, as shown in Fig. 2. Assume that heat transfer takes place only between adjacent plates. If the power transferred per unit area in the direction from $P$ to $Q$ (Fig. 2) in the steady state is $W_S$, then the ratio $\\frac{W_0}{W_S}$ is ________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0dq8be/6a02eac8-8391-4e70-a190-a44e140fd4e5/78e84fa0-3799-11f0-831e-111c9abd7f64/file-jaoe38c1mb0dq8bf.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mcxhr7hb/19fb9b7b-55ad-436d-a2da-ab1fb271b26b/4d65b2f0-5d9b-11f0-bda7-076bd952ff48/file-jaoe38c1mcxhr7hc.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Two identical plates P and Q , radiating as perfect black bodies, are kept in vacuum at constant absolute temperatures $\\mathrm{T}_{\\mathrm{P}}$ and $\\mathrm{T}_{\\mathrm{Q}}$, respectively, with $\\mathrm{T}_{\\mathrm{Q}}<\\mathrm{T}_{\\mathrm{P}}$, as shown in Fig. 1. The radiated power transferred per unit area from P to Q is $W_0$. Subsequently, two more plates, identical to P and Q , are introduced between P and Q, as shown in Fig. 2. Assume that heat transfer takes place only between adjacent plates. If the power transferred per unit area in the direction from $P$ to $Q$ (Fig. 2) in the steady state is $W_S$, then the ratio $\\frac{W_0}{W_S}$ is ________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 43,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 43,
-      "question_text": "A solid glass sphere of refractive index $n=\\sqrt{3}$ and radius $R$ contains a spherical air cavity of radius $\\frac{R}{2}$, as shown in the figure. A very thin glass layer is present at the point 0 so that the air cavity (refractive index $n=1$ ) remains inside the glass sphere. An unpolarized, unidirectional and monochromatic light source $S$ emits a light ray from a point inside the glass sphere towards the periphery of the glass sphere. If the light is reflected from the point 0 and is fully polarized, then the angle of incidence at the inner surface of the glass sphere is $\\theta$. The value of $\\sin \\theta$ is ________.",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A solid glass sphere of refractive index $n=\\sqrt{3}$ and radius $R$ contains a spherical air cavity of radius $\\frac{R}{2}$, as shown in the figure. A very thin glass layer is present at the point 0 so that the air cavity (refractive index $n=1$ ) remains inside the glass sphere. An unpolarized, unidirectional and monochromatic light source $S$ emits a light ray from a point inside the glass sphere towards the periphery of the glass sphere. If the light is reflected from the point 0 and is fully polarized, then the angle of incidence at the inner surface of the glass sphere is $\\theta$. The value of $\\sin \\theta$ is ________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0dt3q1/4443612e-4cd9-4818-b69b-fdc7fbd69ea1/c8c96090-3799-11f0-831e-111c9abd7f64/file-jaoe38c1mb0dt3q2.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mcxijp1c/a8fc8691-d056-4e33-8012-525983d55d1a/659d7800-5d9e-11f0-bda7-076bd952ff48/file-jaoe38c1mcxijp1d.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mdmav4kr/677a39e2-6a4e-47c5-8795-9a37ef5a74ca/f2b894a0-6b3f-11f0-bae7-5b879bf7dc8b/file-jaoe38c1mdmav4ks.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A solid glass sphere of refractive index $n=\\sqrt{3}$ and radius $R$ contains a spherical air cavity of radius $\\frac{R}{2}$, as shown in the figure. A very thin glass layer is present at the point 0 so that the air cavity (refractive index $n=1$ ) remains inside the glass sphere. An unpolarized, unidirectional and monochromatic light source $S$ emits a light ray from a point inside the glass sphere towards the periphery of the glass sphere. If the light is reflected from the point 0 and is fully polarized, then the angle of incidence at the inner surface of the glass sphere is $\\theta$. The value of $\\sin \\theta$ is ________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 44,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 44,
-      "question_text": "A single slit diffraction experiment is performed to determine the slit width using the equation, $\\frac{b d}{D}=$ $m \\lambda$, where $b$ is the slit width, $D$ the shortest distance between the slit and the screen, $d$ the distance between the $m^{\\text {th }}$ diffraction maximum and the central maximum, and $\\lambda$ is the wavelength. $D$ and $d$ are measured with scales of least count of 1 cm and 1 mm , respectively. The values of $\\lambda$ and $m$ are known precisely to be 600 nm and 3, respectively. The absolute error (in $\\mu \\mathrm{m}$ ) in the value of $b$ estimated using the diffraction maximum that occurs for $m=3$ with $d=5 \\mathrm{~mm}$ and $D=1 \\mathrm{~m}$ is ________.",
       "subject": "Physics",
       "topic": "wave-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A single slit diffraction experiment is performed to determine the slit width using the equation, $\\frac{b d}{D}=$ $m \\lambda$, where $b$ is the slit width, $D$ the shortest distance between the slit and the screen, $d$ the distance between the $m^{\\text {th }}$ diffraction maximum and the central maximum, and $\\lambda$ is the wavelength. $D$ and $d$ are measured with scales of least count of 1 cm and 1 mm , respectively. The values of $\\lambda$ and $m$ are known precisely to be 600 nm and 3, respectively. The absolute error (in $\\mu \\mathrm{m}$ ) in the value of $b$ estimated using the diffraction maximum that occurs for $m=3$ with $d=5 \\mathrm{~mm}$ and $D=1 \\mathrm{~m}$ is ________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A single slit diffraction experiment is performed to determine the slit width using the equation, $\\frac{b d}{D}=$ $m \\lambda$, where $b$ is the slit width, $D$ the shortest distance between the slit and the screen, $d$ the distance between the $m^{\\text {th }}$ diffraction maximum and the central maximum, and $\\lambda$ is the wavelength. $D$ and $d$ are measured with scales of least count of 1 cm and 1 mm , respectively. The values of $\\lambda$ and $m$ are known precisely to be 600 nm and 3, respectively. The absolute error (in $\\mu \\mathrm{m}$ ) in the value of $b$ estimated using the diffraction maximum that occurs for $m=3$ with $d=5 \\mathrm{~mm}$ and $D=1 \\mathrm{~m}$ is ________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 45,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 45,
-      "question_text": "Consider an electron in the $n=3$ orbit of a hydrogen-like atom with atomic number $Z$. At absolute temperature $T$, a neutron having thermal energy $k_{\\mathrm{B}} T$ has the same de Broglie wavelength as that of this electron. If this temperature is given by $T=\\frac{Z^2 h^2}{\\alpha \\pi^2 a_0^2 m_{\\mathrm{N}} k_{\\mathrm{B}}}$, (where $h$ is the Planck's constant, $k_B$ is the Boltzmann constant, $m_{\\mathrm{N}}$ is the mass of the neutron and $a_0$ is the first Bohr radius of hydrogen atom) then the value of $\\alpha$ is ______.",
       "subject": "Physics",
       "topic": "dual-nature-of-radiation",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Consider an electron in the $n=3$ orbit of a hydrogen-like atom with atomic number $Z$. At absolute temperature $T$, a neutron having thermal energy $k_{\\mathrm{B}} T$ has the same de Broglie wavelength as that of this electron. If this temperature is given by $T=\\frac{Z^2 h^2}{\\alpha \\pi^2 a_0^2 m_{\\mathrm{N}} k_{\\mathrm{B}}}$, (where $h$ is the Planck's constant, $k_B$ is the Boltzmann constant, $m_{\\mathrm{N}}$ is the mass of the neutron and $a_0$ is the first Bohr radius of hydrogen atom) then the value of $\\alpha$ is ______.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Consider an electron in the $n=3$ orbit of a hydrogen-like atom with atomic number $Z$. At absolute temperature $T$, a neutron having thermal energy $k_{\\mathrm{B}} T$ has the same de Broglie wavelength as that of this electron. If this temperature is given by $T=\\frac{Z^2 h^2}{\\alpha \\pi^2 a_0^2 m_{\\mathrm{N}} k_{\\mathrm{B}}}$, (where $h$ is the Planck's constant, $k_B$ is the Boltzmann constant, $m_{\\mathrm{N}}$ is the mass of the neutron and $a_0$ is the first Bohr radius of hydrogen atom) then the value of $\\alpha$ is ______.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 46,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 46,
-      "question_text": "List-I shows four configurations, each consisting of a pair of ideal electric dipoles. Each dipole has a dipole moment of magnitude $p$, oriented as marked by arrows in the figures. In all the configurations the dipoles are fixed such that they are at a distance $2 r$ apart along the $x$ direction. The midpoint of the line joining the two dipoles is $X$. The possible resultant electric fields $\\vec{E}$ at $X$ are given in List-II.\n\nChoose the option that describes the correct match between the entries in List-I to those in List-II.\n\n\n\n  \n\n    List–I\n\n    List–II\n\n  \n\n  \n\n    (P) \n\n    (1) $$\n\\vec{E}=0\n$$\n\n  \n\n  \n\n    (Q) \n\n    (2) $\\displaystyle \\vec{E} = -\\,\\frac{p}{2\\pi\\epsilon_0\\,r^3}\\,\\hat{\\jmath}$\n\n  \n\n  \n\n    (R) \n\n    (3) $\\displaystyle \\vec{E} = -\\,\\frac{p}{4\\pi\\epsilon_0\\,r^3}\\,(\\hat{\\imath} - \\hat{\\jmath})$\n\n  \n\n  \n\n    (S) \n\n    (4) $\\displaystyle \\vec{E} = \\frac{p}{4\\pi\\epsilon_0\\,r^3}\\,(2\\hat{\\imath} - \\hat{\\jmath})$\n\n  \n\n  \n\n    \n\n    (5) $\\displaystyle \\vec{E} = \\frac{p}{\\pi\\epsilon_0\\,r^3}\\,\\hat{\\imath}$",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "List-I shows four configurations, each consisting of a pair of ideal electric dipoles. Each dipole has a dipole moment of magnitude $p$, oriented as marked by arrows in the figures. In all the configurations the dipoles are fixed such that they are at a distance $2 r$ apart along the $x$ direction. The midpoint of the line joining the two dipoles is $X$. The possible resultant electric fields $\\vec{E}$ at $X$ are given in List-II.\n\nChoose the option that describes the correct match between the entries in List-I to those in List-II.\n\n\n\n  \n\n    List–I\n\n    List–II\n\n  \n\n  \n\n    (P) \n\n    (1) $$\n\\vec{E}=0\n$$\n\n  \n\n  \n\n    (Q) \n\n    (2) $\\displaystyle \\vec{E} = -\\,\\frac{p}{2\\pi\\epsilon_0\\,r^3}\\,\\hat{\\jmath}$\n\n  \n\n  \n\n    (R) \n\n    (3) $\\displaystyle \\vec{E} = -\\,\\frac{p}{4\\pi\\epsilon_0\\,r^3}\\,(\\hat{\\imath} - \\hat{\\jmath})$\n\n  \n\n  \n\n    (S) \n\n    (4) $\\displaystyle \\vec{E} = \\frac{p}{4\\pi\\epsilon_0\\,r^3}\\,(2\\hat{\\imath} - \\hat{\\jmath})$\n\n  \n\n  \n\n    \n\n    (5) $\\displaystyle \\vec{E} = \\frac{p}{\\pi\\epsilon_0\\,r^3}\\,\\hat{\\imath}$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0e2pjn/74071b78-dfe9-4def-be31-55e7cbfe0c6e/d3ed2230-379a-11f0-831e-111c9abd7f64/file-jaoe38c1mb0e2pjo.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0e2wnd/f8337145-2fe4-410f-aac3-728c55e68de7/d969db90-379a-11f0-831e-111c9abd7f64/file-jaoe38c1mb0e2wne.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0e317f/ae1b25f5-dda8-4f06-8478-7d286fbd7efb/dcef0ab0-379a-11f0-831e-111c9abd7f64/file-jaoe38c1mb0e317g.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0e3588/9f8636fc-807c-4eb0-a18b-091460276283/e00a7b80-379a-11f0-831e-111c9abd7f64/file-jaoe38c1mb0e3589.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mcxjyuk8/0f389c34-634f-46ec-8569-28757d473595/f4260470-5da3-11f0-845b-49ec36abc6e0/file-jaoe38c1mcxjyuk9.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mcxk0var/f528fb84-fdda-4ba2-8bc3-8848a4ac5188/2c562c30-5da4-11f0-845b-49ec36abc6e0/file-jaoe38c1mcxk0vas.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mcxk1t6l/b06ab96c-bf7d-4f79-b604-a9585a2082d9/4682ead0-5da4-11f0-845b-49ec36abc6e0/file-jaoe38c1mcxk1t6m.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mcxk343f/25acd9fd-2624-4813-a29a-408506560522/6abff4b0-5da4-11f0-845b-49ec36abc6e0/file-jaoe38c1mcxk343g.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$ \\mathrm{P} \\rightarrow 3, \\mathrm{Q} \\rightarrow 1, \\mathrm{R} \\rightarrow 2, \\mathrm{~S} \\rightarrow 4$",
         "B": "$\\mathrm{P} \\rightarrow 4, \\mathrm{Q} \\rightarrow 5, \\mathrm{R} \\rightarrow 3, \\mathrm{~S} \\rightarrow 1$",
         "C": "$\\mathrm{P} \\rightarrow 2, \\mathrm{Q} \\rightarrow 1, \\mathrm{R} \\rightarrow 4, \\mathrm{~S} \\rightarrow 5$",
         "D": "$\\mathrm{P} \\rightarrow 2, \\mathrm{Q} \\rightarrow 1, \\mathrm{R} \\rightarrow 3, \\mathrm{~S} \\rightarrow 5$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "List-I shows four configurations, each consisting of a pair of ideal electric dipoles. Each dipole has a dipole moment of magnitude $p$, oriented as marked by arrows in the figures. In all the configurations the dipoles are fixed such that they are at a distance $2 r$ apart along the $x$ direction. The midpoint of the line joining the two dipoles is $X$. The possible resultant electric fields $\\vec{E}$ at $X$ are given in List-II. \nChoose the option that describes the correct match between the entries in List-I to those in List-II. \n\n\n  \n\n    List–I\n\n    List–II\n\n  \n\n  \n\n    (P) \n\n    (1) $$\n\\vec{E}=0\n$$\n\n  \n\n  \n\n    (Q) \n\n    (2) $\\displaystyle \\vec{E} = -\\,\\frac{p}{2\\pi\\epsilon_0\\,r^3}\\,\\hat{\\jmath}$\n\n  \n\n  \n\n    (R) \n\n    (3) $\\displaystyle \\vec{E} = -\\,\\frac{p}{4\\pi\\epsilon_0\\,r^3}\\,(\\hat{\\imath} - \\hat{\\jmath})$\n\n  \n\n  \n\n    (S) \n\n    (4) $\\displaystyle \\vec{E} = \\frac{p}{4\\pi\\epsilon_0\\,r^3}\\,(2\\hat{\\imath} - \\hat{\\jmath})$\n\n  \n\n  \n\n    \n\n    (5) $\\displaystyle \\vec{E} = \\frac{p}{\\pi\\epsilon_0\\,r^3}\\,\\hat{\\imath}$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 47,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 47,
-      "question_text": "A circuit with an electrical load having impedance $Z$ is connected with an AC source as shown in the diagram. The source voltage varies in time as $V(t)=300 \\sin (400 t) \\mathrm{V}$, where $t$ is time in s . List-I shows various options for the load. The possible currents $i(t)$ in the circuit as a function of time are given in List-II.\n\n\n\nChoose the option that describes the correct match between the entries in List-I to those in ListII.\n\n\n\n  \n\n    List–I\n\n    List–II\n\n  \n\n  \n\n    (P) \n\n    (1) \n\n  \n\n  \n\n    (Q) \n\n    (2) \n\n  \n\n  \n\n    (R) \n\n    (3) \n\n  \n\n  \n\n    (S) \n\n    (4) \n\n  \n\n  \n\n    \n\n    (5)",
       "subject": "Physics",
       "topic": "alternating-current",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A circuit with an electrical load having impedance $Z$ is connected with an AC source as shown in the diagram. The source voltage varies in time as $V(t)=300 \\sin (400 t) \\mathrm{V}$, where $t$ is time in s . List-I shows various options for the load. The possible currents $i(t)$ in the circuit as a function of time are given in List-II.\n\n\n\nChoose the option that describes the correct match between the entries in List-I to those in ListII.\n\n\n\n  \n\n    List–I\n\n    List–II\n\n  \n\n  \n\n    (P) \n\n    (1) \n\n  \n\n  \n\n    (Q) \n\n    (2) \n\n  \n\n  \n\n    (R) \n\n    (3) \n\n  \n\n  \n\n    (S) \n\n    (4) \n\n  \n\n  \n\n    \n\n    (5)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0ediw9/0c323472-02c2-4149-a7fd-250d67dd0ee2/00b0ad90-379c-11f0-831e-111c9abd7f64/file-jaoe38c1mb0ediwa.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0ejs4q/c96f6f92-b105-440e-bd0f-2703f6242dc1/aeadd8a0-379c-11f0-831e-111c9abd7f64/file-jaoe38c1mb0ejs4r.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0erp6e/2181257b-83c8-4df2-a1ea-4b62e5a33ecb/8adedd60-379d-11f0-831e-111c9abd7f64/file-jaoe38c1mb0erp6f.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0ejws2/cfaad24d-25f5-4608-96e0-2cbdafeb3412/b2450920-379c-11f0-831e-111c9abd7f64/file-jaoe38c1mb0ejws3.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0eptae/e2937720-0858-434a-9825-fa0a071eaef4/566d9260-379d-11f0-831e-111c9abd7f64/file-jaoe38c1mb0eptaf.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0eh3dr/71c8765f-6641-47ee-ae99-2472a5f61651/63f14ef0-379c-11f0-831e-111c9abd7f64/file-jaoe38c1mb0eh3ds.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0eq1az/bb14667e-314f-43e5-ac55-bcb058cde0e2/5c9eceb0-379d-11f0-831e-111c9abd7f64/file-jaoe38c1mb0eq1b0.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0eh860/d3054a1a-6c4c-41a2-8656-f3c8c3ba3bbe/67a38180-379c-11f0-831e-111c9abd7f64/file-jaoe38c1mb0eh861.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0eo0gt/b95cdac8-0fd7-48de-bde0-953c4375f105/245ad0d0-379d-11f0-831e-111c9abd7f64/file-jaoe38c1mb0eo0gu.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mb0eo7s6/e309b9d0-4e68-4c68-9a5a-eae9bf1aa3dd/2a018060-379d-11f0-831e-111c9abd7f64/file-jaoe38c1mb0eo7s7.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mcxki8m6/a46128e3-c9e9-44c2-be2b-59106e423b62/0f6113e0-5da6-11f0-845b-49ec36abc6e0/file-jaoe38c1mcxki8m7.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mcxkiq7p/3173610c-c08b-4182-8f64-9808739a2237/1cf92650-5da6-11f0-845b-49ec36abc6e0/file-jaoe38c1mcxkiq7q.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mcxkjyqm/803eddfa-cde4-49ec-afd7-2af7c7f6c003/3f5e3be0-5da6-11f0-845b-49ec36abc6e0/file-jaoe38c1mcxkjyqn.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mcxklkdd/9d883aaa-af27-40af-8601-b4fad631153f/6be32d10-5da6-11f0-845b-49ec36abc6e0/file-jaoe38c1mcxklkde.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mcxkmqcq/4bcf98de-1b5e-4820-afb7-8a92c829cfd0/8c5154a0-5da6-11f0-845b-49ec36abc6e0/file-jaoe38c1mcxkmqcr.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$ \\mathrm{P} \\rightarrow 3, \\mathrm{Q} \\rightarrow 5, \\mathrm{R} \\rightarrow 2, \\mathrm{~S} \\rightarrow 1$",
         "B": "$\\mathrm{P} \\rightarrow 1, \\mathrm{Q} \\rightarrow 5, \\mathrm{R} \\rightarrow 2, \\mathrm{~S} \\rightarrow 3$",
         "C": "$\\mathrm{P} \\rightarrow 3, \\mathrm{Q} \\rightarrow 4, \\mathrm{R} \\rightarrow 2, \\mathrm{~S} \\rightarrow 1$",
         "D": "$\\mathrm{P} \\rightarrow 1, \\mathrm{Q} \\rightarrow 4, \\mathrm{R} \\rightarrow 2, \\mathrm{~S} \\rightarrow 5$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A circuit with an electrical load having impedance $Z$ is connected with an AC source as shown in the diagram. The source voltage varies in time as $V(t)=300 \\sin (400 t) \\mathrm{V}$, where $t$ is time in s . List-I shows various options for the load. The possible currents $i(t)$ in the circuit as a function of time are given in List-II. \n \nChoose the option that describes the correct match between the entries in List-I to those in ListII. \n\n\n  \n\n    List–I\n\n    List–II\n\n  \n\n  \n\n    (P) \n\n    (1) \n\n  \n\n  \n\n    (Q) \n\n    (2) \n\n  \n\n  \n\n    (R) \n\n    (3) \n\n  \n\n  \n\n    (S) \n\n    (4) \n\n  \n\n  \n\n    \n\n    (5)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 48,
       "year": 2025,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 48,
-      "question_text": "List-I shows various functional dependencies of energy $(E)$ on the atomic number $(Z)$. Energies associated with certain phenomena are given in List-II.\n\nChoose the option that describes the correct match between the entries in List-I to those in List-II.\n\n\n\n  \n\n    List–I\n\n    List–II\n\n  \n\n  \n\n    (P) $E \\propto Z^2$\n\n    (1) energy of characteristic x-rays\n\n  \n\n  \n\n    (Q) $E \\propto (Z - 1)^2$\n\n    (2) electrostatic part of the nuclear binding energy for stable nuclei with mass numbers in the range 30 to 170\n\n  \n\n  \n\n    (R) $E \\propto Z(Z - 1)$\n\n    (3) energy of continuous x-rays\n\n  \n\n  \n\n    (S) $E$ is practically independent of $Z$\n\n    (4) average nuclear binding energy per nucleon for stable nuclei with mass number in the range 30 to 170\n\n  \n\n  \n\n    \n\n    (5) energy of radiation due to electronic transitions from hydrogen-like atoms",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "List-I shows various functional dependencies of energy $(E)$ on the atomic number $(Z)$. Energies associated with certain phenomena are given in List-II.\n\nChoose the option that describes the correct match between the entries in List-I to those in List-II.\n\n\n\n  \n\n    List–I\n\n    List–II\n\n  \n\n  \n\n    (P) $E \\propto Z^2$\n\n    (1) energy of characteristic x-rays\n\n  \n\n  \n\n    (Q) $E \\propto (Z - 1)^2$\n\n    (2) electrostatic part of the nuclear binding energy for stable nuclei with mass numbers in the range 30 to 170\n\n  \n\n  \n\n    (R) $E \\propto Z(Z - 1)$\n\n    (3) energy of continuous x-rays\n\n  \n\n  \n\n    (S) $E$ is practically independent of $Z$\n\n    (4) average nuclear binding energy per nucleon for stable nuclei with mass number in the range 30 to 170\n\n  \n\n  \n\n    \n\n    (5) energy of radiation due to electronic transitions from hydrogen-like atoms",
+      "question_images": [],
+      "option_texts": {
         "A": "P→4, Q→3, R→1, S→2",
         "B": "P→5, Q→2, R→1, S→4",
         "C": "P→5, Q→1, R→2, S→4",
         "D": "P→3, Q→2, R→1, S→5"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "List-I shows various functional dependencies of energy $(E)$ on the atomic number $(Z)$. Energies associated with certain phenomena are given in List-II. \nChoose the option that describes the correct match between the entries in List-I to those in List-II. \n\n\n  \n\n    List–I\n\n    List–II\n\n  \n\n  \n\n    (P) $E \\propto Z^2$\n\n    (1) energy of characteristic x-rays\n\n  \n\n  \n\n    (Q) $E \\propto (Z - 1)^2$\n\n    (2) electrostatic part of the nuclear binding energy for stable nuclei with mass numbers in the range 30 to 170\n\n  \n\n  \n\n    (R) $E \\propto Z(Z - 1)$\n\n    (3) energy of continuous x-rays\n\n  \n\n  \n\n    (S) $E$ is practically independent of $Z$\n\n    (4) average nuclear binding energy per nucleon for stable nuclei with mass number in the range 30 to 170\n\n  \n\n  \n\n    \n\n    (5) energy of radiation due to electronic transitions from hydrogen-like atoms",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     }
   ]
 }

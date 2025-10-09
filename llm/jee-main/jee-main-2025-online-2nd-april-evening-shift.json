@@ -8,1729 +8,1877 @@
   },
   "questions": [
     {
+      "question_number": 1,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 1,
-      "question_text": "Given below are two statements :\n\nStatement (I) : Neopentane forms only one monosubstituted derivative.\n\nStatement (II) : Melting point of neopentane is higher than n-pentane.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below :",
       "subject": "Chemistry",
       "topic": "hydrocarbons",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Given below are two statements :\n\nStatement (I) : Neopentane forms only one monosubstituted derivative.\n\nStatement (II) : Melting point of neopentane is higher than n-pentane.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1maf2c66q/e59958a6-b5ef-43d3-a761-7c90737d5c6f/77e04320-2be0-11f0-837b-edba656ec9fe/file-jaoe38c1maf2c66r.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "Statement I is incorrect but Statement II is correct",
         "B": "Both Statement I and Statement II are correct",
         "C": "Statement I is correct but Statement II is incorrect",
         "D": "Both Statement I and Statement II are incorrect"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Given below are two statements : \nStatement (I) : Neopentane forms only one monosubstituted derivative. \nStatement (II) : Melting point of neopentane is higher than n-pentane. \nIn the light of the above statements, choose the most appropriate answer from the options given below :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 2,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 2,
-      "question_text": "Match List - I with List - II.\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n\n\n  \n    List - I\n(Reaction)\n\n    List - II\n(Name of reaction)\n\n  \n\n  \n    (A)\n    \n    (I)\n    Lucas reaction\n\n\n  \n  \n    (B)\n    $$\n\\mathrm{ArN}_2^{+} \\mathrm{X}^{-} \\xrightarrow[\\mathrm{HCl}]{\\mathrm{Cu}} \\mathrm{ArCl}+\\mathrm{N}_2 \\uparrow+\\mathrm{CuX}\n$$\n\n    (II)\n    Finkelstein\nreaction\n\n\n  \n  \n    (C)\n    $$\n\\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{Br}+\\mathrm{NaI} \\xrightarrow[\\text { Acetone }]{\\text { Dry }} \\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{I}+\\mathrm{NaBr}\n$$\n\n    (III)\n    \nFittig reaction\n\n\n\n  \n  \n    (D)\n    $$\n\\mathrm{CH}_3 \\mathrm{C}(\\mathrm{OH})\\left(\\mathrm{CH}_3\\right) \\mathrm{CH}_3 \\xrightarrow[\\mathrm{ZnCl}_2]{\\mathrm{HCl}} \\mathrm{CH}_3 \\mathrm{C}(\\mathrm{Cl})\\left(\\mathrm{CH}_3\\right) \\mathrm{CH}_3\n$$\n\n    (IV)\n    \nGatterman\nreaction\n  \n\n\n$$ \\text { Choose the correct answer from the options given below : } $$",
       "subject": "Chemistry",
       "topic": "hydrocarbons",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Match List - I with List - II.\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n\n\n  \n    List - I\n(Reaction)\n\n    List - II\n(Name of reaction)\n\n  \n\n  \n    (A)\n    \n    (I)\n    Lucas reaction\n\n\n  \n  \n    (B)\n    $$\n\\mathrm{ArN}_2^{+} \\mathrm{X}^{-} \\xrightarrow[\\mathrm{HCl}]{\\mathrm{Cu}} \\mathrm{ArCl}+\\mathrm{N}_2 \\uparrow+\\mathrm{CuX}\n$$\n\n    (II)\n    Finkelstein\nreaction\n\n\n  \n  \n    (C)\n    $$\n\\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{Br}+\\mathrm{NaI} \\xrightarrow[\\text { Acetone }]{\\text { Dry }} \\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{I}+\\mathrm{NaBr}\n$$\n\n    (III)\n    \nFittig reaction\n\n\n\n  \n  \n    (D)\n    $$\n\\mathrm{CH}_3 \\mathrm{C}(\\mathrm{OH})\\left(\\mathrm{CH}_3\\right) \\mathrm{CH}_3 \\xrightarrow[\\mathrm{ZnCl}_2]{\\mathrm{HCl}} \\mathrm{CH}_3 \\mathrm{C}(\\mathrm{Cl})\\left(\\mathrm{CH}_3\\right) \\mathrm{CH}_3\n$$\n\n    (IV)\n    \nGatterman\nreaction\n  \n\n\n$$ \\text { Choose the correct answer from the options given below : } $$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9fqnhyc/1efb7649-d17c-47c6-a1aa-f42f80de3a22/56964640-1873-11f0-a7dd-51762233016a/file-jaoe38c1m9fqnhyd.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1maf7xre7/2e96e10b-188a-4f45-b674-3bf63110d866/5de567f0-2bf6-11f0-9ba4-1b1b48e3ca3f/file-jaoe38c1maf7xre8.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "(A)-(III), (B)-(II), (C)-(IV), (D)-(I)",
         "B": "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)",
         "C": "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)",
         "D": "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Match List - I with List - II. \n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n\n\n  \n    List - I(Reaction)\n    List - II(Name of reaction)\n  \n\n  \n    (A)\n    \n    (I)\n    Lucas reaction\n  \n  \n    (B)\n    $$\\mathrm{ArN}_2^{+} \\mathrm{X}^{-} \\xrightarrow[\\mathrm{HCl}]{\\mathrm{Cu}} \\mathrm{ArCl}+\\mathrm{N}_2 \\uparrow+\\mathrm{CuX}$$\n    (II)\n    Finkelsteinreaction\n  \n  \n    (C)\n    $$\\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{Br}+\\mathrm{NaI} \\xrightarrow[\\text { Acetone }]{\\text { Dry }} \\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{I}+\\mathrm{NaBr}$$\n    (III)\n    Fittig reaction\n  \n  \n    (D)\n    $$\\mathrm{CH}_3 \\mathrm{C}(\\mathrm{OH})\\left(\\mathrm{CH}_3\\right) \\mathrm{CH}_3 \\xrightarrow[\\mathrm{ZnCl}_2]{\\mathrm{HCl}} \\mathrm{CH}_3 \\mathrm{C}(\\mathrm{Cl})\\left(\\mathrm{CH}_3\\right) \\mathrm{CH}_3$$\n    (IV)\n    Gattermanreaction\n  \n\n\n$$ \\text { Choose the correct answer from the options given below : } $$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 3,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 3,
-      "question_text": "Electronic configuration of four elements A, B, C and D are given below :\n\n(A) $1 s^2 2 s^2 2 p^3$\n\n(B) $1 s^2 2 s^2 2 p^4$\n\n(C) $1 s^2 2 s^2 2 p^5$\n\n(D) $1 s^2 2 s^2 2 p^2$\n\nWhich of the following is the correct order of increasing electronegativity (Pauling's scale)?",
       "subject": "Chemistry",
       "topic": "periodic-table-and-periodicity",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Electronic configuration of four elements A, B, C and D are given below :\n\n(A) $1 s^2 2 s^2 2 p^3$\n\n(B) $1 s^2 2 s^2 2 p^4$\n\n(C) $1 s^2 2 s^2 2 p^5$\n\n(D) $1 s^2 2 s^2 2 p^2$\n\nWhich of the following is the correct order of increasing electronegativity (Pauling's scale)?",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\mathrm{D}<\\mathrm{A}<\\mathrm{B}<\\mathrm{C}$",
         "B": "$\\mathrm{A}<\\mathrm{B}<\\mathrm{C}<\\mathrm{D}$",
         "C": "$\\mathrm{A}<\\mathrm{C}<\\mathrm{B}<\\mathrm{D}$",
         "D": "$\\mathrm{A}<\\mathrm{D}<\\mathrm{B}<\\mathrm{C}$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Electronic configuration of four elements A, B, C and D are given below : \n(A) $1 s^2 2 s^2 2 p^3$ \n(B) $1 s^2 2 s^2 2 p^4$ \n(C) $1 s^2 2 s^2 2 p^5$ \n(D) $1 s^2 2 s^2 2 p^2$ \nWhich of the following is the correct order of increasing electronegativity (Pauling's scale)?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 4,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 4,
-      "question_text": "A tetrapeptide, \" $x$ \" on complete hydrolysis produced glycine (Gly), alanine (Ala), valine (Val), leucine (Leu) in equimolar proportion each. The number of tetrapeptides (sequences) possible involving each of these amino acids is :",
       "subject": "Chemistry",
       "topic": "biomolecules",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A tetrapeptide, \" $x$ \" on complete hydrolysis produced glycine (Gly), alanine (Ala), valine (Val), leucine (Leu) in equimolar proportion each. The number of tetrapeptides (sequences) possible involving each of these amino acids is :",
+      "question_images": [],
+      "option_texts": {
         "A": "32",
         "B": "24",
         "C": "8",
         "D": "16"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A tetrapeptide, \" $x$ \" on complete hydrolysis produced glycine (Gly), alanine (Ala), valine (Val), leucine (Leu) in equimolar proportion each. The number of tetrapeptides (sequences) possible involving each of these amino acids is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 5,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 5,
-      "question_text": "Which among the following molecules is (a) involved in $\\mathrm{sp}^3 \\mathrm{~d}$ hybridization, (b) has different bond lengths and (c) has lone pair of electrons on the central atom?",
       "subject": "Chemistry",
       "topic": "chemical-bonding-and-molecular-structure",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which among the following molecules is (a) involved in $\\mathrm{sp}^3 \\mathrm{~d}$ hybridization, (b) has different bond lengths and (c) has lone pair of electrons on the central atom?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1maf37pjm/025faf90-b384-4bd6-8a06-af597edaed9b/e4e99810-2be3-11f0-8a5f-f52309eb3f48/file-jaoe38c1maf37pjn.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$\\mathrm{XeF}_4$",
         "B": "$\\mathrm{XeF}_2$",
         "C": "$\\mathrm{PF}_5$",
         "D": "$\\mathrm{SF}_4$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Which among the following molecules is (a) involved in $\\mathrm{sp}^3 \\mathrm{~d}$ hybridization, (b) has different bond lengths and (c) has lone pair of electrons on the central atom?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 6,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 6,
-      "question_text": "In 3,3-dimethylhex-1-en-4-yne, there are _________$\\mathrm{sp}^3$,_________$\\mathrm{sp}^2$ and_________ sp hybridised carbon atoms respectively.",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In 3,3-dimethylhex-1-en-4-yne, there are _________$\\mathrm{sp}^3$,_________$\\mathrm{sp}^2$ and_________ sp hybridised carbon atoms respectively.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1maf3s0sq/4542573a-d5b2-45ab-a580-e1bed4a57910/19c9e6a0-2be6-11f0-8a5f-f52309eb3f48/file-jaoe38c1maf3s0sr.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$4,2,2$",
         "B": "$2,4,2$",
         "C": "$3,3,2$",
         "D": "$2,2,4$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "In 3,3-dimethylhex-1-en-4-yne, there are _________$\\mathrm{sp}^3$,_________$\\mathrm{sp}^2$ and_________ sp hybridised carbon atoms respectively.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 7,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 7,
-      "question_text": "In Dumas' method for estimation of nitrogen, 0.5 gram of an organic compound gave 60 mL of nitrogen collected at 300 K temperature and 715 mm Hg pressure. The percentage composition of nitrogen in the compound (Aqueous tension at $300 \\mathrm{~K}=15 \\mathrm{~mm} \\mathrm{Hg}$ ) is___________%.",
       "subject": "Chemistry",
       "topic": "practical-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In Dumas' method for estimation of nitrogen, 0.5 gram of an organic compound gave 60 mL of nitrogen collected at 300 K temperature and 715 mm Hg pressure. The percentage composition of nitrogen in the compound (Aqueous tension at $300 \\mathrm{~K}=15 \\mathrm{~mm} \\mathrm{Hg}$ ) is___________%.",
+      "question_images": [],
+      "option_texts": {
         "A": "20.87",
         "B": "12.57",
         "C": "1.257",
         "D": "18.67"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "In Dumas' method for estimation of nitrogen, 0.5 gram of an organic compound gave 60 mL of nitrogen collected at 300 K temperature and 715 mm Hg pressure. The percentage composition of nitrogen in the compound (Aqueous tension at $300 \\mathrm{~K}=15 \\mathrm{~mm} \\mathrm{Hg}$ ) is___________%.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 8,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 8,
-      "question_text": "Which of the following statements are true?\n\n(A) The subsidiary quantum number $l$ describes the shape of the orbital occupied by the electron.\n\n(B)  is the boundary surface diagram of the $2 \\mathrm{p}_x$ orbital.\n\n(C) The + and - signs in the wave function of the $2 p_x$ orbital refer to charge.\n\n(D) The wave function of $2 \\mathrm{p}_x$ orbital is zero everywhere in the $x y$ plane.\n\nChoose the correct answer from the options given below :",
       "subject": "Chemistry",
       "topic": "structure-of-atom",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the following statements are true?\n\n(A) The subsidiary quantum number $l$ describes the shape of the orbital occupied by the electron.\n\n(B)  is the boundary surface diagram of the $2 \\mathrm{p}_x$ orbital.\n\n(C) The + and - signs in the wave function of the $2 p_x$ orbital refer to charge.\n\n(D) The wave function of $2 \\mathrm{p}_x$ orbital is zero everywhere in the $x y$ plane.\n\nChoose the correct answer from the options given below :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mbatxjsz/f28ff2a8-0908-4b9b-9561-26fd0ef43be9/ad01ad30-3d58-11f0-9ada-d3921be4ce16/file-jaoe38c1mbatxjt0.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1maf68bnt/5c863c36-2901-44a9-a150-bfb8bbb58431/b1628f90-2bef-11f0-a3da-bb2e3871eb5a/file-jaoe38c1maf68bnu.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "(A) and (B) only",
         "B": "(B) and (D) only",
         "C": "(C) and (D) only",
         "D": "(A), (B) and (C) only"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Which of the following statements are true? \n(A) The subsidiary quantum number $l$ describes the shape of the orbital occupied by the electron. \n(B)  is the boundary surface diagram of the $2 \\mathrm{p}_x$ orbital. \n(C) The + and - signs in the wave function of the $2 p_x$ orbital refer to charge. \n(D) The wave function of $2 \\mathrm{p}_x$ orbital is zero everywhere in the $x y$ plane. \nChoose the correct answer from the options given below :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 9,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 9,
-      "question_text": "Arrange the following in order of magnitude of work done by the system/on the system at constant temperature.\n\n(a) $\\left|w_{\\text {reversible }}\\right|$ for expansion in infinite stages.\n\n(b) $\\left|w_{\\text {irreversible }}\\right|$ for expansion in single stage.\n\n(c) $\\left|\\mathrm{w}_{\\text {reversible }}\\right|$ for compression in infinite stages.\n\n(d) $\\left|w_{\\text {irreversible }}\\right|$ for compression in single stage.\n\nChoose the correct answer from the options given below :",
       "subject": "Chemistry",
       "topic": "thermodynamics",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Arrange the following in order of magnitude of work done by the system/on the system at constant temperature.\n\n(a) $\\left|w_{\\text {reversible }}\\right|$ for expansion in infinite stages.\n\n(b) $\\left|w_{\\text {irreversible }}\\right|$ for expansion in single stage.\n\n(c) $\\left|\\mathrm{w}_{\\text {reversible }}\\right|$ for compression in infinite stages.\n\n(d) $\\left|w_{\\text {irreversible }}\\right|$ for compression in single stage.\n\nChoose the correct answer from the options given below :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1maf6psnb/094ce35e-dd8c-48a7-81bb-10d47215ee62/97432c80-2bf1-11f0-a3da-bb2e3871eb5a/file-jaoe38c1maf6psnc.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1maf6qb91/6394d54c-99be-4208-bba7-9a0b8893f001/a5a1ea50-2bf1-11f0-a3da-bb2e3871eb5a/file-jaoe38c1maf6qb92.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1maf6qqtz/f3633351-11c8-44c0-975d-4c900af2eeb5/b1ab4670-2bf1-11f0-a3da-bb2e3871eb5a/file-jaoe38c1maf6qqu0.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1maf6r6ss/a74870be-8a71-4eb9-8a31-f54f1ff0d844/be00edd0-2bf1-11f0-a3da-bb2e3871eb5a/file-jaoe38c1maf6r6st.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$\\mathbf{}_{} \\mathrm{d}>\\mathrm{c}=\\mathrm{a}>\\mathrm{b}$",
         "B": "$\\mathrm{c}=\\mathrm{a}>\\mathrm{d}>\\mathrm{b}$",
         "C": "$a>c>b>d$",
         "D": "$a>b>c>d$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Arrange the following in order of magnitude of work done by the system/on the system at constant temperature. \n(a) $\\left|w_{\\text {reversible }}\\right|$ for expansion in infinite stages. \n(b) $\\left|w_{\\text {irreversible }}\\right|$ for expansion in single stage. \n(c) $\\left|\\mathrm{w}_{\\text {reversible }}\\right|$ for compression in infinite stages. \n(d) $\\left|w_{\\text {irreversible }}\\right|$ for compression in single stage. \nChoose the correct answer from the options given below :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 10,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 10,
-      "question_text": "When a concentrated solution of sulphanilic acid and 1-naphthylamine is treated with nitrous acid $(273 \\mathrm{~K})$ and acidified with acetic acid, the mass $(\\mathrm{g})$ of 0.1 mole of product formed is :\n\n(Given molar mass in $\\mathrm{g} \\mathrm{mol}^{-1} \\mathrm{H}: 1, \\mathrm{C}: 12, \\mathrm{~N}: 14, \\mathrm{O}: 16, \\mathrm{~S}: 32$ )",
       "subject": "Chemistry",
       "topic": "compounds-containing-nitrogen",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "When a concentrated solution of sulphanilic acid and 1-naphthylamine is treated with nitrous acid $(273 \\mathrm{~K})$ and acidified with acetic acid, the mass $(\\mathrm{g})$ of 0.1 mole of product formed is :\n\n(Given molar mass in $\\mathrm{g} \\mathrm{mol}^{-1} \\mathrm{H}: 1, \\mathrm{C}: 12, \\mathrm{~N}: 14, \\mathrm{O}: 16, \\mathrm{~S}: 32$ )",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1maf1znhw/a8c21878-a1a6-440e-bb73-ec596b86d0dd/1bba9740-2bdf-11f0-837b-edba656ec9fe/file-jaoe38c1maf1znhx.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "330",
         "B": "33",
         "C": "343",
         "D": "66"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "When a concentrated solution of sulphanilic acid and 1-naphthylamine is treated with nitrous acid $(273 \\mathrm{~K})$ and acidified with acetic acid, the mass $(\\mathrm{g})$ of 0.1 mole of product formed is : \n(Given molar mass in $\\mathrm{g} \\mathrm{mol}^{-1} \\mathrm{H}: 1, \\mathrm{C}: 12, \\mathrm{~N}: 14, \\mathrm{O}: 16, \\mathrm{~S}: 32$ )",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 11,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 11,
-      "question_text": "Which of the following graphs correctly represents the variation of thermodynamic properties of Haber's process?",
       "subject": "Chemistry",
       "topic": "thermodynamics",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the following graphs correctly represents the variation of thermodynamic properties of Haber's process?",
+      "question_images": [],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9fqxfqn/e9f7245a-d1d1-4914-a177-9cf102d523eb/6af7e7f0-1874-11f0-a7dd-51762233016a/file-jaoe38c1m9fqxfqo.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9fqx5qn/5b9045db-0683-4c82-9f55-6214d9212a91/633e5df0-1874-11f0-a7dd-51762233016a/file-jaoe38c1m9fqx5qo.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9fqyjhr/8d7d7ead-bb55-41ee-aff8-7301772400dc/89ad3bf0-1874-11f0-a7dd-51762233016a/file-jaoe38c1m9fqyjhs.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9fqy9m6/2d79b97f-6b6f-4e9f-89c3-02f2023a51db/820bf4e0-1874-11f0-a7dd-51762233016a/file-jaoe38c1m9fqy9m7.png",
+          "description": ""
+        }
+      },
       "correct_answer": "A",
-      "question": "Which of the following graphs correctly represents the variation of thermodynamic properties of Haber's process?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 12,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 12,
-      "question_text": "Reactant A converts to product D through the given mechanism (with the net evolution of heat):\n  A → B     slow;     ΔH = +ve\n  B → C     fast;     ΔH = -ve\n  C → D     fast;     ΔH = -ve\n  Which of the following represents the above reaction mechanism?",
       "subject": "Chemistry",
       "topic": "chemical-kinetics-and-nuclear-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Reactant A converts to product D through the given mechanism (with the net evolution of heat):\n  A → B     slow;     ΔH = +ve\n  B → C     fast;     ΔH = -ve\n  C → D     fast;     ΔH = -ve\n  Which of the following represents the above reaction mechanism?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1maf6swge/6943ff27-b658-4d7f-9f56-6e41c3d7b211/eda176e0-2bf1-11f0-a3da-bb2e3871eb5a/file-jaoe38c1maf6swgf.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9frdbd3/ac2e3981-5786-4500-8bbd-6f448d629d82/2488ad70-1876-11f0-a7dd-51762233016a/file-jaoe38c1m9frdbd4.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9frd3sg/7f1dca88-fa7c-45b2-b432-0e10c43fe91b/1eaf0700-1876-11f0-a7dd-51762233016a/file-jaoe38c1m9frd3sh.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9freiyw/70b0daa9-e957-4c3a-af51-5f300c9ebc11/4637e080-1876-11f0-a7dd-51762233016a/file-jaoe38c1m9freiyx.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9freaxg/5d8c838c-602b-415b-bef7-57170f2f9a32/4001e940-1876-11f0-a7dd-51762233016a/file-jaoe38c1m9freaxh.png",
+          "description": ""
+        }
+      },
       "correct_answer": "D",
-      "question": "Reactant A converts to product D through the given mechanism (with the net evolution of heat):   A → B     slow;     ΔH = +ve   B → C     fast;     ΔH = -ve   C → D     fast;     ΔH = -ve   Which of the following represents the above reaction mechanism?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 13,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 13,
-      "question_text": "Formation of $\\mathrm{Na}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_5 \\mathrm{NOS}\\right]$, a purple coloured complex formed by addition of sodium nitroprusside in sodium carbonate extract of salt indicates the presence of :",
       "subject": "Chemistry",
       "topic": "salt-analysis",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Formation of $\\mathrm{Na}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_5 \\mathrm{NOS}\\right]$, a purple coloured complex formed by addition of sodium nitroprusside in sodium carbonate extract of salt indicates the presence of :",
+      "question_images": [],
+      "option_texts": {
         "A": "Sulphide ion",
         "B": "Sulphite ion",
         "C": "Sulphate ion",
         "D": "Sodium ion"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Formation of $\\mathrm{Na}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_5 \\mathrm{NOS}\\right]$, a purple coloured complex formed by addition of sodium nitroprusside in sodium carbonate extract of salt indicates the presence of :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 14,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 14,
-      "question_text": "Consider the following reactions. From these reactions which reaction will give carboxylic acid as a major product ?\n\n(A) $\\quad \\mathrm{R}-\\mathrm{C} \\equiv \\mathrm{N} \\xrightarrow[\\text { mild condition }]{\\text { (i) } \\stackrel{+}{\\mathrm{H}} / \\mathrm{H}_2 \\mathrm{O}}$\n\n(B) $\\quad \\mathrm{R}-\\mathrm{MgX} \\xrightarrow[\\text { (ii) } \\mathrm{H}_3 \\mathrm{O}^{+}]{\\text {(i) } \\mathrm{CO}_2}$\n\n(C) $\\mathrm{R}-\\mathrm{C} \\equiv \\mathrm{N} \\xrightarrow[\\text { (ii) } \\mathrm{H}_3 \\mathrm{O}^{+}]{\\text {(i) } \\mathrm{SnCl}_2 / \\mathrm{HCl}}$\n\n(D) $\\quad \\mathrm{R} \\cdot \\mathrm{CH}_2 \\cdot \\mathrm{OH} \\xrightarrow{\\mathrm{PCC}}$\n\n(E) \n\nChoose the correct answer from the options given below :",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider the following reactions. From these reactions which reaction will give carboxylic acid as a major product ?\n\n(A) $\\quad \\mathrm{R}-\\mathrm{C} \\equiv \\mathrm{N} \\xrightarrow[\\text { mild condition }]{\\text { (i) } \\stackrel{+}{\\mathrm{H}} / \\mathrm{H}_2 \\mathrm{O}}$\n\n(B) $\\quad \\mathrm{R}-\\mathrm{MgX} \\xrightarrow[\\text { (ii) } \\mathrm{H}_3 \\mathrm{O}^{+}]{\\text {(i) } \\mathrm{CO}_2}$\n\n(C) $\\mathrm{R}-\\mathrm{C} \\equiv \\mathrm{N} \\xrightarrow[\\text { (ii) } \\mathrm{H}_3 \\mathrm{O}^{+}]{\\text {(i) } \\mathrm{SnCl}_2 / \\mathrm{HCl}}$\n\n(D) $\\quad \\mathrm{R} \\cdot \\mathrm{CH}_2 \\cdot \\mathrm{OH} \\xrightarrow{\\mathrm{PCC}}$\n\n(E) \n\nChoose the correct answer from the options given below :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9fr1hto/0a9782a3-670c-4a1c-b9e9-a8dbdc896175/dbd09bc0-1874-11f0-a7dd-51762233016a/file-jaoe38c1m9fr1htp.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1maf6cwj5/1b05d604-77c0-4874-a05d-818493c08cb9/30be5210-2bf0-11f0-a3da-bb2e3871eb5a/file-jaoe38c1maf6cwj6.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "A, B and E only",
         "B": "A and D only",
         "C": "B, C and E only",
         "D": "B and E only"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Consider the following reactions. From these reactions which reaction will give carboxylic acid as a major product ? \n(A) $\\quad \\mathrm{R}-\\mathrm{C} \\equiv \\mathrm{N} \\xrightarrow[\\text { mild condition }]{\\text { (i) } \\stackrel{+}{\\mathrm{H}} / \\mathrm{H}_2 \\mathrm{O}}$ \n(B) $\\quad \\mathrm{R}-\\mathrm{MgX} \\xrightarrow[\\text { (ii) } \\mathrm{H}_3 \\mathrm{O}^{+}]{\\text {(i) } \\mathrm{CO}_2}$ \n(C) $\\mathrm{R}-\\mathrm{C} \\equiv \\mathrm{N} \\xrightarrow[\\text { (ii) } \\mathrm{H}_3 \\mathrm{O}^{+}]{\\text {(i) } \\mathrm{SnCl}_2 / \\mathrm{HCl}}$ \n(D) $\\quad \\mathrm{R} \\cdot \\mathrm{CH}_2 \\cdot \\mathrm{OH} \\xrightarrow{\\mathrm{PCC}}$ \n(E)  \nChoose the correct answer from the options given below :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 15,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 15,
-      "question_text": "The nature of oxide $\\left(\\mathrm{TeO}_2\\right)$ and hydride $\\left(\\mathrm{TeH}_2\\right)$ formed by Te , respectively are :",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The nature of oxide $\\left(\\mathrm{TeO}_2\\right)$ and hydride $\\left(\\mathrm{TeH}_2\\right)$ formed by Te , respectively are :",
+      "question_images": [],
+      "option_texts": {
         "A": "Reducing and basic",
         "B": "Reducing and acidic",
         "C": "Oxidising and acidic",
         "D": "Oxidising and basic"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The nature of oxide $\\left(\\mathrm{TeO}_2\\right)$ and hydride $\\left(\\mathrm{TeH}_2\\right)$ formed by Te , respectively are :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 16,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 16,
-      "question_text": "' $x$ ' g of NaCl is added to water in a beaker with a lid. The temperature of the system is raised from $1^{\\circ} \\mathrm{C}$ to $25^{\\circ} \\mathrm{C}$. Which out of the following plots, is best suited for the change in the molarity $(\\mathrm{M})$ of the solution with respect to temperature ?\n\n[Consider the solubility of NaCl remains unchanged over the temperature range]",
       "subject": "Chemistry",
       "topic": "solutions",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "' $x$ ' g of NaCl is added to water in a beaker with a lid. The temperature of the system is raised from $1^{\\circ} \\mathrm{C}$ to $25^{\\circ} \\mathrm{C}$. Which out of the following plots, is best suited for the change in the molarity $(\\mathrm{M})$ of the solution with respect to temperature ?\n\n[Consider the solubility of NaCl remains unchanged over the temperature range]",
+      "question_images": [],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9fr4uhu/8d224cea-c1d8-4bea-90d4-509c3a6c3d24/3907d420-1875-11f0-a7dd-51762233016a/file-jaoe38c1m9fr4uhv.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9fr4ndw/97883051-3100-44e3-a078-e5d1fbe47d44/3389e240-1875-11f0-a7dd-51762233016a/file-jaoe38c1m9fr4ndx.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9fr5q33/340e1a62-ce1f-4a37-bb86-cf3a82be9e3e/516eedf0-1875-11f0-a7dd-51762233016a/file-jaoe38c1m9fr5q34.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9fr5il1/df9566ed-345b-42bb-b63f-8cd3d11d5781/4ba39f60-1875-11f0-a7dd-51762233016a/file-jaoe38c1m9fr5il2.png",
+          "description": ""
+        }
+      },
       "correct_answer": "D",
-      "question": "' $x$ ' g of NaCl is added to water in a beaker with a lid. The temperature of the system is raised from $1^{\\circ} \\mathrm{C}$ to $25^{\\circ} \\mathrm{C}$. Which out of the following plots, is best suited for the change in the molarity $(\\mathrm{M})$ of the solution with respect to temperature ? \n[Consider the solubility of NaCl remains unchanged over the temperature range]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 17,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 17,
-      "question_text": "The type of hybridization and the magnetic property of $\\left[\\mathrm{MnCl}_6\\right]^{3-}$ are,",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The type of hybridization and the magnetic property of $\\left[\\mathrm{MnCl}_6\\right]^{3-}$ are,",
+      "question_images": [],
+      "option_texts": {
         "A": "$s p^3 d^2$, paramagnetic with four unpaired electrons.",
         "B": "$d^2 s p^3$, paramagnetic with four unpaired electrons.",
         "C": "$\\mathrm{sp}^3 \\mathrm{~d}^2$, paramagnetic with two unpaired electrons.",
         "D": "$\\mathrm{d}^2 \\mathrm{sp}^3$, paramagnetic with two unpaired electrons."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The type of hybridization and the magnetic property of $\\left[\\mathrm{MnCl}_6\\right]^{3-}$ are,",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 18,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 18,
-      "question_text": "$$ \\text { Match List - I with List - II. } $$\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n\n\n  \n    List - I\n(Purification technique)\n\n    List - II\n(Mixture of organic compounds)\n\n  \n\n  \n    (A)\n    $$\n\\text { Distillation (simple) }\n$$\n\n    (I)\n    Diesel + Petrol\n\n\n  \n  \n    (B)\n    $$\n\\text { Fractional distillation }\n$$\n\n    (II)\n    Aniline + Water\n\n\n  \n  \n    (C)\n    $$\n\\text { Distillation under reduced pressure }\n$$\n\n    (III)\n    \nChloroform + Aniline\n\n\n\n  \n  \n    (D)\n    $$\n\\text { Steam distillation }\n$$\n    (IV)\n    \nGlycerol + Spent-lye\n  \n\n$$ \\text { Choose the correct answer from the options given below : } $$",
       "subject": "Chemistry",
       "topic": "practical-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "$$ \\text { Match List - I with List - II. } $$\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n\n\n  \n    List - I\n(Purification technique)\n\n    List - II\n(Mixture of organic compounds)\n\n  \n\n  \n    (A)\n    $$\n\\text { Distillation (simple) }\n$$\n\n    (I)\n    Diesel + Petrol\n\n\n  \n  \n    (B)\n    $$\n\\text { Fractional distillation }\n$$\n\n    (II)\n    Aniline + Water\n\n\n  \n  \n    (C)\n    $$\n\\text { Distillation under reduced pressure }\n$$\n\n    (III)\n    \nChloroform + Aniline\n\n\n\n  \n  \n    (D)\n    $$\n\\text { Steam distillation }\n$$\n    (IV)\n    \nGlycerol + Spent-lye\n  \n\n$$ \\text { Choose the correct answer from the options given below : } $$",
+      "question_images": [],
+      "option_texts": {
         "A": "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)",
         "B": "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)",
         "C": "(A)-(II), (B)-(IV), (C)-(I), (D)-(III)",
         "D": "(A)-(II), (B)-(III), (C)-(IV), (D)-(I)"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "$$ \\text { Match List - I with List - II. } $$ \n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n\n\n  \n    List - I(Purification technique)\n    List - II(Mixture of organic compounds)\n  \n\n  \n    (A)\n    $$\\text { Distillation (simple) }$$\n    (I)\n    Diesel + Petrol\n  \n  \n    (B)\n    $$\\text { Fractional distillation }$$\n    (II)\n    Aniline + Water\n  \n  \n    (C)\n    $$\\text { Distillation under reduced pressure }$$\n    (III)\n    Chloroform + Aniline\n  \n  \n    (D)\n    $$\\text { Steam distillation }$$\n    (IV)\n    Glycerol + Spent-lye\n  \n\n$$ \\text { Choose the correct answer from the options given below : } $$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 19,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 19,
-      "question_text": "The d-orbital electronic configuration of the complex among $\\left[\\mathrm{Co}(\\mathrm{en})_3\\right]^{3+},\\left[\\mathrm{CoF}_6\\right]^{3-}$, $\\left[\\mathrm{Mn}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_6\\right]^{2+}$ and $\\left[\\mathrm{Zn}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_6\\right]^{2+}$ that has the highest CFSE is :",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The d-orbital electronic configuration of the complex among $\\left[\\mathrm{Co}(\\mathrm{en})_3\\right]^{3+},\\left[\\mathrm{CoF}_6\\right]^{3-}$, $\\left[\\mathrm{Mn}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_6\\right]^{2+}$ and $\\left[\\mathrm{Zn}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_6\\right]^{2+}$ that has the highest CFSE is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$t_{2 g}{ }^6 e_g^0$",
         "B": "$t_{2 g}{ }^3 e_g^2$",
         "C": "$\\mathrm{t}_{2 \\mathrm{~g}}{ }^4 \\mathrm{e}_{\\mathrm{g}}{ }^2$",
         "D": "$t_{2 g}{ }^6 e_g^4$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The d-orbital electronic configuration of the complex among $\\left[\\mathrm{Co}(\\mathrm{en})_3\\right]^{3+},\\left[\\mathrm{CoF}_6\\right]^{3-}$, $\\left[\\mathrm{Mn}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_6\\right]^{2+}$ and $\\left[\\mathrm{Zn}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_6\\right]^{2+}$ that has the highest CFSE is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 20,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 20,
-      "question_text": "Consider the following chemical equilibrium of the gas phase reaction at a constant temperature : $\\mathrm{A}(\\mathrm{g}) \\rightleftharpoons \\mathrm{B}(\\mathrm{g})+\\mathrm{C}(\\mathrm{g})$\n\nIf $p$ being the total pressure, $K_p$ is the pressure equilibrium constant and $\\alpha$ is the degree of dissociation, then which of the following is true at equilibrium?",
       "subject": "Chemistry",
       "topic": "chemical-equilibrium",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider the following chemical equilibrium of the gas phase reaction at a constant temperature : $\\mathrm{A}(\\mathrm{g}) \\rightleftharpoons \\mathrm{B}(\\mathrm{g})+\\mathrm{C}(\\mathrm{g})$\n\nIf $p$ being the total pressure, $K_p$ is the pressure equilibrium constant and $\\alpha$ is the degree of dissociation, then which of the following is true at equilibrium?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1maf7zduo/1022d2ac-6ddb-43dd-8d67-3df06b4443b5/8b0d9e00-2bf6-11f0-9ba4-1b1b48e3ca3f/file-jaoe38c1maf7zdup.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "If $K_p$ value is extremely high compared to $p, \\alpha$ becomes much less than unity",
         "B": "When p increases $\\alpha$ increases",
         "C": "If p value is extremely high compared to $\\mathrm{K}_{\\mathrm{p}}, \\alpha \\approx 1$",
         "D": "When $p$ increases $\\alpha$ decreases"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Consider the following chemical equilibrium of the gas phase reaction at a constant temperature : $\\mathrm{A}(\\mathrm{g}) \\rightleftharpoons \\mathrm{B}(\\mathrm{g})+\\mathrm{C}(\\mathrm{g})$ \nIf $p$ being the total pressure, $K_p$ is the pressure equilibrium constant and $\\alpha$ is the degree of dissociation, then which of the following is true at equilibrium?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 21,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 21,
-      "question_text": "For the reaction $\\mathrm{A} \\rightarrow \\mathrm{B}$ the following graph was obtained. The time required (in seconds) for the concentration of A to reduce to $2.5 \\mathrm{~g} \\mathrm{~L}^{-1}$ (if the initial concentration of A was $50 \\mathrm{~g} \\mathrm{~L}^{-1}$ ) is $\\qquad$ . (Nearest integer)\n\nGiven : $\\log 2=0.3010$",
       "subject": "Chemistry",
       "topic": "chemical-kinetics-and-nuclear-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "For the reaction $\\mathrm{A} \\rightarrow \\mathrm{B}$ the following graph was obtained. The time required (in seconds) for the concentration of A to reduce to $2.5 \\mathrm{~g} \\mathrm{~L}^{-1}$ (if the initial concentration of A was $50 \\mathrm{~g} \\mathrm{~L}^{-1}$ ) is $\\qquad$ . (Nearest integer)\n\nGiven : $\\log 2=0.3010$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9fr722c/880e8481-90d4-4c04-aa7e-e9648bc56c78/767f2650-1875-11f0-a7dd-51762233016a/file-jaoe38c1m9fr722d.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "For the reaction $\\mathrm{A} \\rightarrow \\mathrm{B}$ the following graph was obtained. The time required (in seconds) for the concentration of A to reduce to $2.5 \\mathrm{~g} \\mathrm{~L}^{-1}$ (if the initial concentration of A was $50 \\mathrm{~g} \\mathrm{~L}^{-1}$ ) is $\\qquad$ . (Nearest integer) \nGiven : $\\log 2=0.3010$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 22,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 22,
-      "question_text": "When 1 g each of compounds AB and $\\mathrm{AB}_2$ are dissolved in 15 g of water separately, they increased the boiling point of water by 2.7 K and 1.5 K respectively. The atomic mass of A (in $a m u$ ) is____________ $\\times 10^{-1}$ (Nearest integer)\n\n(Given : Molal boiling point elevation constant is $0.5 \\mathrm{~K} \\mathrm{~kg} \\mathrm{~mol}^{-1}$ )",
       "subject": "Chemistry",
       "topic": "solutions",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "When 1 g each of compounds AB and $\\mathrm{AB}_2$ are dissolved in 15 g of water separately, they increased the boiling point of water by 2.7 K and 1.5 K respectively. The atomic mass of A (in $a m u$ ) is____________ $\\times 10^{-1}$ (Nearest integer)\n\n(Given : Molal boiling point elevation constant is $0.5 \\mathrm{~K} \\mathrm{~kg} \\mathrm{~mol}^{-1}$ )",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "When 1 g each of compounds AB and $\\mathrm{AB}_2$ are dissolved in 15 g of water separately, they increased the boiling point of water by 2.7 K and 1.5 K respectively. The atomic mass of A (in $a m u$ ) is____________ $\\times 10^{-1}$ (Nearest integer) \n(Given : Molal boiling point elevation constant is $0.5 \\mathrm{~K} \\mathrm{~kg} \\mathrm{~mol}^{-1}$ )",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 23,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 23,
-      "question_text": "The spin-only magnetic moment value of $\\mathrm{M}^{\\mathrm{n}+}$ ion formed among $\\mathrm{Ni}, \\mathrm{Zn}, \\mathrm{Mn}$ and Cu that has the least enthalpy of atomisation is_________ . (in nearest integer) Here n is equal to the number of diamagnetic complexes among $\\mathrm{K}_2\\left[\\mathrm{NiCl}_4\\right],\\left[\\mathrm{Zn}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_6\\right] \\mathrm{Cl}_2$, $\\mathrm{K}_3\\left[\\mathrm{Mn}(\\mathrm{CN})_6\\right]$ and $\\left[\\mathrm{Cu}\\left(\\mathrm{PPh}_3\\right)_3 \\mathrm{I}\\right]$",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The spin-only magnetic moment value of $\\mathrm{M}^{\\mathrm{n}+}$ ion formed among $\\mathrm{Ni}, \\mathrm{Zn}, \\mathrm{Mn}$ and Cu that has the least enthalpy of atomisation is_________ . (in nearest integer) Here n is equal to the number of diamagnetic complexes among $\\mathrm{K}_2\\left[\\mathrm{NiCl}_4\\right],\\left[\\mathrm{Zn}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_6\\right] \\mathrm{Cl}_2$, $\\mathrm{K}_3\\left[\\mathrm{Mn}(\\mathrm{CN})_6\\right]$ and $\\left[\\mathrm{Cu}\\left(\\mathrm{PPh}_3\\right)_3 \\mathrm{I}\\right]$",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The spin-only magnetic moment value of $\\mathrm{M}^{\\mathrm{n}+}$ ion formed among $\\mathrm{Ni}, \\mathrm{Zn}, \\mathrm{Mn}$ and Cu that has the least enthalpy of atomisation is_________ . (in nearest integer) Here n is equal to the number of diamagnetic complexes among $\\mathrm{K}_2\\left[\\mathrm{NiCl}_4\\right],\\left[\\mathrm{Zn}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_6\\right] \\mathrm{Cl}_2$, $\\mathrm{K}_3\\left[\\mathrm{Mn}(\\mathrm{CN})_6\\right]$ and $\\left[\\mathrm{Cu}\\left(\\mathrm{PPh}_3\\right)_3 \\mathrm{I}\\right]$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 24,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 24,
-      "question_text": "$0.2 \\%(\\mathrm{w} / \\mathrm{v})$ solution of NaOH is measured to have resistivity $870.0 \\mathrm{~m} \\Omega \\mathrm{~m}$. The molar conductivity of the solution will be__________$\\times 10^2 \\mathrm{mS} \\mathrm{dm}^2 \\mathrm{~mol}^{-1}$. (Nearest integer)",
       "subject": "Chemistry",
       "topic": "electrochemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "$0.2 \\%(\\mathrm{w} / \\mathrm{v})$ solution of NaOH is measured to have resistivity $870.0 \\mathrm{~m} \\Omega \\mathrm{~m}$. The molar conductivity of the solution will be__________$\\times 10^2 \\mathrm{mS} \\mathrm{dm}^2 \\mathrm{~mol}^{-1}$. (Nearest integer)",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "$0.2 \\%(\\mathrm{w} / \\mathrm{v})$ solution of NaOH is measured to have resistivity $870.0 \\mathrm{~m} \\Omega \\mathrm{~m}$. The molar conductivity of the solution will be__________$\\times 10^2 \\mathrm{mS} \\mathrm{dm}^2 \\mathrm{~mol}^{-1}$. (Nearest integer)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 25,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 25,
-      "question_text": "Consider the above sequence of reactions. 151 g of 2-bromopentane is made to react. Yield of major product P is $80 \\%$ whereas Q is $100 \\%$.\n\nMass of product Q obtained is________ g.\n\n(Given molar mass in $\\mathrm{g} \\mathrm{mol}^{-1} \\mathrm{H}: 1, \\mathrm{C}: 12, \\mathrm{O}: 16, \\mathrm{Br}: 80$ )",
       "subject": "Chemistry",
       "topic": "haloalkanes-and-haloarenes",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Consider the above sequence of reactions. 151 g of 2-bromopentane is made to react. Yield of major product P is $80 \\%$ whereas Q is $100 \\%$.\n\nMass of product Q obtained is________ g.\n\n(Given molar mass in $\\mathrm{g} \\mathrm{mol}^{-1} \\mathrm{H}: 1, \\mathrm{C}: 12, \\mathrm{O}: 16, \\mathrm{Br}: 80$ )",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9fr8abr/fa6763e7-2a91-4717-876d-bc542e741760/98afe570-1875-11f0-a7dd-51762233016a/file-jaoe38c1m9fr8abs.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mafbf2ec/5e258766-71f3-408a-b8a6-a68b65695f05/fa8a0a40-2c03-11f0-bf88-ff84dceebac9/file-jaoe38c1mafbf2ed.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Consider the above sequence of reactions. 151 g of 2-bromopentane is made to react. Yield of major product P is $80 \\%$ whereas Q is $100 \\%$. \nMass of product Q obtained is________ g. \n(Given molar mass in $\\mathrm{g} \\mathrm{mol}^{-1} \\mathrm{H}: 1, \\mathrm{C}: 12, \\mathrm{O}: 16, \\mathrm{Br}: 80$ )",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 26,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 26,
-      "question_text": "If the mean and the variance of $6,4, a, 8, b, 12,10,13$ are 9 and 9.25 respectively, then $a+b+a b$ is equal to :",
       "subject": "Mathematics",
       "topic": "statistics",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the mean and the variance of $6,4, a, 8, b, 12,10,13$ are 9 and 9.25 respectively, then $a+b+a b$ is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "103",
         "B": "106",
         "C": "100",
         "D": "105"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "If the mean and the variance of $6,4, a, 8, b, 12,10,13$ are 9 and 9.25 respectively, then $a+b+a b$ is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 27,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 27,
-      "question_text": "Let $f:[1, \\infty) \\rightarrow[2, \\infty)$ be a differentiable function. If $10 \\int_1^1 f(\\mathrm{t}) \\mathrm{dt}=5 x f(x)-x^5-9$ for all $x \\geqslant 1$, then the value of $f(3)$ is :",
       "subject": "Mathematics",
       "topic": "definite-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $f:[1, \\infty) \\rightarrow[2, \\infty)$ be a differentiable function. If $10 \\int_1^1 f(\\mathrm{t}) \\mathrm{dt}=5 x f(x)-x^5-9$ for all $x \\geqslant 1$, then the value of $f(3)$ is :",
+      "question_images": [],
+      "option_texts": {
         "A": "22",
         "B": "26",
         "C": "32",
         "D": "18"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let $f:[1, \\infty) \\rightarrow[2, \\infty)$ be a differentiable function. If $10 \\int_1^1 f(\\mathrm{t}) \\mathrm{dt}=5 x f(x)-x^5-9$ for all $x \\geqslant 1$, then the value of $f(3)$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 28,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 28,
-      "question_text": "The number of ways, in which the letters A, B, C, D, E can be placed in the 8 boxes of the figure below so that no row remains empty and at most one letter can be placed in a box, is :",
       "subject": "Mathematics",
       "topic": "permutations-and-combinations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The number of ways, in which the letters A, B, C, D, E can be placed in the 8 boxes of the figure below so that no row remains empty and at most one letter can be placed in a box, is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9fqcldi/0da0b840-26cf-40a4-ae72-98b877b46fcc/27544d60-1872-11f0-a7dd-51762233016a/file-jaoe38c1m9fqcldj.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mafcurcw/4dbe4cec-ca4f-4032-8eae-cf659f997b4d/98162000-2c09-11f0-bf88-ff84dceebac9/file-jaoe38c1mafcurcx.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "5880",
         "B": "840",
         "C": "960",
         "D": "5760"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The number of ways, in which the letters A, B, C, D, E can be placed in the 8 boxes of the figure below so that no row remains empty and at most one letter can be placed in a box, is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 29,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 29,
-      "question_text": "Let the point P of the focal chord PQ of the parabola $y^2=16 x$ be $(1,-4)$. If the focus of the parabola divides the chord $P Q$ in the ratio $m: n, \\operatorname{gcd}(m, n)=1$, then $m^2+n^2$ is equal to :",
       "subject": "Mathematics",
       "topic": "parabola",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let the point P of the focal chord PQ of the parabola $y^2=16 x$ be $(1,-4)$. If the focus of the parabola divides the chord $P Q$ in the ratio $m: n, \\operatorname{gcd}(m, n)=1$, then $m^2+n^2$ is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "17",
         "B": "37",
         "C": "10",
         "D": "26"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let the point P of the focal chord PQ of the parabola $y^2=16 x$ be $(1,-4)$. If the focus of the parabola divides the chord $P Q$ in the ratio $m: n, \\operatorname{gcd}(m, n)=1$, then $m^2+n^2$ is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 30,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 30,
-      "question_text": "If the system of equations\n\n$$ \\begin{aligned} & 2 x+\\lambda y+3 z=5 \\\\ & 3 x+2 y-z=7 \\\\ & 4 x+5 y+\\mu z=9 \\end{aligned} $$\n\nhas infinitely many solutions, then $\\left(\\lambda^2+\\mu^2\\right)$ is equal to :",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the system of equations\n\n$$ \\begin{aligned} & 2 x+\\lambda y+3 z=5 \\\\ & 3 x+2 y-z=7 \\\\ & 4 x+5 y+\\mu z=9 \\end{aligned} $$\n\nhas infinitely many solutions, then $\\left(\\lambda^2+\\mu^2\\right)$ is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "30",
         "B": "26",
         "C": "22",
         "D": "18"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "If the system of equations \n$$ \\begin{aligned} & 2 x+\\lambda y+3 z=5 \\\\ & 3 x+2 y-z=7 \\\\ & 4 x+5 y+\\mu z=9 \\end{aligned} $$ \nhas infinitely many solutions, then $\\left(\\lambda^2+\\mu^2\\right)$ is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 31,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 31,
-      "question_text": "Let $A$ be a $3 \\times 3$ real matrix such that $A^2(A-2 I)-4(A-I)=O$, where $I$ and $O$ are the identity and null matrices, respectively. If $A^5=\\alpha A^2+\\beta A+\\gamma I$, where $\\alpha, \\beta$, and $\\gamma$ are real constants, then $\\alpha+\\beta+\\gamma$ is equal to :",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $A$ be a $3 \\times 3$ real matrix such that $A^2(A-2 I)-4(A-I)=O$, where $I$ and $O$ are the identity and null matrices, respectively. If $A^5=\\alpha A^2+\\beta A+\\gamma I$, where $\\alpha, \\beta$, and $\\gamma$ are real constants, then $\\alpha+\\beta+\\gamma$ is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "76",
         "B": "12",
         "C": "4",
         "D": "20"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $A$ be a $3 \\times 3$ real matrix such that $A^2(A-2 I)-4(A-I)=O$, where $I$ and $O$ are the identity and null matrices, respectively. If $A^5=\\alpha A^2+\\beta A+\\gamma I$, where $\\alpha, \\beta$, and $\\gamma$ are real constants, then $\\alpha+\\beta+\\gamma$ is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 32,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 32,
-      "question_text": "$$If\\,\\mathop {\\lim }\\limits_{x \\to 0} {{\\cos (2x) + a\\cos (4x) - b} \\over {{x^4}}}is\\,finite,\\,then\\,(a + b)\\,is\\,equal\\,to:$$",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "$$If\\,\\mathop {\\lim }\\limits_{x \\to 0} {{\\cos (2x) + a\\cos (4x) - b} \\over {{x^4}}}is\\,finite,\\,then\\,(a + b)\\,is\\,equal\\,to:$$",
+      "question_images": [],
+      "option_texts": {
         "A": "0",
         "B": "$\\frac{3}{4}$",
         "C": "-1",
         "D": "$\\frac{1}{2}$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "$$If\\,\\mathop {\\lim }\\limits_{x \\to 0} {{\\cos (2x) + a\\cos (4x) - b} \\over {{x^4}}}is\\,finite,\\,then\\,(a + b)\\,is\\,equal\\,to:$$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 33,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 33,
-      "question_text": "If the image of the point $\\mathrm{P}(1,0,3)$ in the line joining the points $\\mathrm{A}(4,7,1)$ and $\\mathrm{B}(3,5,3)$ is $Q(\\alpha, \\beta, \\gamma)$, then $\\alpha+\\beta+\\gamma$ is equal to :",
       "subject": "Mathematics",
       "topic": "3d-geometry",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the image of the point $\\mathrm{P}(1,0,3)$ in the line joining the points $\\mathrm{A}(4,7,1)$ and $\\mathrm{B}(3,5,3)$ is $Q(\\alpha, \\beta, \\gamma)$, then $\\alpha+\\beta+\\gamma$ is equal to :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mafda6gm/7b7e6f1a-0082-4b92-af9a-a74a798fa332/44e3fd60-2c0b-11f0-bf88-ff84dceebac9/file-jaoe38c1mafda6gn.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$\\frac{46}{3}$",
         "B": "18",
         "C": "13",
         "D": "$\\frac{47}{3}$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "If the image of the point $\\mathrm{P}(1,0,3)$ in the line joining the points $\\mathrm{A}(4,7,1)$ and $\\mathrm{B}(3,5,3)$ is $Q(\\alpha, \\beta, \\gamma)$, then $\\alpha+\\beta+\\gamma$ is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 34,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 34,
-      "question_text": "If $\\theta \\epsilon\\left[-\\frac{7 \\pi}{6}, \\frac{4 \\pi}{3}\\right]$, then the number of solutions of $\\sqrt{3} \\operatorname{cosec}^2 \\theta-2(\\sqrt{3}-1) \\operatorname{cosec} \\theta-4=0$, is equal to :",
       "subject": "Mathematics",
       "topic": "trigonometric-functions-and-equations",
       "sub_topic": "trigonometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If $\\theta \\epsilon\\left[-\\frac{7 \\pi}{6}, \\frac{4 \\pi}{3}\\right]$, then the number of solutions of $\\sqrt{3} \\operatorname{cosec}^2 \\theta-2(\\sqrt{3}-1) \\operatorname{cosec} \\theta-4=0$, is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "7",
         "B": "10",
         "C": "6",
         "D": "8"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "If $\\theta \\epsilon\\left[-\\frac{7 \\pi}{6}, \\frac{4 \\pi}{3}\\right]$, then the number of solutions of $\\sqrt{3} \\operatorname{cosec}^2 \\theta-2(\\sqrt{3}-1) \\operatorname{cosec} \\theta-4=0$, is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 35,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 35,
-      "question_text": "Let $A=\\{1,2,3, \\ldots ., 100\\}$ and $R$ be a relation on $A$ such that $R=\\{(a, b): a=2 b+1\\}$. Let $\\left(a_1\\right.$, $\\left.a_2\\right),\\left(a_2, a_3\\right),\\left(a_3, a_4\\right), \\ldots .,\\left(a_k, a_{k+1}\\right)$ be a sequence of $k$ elements of $R$ such that the second entry of an ordered pair is equal to the first entry of the next ordered pair. Then the largest integer k , for which such a sequence exists, is equal to :",
       "subject": "Mathematics",
       "topic": "sets-and-relations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $A=\\{1,2,3, \\ldots ., 100\\}$ and $R$ be a relation on $A$ such that $R=\\{(a, b): a=2 b+1\\}$. Let $\\left(a_1\\right.$, $\\left.a_2\\right),\\left(a_2, a_3\\right),\\left(a_3, a_4\\right), \\ldots .,\\left(a_k, a_{k+1}\\right)$ be a sequence of $k$ elements of $R$ such that the second entry of an ordered pair is equal to the first entry of the next ordered pair. Then the largest integer k , for which such a sequence exists, is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "6",
         "B": "8",
         "C": "7",
         "D": "5"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Let $A=\\{1,2,3, \\ldots ., 100\\}$ and $R$ be a relation on $A$ such that $R=\\{(a, b): a=2 b+1\\}$. Let $\\left(a_1\\right.$, $\\left.a_2\\right),\\left(a_2, a_3\\right),\\left(a_3, a_4\\right), \\ldots .,\\left(a_k, a_{k+1}\\right)$ be a sequence of $k$ elements of $R$ such that the second entry of an ordered pair is equal to the first entry of the next ordered pair. Then the largest integer k , for which such a sequence exists, is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 36,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 36,
-      "question_text": "If the domain of the function $f(x)=\\frac{1}{\\sqrt{10+3 x-x^2}}+\\frac{1}{\\sqrt{x+|x|}}$ is $(a, b)$, then $(1+a)^2+b^2$ is equal to :",
       "subject": "Mathematics",
       "topic": "functions",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the domain of the function $f(x)=\\frac{1}{\\sqrt{10+3 x-x^2}}+\\frac{1}{\\sqrt{x+|x|}}$ is $(a, b)$, then $(1+a)^2+b^2$ is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "29",
         "B": "30",
         "C": "25",
         "D": "26"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "If the domain of the function $f(x)=\\frac{1}{\\sqrt{10+3 x-x^2}}+\\frac{1}{\\sqrt{x+|x|}}$ is $(a, b)$, then $(1+a)^2+b^2$ is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 37,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 37,
-      "question_text": "Let the area of the triangle formed by a straight line $\\mathrm{L}: x+\\mathrm{b} y+\\mathrm{c}=0$ with co-ordinate axes be 48 square units. If the perpendicular drawn from the origin to the line L makes an angle of $45^{\\circ}$ with the positive $x$-axis, then the value of $\\mathrm{b}^2+\\mathrm{c}^2$ is :",
       "subject": "Mathematics",
       "topic": "straight-lines-and-pair-of-straight-lines",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let the area of the triangle formed by a straight line $\\mathrm{L}: x+\\mathrm{b} y+\\mathrm{c}=0$ with co-ordinate axes be 48 square units. If the perpendicular drawn from the origin to the line L makes an angle of $45^{\\circ}$ with the positive $x$-axis, then the value of $\\mathrm{b}^2+\\mathrm{c}^2$ is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mafdqvlr/65184755-78d6-408f-ae25-fd636894a3a6/154250f0-2c0d-11f0-bf88-ff84dceebac9/file-jaoe38c1mafdqvls.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "90",
         "B": "83",
         "C": "93",
         "D": "97"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Let the area of the triangle formed by a straight line $\\mathrm{L}: x+\\mathrm{b} y+\\mathrm{c}=0$ with co-ordinate axes be 48 square units. If the perpendicular drawn from the origin to the line L makes an angle of $45^{\\circ}$ with the positive $x$-axis, then the value of $\\mathrm{b}^2+\\mathrm{c}^2$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 38,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 38,
-      "question_text": "The line $\\mathrm{L}_1$ is parallel to the vector $\\overrightarrow{\\mathrm{a}}=-3 \\hat{i}+2 \\hat{j}+4 \\hat{k}$ and passes through the point $(7,6,2)$ and the line $\\mathrm{L}_2$ is parallel to the vector $\\overrightarrow{\\mathrm{b}}=2 \\hat{i}+\\hat{j}+3 \\hat{k}$ and passes through the point $(5,3,4)$. The shortest distance between the lines $L_1$ and $L_2$ is :",
       "subject": "Mathematics",
       "topic": "3d-geometry",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The line $\\mathrm{L}_1$ is parallel to the vector $\\overrightarrow{\\mathrm{a}}=-3 \\hat{i}+2 \\hat{j}+4 \\hat{k}$ and passes through the point $(7,6,2)$ and the line $\\mathrm{L}_2$ is parallel to the vector $\\overrightarrow{\\mathrm{b}}=2 \\hat{i}+\\hat{j}+3 \\hat{k}$ and passes through the point $(5,3,4)$. The shortest distance between the lines $L_1$ and $L_2$ is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\frac{23}{\\sqrt{38}}$",
         "B": "$\\frac{21}{\\sqrt{38}}$",
         "C": "$\\frac{23}{\\sqrt{57}}$",
         "D": "$\\frac{21}{\\sqrt{57}}$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The line $\\mathrm{L}_1$ is parallel to the vector $\\overrightarrow{\\mathrm{a}}=-3 \\hat{i}+2 \\hat{j}+4 \\hat{k}$ and passes through the point $(7,6,2)$ and the line $\\mathrm{L}_2$ is parallel to the vector $\\overrightarrow{\\mathrm{b}}=2 \\hat{i}+\\hat{j}+3 \\hat{k}$ and passes through the point $(5,3,4)$. The shortest distance between the lines $L_1$ and $L_2$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 39,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 39,
-      "question_text": "The number of terms of an A.P. is even; the sum of all the odd terms is 24 , the sum of all the even terms is 30 and the last term exceeds the first by $\\frac{21}{2}$. Then the number of terms which are integers in the A.P. is :",
       "subject": "Mathematics",
       "topic": "sequences-and-series",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The number of terms of an A.P. is even; the sum of all the odd terms is 24 , the sum of all the even terms is 30 and the last term exceeds the first by $\\frac{21}{2}$. Then the number of terms which are integers in the A.P. is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mafdl8iu/b1222043-f030-4202-b68d-0c0abc7a27cb/78624060-2c0c-11f0-bf88-ff84dceebac9/file-jaoe38c1mafdl8iv.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "6",
         "B": "4",
         "C": "8",
         "D": "10"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The number of terms of an A.P. is even; the sum of all the odd terms is 24 , the sum of all the even terms is 30 and the last term exceeds the first by $\\frac{21}{2}$. Then the number of terms which are integers in the A.P. is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 40,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 40,
-      "question_text": "Let $(a, b)$ be the point of intersection of the curve $x^2=2 y$ and the straight line $y-2 x-6=0$ in the second quadrant. Then the integral $\\mathrm{I}=\\int_{\\mathrm{a}}^{\\mathrm{b}} \\frac{9 x^2}{1+5^x} \\mathrm{~d} x$ is equal to :",
       "subject": "Mathematics",
       "topic": "definite-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $(a, b)$ be the point of intersection of the curve $x^2=2 y$ and the straight line $y-2 x-6=0$ in the second quadrant. Then the integral $\\mathrm{I}=\\int_{\\mathrm{a}}^{\\mathrm{b}} \\frac{9 x^2}{1+5^x} \\mathrm{~d} x$ is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "27",
         "B": "18",
         "C": "24",
         "D": "21"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let $(a, b)$ be the point of intersection of the curve $x^2=2 y$ and the straight line $y-2 x-6=0$ in the second quadrant. Then the integral $\\mathrm{I}=\\int_{\\mathrm{a}}^{\\mathrm{b}} \\frac{9 x^2}{1+5^x} \\mathrm{~d} x$ is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 41,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 41,
-      "question_text": "If the length of the minor axis of an ellipse is equal to one fourth of the distance between the foci, then the eccentricity of the ellipse is :",
       "subject": "Mathematics",
       "topic": "ellipse",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the length of the minor axis of an ellipse is equal to one fourth of the distance between the foci, then the eccentricity of the ellipse is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\frac{3}{\\sqrt{19}}$",
         "B": "$\\frac{\\sqrt{3}}{16}$",
         "C": "$\\frac{4}{\\sqrt{17}}$",
         "D": "$\\frac{\\sqrt{5}}{7}$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "If the length of the minor axis of an ellipse is equal to one fourth of the distance between the foci, then the eccentricity of the ellipse is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 42,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 42,
-      "question_text": "$$If\\,\\sum\\limits_{r = 0}^{10} {({{{{10}^{r + 1}} - 1} \\over {{{10}^r}}}).{}^{11}{C_{r + 1}} = {{{}_\\alpha 11 - {{11}^{11}}} \\over {{{10}^{10}}}},\\,then\\,\\,\\alpha \\,\\,is\\,\\,equal\\,\\,to:} $$",
       "subject": "Mathematics",
       "topic": "binomial-theorem",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "$$If\\,\\sum\\limits_{r = 0}^{10} {({{{{10}^{r + 1}} - 1} \\over {{{10}^r}}}).{}^{11}{C_{r + 1}} = {{{}_\\alpha 11 - {{11}^{11}}} \\over {{{10}^{10}}}},\\,then\\,\\,\\alpha \\,\\,is\\,\\,equal\\,\\,to:} $$",
+      "question_images": [],
+      "option_texts": {
         "A": "11",
         "B": "20",
         "C": "24",
         "D": "15"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "$$If\\,\\sum\\limits_{r = 0}^{10} {({{{{10}^{r + 1}} - 1} \\over {{{10}^r}}}).{}^{11}{C_{r + 1}} = {{{}_\\alpha 11 - {{11}^{11}}} \\over {{{10}^{10}}}},\\,then\\,\\,\\alpha \\,\\,is\\,\\,equal\\,\\,to:} $$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 43,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 43,
-      "question_text": "$4 \\int_0^1\\left(\\frac{1}{\\sqrt{3+x^2}+\\sqrt{1+x^2}}\\right) d x-3 \\log _e(\\sqrt{3})$ is equal to :",
       "subject": "Mathematics",
       "topic": "definite-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "$4 \\int_0^1\\left(\\frac{1}{\\sqrt{3+x^2}+\\sqrt{1+x^2}}\\right) d x-3 \\log _e(\\sqrt{3})$ is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "$2-\\sqrt{2}-\\log _{\\mathrm{e}}(1+\\sqrt{2})$",
         "B": "$2+\\sqrt{2}+\\log _{\\mathrm{e}}(1+\\sqrt{2})$",
         "C": "$2+\\sqrt{2}-\\log _{\\mathrm{e}}(1+\\sqrt{2})$",
         "D": "$2-\\sqrt{2}+\\log _e(1+\\sqrt{2})$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "$4 \\int_0^1\\left(\\frac{1}{\\sqrt{3+x^2}+\\sqrt{1+x^2}}\\right) d x-3 \\log _e(\\sqrt{3})$ is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 44,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 44,
-      "question_text": "Let $\\overrightarrow{\\mathrm{a}}=2 \\hat{i}-3 \\hat{j}+\\hat{k}, \\quad \\overrightarrow{\\mathrm{~b}}=3 \\hat{i}+2 \\hat{j}+5 \\hat{k}$ and a vector $\\overrightarrow{\\mathrm{c}}$ be such that $(\\vec{a}-\\vec{c}) \\times \\vec{b}=-18 \\hat{i}-3 \\hat{j}+12 \\hat{k}$ and $\\vec{a} \\cdot \\vec{c}=3$. If $\\vec{b} \\times \\vec{c}=\\vec{d}$, then $|\\vec{a} \\cdot \\vec{d}|$ is equal to :",
       "subject": "Mathematics",
       "topic": "vector-algebra",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $\\overrightarrow{\\mathrm{a}}=2 \\hat{i}-3 \\hat{j}+\\hat{k}, \\quad \\overrightarrow{\\mathrm{~b}}=3 \\hat{i}+2 \\hat{j}+5 \\hat{k}$ and a vector $\\overrightarrow{\\mathrm{c}}$ be such that $(\\vec{a}-\\vec{c}) \\times \\vec{b}=-18 \\hat{i}-3 \\hat{j}+12 \\hat{k}$ and $\\vec{a} \\cdot \\vec{c}=3$. If $\\vec{b} \\times \\vec{c}=\\vec{d}$, then $|\\vec{a} \\cdot \\vec{d}|$ is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "15",
         "B": "18",
         "C": "12",
         "D": "9"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $\\overrightarrow{\\mathrm{a}}=2 \\hat{i}-3 \\hat{j}+\\hat{k}, \\quad \\overrightarrow{\\mathrm{~b}}=3 \\hat{i}+2 \\hat{j}+5 \\hat{k}$ and a vector $\\overrightarrow{\\mathrm{c}}$ be such that $(\\vec{a}-\\vec{c}) \\times \\vec{b}=-18 \\hat{i}-3 \\hat{j}+12 \\hat{k}$ and $\\vec{a} \\cdot \\vec{c}=3$. If $\\vec{b} \\times \\vec{c}=\\vec{d}$, then $|\\vec{a} \\cdot \\vec{d}|$ is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 45,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 45,
-      "question_text": "$$ \\text { Given three indentical bags each containing } 10 \\text { balls, whose colours are as follows : } $$\n\n$$ \\begin{array}{lccc}  & \\text { Red } & \\text { Blue } & \\text { Green } \\\\ \\text { Bag I } & 3 & 2 & 5 \\\\ \\text { Bag II } & 4 & 3 & 3 \\\\ \\text { Bag III } & 5 & 1 & 4 \\end{array} $$\n\nA person chooses a bag at random and takes out a ball. If the ball is Red, the probability that it is from bag I is p and if the ball is Green, the probability that it is from bag III is $q$, then the value of $\\left(\\frac{1}{p}+\\frac{1}{q}\\right)$ is:",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "$$ \\text { Given three indentical bags each containing } 10 \\text { balls, whose colours are as follows : } $$\n\n$$ \\begin{array}{lccc}  & \\text { Red } & \\text { Blue } & \\text { Green } \\\\ \\text { Bag I } & 3 & 2 & 5 \\\\ \\text { Bag II } & 4 & 3 & 3 \\\\ \\text { Bag III } & 5 & 1 & 4 \\end{array} $$\n\nA person chooses a bag at random and takes out a ball. If the ball is Red, the probability that it is from bag I is p and if the ball is Green, the probability that it is from bag III is $q$, then the value of $\\left(\\frac{1}{p}+\\frac{1}{q}\\right)$ is:",
+      "question_images": [],
+      "option_texts": {
         "A": "6",
         "B": "9",
         "C": "7",
         "D": "8"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "$$ \\text { Given three indentical bags each containing } 10 \\text { balls, whose colours are as follows : } $$ \n$$ \\begin{array}{lccc}  & \\text { Red } & \\text { Blue } & \\text { Green } \\\\ \\text { Bag I } & 3 & 2 & 5 \\\\ \\text { Bag II } & 4 & 3 & 3 \\\\ \\text { Bag III } & 5 & 1 & 4 \\end{array} $$ \nA person chooses a bag at random and takes out a ball. If the ball is Red, the probability that it is from bag I is p and if the ball is Green, the probability that it is from bag III is $q$, then the value of $\\left(\\frac{1}{p}+\\frac{1}{q}\\right)$ is:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 46,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 46,
-      "question_text": "$$ \\text { If } y=\\cos \\left(\\frac{\\pi}{3}+\\cos ^{-1} \\frac{x}{2}\\right) \\text {, then }(x-y)^2+3 y^2 \\text { is equal to } $$",
       "subject": "Mathematics",
       "topic": "inverse-trigonometric-functions",
       "sub_topic": "trigonometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "$$ \\text { If } y=\\cos \\left(\\frac{\\pi}{3}+\\cos ^{-1} \\frac{x}{2}\\right) \\text {, then }(x-y)^2+3 y^2 \\text { is equal to } $$",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "$$ \\text { If } y=\\cos \\left(\\frac{\\pi}{3}+\\cos ^{-1} \\frac{x}{2}\\right) \\text {, then }(x-y)^2+3 y^2 \\text { is equal to } $$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 47,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 47,
-      "question_text": "If the set of all $\\mathrm{a} \\in \\mathbf{R}-\\{1\\}$, for which the roots of the equation $(1-\\mathrm{a}) x^2+2(\\mathrm{a}-3) x+9=0$ are positive is $(-\\infty,-\\alpha] \\cup[\\beta, \\gamma)$, then $2 \\alpha+\\beta+\\gamma$ is equal to $\\qquad$ .",
       "subject": "Mathematics",
       "topic": "quadratic-equation-and-inequalities",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "If the set of all $\\mathrm{a} \\in \\mathbf{R}-\\{1\\}$, for which the roots of the equation $(1-\\mathrm{a}) x^2+2(\\mathrm{a}-3) x+9=0$ are positive is $(-\\infty,-\\alpha] \\cup[\\beta, \\gamma)$, then $2 \\alpha+\\beta+\\gamma$ is equal to $\\qquad$ .",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mafdv48j/295610a6-cf92-4eb7-be8d-1da5b5cddcc7/8b2a0830-2c0d-11f0-bf88-ff84dceebac9/file-jaoe38c1mafdv48k.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "If the set of all $\\mathrm{a} \\in \\mathbf{R}-\\{1\\}$, for which the roots of the equation $(1-\\mathrm{a}) x^2+2(\\mathrm{a}-3) x+9=0$ are positive is $(-\\infty,-\\alpha] \\cup[\\beta, \\gamma)$, then $2 \\alpha+\\beta+\\gamma$ is equal to $\\qquad$ .",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 48,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 48,
-      "question_text": "If the sum of the first 10 terms of the series $\\frac{4 \\cdot 1}{1+4 \\cdot 1^4}+\\frac{4 \\cdot 2}{1+4 \\cdot 2^4}+\\frac{4 \\cdot 3}{1+4 \\cdot 3^4}+\\ldots .$. is $\\frac{\\mathrm{m}}{\\mathrm{n}}$, where $\\operatorname{gcd}(\\mathrm{m}, \\mathrm{n})=1$, then $\\mathrm{m}+\\mathrm{n}$ is equal to _______________",
       "subject": "Mathematics",
       "topic": "sequences-and-series",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "If the sum of the first 10 terms of the series $\\frac{4 \\cdot 1}{1+4 \\cdot 1^4}+\\frac{4 \\cdot 2}{1+4 \\cdot 2^4}+\\frac{4 \\cdot 3}{1+4 \\cdot 3^4}+\\ldots .$. is $\\frac{\\mathrm{m}}{\\mathrm{n}}$, where $\\operatorname{gcd}(\\mathrm{m}, \\mathrm{n})=1$, then $\\mathrm{m}+\\mathrm{n}$ is equal to _______________",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "If the sum of the first 10 terms of the series $\\frac{4 \\cdot 1}{1+4 \\cdot 1^4}+\\frac{4 \\cdot 2}{1+4 \\cdot 2^4}+\\frac{4 \\cdot 3}{1+4 \\cdot 3^4}+\\ldots .$. is $\\frac{\\mathrm{m}}{\\mathrm{n}}$, where $\\operatorname{gcd}(\\mathrm{m}, \\mathrm{n})=1$, then $\\mathrm{m}+\\mathrm{n}$ is equal to _______________",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 49,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 49,
-      "question_text": "Let $y=y(x)$ be the solution of the differential equation $\\frac{\\mathrm{d} y}{\\mathrm{~d} x}+2 y \\sec ^2 x=2 \\sec ^2 x+3 \\tan x \\cdot \\sec ^2 x$ such that $y(0)=\\frac{5}{4}$. Then $12\\left(y\\left(\\frac{\\pi}{4}\\right)-\\mathrm{e}^{-2}\\right)$ is equal to_____________________",
       "subject": "Mathematics",
       "topic": "differential-equations",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $y=y(x)$ be the solution of the differential equation $\\frac{\\mathrm{d} y}{\\mathrm{~d} x}+2 y \\sec ^2 x=2 \\sec ^2 x+3 \\tan x \\cdot \\sec ^2 x$ such that $y(0)=\\frac{5}{4}$. Then $12\\left(y\\left(\\frac{\\pi}{4}\\right)-\\mathrm{e}^{-2}\\right)$ is equal to_____________________",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $y=y(x)$ be the solution of the differential equation $\\frac{\\mathrm{d} y}{\\mathrm{~d} x}+2 y \\sec ^2 x=2 \\sec ^2 x+3 \\tan x \\cdot \\sec ^2 x$ such that $y(0)=\\frac{5}{4}$. Then $12\\left(y\\left(\\frac{\\pi}{4}\\right)-\\mathrm{e}^{-2}\\right)$ is equal to_____________________",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 50,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 50,
-      "question_text": "Let $\\mathrm{A}(4,-2), \\mathrm{B}(1,1)$ and $\\mathrm{C}(9,-3)$ be the vertices of a triangle ABC . Then the maximum area of the parallelogram AFDE, formed with vertices D, E and F on the sides BC, CA and $A B$ of the triangle $A B C$ respectively, is___________",
       "subject": "Mathematics",
       "topic": "application-of-derivatives",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $\\mathrm{A}(4,-2), \\mathrm{B}(1,1)$ and $\\mathrm{C}(9,-3)$ be the vertices of a triangle ABC . Then the maximum area of the parallelogram AFDE, formed with vertices D, E and F on the sides BC, CA and $A B$ of the triangle $A B C$ respectively, is___________",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mafe506n/98f3356b-5b89-4f41-a73f-5d3b8b95d021/9e200bf0-2c0e-11f0-bf88-ff84dceebac9/file-jaoe38c1mafe506o.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $\\mathrm{A}(4,-2), \\mathrm{B}(1,1)$ and $\\mathrm{C}(9,-3)$ be the vertices of a triangle ABC . Then the maximum area of the parallelogram AFDE, formed with vertices D, E and F on the sides BC, CA and $A B$ of the triangle $A B C$ respectively, is___________",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 51,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 51,
-      "question_text": "The moment of inertia of a circular ring of mass M and diameter r about a tangential axis lying in the plane of the ring is :",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The moment of inertia of a circular ring of mass M and diameter r about a tangential axis lying in the plane of the ring is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\frac{3}{8} \\mathrm{Mr}^2$",
         "B": "$2 \\mathrm{Mr}^2$",
         "C": "$\\frac{1}{2} \\mathrm{Mr}^2$",
         "D": "$\\frac{3}{2} \\mathrm{Mr}^2$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The moment of inertia of a circular ring of mass M and diameter r about a tangential axis lying in the plane of the ring is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 52,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 52,
-      "question_text": "In a moving coil galvanometer, two moving coils $\\mathrm{M}_1$ and $\\mathrm{M}_2$ have the following particulars :\n\n$$ \\begin{aligned} & \\mathrm{R}_1=5 \\Omega, \\mathrm{~N}_1=15, \\mathrm{~A}_1=3.6 \\times 10^{-3} \\mathrm{~m}^2, \\mathrm{~B}_1=0.25 \\mathrm{~T} \\\\ & \\mathrm{R}_2=7 \\Omega, \\mathrm{~N}_2=21, \\mathrm{~A}_2=1.8 \\times 10^{-3} \\mathrm{~m}^2, \\mathrm{~B}_2=0.50 \\mathrm{~T} \\end{aligned} $$\n\nAssuming that torsional constant of the springs are same for both coils, what will be the ratio of voltage sensitivity of $M_1$ and $M_2$ ?",
       "subject": "Physics",
       "topic": "magnetics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In a moving coil galvanometer, two moving coils $\\mathrm{M}_1$ and $\\mathrm{M}_2$ have the following particulars :\n\n$$ \\begin{aligned} & \\mathrm{R}_1=5 \\Omega, \\mathrm{~N}_1=15, \\mathrm{~A}_1=3.6 \\times 10^{-3} \\mathrm{~m}^2, \\mathrm{~B}_1=0.25 \\mathrm{~T} \\\\ & \\mathrm{R}_2=7 \\Omega, \\mathrm{~N}_2=21, \\mathrm{~A}_2=1.8 \\times 10^{-3} \\mathrm{~m}^2, \\mathrm{~B}_2=0.50 \\mathrm{~T} \\end{aligned} $$\n\nAssuming that torsional constant of the springs are same for both coils, what will be the ratio of voltage sensitivity of $M_1$ and $M_2$ ?",
+      "question_images": [],
+      "option_texts": {
         "A": "$1: 1$",
         "B": "$1: 3$",
         "C": "$1: 2$",
         "D": "$1: 4$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "In a moving coil galvanometer, two moving coils $\\mathrm{M}_1$ and $\\mathrm{M}_2$ have the following particulars : \n$$ \\begin{aligned} & \\mathrm{R}_1=5 \\Omega, \\mathrm{~N}_1=15, \\mathrm{~A}_1=3.6 \\times 10^{-3} \\mathrm{~m}^2, \\mathrm{~B}_1=0.25 \\mathrm{~T} \\\\ & \\mathrm{R}_2=7 \\Omega, \\mathrm{~N}_2=21, \\mathrm{~A}_2=1.8 \\times 10^{-3} \\mathrm{~m}^2, \\mathrm{~B}_2=0.50 \\mathrm{~T} \\end{aligned} $$ \nAssuming that torsional constant of the springs are same for both coils, what will be the ratio of voltage sensitivity of $M_1$ and $M_2$ ?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 53,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 53,
-      "question_text": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R).\n\nAssertion (A) : Net dipole moment of a polar linear isotropic dielectric substance is not zero even in the absence of an external electric field.\n\nReason (R) : In absence of an external electric field, the different permanent dipoles of a polar dielectric substance are oriented in random directions.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below :",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R).\n\nAssertion (A) : Net dipole moment of a polar linear isotropic dielectric substance is not zero even in the absence of an external electric field.\n\nReason (R) : In absence of an external electric field, the different permanent dipoles of a polar dielectric substance are oriented in random directions.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below :",
+      "question_images": [],
+      "option_texts": {
         "A": "Both (A) and (R) are correct and (R) is the correct explanation of (A) 2.",
         "B": "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
         "C": "(A) is not correct but (R) is correct",
         "D": "(A) is correct but (R) is not correct"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). \nAssertion (A) : Net dipole moment of a polar linear isotropic dielectric substance is not zero even in the absence of an external electric field. \nReason (R) : In absence of an external electric field, the different permanent dipoles of a polar dielectric substance are oriented in random directions. \nIn the light of the above statements, choose the most appropriate answer from the options given below :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 54,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 54,
-      "question_text": "If $\\mu_0$ and $\\epsilon_0$ are the permeability and permittivity of free space, respectively, then the dimension of $\\left(\\frac{1}{\\mu_0 \\epsilon_0}\\right)$ is :",
       "subject": "Physics",
       "topic": "units-and-measurements",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If $\\mu_0$ and $\\epsilon_0$ are the permeability and permittivity of free space, respectively, then the dimension of $\\left(\\frac{1}{\\mu_0 \\epsilon_0}\\right)$ is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\mathrm{T}^2 / \\mathrm{L}$",
         "B": "$\\mathrm{L}^2 / \\mathrm{T}^2$",
         "C": "$\\mathrm{T}^2 / \\mathrm{L}^2$",
         "D": "$\\mathrm{L} / \\mathrm{T}^2$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "If $\\mu_0$ and $\\epsilon_0$ are the permeability and permittivity of free space, respectively, then the dimension of $\\left(\\frac{1}{\\mu_0 \\epsilon_0}\\right)$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 55,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 55,
-      "question_text": "A sinusoidal wave of wavelength 7.5 cm travels a distance of 1.2 cm along the $x$-direction in 0.3 sec . The crest P is at $x=0$ at $\\mathrm{t}=0 \\mathrm{sec}$ and maximum displacement of the wave is 2 cm . Which equation correctly represents this wave?",
       "subject": "Physics",
       "topic": "waves",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A sinusoidal wave of wavelength 7.5 cm travels a distance of 1.2 cm along the $x$-direction in 0.3 sec . The crest P is at $x=0$ at $\\mathrm{t}=0 \\mathrm{sec}$ and maximum displacement of the wave is 2 cm . Which equation correctly represents this wave?",
+      "question_images": [],
+      "option_texts": {
         "A": "$y=2 \\cos (0.83 x-3.35 t) \\mathrm{cm}$",
         "B": "$y=2 \\sin (0.83 x-3.5 \\mathrm{t}) \\mathrm{cm}$",
         "C": "$y=2 \\cos (0.13 x-0.5 t) \\mathrm{cm}$",
         "D": "$y=2 \\cos (3.35 x-0.83 \\mathrm{t}) \\mathrm{cm}$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A sinusoidal wave of wavelength 7.5 cm travels a distance of 1.2 cm along the $x$-direction in 0.3 sec . The crest P is at $x=0$ at $\\mathrm{t}=0 \\mathrm{sec}$ and maximum displacement of the wave is 2 cm . Which equation correctly represents this wave?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 56,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 56,
-      "question_text": "A solenoid having area A and length ' $l$ ' is filled with a material having relative permeability\n2. The magnetic energy stored in the solenoid is :",
       "subject": "Physics",
       "topic": "magnetics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A solenoid having area A and length ' $l$ ' is filled with a material having relative permeability\n2. The magnetic energy stored in the solenoid is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\frac{\\mathrm{B}^2 \\mathrm{~A} l}{4 \\mu_0}$",
         "B": "$\\frac{\\mathrm{B}^2 \\mathrm{~A} l}{2 \\mu_0}$",
         "C": "$\\frac{\\mathrm{B}^2 \\mathrm{~A} l}{\\mu_0}$",
         "D": "$\\mathrm{B}^2 \\mathrm{Al}$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A solenoid having area A and length ' $l$ ' is filled with a material having relative permeability\n2. The magnetic energy stored in the solenoid is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 57,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 57,
-      "question_text": "Two identical objects are placed in front of convex mirror and concave mirror having same radii of curvature of 12 cm , at same distance of 18 cm from the respective mirrors. The ratio of sizes of the images formed by convex mirror and by concave mirror is :",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two identical objects are placed in front of convex mirror and concave mirror having same radii of curvature of 12 cm , at same distance of 18 cm from the respective mirrors. The ratio of sizes of the images formed by convex mirror and by concave mirror is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mafc6v8p/46eff7e0-23f7-4719-be2c-f5abf4fb1b5f/ffaab990-2c06-11f0-bf88-ff84dceebac9/file-jaoe38c1mafc6v8q.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mafc7m4b/e102d259-8e68-475d-94e5-5ac2f004e102/146e1fc0-2c07-11f0-bf88-ff84dceebac9/file-jaoe38c1mafc7m4c.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "2",
         "B": "$1 / 2$",
         "C": "$1 / 3$",
         "D": "3"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Two identical objects are placed in front of convex mirror and concave mirror having same radii of curvature of 12 cm , at same distance of 18 cm from the respective mirrors. The ratio of sizes of the images formed by convex mirror and by concave mirror is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 58,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 58,
-      "question_text": "A sportsman runs around a circular track of radius $r$ such that he traverses the path $A B A B$. The distance travelled and displacement, respectively, are",
       "subject": "Physics",
       "topic": "circular-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A sportsman runs around a circular track of radius $r$ such that he traverses the path $A B A B$. The distance travelled and displacement, respectively, are",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9fqg1fw/179171f9-902c-40e7-aeef-d7ba24201eff/872b0fd0-1872-11f0-a7dd-51762233016a/file-jaoe38c1m9fqg1fx.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$\\pi r, 3 r$",
         "B": "$2 \\mathrm{r}, 3 \\pi \\mathrm{r}$",
         "C": "$3 \\pi \\mathrm{r}, 2 \\mathrm{r}$",
         "D": "$3 \\pi r, \\pi r$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A sportsman runs around a circular track of radius $r$ such that he traverses the path $A B A B$. The distance travelled and displacement, respectively, are",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 59,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 59,
-      "question_text": "$$ \\text { In the digital circuit shown in the figure, for the given inputs the } P \\text { and } Q \\text { values are : } $$",
       "subject": "Physics",
       "topic": "electronic-devices",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "$$ \\text { In the digital circuit shown in the figure, for the given inputs the } P \\text { and } Q \\text { values are : } $$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9fqhkue/757f5352-76d6-4a71-a245-6303aa8329a0/b1f70660-1872-11f0-a7dd-51762233016a/file-jaoe38c1m9fqhkuf.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mafc5a33/abffa186-85ec-493b-865a-1940eb753914/d383edf0-2c06-11f0-bf88-ff84dceebac9/file-jaoe38c1mafc5a34.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$P=0, Q=1$",
         "B": "$P=1, Q=0$",
         "C": "$\\mathrm{P}=0, \\mathrm{Q}=0$",
         "D": "$P=1, Q=1$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "$$ \\text { In the digital circuit shown in the figure, for the given inputs the } P \\text { and } Q \\text { values are : } $$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 60,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 60,
-      "question_text": "An electron with mass ' m ' with an initial velocity $(\\mathrm{t}=0) \\overrightarrow{\\mathrm{v}}=\\mathrm{v}_0 \\hat{i}\\left(\\mathrm{v}_0>0\\right)$ enters a magnetic field $\\overrightarrow{\\mathrm{B}}=\\mathrm{B}_0 \\hat{j}$. If the initial de-Broglie wavelength at $\\mathrm{t}=0$ is $\\lambda_0$ then its value after time ' t ' would be :",
       "subject": "Physics",
       "topic": "dual-nature-of-radiation",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An electron with mass ' m ' with an initial velocity $(\\mathrm{t}=0) \\overrightarrow{\\mathrm{v}}=\\mathrm{v}_0 \\hat{i}\\left(\\mathrm{v}_0>0\\right)$ enters a magnetic field $\\overrightarrow{\\mathrm{B}}=\\mathrm{B}_0 \\hat{j}$. If the initial de-Broglie wavelength at $\\mathrm{t}=0$ is $\\lambda_0$ then its value after time ' t ' would be :",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\frac{\\lambda_0}{\\sqrt{1-\\frac{\\mathrm{e}^2 \\mathrm{~B}_0^2 \\mathrm{t}^2}{\\mathrm{~m}^2}}}$",
         "B": "$\\lambda_0$",
         "C": "$\\lambda_0 \\sqrt{1+\\frac{\\mathrm{e}^2 \\mathrm{~B}_0^2 \\mathrm{t}^2}{\\mathrm{~m}^2}}$",
         "D": "$\\frac{\\lambda_0}{\\sqrt{1+\\frac{\\mathrm{e}^2 \\mathrm{~B}_0^2 \\mathrm{t}^2}{\\mathrm{~m}^2}}}$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "An electron with mass ' m ' with an initial velocity $(\\mathrm{t}=0) \\overrightarrow{\\mathrm{v}}=\\mathrm{v}_0 \\hat{i}\\left(\\mathrm{v}_0>0\\right)$ enters a magnetic field $\\overrightarrow{\\mathrm{B}}=\\mathrm{B}_0 \\hat{j}$. If the initial de-Broglie wavelength at $\\mathrm{t}=0$ is $\\lambda_0$ then its value after time ' t ' would be :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 61,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 61,
-      "question_text": "A bi-convex lens has radius of curvature of both the surfaces same as $1 / 6 \\mathrm{~cm}$. If this lens is required to be replaced by another convex lens having different radii of curvatures on both sides $\\left(R_1 \\neq R_2\\right)$, without any change in lens power then possible combination of $R_1$ and $R_2$ is :",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A bi-convex lens has radius of curvature of both the surfaces same as $1 / 6 \\mathrm{~cm}$. If this lens is required to be replaced by another convex lens having different radii of curvatures on both sides $\\left(R_1 \\neq R_2\\right)$, without any change in lens power then possible combination of $R_1$ and $R_2$ is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\frac{1}{3} \\mathrm{~cm}$ and $\\frac{1}{7} \\mathrm{~cm}$",
         "B": "$\\frac{1}{5} \\mathrm{~cm}$ and $\\frac{1}{7} \\mathrm{~cm}$",
         "C": "$\\frac{1}{3} \\mathrm{~cm}$ and $\\frac{1}{3} \\mathrm{~cm}$",
         "D": "$\\frac{1}{6} \\mathrm{~cm}$ and $\\frac{1}{9} \\mathrm{~cm}$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A bi-convex lens has radius of curvature of both the surfaces same as $1 / 6 \\mathrm{~cm}$. If this lens is required to be replaced by another convex lens having different radii of curvatures on both sides $\\left(R_1 \\neq R_2\\right)$, without any change in lens power then possible combination of $R_1$ and $R_2$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 62,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 62,
-      "question_text": "Two large plane parallel conducting plates are kept 10 cm apart as shown in figure. The potential difference between them is V . The potential difference between the points A and $B$ (shown in the figure) is :",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two large plane parallel conducting plates are kept 10 cm apart as shown in figure. The potential difference between them is V . The potential difference between the points A and $B$ (shown in the figure) is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9fqin4y/3ae22036-108d-496f-9436-5db4719cb4cf/cf8ba820-1872-11f0-a7dd-51762233016a/file-jaoe38c1m9fqin4z.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mafbxcz9/d7a77537-e6b7-4876-a2e8-8492909ac39b/f7470250-2c05-11f0-bf88-ff84dceebac9/file-jaoe38c1mafbxcza.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "1 V",
         "B": "$\\frac{1}{4} \\mathrm{~V}$",
         "C": "$\\frac{3}{4} \\mathrm{~V}$",
         "D": "$\\frac{2}{5} \\mathrm{~V}$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Two large plane parallel conducting plates are kept 10 cm apart as shown in figure. The potential difference between them is V . The potential difference between the points A and $B$ (shown in the figure) is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 63,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 63,
-      "question_text": "Two water drops each of radius ' $r$ ' coalesce to form a bigger drop. If ' $T$ ' is the surface tension, the surface energy released in this process is :",
       "subject": "Physics",
       "topic": "properties-of-matter",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two water drops each of radius ' $r$ ' coalesce to form a bigger drop. If ' $T$ ' is the surface tension, the surface energy released in this process is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$4 \\pi \\mathrm{r}^2 \\mathrm{~T}\\left[2-2^{1 / 3}\\right]$",
         "B": "$4 \\pi \\mathrm{r}^2 \\mathrm{~T}[1+\\sqrt{2}]$",
         "C": "$4 \\pi \\mathrm{r}^2 \\mathrm{~T}\\left[2-2^{2 / 3}\\right]$",
         "D": "$4 \\pi \\mathrm{r}^2 \\mathrm{~T}[\\sqrt{2}-1]$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Two water drops each of radius ' $r$ ' coalesce to form a bigger drop. If ' $T$ ' is the surface tension, the surface energy released in this process is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 64,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 64,
-      "question_text": "Energy released when two deuterons $\\left({ }_1 \\mathrm{H}^2\\right)$ fuse to form a helium nucleus $\\left({ }_2 \\mathrm{He}^4\\right)$ is :\n(Given : Binding energy per nucleon of ${ }_1 \\mathrm{H}^2=1.1 \\mathrm{MeV}$ and binding energy per nucleon of ${ }_2 \\mathrm{He}^4=7.0 \\mathrm{MeV}$ )",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Energy released when two deuterons $\\left({ }_1 \\mathrm{H}^2\\right)$ fuse to form a helium nucleus $\\left({ }_2 \\mathrm{He}^4\\right)$ is :\n(Given : Binding energy per nucleon of ${ }_1 \\mathrm{H}^2=1.1 \\mathrm{MeV}$ and binding energy per nucleon of ${ }_2 \\mathrm{He}^4=7.0 \\mathrm{MeV}$ )",
+      "question_images": [],
+      "option_texts": {
         "A": "26.8 MeV",
         "B": "8.1 MeV",
         "C": "23.6 MeV",
         "D": "5.9 MeV"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Energy released when two deuterons $\\left({ }_1 \\mathrm{H}^2\\right)$ fuse to form a helium nucleus $\\left({ }_2 \\mathrm{He}^4\\right)$ is :\n(Given : Binding energy per nucleon of ${ }_1 \\mathrm{H}^2=1.1 \\mathrm{MeV}$ and binding energy per nucleon of ${ }_2 \\mathrm{He}^4=7.0 \\mathrm{MeV}$ )",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 65,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 65,
-      "question_text": "$$\n\\text { Match List - I with List - II. }\n$$\n\n$$ \\begin{array}{lll}  & \\text { List - I } & {List - II }\\\\ \\text { } \\\\ \\text { (A) } & \\text { Heat capacity of body } & \\text { (I) } \\mathrm{J} \\mathrm{~kg}^{-1} \\\\ \\text { (B) } & \\text { Specific heat capacity of body } & \\text { (II) } \\mathrm{J} \\mathrm{~K}^{-1} \\\\ \\text { (C) } & \\text { Latent heat } & \\text { (III) } \\mathrm{J} \\mathrm{~kg}^{-1} \\mathrm{~K}^{-1} \\\\ \\text { (D) } & \\text { Thermal conductivity } & \\text { (IV) } \\mathrm{J} \\mathrm{~m}^{-1} \\mathrm{~K}^{-1} \\mathrm{~s}^{-1} \\end{array} $$\n\n$$\n\\text { Choose the correct answer from the options given below : }\n$$",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "$$\n\\text { Match List - I with List - II. }\n$$\n\n$$ \\begin{array}{lll}  & \\text { List - I } & {List - II }\\\\ \\text { } \\\\ \\text { (A) } & \\text { Heat capacity of body } & \\text { (I) } \\mathrm{J} \\mathrm{~kg}^{-1} \\\\ \\text { (B) } & \\text { Specific heat capacity of body } & \\text { (II) } \\mathrm{J} \\mathrm{~K}^{-1} \\\\ \\text { (C) } & \\text { Latent heat } & \\text { (III) } \\mathrm{J} \\mathrm{~kg}^{-1} \\mathrm{~K}^{-1} \\\\ \\text { (D) } & \\text { Thermal conductivity } & \\text { (IV) } \\mathrm{J} \\mathrm{~m}^{-1} \\mathrm{~K}^{-1} \\mathrm{~s}^{-1} \\end{array} $$\n\n$$\n\\text { Choose the correct answer from the options given below : }\n$$",
+      "question_images": [],
+      "option_texts": {
         "A": "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
         "B": "(A)-(III), (B)-(I), (C)-(II), (D)-(IV)",
         "C": "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
         "D": "(A)-(II), (B)-(III), (C)-(I), (D)-(IV)"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "$$\n\\text { Match List - I with List - II. }\n$$\n\n$$ \\begin{array}{lll}  & \\text { List - I } & {List - II }\\\\ \\text { } \\\\ \\text { (A) } & \\text { Heat capacity of body } & \\text { (I) } \\mathrm{J} \\mathrm{~kg}^{-1} \\\\ \\text { (B) } & \\text { Specific heat capacity of body } & \\text { (II) } \\mathrm{J} \\mathrm{~K}^{-1} \\\\ \\text { (C) } & \\text { Latent heat } & \\text { (III) } \\mathrm{J} \\mathrm{~kg}^{-1} \\mathrm{~K}^{-1} \\\\ \\text { (D) } & \\text { Thermal conductivity } & \\text { (IV) } \\mathrm{J} \\mathrm{~m}^{-1} \\mathrm{~K}^{-1} \\mathrm{~s}^{-1} \\end{array} $$ \n$$\n\\text { Choose the correct answer from the options given below : }\n$$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 66,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 66,
-      "question_text": "Consider a circular loop that is uniformly charged and has a radius $\\mathrm{a} \\sqrt{2}$. Find the position along the positive $z$-axis of the cartesian coordinate system where the electric field is maximum if the ring was assumed to be placed in $x y$ plane at the origin :",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider a circular loop that is uniformly charged and has a radius $\\mathrm{a} \\sqrt{2}$. Find the position along the positive $z$-axis of the cartesian coordinate system where the electric field is maximum if the ring was assumed to be placed in $x y$ plane at the origin :",
+      "question_images": [],
+      "option_texts": {
         "A": "a",
         "B": "$a / 2$",
         "C": "0",
         "D": "$$ a / \\sqrt{2} $$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Consider a circular loop that is uniformly charged and has a radius $\\mathrm{a} \\sqrt{2}$. Find the position along the positive $z$-axis of the cartesian coordinate system where the electric field is maximum if the ring was assumed to be placed in $x y$ plane at the origin :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 67,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 67,
-      "question_text": "A body of mass 1 kg is suspended with the help of two strings making angles as shown in figure. Magnitudes of tensions $\\mathrm{T}_1$ and $\\mathrm{T}_2$, respectively, are (in N ) :\n\n(Take acceleration due to gravity $10 \\mathrm{~m} / \\mathrm{s}^2$ )",
       "subject": "Physics",
       "topic": "laws-of-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A body of mass 1 kg is suspended with the help of two strings making angles as shown in figure. Magnitudes of tensions $\\mathrm{T}_1$ and $\\mathrm{T}_2$, respectively, are (in N ) :\n\n(Take acceleration due to gravity $10 \\mathrm{~m} / \\mathrm{s}^2$ )",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9fqkdow/a31a17be-ed1e-4992-a314-c7755cb4db8d/ffddf500-1872-11f0-a7dd-51762233016a/file-jaoe38c1m9fqkdox.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mafca0qz/8e79ff76-68f6-4d9f-b261-9da8fb7fa9b1/575978c0-2c07-11f0-bf88-ff84dceebac9/file-jaoe38c1mafca0r0.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$5 \\sqrt{3}, 5$",
         "B": "$5 \\sqrt{3}, 5 \\sqrt{3}$",
         "C": "5,5",
         "D": "$5,5 \\sqrt{3}$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A body of mass 1 kg is suspended with the help of two strings making angles as shown in figure. Magnitudes of tensions $\\mathrm{T}_1$ and $\\mathrm{T}_2$, respectively, are (in N ) : \n(Take acceleration due to gravity $10 \\mathrm{~m} / \\mathrm{s}^2$ )",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 68,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 68,
-      "question_text": "Identify the characteristics of an adiabatic process in a monoatomic gas.\n(A) Internal energy is constant.\n(B) Work done in the process is equal to the change in internal energy.\n(C) The product of temperature and volume is a constant.\n(D) The product of pressure and volume is a constant.\n(E) The work done to change the temperature from $\\mathrm{T}_1$ to $\\mathrm{T}_2$ is proportional to $\\left(\\mathrm{T}_2-\\mathrm{T}_1\\right)$.\n\nChoose the correct answer from the options given below :",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Identify the characteristics of an adiabatic process in a monoatomic gas.\n(A) Internal energy is constant.\n(B) Work done in the process is equal to the change in internal energy.\n(C) The product of temperature and volume is a constant.\n(D) The product of pressure and volume is a constant.\n(E) The work done to change the temperature from $\\mathrm{T}_1$ to $\\mathrm{T}_2$ is proportional to $\\left(\\mathrm{T}_2-\\mathrm{T}_1\\right)$.\n\nChoose the correct answer from the options given below :",
+      "question_images": [],
+      "option_texts": {
         "A": "(B), (D) only",
         "B": "(B), (E) only",
         "C": "(A), (C), (E) only",
         "D": "(A), (C), (D) only"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Identify the characteristics of an adiabatic process in a monoatomic gas.\n(A) Internal energy is constant.\n(B) Work done in the process is equal to the change in internal energy.\n(C) The product of temperature and volume is a constant.\n(D) The product of pressure and volume is a constant.\n(E) The work done to change the temperature from $\\mathrm{T}_1$ to $\\mathrm{T}_2$ is proportional to $\\left(\\mathrm{T}_2-\\mathrm{T}_1\\right)$.\n\nChoose the correct answer from the options given below :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 69,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 69,
-      "question_text": "Given a charge q , current I and permeability of vacuum $\\mu_{\\mathrm{o}^*}$. Which of the following quantity has the dimension of momentum ?",
       "subject": "Physics",
       "topic": "units-and-measurements",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Given a charge q , current I and permeability of vacuum $\\mu_{\\mathrm{o}^*}$. Which of the following quantity has the dimension of momentum ?",
+      "question_images": [],
+      "option_texts": {
         "A": "${ }$ $q I / \\mu_o$",
         "B": "$q^2 \\mu_o I$",
         "C": "$q \\mu_0 / I$",
         "D": "$\\mathrm{q} \\mu_{\\mathrm{o}} \\mathrm{I}$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Given a charge q , current I and permeability of vacuum $\\mu_{\\mathrm{o}^*}$. Which of the following quantity has the dimension of momentum ?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 70,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 70,
-      "question_text": "Assuming the validity of Bohr's atomic model for hydrogen like ions the radius of $\\mathrm{Li}^{++}$ ion in its ground state is given by $\\frac{1}{X} a_0$, where $X=$ __________ (Where $\\mathrm{a}_0$ is the first Bohr's radius.)",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Assuming the validity of Bohr's atomic model for hydrogen like ions the radius of $\\mathrm{Li}^{++}$ ion in its ground state is given by $\\frac{1}{X} a_0$, where $X=$ __________ (Where $\\mathrm{a}_0$ is the first Bohr's radius.)",
+      "question_images": [],
+      "option_texts": {
         "A": "2",
         "B": "9",
         "C": "1",
         "D": "3"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Assuming the validity of Bohr's atomic model for hydrogen like ions the radius of $\\mathrm{Li}^{++}$ ion in its ground state is given by $\\frac{1}{X} a_0$, where $X=$ __________ (Where $\\mathrm{a}_0$ is the first Bohr's radius.)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 71,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 71,
-      "question_text": "A ray of light suffers minimum deviation when incident on a prism having angle of the prism equal to $60^{\\circ}$. The refractive index of the prism material is $\\sqrt{2}$. The angle of incidence (in degrees) is__________",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A ray of light suffers minimum deviation when incident on a prism having angle of the prism equal to $60^{\\circ}$. The refractive index of the prism material is $\\sqrt{2}$. The angle of incidence (in degrees) is__________",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A ray of light suffers minimum deviation when incident on a prism having angle of the prism equal to $60^{\\circ}$. The refractive index of the prism material is $\\sqrt{2}$. The angle of incidence (in degrees) is__________",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 72,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 72,
-      "question_text": "The length of a light string is 1.4 m when the tension on it is 5 N . If the tension increases to 7 N , the length of the string is 1.56 m . The original length of the string is__________m.",
       "subject": "Physics",
       "topic": "properties-of-matter",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The length of a light string is 1.4 m when the tension on it is 5 N . If the tension increases to 7 N , the length of the string is 1.56 m . The original length of the string is__________m.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The length of a light string is 1.4 m when the tension on it is 5 N . If the tension increases to 7 N , the length of the string is 1.56 m . The original length of the string is__________m.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 73,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 73,
-      "question_text": "A wheel of radius 0.2 m rotates freely about its center when a string that is wrapped over its rim is pulled by force of 10 N as shown in figure. The established torque produces an angular acceleration of $2 \\mathrm{rad} / \\mathrm{s}^2$. Moment of intertia of the wheel is___________ $\\mathrm{kg} \\mathrm{}\\,\\, \\mathrm{m}^2$. (Acceleration due to gravity $=10 \\mathrm{~m} / \\mathrm{s}^2$ )",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A wheel of radius 0.2 m rotates freely about its center when a string that is wrapped over its rim is pulled by force of 10 N as shown in figure. The established torque produces an angular acceleration of $2 \\mathrm{rad} / \\mathrm{s}^2$. Moment of intertia of the wheel is___________ $\\mathrm{kg} \\mathrm{}\\,\\, \\mathrm{m}^2$. (Acceleration due to gravity $=10 \\mathrm{~m} / \\mathrm{s}^2$ )",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9fqm36z/4f35a49d-a26b-4299-aaaa-d39ea837cc71/2f6047b0-1873-11f0-a7dd-51762233016a/file-jaoe38c1m9fqm370.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1mafce655/56763c93-3edd-4dbb-b8e6-1cf749d8c591/cac07890-2c07-11f0-bf88-ff84dceebac9/file-jaoe38c1mafce656.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A wheel of radius 0.2 m rotates freely about its center when a string that is wrapped over its rim is pulled by force of 10 N as shown in figure. The established torque produces an angular acceleration of $2 \\mathrm{rad} / \\mathrm{s}^2$. Moment of intertia of the wheel is___________ $\\mathrm{kg} \\mathrm{}\\,\\, \\mathrm{m}^2$. (Acceleration due to gravity $=10 \\mathrm{~m} / \\mathrm{s}^2$ )",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 74,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 74,
-      "question_text": "The internal energy of air in $4 \\mathrm{~m} \\times 4 \\mathrm{~m} \\times 3 \\mathrm{~m}$ sized room at 1 atmospheric pressure will be___________________$\\times 10^6 \\mathrm{~J}$\n\n(Consider air as diatomic molecule)",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The internal energy of air in $4 \\mathrm{~m} \\times 4 \\mathrm{~m} \\times 3 \\mathrm{~m}$ sized room at 1 atmospheric pressure will be___________________$\\times 10^6 \\mathrm{~J}$\n\n(Consider air as diatomic molecule)",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The internal energy of air in $4 \\mathrm{~m} \\times 4 \\mathrm{~m} \\times 3 \\mathrm{~m}$ sized room at 1 atmospheric pressure will be___________________$\\times 10^6 \\mathrm{~J}$ \n(Consider air as diatomic molecule)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 75,
       "year": 2025,
       "exam_type": "JEE Main",
       "shift": 2,
-      "question_number": 75,
-      "question_text": "A satellite of mass 1000 kg is launched to revolve around the earth in an orbit at a height of 270 km from the earth's surface. Kinetic energy of the satellite in this orbit is____________ $\\times 10^{10} \\mathrm{~J}$.\n\n(Mass of earth $=6 \\times 10^{24} \\mathrm{~kg}$, Radius of earth $=6.4 \\times 10^6 \\mathrm{~m}$, Gravitational constant $=6.67 \\times 10^{-11} \\mathrm{Nm}^2 \\mathrm{~kg}^{-2}$ )",
       "subject": "Physics",
       "topic": "gravitation",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A satellite of mass 1000 kg is launched to revolve around the earth in an orbit at a height of 270 km from the earth's surface. Kinetic energy of the satellite in this orbit is____________ $\\times 10^{10} \\mathrm{~J}$.\n\n(Mass of earth $=6 \\times 10^{24} \\mathrm{~kg}$, Radius of earth $=6.4 \\times 10^6 \\mathrm{~m}$, Gravitational constant $=6.67 \\times 10^{-11} \\mathrm{Nm}^2 \\mathrm{~kg}^{-2}$ )",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A satellite of mass 1000 kg is launched to revolve around the earth in an orbit at a height of 270 km from the earth's surface. Kinetic energy of the satellite in this orbit is____________ $\\times 10^{10} \\mathrm{~J}$. \n(Mass of earth $=6 \\times 10^{24} \\mathrm{~kg}$, Radius of earth $=6.4 \\times 10^6 \\mathrm{~m}$, Gravitational constant $=6.67 \\times 10^{-11} \\mathrm{Nm}^2 \\mathrm{~kg}^{-2}$ )",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     }
   ]
 }

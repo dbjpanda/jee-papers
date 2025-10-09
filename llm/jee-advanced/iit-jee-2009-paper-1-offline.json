@@ -8,1444 +8,1635 @@
   },
   "questions": [
     {
+      "question_number": 1,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 1,
-      "question_text": "The compound(s) formed upon combustion of sodium metal in excess air is (are)",
       "subject": "Chemistry",
       "topic": "s-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The compound(s) formed upon combustion of sodium metal in excess air is (are)",
+      "question_images": [],
+      "option_texts": {
         "A": "Na_{2}O_{2}",
         "B": "Na_{2}O",
         "C": "NaO_{2}",
         "D": "NaOH"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The compound(s) formed upon combustion of sodium metal in excess air is (are)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 2,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 2,
-      "question_text": "Given that the abundances of isotopes 54Fe, 56Fe and 57Fe are 5%, 90% and 5%, respectively, the atomic mass of Fe is :",
       "subject": "Chemistry",
       "topic": "some-basic-concepts-of-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Given that the abundances of isotopes 54Fe, 56Fe and 57Fe are 5%, 90% and 5%, respectively, the atomic mass of Fe is :",
+      "question_images": [],
+      "option_texts": {
         "A": "55.85",
         "B": "55.95",
         "C": "55.75",
         "D": "56.05"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Given that the abundances of isotopes ^{54}Fe, ^{56}Fe and ^{57}Fe are 5%, 90% and 5%, respectively, the atomic mass of Fe is :",
-      "isOutOfSyllabus": false,
       "marks": 1,
-      "negMarks": 0.25
+      "negMarks": 0.25,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 3,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 3,
-      "question_text": "The term that corrects for the attractive forces present in a real gas in the van der Waals equation is",
       "subject": "Chemistry",
       "topic": "gaseous-state",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The term that corrects for the attractive forces present in a real gas in the van der Waals equation is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$nb$$",
         "B": "$${{a{n^2}} \\over {{V^2}}}$$",
         "C": "$$ - {{a{n^2}} \\over {{V^2}}}$$",
         "D": "$$ - nb$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The term that corrects for the attractive forces present in a real gas in the van der Waals equation is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 4,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 4,
-      "question_text": "Among the electrolytes Na$$_2$$SO$$_4$$, CaCl$$_2$$, Al$$_2$$(SO$$_4$$)$$_3$$ and NH$$_4$$Cl, the most effective coagulating agent for Sb$$_2$$S$$_3$$ sol is",
       "subject": "Chemistry",
       "topic": "surface-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Among the electrolytes Na$$_2$$SO$$_4$$, CaCl$$_2$$, Al$$_2$$(SO$$_4$$)$$_3$$ and NH$$_4$$Cl, the most effective coagulating agent for Sb$$_2$$S$$_3$$ sol is",
+      "question_images": [],
+      "option_texts": {
         "A": "Na$$_2$$SO$$_4$$",
         "B": "CaCl$$_2$$",
         "C": "Al$$_2$$(SO$$_4$$)$$_3$$",
         "D": "NH$$_4$$Cl"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Among the electrolytes Na$$_2$$SO$$_4$$, CaCl$$_2$$, Al$$_2$$(SO$$_4$$)$$_3$$ and NH$$_4$$Cl, the most effective coagulating agent for Sb$$_2$$S$$_3$$ sol is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 5,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 5,
-      "question_text": "The Henry's law constant for the solubility of N$$_2$$ gas in water at 298 K is 1.0 $$\\times$$ 10$$^5$$ atm. The mole fraction of N$$_2$$ in air is 0.8. The number of moles of N$$_2$$ from air dissolved in 10 moles of water at 298 K and 5 atm pressure is",
       "subject": "Chemistry",
       "topic": "solutions",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The Henry's law constant for the solubility of N$$_2$$ gas in water at 298 K is 1.0 $$\\times$$ 10$$^5$$ atm. The mole fraction of N$$_2$$ in air is 0.8. The number of moles of N$$_2$$ from air dissolved in 10 moles of water at 298 K and 5 atm pressure is",
+      "question_images": [],
+      "option_texts": {
         "A": "4.0 $$\\times$$ 10$$^{-4}$$",
         "B": "4.0 $$\\times$$ 10$$^{-5}$$",
         "C": "5.0 $$\\times$$ 10$$^{-4}$$",
         "D": "4.0 $$\\times$$ 10$$^{-6}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The Henry's law constant for the solubility of N$$_2$$ gas in water at 298 K is 1.0 $$\\times$$ 10$$^5$$ atm. The mole fraction of N$$_2$$ in air is 0.8. The number of moles of N$$_2$$ from air dissolved in 10 moles of water at 298 K and 5 atm pressure is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 6,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 6,
-      "question_text": "The reaction of P$$_4$$ with X leads selectively to P$$_4$$O$$_6$$. The X is",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The reaction of P$$_4$$ with X leads selectively to P$$_4$$O$$_6$$. The X is",
+      "question_images": [],
+      "option_texts": {
         "A": "Dry O$$_2$$.",
         "B": "A mixture of O$$_2$$ and N$$_2$$.",
         "C": "Moist O$$_2$$.",
         "D": "O$$_2$$ in the presence of aqueous NaOH."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The reaction of P$$_4$$ with X leads selectively to P$$_4$$O$$_6$$. The X is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 7,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 7,
-      "question_text": "The correct acidity order of the following is",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The correct acidity order of the following is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrmoczf/ce30b597-bce8-44da-94fb-87d010725d36/b47758b0-cd0e-11ed-8124-cf50c8498624/file-1lfrmoczg.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "(III) > (IV) > (II) > (I)",
         "B": "(IV) > (III) > (I) > (II)",
         "C": "(III) > (II) > (I) > (IV)",
         "D": "(II) > (III) > (IV) > (I)"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The correct acidity order of the following is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 8,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 8,
-      "question_text": "Among cellulose, poly(vinyl chloride), nylon and natural rubber, the polymer in which the intermolecular force of attraction is weakest is",
       "subject": "Chemistry",
       "topic": "polymers",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Among cellulose, poly(vinyl chloride), nylon and natural rubber, the polymer in which the intermolecular force of attraction is weakest is",
+      "question_images": [],
+      "option_texts": {
         "A": "Nylon",
         "B": "Poly(vinyl chloride)",
         "C": "Cellulose",
         "D": "Natural Rubber"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Among cellulose, poly(vinyl chloride), nylon and natural rubber, the polymer in which the intermolecular force of attraction is weakest is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 9,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 9,
-      "question_text": "The IUPAC name of the following compound is",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The IUPAC name of the following compound is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrmpzfv/d9884dc1-1983-4243-9287-d608f7116ab6/e19f67b0-cd0e-11ed-8124-cf50c8498624/file-1lfrmpzfw.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfxhmnir/c2dde872-125b-4e19-8519-ccbbe7da0012/ab3cfe30-d047-11ed-adb8-f5dc1908b5dc/file-1lfxhmnis.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "4-Bromo-3-cyanophenol",
         "B": "2-Bromo-5-hydroxybenzonitrile",
         "C": "2-Cyano-4-hydroxybromobenzene",
         "D": "6-Bromo-3-hydroxybenzonitrile"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The IUPAC name of the following compound is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 10,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 10,
-      "question_text": "The correct statement(s) regarding defects in solids is (are)",
       "subject": "Chemistry",
       "topic": "solid-state",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The correct statement(s) regarding defects in solids is (are)",
+      "question_images": [],
+      "option_texts": {
         "A": "Frenkel defect is usually favoured by a very small difference in the sizes of cation and anion.",
         "B": "Frenkel defect is a dislocation defect.",
         "C": "Trapping of an electron in the lattice leads to the formation of F-centre.",
         "D": "Schottky defects have no effect on the physical properties of solids."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The correct statement(s) regarding defects in solids is (are)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 11,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 11,
-      "question_text": "The compound(s) that exhibit(s) geometrical isomerism is(are)",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The compound(s) that exhibit(s) geometrical isomerism is(are)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrmrpq0/2566d738-cff7-4633-acc2-00d6200f7885/11bbd780-cd0f-11ed-8124-cf50c8498624/file-1lfrmrpq1.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrms182/9ef7441b-b798-4243-a979-3080182bb228/1a9e5120-cd0f-11ed-8124-cf50c8498624/file-1lfrms183.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$\\mathrm{\\left[ {Pt(en)C{l_2}} \\right]}$$",
         "B": "$$\\mathrm{\\left[ {Pt{{(en)}_2}} \\right]C{l_2}}$$",
         "C": "$$\\mathrm{\\left[ {Pt{{(en)}_2}C{l_2}} \\right]C{l_2}}$$",
         "D": "$$\\mathrm{\\left[ {Pt{{(N{H_3})}_2}C{l_2}} \\right]}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The compound(s) that exhibit(s) geometrical isomerism is(are)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 12,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 12,
-      "question_text": "The correct statement(s) about the compound $$\\mathrm{H_3C(HO)HC-CH=CH-CH(OH)CH_3~~(X)}$$ is (are)",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The correct statement(s) about the compound $$\\mathrm{H_3C(HO)HC-CH=CH-CH(OH)CH_3~~(X)}$$ is (are)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrmurzf/a7285511-fa94-4cfd-a35e-683bd2b12c01/66e87fb0-cd0f-11ed-8124-cf50c8498624/file-1lfrmurzg.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrmv3hn/6fc69ff8-2740-4177-b29b-72f73365dbe8/6fcbe3b0-cd0f-11ed-8124-cf50c8498624/file-1lfrmv3ho.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrmveo9/4b4ad819-bd1e-4cc9-b49d-08705df6f01b/786f7f90-cd0f-11ed-8124-cf50c8498624/file-1lfrmveoa.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrmvp8u/6d6a28f7-3185-4099-ae8a-438977cf4ffa/809a1ae0-cd0f-11ed-8124-cf50c8498624/file-1lfrmvp8v.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "The total number of stereoisomers possible for X is 6.",
         "B": "The total number of diastereomers possible for X is 3.",
         "C": "If the stereochemistry about the double bond in X in $$trans$$, the number of enantiomers possible for X is 4.",
         "D": "If the stereochemistry about the double bond in X is $$cis$$, the number of enantiomers possible for X is 2."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The correct statement(s) about the compound $$\\mathrm{H_3C(HO)HC-CH=CH-CH(OH)CH_3~~(X)}$$ is (are)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 13,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 13,
-      "question_text": "The compound X is",
       "subject": "Chemistry",
       "topic": "salt-analysis",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The compound X is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrmykpg/613c0862-dbf6-4cfd-9751-3b21c73340e1/d0860140-cd0f-11ed-8124-cf50c8498624/file-1lfrmykph.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrn09qx/a2aeb4d3-d055-4010-9fb4-a79e884eb02b/ffad1490-cd0f-11ed-8124-cf50c8498624/file-1lfrn09qy.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "NaNO$$_3$$",
         "B": "NaCl",
         "C": "Na$$_2$$SO$$_4$$",
         "D": "Na$$_2$$S"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The compound X is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 14,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 14,
-      "question_text": "The compound Y is",
       "subject": "Chemistry",
       "topic": "salt-analysis",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The compound Y is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrmykpg/613c0862-dbf6-4cfd-9751-3b21c73340e1/d0860140-cd0f-11ed-8124-cf50c8498624/file-1lfrmykph.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrn09qx/a2aeb4d3-d055-4010-9fb4-a79e884eb02b/ffad1490-cd0f-11ed-8124-cf50c8498624/file-1lfrn09qy.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "MgCl$$_2$$",
         "B": "FeCl$$_2$$",
         "C": "FeCl$$_3$$",
         "D": "ZnCl$$_2$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The compound Y is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 15,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 15,
-      "question_text": "The compound Z is",
       "subject": "Chemistry",
       "topic": "salt-analysis",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The compound Z is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrmykpg/613c0862-dbf6-4cfd-9751-3b21c73340e1/d0860140-cd0f-11ed-8124-cf50c8498624/file-1lfrmykph.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrn09qx/a2aeb4d3-d055-4010-9fb4-a79e884eb02b/ffad1490-cd0f-11ed-8124-cf50c8498624/file-1lfrn09qy.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$M{g_2}[Fe{(CN)_6}]$$",
         "B": "$$Fe[Fe{(CN)_6}]$$",
         "C": "$$F{e_4}{[Fe{(CN)_6}]_3}$$",
         "D": "$${K_2}Z{n_3}{[Fe{(CN)_6}]_2}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The compound Z is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 16,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 16,
-      "question_text": "The structure of the carbonyl compound P is",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The structure of the carbonyl compound P is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrn64pt/c100582c-5727-4d04-b49a-bc941a8c86e7/a2ade6b0-cd10-11ed-8124-cf50c8498624/file-1lfrn64rf.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrn5fk7/1572c3bf-d9eb-42c9-a5a9-ec174548f3c2/8f366170-cd10-11ed-8124-cf50c8498624/file-1lfrn5fk8.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrn544f/5580133f-f727-405f-bb8d-f2619fac130a/86609200-cd10-11ed-8124-cf50c8498624/file-1lfrn544g.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrn4sp1/9027370f-1e1b-4917-83cb-31b2ac6127b9/7d8cbe60-cd10-11ed-8124-cf50c8498624/file-1lfrn4sp2.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrn4ix2/e2c5ffcf-e418-4f7b-a1f1-f68d8bbfc876/75ff2660-cd10-11ed-8124-cf50c8498624/file-1lfrn4ix3.png",
+          "description": ""
+        }
+      },
       "correct_answer": "B",
-      "question": "The structure of the carbonyl compound P is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 17,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 17,
-      "question_text": "The structures of the products Q and R, respectively, are",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The structures of the products Q and R, respectively, are",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrnacp2/3d915482-7f55-4200-a9c9-5e8e6e0101b8/180b8660-cd11-11ed-8124-cf50c8498624/file-1lfrnacp3.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
+      },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrn7waf/13eb9524-fb8f-4a6a-a39b-4d9217858190/d3c0c470-cd10-11ed-8124-cf50c8498624/file-1lfrn7wag.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrn8ko3/21786835-9a2d-4d40-a1a1-f1c5b6b375c8/e695ef30-cd10-11ed-8124-cf50c8498624/file-1lfrn8ko4.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrn94ss/69f5256e-768e-4f07-b4cc-12928716bbc5/f622ccc0-cd10-11ed-8124-cf50c8498624/file-1lfrn94st.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrn9j7z/82453fb7-649e-45ba-a894-c3c74c112ce6/0146d1f0-cd11-11ed-8124-cf50c8498624/file-1lfrn9j80.png",
+          "description": ""
+        }
       },
       "correct_answer": "A",
-      "question": "The structures of the products Q and R, respectively, are",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 18,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 18,
-      "question_text": "The structure of the product S is",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The structure of the product S is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrnemuw/529c5231-d859-4ac1-a65f-954c4e970cb6/8f21ab80-cd11-11ed-8124-cf50c8498624/file-1lfrnemux.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrndurw/3daef53a-0402-4599-b3c8-1c75abc56ade/797014c0-cd11-11ed-8124-cf50c8498624/file-1lfrndurx.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrndk9z/1f252c61-c890-48d7-bbf0-447a73d5aad6/71544680-cd11-11ed-8124-cf50c8498624/file-1lfrndka0.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrnd83a/d753b232-cb66-4af3-9e01-d9286c5db1bc/67ea4d60-cd11-11ed-8124-cf50c8498624/file-1lfrnd83b.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrncvoi/d40f2d69-d092-4520-8623-b066e2794295/5e541420-cd11-11ed-8124-cf50c8498624/file-1lfrncvoj.png",
+          "description": ""
+        }
+      },
       "correct_answer": "B",
-      "question": "The structure of the product S is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 19,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 19,
-      "question_text": "Match each of the diatomic molecules in Column I with its property/properties in Column II:\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}\n\n\n\n\n\n\n\n\n\n  \n    \n    Column I\n    \n    Column II\n  \n\n\n  \n    (A)\n    $${B_2}$$\n    (P)\n    Paramagnetic\n  \n  \n    (B)\n    $${N_2}$$\n    (Q)\n    Undergoes oxidation\n  \n  \n    (C)\n    $$O_2^ - $$\n    (R)\n    Undergoes reduction\n  \n  \n    (D)\n    $${O_2}$$\n    (S)\n    Bond order $$\\ge$$ 2\n  \n  \n    \n    \n    (T)\n    Mixing of $$s$$ and $$p$$ orbitals",
       "subject": "Chemistry",
       "topic": "chemical-bonding-and-molecular-structure",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Match each of the diatomic molecules in Column I with its property/properties in Column II:\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}\n\n\n\n\n\n\n\n\n\n  \n    \n    Column I\n    \n    Column II\n  \n\n\n  \n    (A)\n    $${B_2}$$\n    (P)\n    Paramagnetic\n  \n  \n    (B)\n    $${N_2}$$\n    (Q)\n    Undergoes oxidation\n  \n  \n    (C)\n    $$O_2^ - $$\n    (R)\n    Undergoes reduction\n  \n  \n    (D)\n    $${O_2}$$\n    (S)\n    Bond order $$\\ge$$ 2\n  \n  \n    \n    \n    (T)\n    Mixing of $$s$$ and $$p$$ orbitals",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\mathrm{(A)\\to(P),(Q),(R),(T);(B)\\to(S),(T);(C)\\to(P),(Q);(D)\\to(P),(Q),(S)}$$",
         "B": "$$\\mathrm{(A)\\to(P),(S),(R),(T);(B)\\to(S),(T);(C)\\to(P),(Q);(D)\\to(P),(T),(S)}$$",
         "C": "$$\\mathrm{(A)\\to(Q),(R),(T);(B)\\to(P),(T);(C)\\to(P),(Q);(D)\\to(T),(Q),(S)}$$",
         "D": "$$\\mathrm{(A)\\to(P),(R),(T);(B)\\to(Q),(T);(C)\\to(S),(Q);(D)\\to(P),(Q),(S)}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Match each of the diatomic molecules in Column I with its property/properties in Column II: \n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}\n\n\n\n\n\n\n\n\n\n  \n    \n    Column I\n    \n    Column II\n  \n\n\n  \n    (A)\n    $${B_2}$$\n    (P)\n    Paramagnetic\n  \n  \n    (B)\n    $${N_2}$$\n    (Q)\n    Undergoes oxidation\n  \n  \n    (C)\n    $$O_2^ - $$\n    (R)\n    Undergoes reduction\n  \n  \n    (D)\n    $${O_2}$$\n    (S)\n    Bond order $$\\ge$$ 2\n  \n  \n    \n    \n    (T)\n    Mixing of $$s$$ and $$p$$ orbitals",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 20,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 20,
-      "question_text": "Match each of the compounds in Column I with its characteristic reaction(s) in Column II.\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}\n\n\n\n\n\n\n\n\n\n  \n    \n    Column I\n    \n    Column II\n  \n\n\n  \n    (A)\n    $$C{H_3}C{H_2}C{H_2}CN$$\n    (P)\n    Reduction with $$Pd - C/{H_2}$$\n  \n  \n    (B)\n    $$C{H_3}C{H_2}OCOC{H_3}$$\n    (Q)\n    Reduction with $$SnC{l_2}/HCl$$\n  \n  \n    (C)\n    $$C{H_3} - CH = CH - C{H_2}OH$$\n    (R)\n    Development of foul smell on treatment with chloroform and alcoholic KOH\n  \n  \n    (D)\n    $$C{H_3}C{H_2}C{H_2}C{H_2}N{H_2}$$\n    (S)\n    Reduction with diisobutylaluminium hydride (DIBAL-H)\n  \n  \n    \n    \n    (T)\n    Alkaline hydrolysis",
       "subject": "Chemistry",
       "topic": "compounds-containing-nitrogen",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Match each of the compounds in Column I with its characteristic reaction(s) in Column II.\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}\n\n\n\n\n\n\n\n\n\n  \n    \n    Column I\n    \n    Column II\n  \n\n\n  \n    (A)\n    $$C{H_3}C{H_2}C{H_2}CN$$\n    (P)\n    Reduction with $$Pd - C/{H_2}$$\n  \n  \n    (B)\n    $$C{H_3}C{H_2}OCOC{H_3}$$\n    (Q)\n    Reduction with $$SnC{l_2}/HCl$$\n  \n  \n    (C)\n    $$C{H_3} - CH = CH - C{H_2}OH$$\n    (R)\n    Development of foul smell on treatment with chloroform and alcoholic KOH\n  \n  \n    (D)\n    $$C{H_3}C{H_2}C{H_2}C{H_2}N{H_2}$$\n    (S)\n    Reduction with diisobutylaluminium hydride (DIBAL-H)\n  \n  \n    \n    \n    (T)\n    Alkaline hydrolysis",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrnk86j/86978c93-f312-49b4-a5d3-9006e62f19ef/2aa623b0-cd12-11ed-8124-cf50c8498624/file-1lfrnk86k.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrnl1t6/938e73a9-d225-4d31-a71f-bddcb6bf8d17/41895ca0-cd12-11ed-8124-cf50c8498624/file-1lfrnl1t7.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$\\mathrm{(A)\\to(P),(Q),(S),(T);(B)\\to(Q),(T);(C)\\to(P);(D)\\to(S)}$$",
         "B": "$$\\mathrm{(A)\\to(Q), (R), (S),(T);(B)\\to(S),(T);(C)\\to(P);(D)\\to(R)}$$",
         "C": "$$\\mathrm{(A)\\to(P),(R),(S),(T);(B)\\to(S),(T);(C)\\to(P);(D)\\to(R), (T)}$$",
         "D": "$$\\mathrm{(A)\\to(P),(Q),(S),(T);(B)\\to(S),(T);(C)\\to(P);(D)\\to(R)}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Match each of the compounds in Column I with its characteristic reaction(s) in Column II. \n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}\n\n\n\n\n\n\n\n\n\n  \n    \n    Column I\n    \n    Column II\n  \n\n\n  \n    (A)\n    $$C{H_3}C{H_2}C{H_2}CN$$\n    (P)\n    Reduction with $$Pd - C/{H_2}$$\n  \n  \n    (B)\n    $$C{H_3}C{H_2}OCOC{H_3}$$\n    (Q)\n    Reduction with $$SnC{l_2}/HCl$$\n  \n  \n    (C)\n    $$C{H_3} - CH = CH - C{H_2}OH$$\n    (R)\n    Development of foul smell on treatment with chloroform and alcoholic KOH\n  \n  \n    (D)\n    $$C{H_3}C{H_2}C{H_2}C{H_2}N{H_2}$$\n    (S)\n    Reduction with diisobutylaluminium hydride (DIBAL-H)\n  \n  \n    \n    \n    (T)\n    Alkaline hydrolysis",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 21,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 21,
-      "question_text": "Let $$z = x + iy$$ be a complex number where x and y are integers. Then the area of the rectangle whose vertices are the roots of the equation $$\\overline z {z^3} + z{\\overline z ^3} = 350$$ is",
       "subject": "Mathematics",
       "topic": "complex-numbers",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$z = x + iy$$ be a complex number where x and y are integers. Then the area of the rectangle whose vertices are the roots of the equation $$\\overline z {z^3} + z{\\overline z ^3} = 350$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "48",
         "B": "32",
         "C": "40",
         "D": "80"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $$z = x + iy$$ be a complex number where x and y are integers. Then the area of the rectangle whose vertices are the roots of the equation $$\\overline z {z^3} + z{\\overline z ^3} = 350$$ is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 22,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 22,
-      "question_text": "Let $$z = \\,\\cos \\,\\theta \\, + i\\,\\sin \\,\\theta $$ . Then the value of $$\\sum\\limits_{m = 1}^{15} {{\\mathop{\\rm Im}\\nolimits} } ({z^{2m - 1}})\\,at\\,\\theta \\, = {2^ \\circ }$$ is",
       "subject": "Mathematics",
       "topic": "complex-numbers",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$z = \\,\\cos \\,\\theta \\, + i\\,\\sin \\,\\theta $$ . Then the value of $$\\sum\\limits_{m = 1}^{15} {{\\mathop{\\rm Im}\\nolimits} } ({z^{2m - 1}})\\,at\\,\\theta \\, = {2^ \\circ }$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "$${1 \\over {\\sin \\,{2^ \\circ }}}$$",
         "B": "$${1 \\over {3\\sin \\,{2^ \\circ }}}$$",
         "C": "$${1 \\over {2\\sin \\,{2^ \\circ }}}$$",
         "D": "$${1 \\over {4\\sin \\,{2^ \\circ }}}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Let $$z = \\,\\cos \\,\\theta \\, + i\\,\\sin \\,\\theta $$ . Then the value of $$\\sum\\limits_{m = 1}^{15} {{\\mathop{\\rm Im}\\nolimits} } ({z^{2m - 1}})\\,at\\,\\theta \\, = {2^ \\circ }$$ is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 23,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 23,
-      "question_text": "Let $$P(3,2,6)$$ be a point in space and $$Q$$ be a point on the line \n$$$\\widehat r = \\left( {\\widehat i - \\widehat j + 2\\widehat k} \\right) + \\mu \\left( { - 3\\widehat i + \\widehat j + 5\\widehat k} \\right)$$$\nThen the value of $$\\mu $$ for which the vector $${\\overrightarrow {PQ} }$$ is parallel to the plane $$x - 4y + 3z = 1$$ is :",
       "subject": "Mathematics",
       "topic": "3d-geometry",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$P(3,2,6)$$ be a point in space and $$Q$$ be a point on the line \n$$$\\widehat r = \\left( {\\widehat i - \\widehat j + 2\\widehat k} \\right) + \\mu \\left( { - 3\\widehat i + \\widehat j + 5\\widehat k} \\right)$$$\nThen the value of $$\\mu $$ for which the vector $${\\overrightarrow {PQ} }$$ is parallel to the plane $$x - 4y + 3z = 1$$ is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${1 \\over 4}$$",
         "B": "$$-{1 \\over 4}$$",
         "C": "$${1 \\over 8}$$",
         "D": "$$-{1 \\over 8}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $$P(3,2,6)$$ be a point in space and $$Q$$ be a point on the line \n$$$\\widehat r = \\left( {\\widehat i - \\widehat j + 2\\widehat k} \\right) + \\mu \\left( { - 3\\widehat i + \\widehat j + 5\\widehat k} \\right)$$$\nThen the value of $$\\mu $$ for which the vector $${\\overrightarrow {PQ} }$$ is parallel to the plane $$x - 4y + 3z = 1$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 24,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 24,
-      "question_text": "If $$\\overrightarrow a ,\\overrightarrow b ,\\overrightarrow c $$ and $$\\overrightarrow d $$ are unit vectors such that $$(\\overrightarrow a  \\times \\overrightarrow b )\\,.\\,(\\overrightarrow c  \\times \\overrightarrow d ) = 1$$ and $$\\overrightarrow a \\,.\\,\\overrightarrow c  = {1 \\over 2}$$, then",
       "subject": "Mathematics",
       "topic": "vector-algebra",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If $$\\overrightarrow a ,\\overrightarrow b ,\\overrightarrow c $$ and $$\\overrightarrow d $$ are unit vectors such that $$(\\overrightarrow a  \\times \\overrightarrow b )\\,.\\,(\\overrightarrow c  \\times \\overrightarrow d ) = 1$$ and $$\\overrightarrow a \\,.\\,\\overrightarrow c  = {1 \\over 2}$$, then",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\overrightarrow a \\,,\\,\\overrightarrow b ,\\overrightarrow c $$ are non-coplanar",
         "B": "$$\\overrightarrow b \\,,\\,\\overrightarrow c ,\\overrightarrow d $$ are non-coplanar",
         "C": "$$\\overrightarrow b \\,,\\overrightarrow d $$ are non-parallel",
         "D": "$$\\overrightarrow a ,\\overrightarrow d $$ parallel and $$\\overrightarrow b ,\\overrightarrow c $$ are parallel"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "If $$\\overrightarrow a ,\\overrightarrow b ,\\overrightarrow c $$ and $$\\overrightarrow d $$ are unit vectors such that $$(\\overrightarrow a  \\times \\overrightarrow b )\\,.\\,(\\overrightarrow c  \\times \\overrightarrow d ) = 1$$ and $$\\overrightarrow a \\,.\\,\\overrightarrow c  = {1 \\over 2}$$, then",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 25,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 25,
-      "question_text": "The conditional probability that $$X\\ge6$$ given $$X>3$$ equals :",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The conditional probability that $$X\\ge6$$ given $$X>3$$ equals :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{125} \\over {216}}$$",
         "B": "$${{25} \\over {216}}$$",
         "C": "$${{5} \\over {36}}$$",
         "D": "$${{25} \\over {36}}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The conditional probability that $$X\\ge6$$ given $$X>3$$ equals :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 26,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 26,
-      "question_text": "The probability that $$X\\ge3$$ equals :",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The probability that $$X\\ge3$$ equals :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{125} \\over {216}}$$",
         "B": "$${{25} \\over {36}}$$",
         "C": "$${{5} \\over {36}}$$",
         "D": "$${{25} \\over {216}}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The probability that $$X\\ge3$$ equals :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 27,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 27,
-      "question_text": "The probability that X = 3 equals",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The probability that X = 3 equals",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{25} \\over {216}}$$",
         "B": "$${{25} \\over {36}}$$",
         "C": "$${{5} \\over {36}}$$",
         "D": "$${{125} \\over {216}}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The probability that X = 3 equals",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 28,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 28,
-      "question_text": "Area of the region bounded by the curve $$y = {e^x}$$ and lines $$x=0$$ and $$y=e$$ is",
       "subject": "Mathematics",
       "topic": "application-of-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Area of the region bounded by the curve $$y = {e^x}$$ and lines $$x=0$$ and $$y=e$$ is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrnn1l0/3f11ff08-fbe1-4d05-addd-731d43e6279a/78fac840-cd12-11ed-8124-cf50c8498624/file-1lfrnn1l1.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$e-1$$",
         "B": "$$\\int\\limits_1^e {\\ln \\left( {e + 1 - y} \\right)dy} $$",
         "C": "$$e - \\int\\limits_0^1 {{e^x}dx} $$",
         "D": "$$\\int\\limits_1^e {\\ln y\\,dy} $$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Area of the region bounded by the curve $$y = {e^x}$$ and lines $$x=0$$ and $$y=e$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 29,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 29,
-      "question_text": "Let $$f$$ be a non-negative function defined on the interval $$[0,1]$$. \n\n\nIf $$\\int\\limits_0^x {\\sqrt {1 - {{(f'(t))}^2}dt}  = \\int\\limits_0^x {f(t)dt,0 \\le x \\le 1} } $$, and $$f(0) = 0$$, then",
       "subject": "Mathematics",
       "topic": "application-of-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$f$$ be a non-negative function defined on the interval $$[0,1]$$. \n\n\nIf $$\\int\\limits_0^x {\\sqrt {1 - {{(f'(t))}^2}dt}  = \\int\\limits_0^x {f(t)dt,0 \\le x \\le 1} } $$, and $$f(0) = 0$$, then",
+      "question_images": [],
+      "option_texts": {
         "A": "$$f\\left( {{1 \\over 2}} \\right) < {1 \\over 2}$$ and $$f\\left( {{1 \\over 3}} \\right) > {1 \\over 3}$$",
         "B": "$$f\\left( {{1 \\over 2}} \\right) > {1 \\over 2}$$ and $$f\\left( {{1 \\over 3}} \\right) > {1 \\over 3}$$",
         "C": "$$f\\left( {{1 \\over 2}} \\right) < {1 \\over 2}$$ and $$f\\left( {{1 \\over 3}} \\right) < {1 \\over 3}$$",
         "D": "$$f\\left( {{1 \\over 2}} \\right) > {1 \\over 2}$$ and $$f\\left( {{1 \\over 3}} \\right) < {1 \\over 3}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let $$f$$ be a non-negative function defined on the interval $$[0,1]$$. \nIf $$\\int\\limits_0^x {\\sqrt {1 - {{(f'(t))}^2}dt}  = \\int\\limits_0^x {f(t)dt,0 \\le x \\le 1} } $$, and $$f(0) = 0$$, then",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 30,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 30,
-      "question_text": "Match the conics in Column I with the statements/expressions in Column II :\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}\n\n\n\n\n\n\n\n\n\n  \n    \n    Column I\n    \n    Column II\n  \n\n\n  \n    (A)\n    Circle\n    (P)\n    The locus of the point ($$h,k$$) for which the line $$hx+ky=1$$ touches the circle $$x^2+y^2=4$$.\n  \n  \n    (B)\n    Parabola\n    (Q)\n    Points z in the complex plane satisfying $$|z+2|-|z-2|=\\pm3$$.\n  \n  \n    (C)\n    Ellipse\n    (R)\n    Points of the conic have parametric representation $$x = \\sqrt 3 \\left( {{{1 - {t^2}} \\over {1 + {t^2}}}} \\right),y = {{2t} \\over {1 + {t^2}}}$$\n  \n  \n    (D)\n    Hyperbola\n    (S)\n    The eccentricity of the conic lies in the interval $$1 \\le x \\le \\infty $$.\n  \n  \n    \n    \n    (T)\n    Points z in the complex plane satisfying $${\\mathop{\\rm Re}\\nolimits} {(z + 1)^2} = |z{|^2} + 1$$.",
       "subject": "Mathematics",
       "topic": "ellipse",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Match the conics in Column I with the statements/expressions in Column II :\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}\n\n\n\n\n\n\n\n\n\n  \n    \n    Column I\n    \n    Column II\n  \n\n\n  \n    (A)\n    Circle\n    (P)\n    The locus of the point ($$h,k$$) for which the line $$hx+ky=1$$ touches the circle $$x^2+y^2=4$$.\n  \n  \n    (B)\n    Parabola\n    (Q)\n    Points z in the complex plane satisfying $$|z+2|-|z-2|=\\pm3$$.\n  \n  \n    (C)\n    Ellipse\n    (R)\n    Points of the conic have parametric representation $$x = \\sqrt 3 \\left( {{{1 - {t^2}} \\over {1 + {t^2}}}} \\right),y = {{2t} \\over {1 + {t^2}}}$$\n  \n  \n    (D)\n    Hyperbola\n    (S)\n    The eccentricity of the conic lies in the interval $$1 \\le x \\le \\infty $$.\n  \n  \n    \n    \n    (T)\n    Points z in the complex plane satisfying $${\\mathop{\\rm Re}\\nolimits} {(z + 1)^2} = |z{|^2} + 1$$.",
+      "question_images": [],
+      "option_texts": {
         "A": "(A)$$\\to$$(P); (B)$$\\to$$(S), (T); (C)$$\\to$$(R); (D)$$\\to$$(R), (S)",
         "B": "(A)$$\\to$$(P); (B)$$\\to$$(S), (T); (C)$$\\to$$(R); (D)$$\\to$$(Q), (S)",
         "C": "(A)$$\\to$$(P); (B)$$\\to$$(S), (T); (C)$$\\to$$(S); (D)$$\\to$$(R), (S)",
         "D": "(A)$$\\to$$(P); (B)$$\\to$$(P), (T); (C)$$\\to$$(R); (D)$$\\to$$(Q), (S)"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Match the conics in Column I with the statements/expressions in Column II : \n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}\n\n\n\n\n\n\n\n\n\n  \n    \n    Column I\n    \n    Column II\n  \n\n\n  \n    (A)\n    Circle\n    (P)\n    The locus of the point ($$h,k$$) for which the line $$hx+ky=1$$ touches the circle $$x^2+y^2=4$$.\n  \n  \n    (B)\n    Parabola\n    (Q)\n    Points z in the complex plane satisfying $$|z+2|-|z-2|=\\pm3$$.\n  \n  \n    (C)\n    Ellipse\n    (R)\n    Points of the conic have parametric representation $$x = \\sqrt 3 \\left( {{{1 - {t^2}} \\over {1 + {t^2}}}} \\right),y = {{2t} \\over {1 + {t^2}}}$$\n  \n  \n    (D)\n    Hyperbola\n    (S)\n    The eccentricity of the conic lies in the interval $$1 \\le x \\le \\infty $$.\n  \n  \n    \n    \n    (T)\n    Points z in the complex plane satisfying $${\\mathop{\\rm Re}\\nolimits} {(z + 1)^2} = |z{|^2} + 1$$.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 31,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 31,
-      "question_text": "In a triangle $$ABC$$ with fixed base $$BC$$, the vertex $$A$$ moves such that \n$$$\\cos \\,B + \\cos \\,C = 4{\\sin ^2}{A \\over 2}.$$$\nIf $$a, b$$ and $$c$$ denote the lengths of the sides of the triangle opposite to the angles $$A, B$$ and $$C$$, respectively, then",
       "subject": "Mathematics",
       "topic": "ellipse",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In a triangle $$ABC$$ with fixed base $$BC$$, the vertex $$A$$ moves such that \n$$$\\cos \\,B + \\cos \\,C = 4{\\sin ^2}{A \\over 2}.$$$\nIf $$a, b$$ and $$c$$ denote the lengths of the sides of the triangle opposite to the angles $$A, B$$ and $$C$$, respectively, then",
+      "question_images": [],
+      "option_texts": {
         "A": "$$b+c=4a$$",
         "B": "$$b+c=2a$$",
         "C": "locus of point $$A$$ is an ellipse",
         "D": "locus of point $$A$$ is a pair of straight lines"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "In a triangle $$ABC$$ with fixed base $$BC$$, the vertex $$A$$ moves such that \n$$$\\cos \\,B + \\cos \\,C = 4{\\sin ^2}{A \\over 2}.$$$\nIf $$a, b$$ and $$c$$ denote the lengths of the sides of the triangle opposite to the angles $$A, B$$ and $$C$$, respectively, then",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 32,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 32,
-      "question_text": "The line passing through the extremity $$A$$ of the major axis and extremity $$B$$ of the minor axis of the ellipse $${x^2} + 9{y^2} = 9$$ meets its auxiliary circle at the point $$M$$. Then the area of the triangle with vertices at $$A$$, $$M$$ and the origin $$O$$ is",
       "subject": "Mathematics",
       "topic": "ellipse",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The line passing through the extremity $$A$$ of the major axis and extremity $$B$$ of the minor axis of the ellipse $${x^2} + 9{y^2} = 9$$ meets its auxiliary circle at the point $$M$$. Then the area of the triangle with vertices at $$A$$, $$M$$ and the origin $$O$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{31} \\over {10}}$$",
         "B": "$${{29} \\over {10}}$$",
         "C": "$${{21} \\over {10}}$$",
         "D": "$${{27} \\over {10}}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The line passing through the extremity $$A$$ of the major axis and extremity $$B$$ of the minor axis of the ellipse $${x^2} + 9{y^2} = 9$$ meets its auxiliary circle at the point $$M$$. Then the area of the triangle with vertices at $$A$$, $$M$$ and the origin $$O$$ is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 33,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 33,
-      "question_text": "Tangents drawn from the point P (1, 8) to the circle \n\n $${x^2}\\, + \\,{y^2}\\, - \\,6x\\, - 4y\\, - 11 = 0$$\n\n touch the circle at the points A and B. The equation of the cirumcircle of the triangle PAB is",
       "subject": "Mathematics",
       "topic": "circle",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Tangents drawn from the point P (1, 8) to the circle \n\n $${x^2}\\, + \\,{y^2}\\, - \\,6x\\, - 4y\\, - 11 = 0$$\n\n touch the circle at the points A and B. The equation of the cirumcircle of the triangle PAB is",
+      "question_images": [],
+      "option_texts": {
         "A": "$${x^2}\\, + \\,{y^2}\\, + \\,4x\\,\\, - 6y\\, + 19 = 0$$",
         "B": "$${x^2}\\, + \\,{y^2}\\, - \\,4x\\,\\, - 10y\\, + 19 = 0$$",
         "C": "$${x^2}\\, + \\,{y^2}\\, - \\,2x\\,\\, + 6y\\, - 29 = 0$$",
         "D": "$${x^2}\\, + \\,{y^2}\\, - \\,6x\\,\\, - 4y\\, + 19 = 0$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Tangents drawn from the point P (1, 8) to the circle \n $${x^2}\\, + \\,{y^2}\\, - \\,6x\\, - 4y\\, - 11 = 0$$\n touch the circle at the points A and B. The equation of the cirumcircle of the triangle PAB is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 34,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 34,
-      "question_text": "The number of seven digit integers, with sum of the digits equal to 10 and formed by using the digits 1, 2 and 3 only, is",
       "subject": "Mathematics",
       "topic": "permutations-and-combinations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The number of seven digit integers, with sum of the digits equal to 10 and formed by using the digits 1, 2 and 3 only, is",
+      "question_images": [],
+      "option_texts": {
         "A": "55",
         "B": "66",
         "C": "77",
         "D": "88"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The number of seven digit integers, with sum of the digits equal to 10 and formed by using the digits 1, 2 and 3 only, is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 35,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 35,
-      "question_text": "If $${{{{\\sin }^4}x} \\over 2} + {{{{\\cos }^4}x} \\over 3} = {1 \\over 5},$$ then",
       "subject": "Mathematics",
       "topic": "trigonometric-functions-and-equations",
       "sub_topic": "trigonometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If $${{{{\\sin }^4}x} \\over 2} + {{{{\\cos }^4}x} \\over 3} = {1 \\over 5},$$ then",
+      "question_images": [],
+      "option_texts": {
         "A": "$${\\tan ^2}x = {2 \\over 3}$$",
         "B": "$${{{{\\sin }^8}x} \\over 8} + {{{{\\cos }^8}x} \\over {27}} = {1 \\over {125}}$$",
         "C": "$${\\tan ^2}x = {1 \\over 3}$$",
         "D": "$${{{{\\sin }^8}x} \\over 8} + {{{{\\cos }^8}x} \\over {27}} = {2 \\over {125}}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "If $${{{{\\sin }^4}x} \\over 2} + {{{{\\cos }^4}x} \\over 3} = {1 \\over 5},$$ then",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 36,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 36,
-      "question_text": "Match the statements/expressions in Column I with the open intervals in Column II :\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}\n\n\n\n\n\n\n\n\n\n  \n    \n    Column I\n    \n    Column II\n  \n\n\n  \n    (A)\n    Interval contained in the domain of definition of non-zero solutions of the differential equation $${(x - 3)^2}y' + y = 0$$\n    (P)\n    $$\\left( { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right)$$\n  \n  \n    (B)\n    Interval containing the value of the integral $$\\int\\limits_1^5 {(x - 1)(x - 2)(x - 3)(x - 4)(x - 5)dx} $$\n    (Q)\n    $$\\left( {0,{\\pi  \\over 2}} \\right)$$\n  \n  \n    (C)\n    Interval in which at least one of the points of local maximum of $${\\cos ^2}x + \\sin x$$ lies\n    (R)\n    $$\\left( {{\\pi  \\over 8},{{5\\pi } \\over 4}} \\right)$$\n  \n  \n    (D)\n    Interval in which $${\\tan ^{ - 1}}(\\sin x + \\cos x)$$ is increasing\n    (S)\n    $$\\left( {0,{\\pi  \\over 8}} \\right)$$\n  \n  \n    \n    \n    (T)\n    $$( - \\pi ,\\pi )$$",
       "subject": "Mathematics",
       "topic": "differential-equations",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Match the statements/expressions in Column I with the open intervals in Column II :\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}\n\n\n\n\n\n\n\n\n\n  \n    \n    Column I\n    \n    Column II\n  \n\n\n  \n    (A)\n    Interval contained in the domain of definition of non-zero solutions of the differential equation $${(x - 3)^2}y' + y = 0$$\n    (P)\n    $$\\left( { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right)$$\n  \n  \n    (B)\n    Interval containing the value of the integral $$\\int\\limits_1^5 {(x - 1)(x - 2)(x - 3)(x - 4)(x - 5)dx} $$\n    (Q)\n    $$\\left( {0,{\\pi  \\over 2}} \\right)$$\n  \n  \n    (C)\n    Interval in which at least one of the points of local maximum of $${\\cos ^2}x + \\sin x$$ lies\n    (R)\n    $$\\left( {{\\pi  \\over 8},{{5\\pi } \\over 4}} \\right)$$\n  \n  \n    (D)\n    Interval in which $${\\tan ^{ - 1}}(\\sin x + \\cos x)$$ is increasing\n    (S)\n    $$\\left( {0,{\\pi  \\over 8}} \\right)$$\n  \n  \n    \n    \n    (T)\n    $$( - \\pi ,\\pi )$$",
+      "question_images": [],
+      "option_texts": {
         "A": "(A)$$\\to$$(P), (Q), (S); (B)$$\\to$$(P), (T), (S); (C)$$\\to$$(P), (Q), (R), (T); (D)$$\\to$$(S)",
         "B": "(A)$$\\to$$(P), (Q), (S); (B)$$\\to$$(P), (T), (R); (C)$$\\to$$(P), (Q), (R), (T); (D)$$\\to$$(R)",
         "C": "(A)$$\\to$$(P), (Q), (S); (B)$$\\to$$(P), (T), (S); (C)$$\\to$$(S), (Q), (R), (T); (D)$$\\to$$(S)",
         "D": "(A)$$\\to$$(P), (T), (S); (B)$$\\to$$(P), (T), (S); (C)$$\\to$$(P), (Q), (R), (T); (D)$$\\to$$(S)"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Match the statements/expressions in Column I with the open intervals in Column II : \n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}\n\n\n\n\n\n\n\n\n\n  \n    \n    Column I\n    \n    Column II\n  \n\n\n  \n    (A)\n    Interval contained in the domain of definition of non-zero solutions of the differential equation $${(x - 3)^2}y' + y = 0$$\n    (P)\n    $$\\left( { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right)$$\n  \n  \n    (B)\n    Interval containing the value of the integral $$\\int\\limits_1^5 {(x - 1)(x - 2)(x - 3)(x - 4)(x - 5)dx} $$\n    (Q)\n    $$\\left( {0,{\\pi  \\over 2}} \\right)$$\n  \n  \n    (C)\n    Interval in which at least one of the points of local maximum of $${\\cos ^2}x + \\sin x$$ lies\n    (R)\n    $$\\left( {{\\pi  \\over 8},{{5\\pi } \\over 4}} \\right)$$\n  \n  \n    (D)\n    Interval in which $${\\tan ^{ - 1}}(\\sin x + \\cos x)$$ is increasing\n    (S)\n    $$\\left( {0,{\\pi  \\over 8}} \\right)$$\n  \n  \n    \n    \n    (T)\n    $$( - \\pi ,\\pi )$$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 37,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 37,
-      "question_text": "Let $$L = \\mathop {\\lim }\\limits_{x \\to 0} {{a - \\sqrt {{a^2} - {x^2}}  - {{{x^2}} \\over 4}} \\over {{x^4}}},a > 0$$. If L is finite, then",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$L = \\mathop {\\lim }\\limits_{x \\to 0} {{a - \\sqrt {{a^2} - {x^2}}  - {{{x^2}} \\over 4}} \\over {{x^4}}},a > 0$$. If L is finite, then",
+      "question_images": [],
+      "option_texts": {
         "A": "$$a = 2$$",
         "B": "$$a = 1$$",
         "C": "$$L = {1 \\over {64}}$$",
         "D": "$$L = {1 \\over {32}}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $$L = \\mathop {\\lim }\\limits_{x \\to 0} {{a - \\sqrt {{a^2} - {x^2}}  - {{{x^2}} \\over 4}} \\over {{x^4}}},a > 0$$. If L is finite, then",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 38,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 38,
-      "question_text": "The number of matrices in A is",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The number of matrices in A is",
+      "question_images": [],
+      "option_texts": {
         "A": "12",
         "B": "6",
         "C": "9",
         "D": "3"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The number of matrices in A is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 39,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 39,
-      "question_text": "The number of matrices A in A for which the system of linear equations $$A\\left[ {\\matrix{\n   x  \\cr \n   y  \\cr \n   z  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   1  \\cr \n   0  \\cr \n   0  \\cr \n\n } } \\right]$$ has a unique solution, is",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The number of matrices A in A for which the system of linear equations $$A\\left[ {\\matrix{\n   x  \\cr \n   y  \\cr \n   z  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   1  \\cr \n   0  \\cr \n   0  \\cr \n\n } } \\right]$$ has a unique solution, is",
+      "question_images": [],
+      "option_texts": {
         "A": "less than 4",
         "B": "at least 4 but less than 7",
         "C": "at least 7 but less than 10",
         "D": "at least 10"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The number of matrices A in A for which the system of linear equations $$A\\left[ {\\matrix{\n   x  \\cr \n   y  \\cr \n   z  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   1  \\cr \n   0  \\cr \n   0  \\cr \n\n } } \\right]$$ has a unique solution, is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 40,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 40,
-      "question_text": "The number of matrices A in A for which the system of linear equations $$A\\left[ {\\matrix{\n   x  \\cr \n   y  \\cr \n   z  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   1  \\cr \n   0  \\cr \n   0  \\cr \n\n } } \\right]$$ is inconsistent, is",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The number of matrices A in A for which the system of linear equations $$A\\left[ {\\matrix{\n   x  \\cr \n   y  \\cr \n   z  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   1  \\cr \n   0  \\cr \n   0  \\cr \n\n } } \\right]$$ is inconsistent, is",
+      "question_images": [],
+      "option_texts": {
         "A": "0",
         "B": "more than 2",
         "C": "2",
         "D": "1"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The number of matrices A in A for which the system of linear equations $$A\\left[ {\\matrix{\n   x  \\cr \n   y  \\cr \n   z  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   1  \\cr \n   0  \\cr \n   0  \\cr \n\n } } \\right]$$ is inconsistent, is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 41,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 41,
-      "question_text": "A block of base 10 cm × 10 cm and height 15 cm is kept on an inclined plane. The coefficient of friction\nbetween them is $$\\sqrt 3 $$. The inclination θ of this inclined plane from the horizontal plane is gradually\nincreased from $$0^\\circ $$. Then",
       "subject": "Physics",
       "topic": "laws-of-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A block of base 10 cm × 10 cm and height 15 cm is kept on an inclined plane. The coefficient of friction\nbetween them is $$\\sqrt 3 $$. The inclination θ of this inclined plane from the horizontal plane is gradually\nincreased from $$0^\\circ $$. Then",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrltdzi/7597b09b-2836-4325-b778-63b6350eee0b/572832e0-cd0b-11ed-8124-cf50c8498624/file-1lfrltdzj.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "at θ = $$60^\\circ $$, the block will start sliding down the plane",
         "B": "the block will remain at rest on the plane up to certain θ and then it will topple",
         "C": "at θ = $$60^\\circ $$, the block will start sliding down the plane and continue to do so at higher angles",
         "D": "at θ = $$60^\\circ $$, the block will start sliding down the plane and on further increasing θ, it will topple at certain θ"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A block of base 10 cm × 10 cm and height 15 cm is kept on an inclined plane. The coefficient of friction\nbetween them is $$\\sqrt 3 $$. The inclination θ of this inclined plane from the horizontal plane is gradually\nincreased from $$0^\\circ $$. Then",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 42,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 42,
-      "question_text": "Look at the drawing given in the figure below which has been drawn with ink of uniform line-thickness. The mass of ink used to draw each of the two inner circles, and each of the two line segments is $$m$$. the mass of the ink used to draw the outer circle is $$6m$$. The coordinates of the centres of the different parts are: outer circle (0, 0), left inner circle ($$-a,a$$), right inner circle ($$a,a$$), vertical line (0, 0) and horizontal line ($$0,-a$$). The y-coordinate of the centre of mass of the ink in this drawing is",
       "subject": "Physics",
       "topic": "impulse-and-momentum",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Look at the drawing given in the figure below which has been drawn with ink of uniform line-thickness. The mass of ink used to draw each of the two inner circles, and each of the two line segments is $$m$$. the mass of the ink used to draw the outer circle is $$6m$$. The coordinates of the centres of the different parts are: outer circle (0, 0), left inner circle ($$-a,a$$), right inner circle ($$a,a$$), vertical line (0, 0) and horizontal line ($$0,-a$$). The y-coordinate of the centre of mass of the ink in this drawing is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrlj825/0a2046ea-91c6-4a5a-8e55-63638848662b/3c7cc3d0-cd0a-11ed-8631-ff69b196c8e3/file-1lfrlj826.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$\\frac{a}{10}$$",
         "B": "$$\\frac{a}{8}$$",
         "C": "$$\\frac{a}{12}$$",
         "D": "$$\\frac{a}{3}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Look at the drawing given in the figure below which has been drawn with ink of uniform line-thickness. The mass of ink used to draw each of the two inner circles, and each of the two line segments is $$m$$. the mass of the ink used to draw the outer circle is $$6m$$. The coordinates of the centres of the different parts are: outer circle (0, 0), left inner circle ($$-a,a$$), right inner circle ($$a,a$$), vertical line (0, 0) and horizontal line ($$0,-a$$). The y-coordinate of the centre of mass of the ink in this drawing is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 43,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 43,
-      "question_text": "The figure shows certain wire segments joined together to form a coplanar loop. The loop is placed in a perpendicular magnetic field in the direction going into the plane of the figure. The magnitude of the field increases with time. $$I_1$$ and $$I_2$$ are the currents in the segments ab and cd. Then,",
       "subject": "Physics",
       "topic": "electromagnetic-induction",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The figure shows certain wire segments joined together to form a coplanar loop. The loop is placed in a perpendicular magnetic field in the direction going into the plane of the figure. The magnitude of the field increases with time. $$I_1$$ and $$I_2$$ are the currents in the segments ab and cd. Then,",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrlkgpf/1983e373-d323-46e4-9778-f138eca28f70/5ef9ce30-cd0a-11ed-8124-cf50c8498624/file-1lfrlkgpg.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$I_1 > I_2$$",
         "B": "$$I_1 < I_2$$",
         "C": "$$I_1$$ is in the direction ba and $$I_2$$ is in the direction cd.",
         "D": "$$I_1$$ is in the direction ab and $$I_2$$ is in the direction dc."
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The figure shows certain wire segments joined together to form a coplanar loop. The loop is placed in a perpendicular magnetic field in the direction going into the plane of the figure. The magnitude of the field increases with time. $$I_1$$ and $$I_2$$ are the currents in the segments ab and cd. Then,",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 44,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 44,
-      "question_text": "Two small particles of equal masses start moving in opposite directions from a point A in a horizontal circular orbit. Their tangential velocities are $$v$$ and 2$$v$$, respectively, as shown in the figure. Between collisions, the particles move with constant speeds. After making how many elastic collisions, other than that at A, these two particles will again reach the point A?",
       "subject": "Physics",
       "topic": "impulse-and-momentum",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two small particles of equal masses start moving in opposite directions from a point A in a horizontal circular orbit. Their tangential velocities are $$v$$ and 2$$v$$, respectively, as shown in the figure. Between collisions, the particles move with constant speeds. After making how many elastic collisions, other than that at A, these two particles will again reach the point A?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrllifl/ed4f5fa5-b18e-4d80-a5a4-1cb7200e875a/7c1e7010-cd0a-11ed-8124-cf50c8498624/file-1lfrllifm.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrlmtcg/666380ba-a42a-455a-a2a4-d43a7c97e544/a05ba100-cd0a-11ed-8124-cf50c8498624/file-1lfrlmtch.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "4",
         "B": "3",
         "C": "2",
         "D": "1"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Two small particles of equal masses start moving in opposite directions from a point A in a horizontal circular orbit. Their tangential velocities are $$v$$ and 2$$v$$, respectively, as shown in the figure. Between collisions, the particles move with constant speeds. After making how many elastic collisions, other than that at A, these two particles will again reach the point A?",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 45,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 45,
-      "question_text": "A disk of radius $${a \\over 4}$$ having a uniformly distributed charge 6C is placed in the xy-plane with its centre at ($$-$$a/2, 0, 0). A rod of length a carrying a uniformly distributed charge 8C is placed on the x-axis from x = a/4 to x = 5a/4. Two points charges $$-$$7C and 3C are placed at (a/4, $$-$$a/4, 0) and ($$-$$3a/4, 3a/4, 0), respectively. Consider a cubical surface formed by six surfaces $$x=\\pm a/2,y=\\pm a/2,z=\\pm a/2$$. The electric flux through this cubical surface is",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A disk of radius $${a \\over 4}$$ having a uniformly distributed charge 6C is placed in the xy-plane with its centre at ($$-$$a/2, 0, 0). A rod of length a carrying a uniformly distributed charge 8C is placed on the x-axis from x = a/4 to x = 5a/4. Two points charges $$-$$7C and 3C are placed at (a/4, $$-$$a/4, 0) and ($$-$$3a/4, 3a/4, 0), respectively. Consider a cubical surface formed by six surfaces $$x=\\pm a/2,y=\\pm a/2,z=\\pm a/2$$. The electric flux through this cubical surface is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrlnt2q/382dcaff-74aa-428d-ad88-f9ec7a8ce16d/bbf55d20-cd0a-11ed-8124-cf50c8498624/file-1lfrlnt2r.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{ - 2c} \\over {{\\varepsilon _0}}}$$",
         "B": "$${{2c} \\over {{\\varepsilon _0}}}$$",
         "C": "$${{10c} \\over {{\\varepsilon _0}}}$$",
         "D": "$${{12c} \\over {{\\varepsilon _0}}}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A disk of radius $${a \\over 4}$$ having a uniformly distributed charge 6C is placed in the xy-plane with its centre at ($$-$$a/2, 0, 0). A rod of length a carrying a uniformly distributed charge 8C is placed on the x-axis from x = a/4 to x = 5a/4. Two points charges $$-$$7C and 3C are placed at (a/4, $$-$$a/4, 0) and ($$-$$3a/4, 3a/4, 0), respectively. Consider a cubical surface formed by six surfaces $$x=\\pm a/2,y=\\pm a/2,z=\\pm a/2$$. The electric flux through this cubical surface is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 46,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 46,
-      "question_text": "Three concentric metallic spherical shells of radii $$R,2R,3R$$ are given charges $$Q_1,Q_2,Q_3$$, respectively. It is found that the surface charge densities on the outer surfaces of the shells are equal. Then, the ratio of the charges given to the shells, $$Q_1:Q_2:Q_3$$, is",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Three concentric metallic spherical shells of radii $$R,2R,3R$$ are given charges $$Q_1,Q_2,Q_3$$, respectively. It is found that the surface charge densities on the outer surfaces of the shells are equal. Then, the ratio of the charges given to the shells, $$Q_1:Q_2:Q_3$$, is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrlwlf6/9a2405a8-8335-4bd0-a4ff-ed0b87b84753/b053f520-cd0b-11ed-8124-cf50c8498624/file-1lfrlwlf7.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "1 : 2 : 3",
         "B": "1 : 3 : 5",
         "C": "1 : 4 : 9",
         "D": "1 : 8 : 18"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Three concentric metallic spherical shells of radii $$R,2R,3R$$ are given charges $$Q_1,Q_2,Q_3$$, respectively. It is found that the surface charge densities on the outer surfaces of the shells are equal. Then, the ratio of the charges given to the shells, $$Q_1:Q_2:Q_3$$, is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 47,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 47,
-      "question_text": "The $$x$$-$$t$$ graph of a particle undergoing simple harmonic motion is shown in the figure. The acceleration of the particle at $$t=4/3$$ s is",
       "subject": "Physics",
       "topic": "simple-harmonic-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The $$x$$-$$t$$ graph of a particle undergoing simple harmonic motion is shown in the figure. The acceleration of the particle at $$t=4/3$$ s is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrloxnh/d6ed570d-1ecf-43f7-9b07-53e370ee3c03/db4d80d0-cd0a-11ed-8124-cf50c8498624/file-1lfrloxni.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{\\sqrt 3 } \\over {32}}{\\pi ^2}$$ cm/s$$^2$$",
         "B": "$${{ - {\\pi ^2}} \\over {32}}$$ cm/s$$^2$$",
         "C": "$${{  {\\pi ^2}} \\over {32}}$$ cm/s$$^2$$",
         "D": "$$ - {{\\sqrt 3 } \\over {32}}{\\pi ^2}$$ cm/s$$^2$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The $$x$$-$$t$$ graph of a particle undergoing simple harmonic motion is shown in the figure. The acceleration of the particle at $$t=4/3$$ s is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 48,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 48,
-      "question_text": "A ball is dropped from a height of 20 m above the surface of water in a lake. The refractive index of water is 4/3. A fish inside the lake, in the line of fall of the ball, is looking at the ball. At an instant, when the ball is 12.8 m above the water surface, the fish sees the speed of ball as (Take g = 10 m/s$$^2$$)",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A ball is dropped from a height of 20 m above the surface of water in a lake. The refractive index of water is 4/3. A fish inside the lake, in the line of fall of the ball, is looking at the ball. At an instant, when the ball is 12.8 m above the water surface, the fish sees the speed of ball as (Take g = 10 m/s$$^2$$)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrlug6j/d1eed0b6-38c1-413f-8489-777c52574906/74a973b0-cd0b-11ed-8124-cf50c8498624/file-1lfrlug6k.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "9 m/s",
         "B": "12 m/s",
         "C": "16 m/s",
         "D": "21.33 m/s"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A ball is dropped from a height of 20 m above the surface of water in a lake. The refractive index of water is 4/3. A fish inside the lake, in the line of fall of the ball, is looking at the ball. At an instant, when the ball is 12.8 m above the water surface, the fish sees the speed of ball as (Take g = 10 m/s$$^2$$)",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 49,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 49,
-      "question_text": "For the circuit shown in the figure",
       "subject": "Physics",
       "topic": "current-electricity",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "For the circuit shown in the figure",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrlpuok/e394d32a-5ae0-4bbd-afa6-ebd242f14bed/f4d15540-cd0a-11ed-8124-cf50c8498624/file-1lfrlpuol.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrlr44o/2d585c49-d833-4714-80a0-fb5a521d80b6/17ecc280-cd0b-11ed-8124-cf50c8498624/file-1lfrlr44p.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "The current I through the battery is 7.5 mA.",
         "B": "The potential difference across $$R_L$$, is 18 V.",
         "C": "Ratio of powers dissipated in $$R_1$$ and $$R_2$$ is 3.",
         "D": "If $$R_1$$ and $$R_2$$ are interchanged, magnitude of the power dissipated in $$R_L$$ will decrease by a factor of 9."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "For the circuit shown in the figure",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 50,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 50,
-      "question_text": "$$C_V$$ and $$C_P$$ denote the molar specific heat capacities of a gas at constant volume and constant pressure, respectively. Then",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "$$C_V$$ and $$C_P$$ denote the molar specific heat capacities of a gas at constant volume and constant pressure, respectively. Then",
+      "question_images": [],
+      "option_texts": {
         "A": "$$C_P-C_V$$ is larger for a diatomic ideal gas than for a monoatomic ideal gas.",
         "B": "$$C_P+C_V$$ is larger for a diatomic ideal gas than for a monoatomic ideal gas.",
         "C": "$$C_P/C_V$$ is larger for a diatomic ideal gas than for a monoatomic ideal gas.",
         "D": "$$C_P~.C_V$$ is larger for a diatomic ideal gas than for a monoatomic ideal gas."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "$$C_V$$ and $$C_P$$ denote the molar specific heat capacities of a gas at constant volume and constant pressure, respectively. Then",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 51,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 51,
-      "question_text": "A student performed the experiment of determination of focal length of a concave mirror by $$u$$-$$v$$ method using an optical bench of length 1.5 m. The focal length of the mirror used is 24 cm. The maximum error in the location of the image can be 0.2 cm. The 5 sets of ($$u,v$$) values recorded by the student (in cm) are : (42, 56), (48, 48), (60, 40), (66, 33), (78, 39). The data set(s) that cannot come from experiment and is (are) incorrectly recorded, is (are)",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A student performed the experiment of determination of focal length of a concave mirror by $$u$$-$$v$$ method using an optical bench of length 1.5 m. The focal length of the mirror used is 24 cm. The maximum error in the location of the image can be 0.2 cm. The 5 sets of ($$u,v$$) values recorded by the student (in cm) are : (42, 56), (48, 48), (60, 40), (66, 33), (78, 39). The data set(s) that cannot come from experiment and is (are) incorrectly recorded, is (are)",
+      "question_images": [],
+      "option_texts": {
         "A": "(42, 56)",
         "B": "(48, 48)",
         "C": "(66, 33)",
         "D": "(78, 39)"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A student performed the experiment of determination of focal length of a concave mirror by $$u$$-$$v$$ method using an optical bench of length 1.5 m. The focal length of the mirror used is 24 cm. The maximum error in the location of the image can be 0.2 cm. The 5 sets of ($$u,v$$) values recorded by the student (in cm) are : (42, 56), (48, 48), (60, 40), (66, 33), (78, 39). The data set(s) that cannot come from experiment and is (are) incorrectly recorded, is (are)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 52,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 52,
-      "question_text": "If the resultant of all the external forces acting on a system of particles is zero, then from an inertial frame, one can surely say that",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the resultant of all the external forces acting on a system of particles is zero, then from an inertial frame, one can surely say that",
+      "question_images": [],
+      "option_texts": {
         "A": "Linear momentum of the system does not change in time.",
         "B": "Kinetic energy of the system does not change in time.",
         "C": "Angular momentum of the system does not change in time.",
         "D": "Potential energy of the system does not change in time."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "If the resultant of all the external forces acting on a system of particles is zero, then from an inertial frame, one can surely say that",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 53,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 53,
-      "question_text": "The allowed energy for the particle for a particular value of $$n$$ is proportional to",
       "subject": "Physics",
       "topic": "dual-nature-of-radiation",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The allowed energy for the particle for a particular value of $$n$$ is proportional to",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrmdbi3/b772a62d-e133-49ee-985d-13aee8facf00/816bfbc0-cd0d-11ed-8124-cf50c8498624/file-1lfrmdbi4.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${a^{ - 2}}$$",
         "B": "$${a^{ - 3/2}}$$",
         "C": "$${a^{ - 1}}$$",
         "D": "$${a^2}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The allowed energy for the particle for a particular value of $$n$$ is proportional to",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 54,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 54,
-      "question_text": "If the mass of the particle is $$m=1.0\\times10^{-30}$$ kg and $$a=6.6$$ nm, the energy of the particle in its ground state is closest to",
       "subject": "Physics",
       "topic": "dual-nature-of-radiation",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the mass of the particle is $$m=1.0\\times10^{-30}$$ kg and $$a=6.6$$ nm, the energy of the particle in its ground state is closest to",
+      "question_images": [],
+      "option_texts": {
         "A": "0.8 meV",
         "B": "8 meV",
         "C": "80 meV",
         "D": "800 meV"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "If the mass of the particle is $$m=1.0\\times10^{-30}$$ kg and $$a=6.6$$ nm, the energy of the particle in its ground state is closest to",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 55,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 55,
-      "question_text": "The speed of the particle, that can take discrete values, is proportional to",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The speed of the particle, that can take discrete values, is proportional to",
+      "question_images": [],
+      "option_texts": {
         "A": "$${n^{ - 3/2}}$$",
         "B": "$${n^{ - 1}}$$",
         "C": "$${n^{1/2}}$$",
         "D": "$$n$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The speed of the particle, that can take discrete values, is proportional to",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 56,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 56,
-      "question_text": "In the core of nuclear fusion reactor, the gas becomes plasma because of",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In the core of nuclear fusion reactor, the gas becomes plasma because of",
+      "question_images": [],
+      "option_texts": {
         "A": "strong nuclear force acting between the deuterons.",
         "B": "Coulomb force acting between the deuterons.",
         "C": "Coulomb force acting between deuteron-electrons pairs.",
         "D": "the high temperature maintained inside the reactor core."
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "In the core of nuclear fusion reactor, the gas becomes plasma because of",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 57,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 57,
-      "question_text": "Assume that two deuteron nuclei in the core of fusion reactor at temperature T are moving towards each other, each with kinetic energy 1.5 kT, when the separation between them is large enough to neglect Coulomb potential energy. Also neglect any interaction from other particles in the core. The minimum temperature T required for them to reach a separation of 4 $$\\times$$ 10$$^{-15}$$ m is in the range",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Assume that two deuteron nuclei in the core of fusion reactor at temperature T are moving towards each other, each with kinetic energy 1.5 kT, when the separation between them is large enough to neglect Coulomb potential energy. Also neglect any interaction from other particles in the core. The minimum temperature T required for them to reach a separation of 4 $$\\times$$ 10$$^{-15}$$ m is in the range",
+      "question_images": [],
+      "option_texts": {
         "A": "$$1.0 \\times {10^9}K < T < 2.0 < {10^9}K$$",
         "B": "$$2.0 \\times {10^9}K < T < 3.0 < {10^9}K$$",
         "C": "$$3.0 \\times {10^9}K < T < 4.0 < {10^9}K$$",
         "D": "$$4.0 \\times {10^9}K < T < 5.0 < {10^9}K$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Assume that two deuteron nuclei in the core of fusion reactor at temperature T are moving towards each other, each with kinetic energy 1.5 kT, when the separation between them is large enough to neglect Coulomb potential energy. Also neglect any interaction from other particles in the core. The minimum temperature T required for them to reach a separation of 4 $$\\times$$ 10$$^{-15}$$ m is in the range",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 58,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 58,
-      "question_text": "Results of calculations for four different designs of a fusion reactor using D-D reaction are given below. Which of these is most promising based on Lawson criterion?",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Results of calculations for four different designs of a fusion reactor using D-D reaction are given below. Which of these is most promising based on Lawson criterion?",
+      "question_images": [],
+      "option_texts": {
         "A": "Deuteron density = $$2.0\\times10^{12}~\\mathrm{cm^{-3}}$$; Confinement time = $$5.0\\times10^{-3}~\\mathrm{s}$$.",
         "B": "Deuteron density = $$8.0\\times10^{14}~\\mathrm{cm^{-3}}$$; Confinement time = $$9.0\\times10^{-1}~\\mathrm{s}$$.",
         "C": "Deuteron density = $$4.0\\times10^{23}~\\mathrm{cm^{-3}}$$; Confinement time = $$1.0\\times10^{-11}~\\mathrm{s}$$.",
         "D": "Deuteron density = $$1.0\\times10^{24}~\\mathrm{cm^{-3}}$$; Confinement time = $$4.0\\times10^{-12}~\\mathrm{s}$$."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Results of calculations for four different designs of a fusion reactor using D-D reaction are given below. Which of these is most promising based on Lawson criterion?",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 59,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 59,
-      "question_text": "Column II shows five systems in which two objects are labelled as X and Y. Also in each case a point P is shown. Column I gives some statements about X and/or Y. Match these statements to the appropriate system(s) from Column II:\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n\n\n\n\n\n\n  \n    \n    Column I\n    \n    Column II\n  \n\n\n  \n    (A)\n    The force exerted by X on Y has a magnitude $$Mg$$.\n    (P)\n    \nBlock Y of mass M left on a fixed inclined plane X, slides on it with a constant velocity.\n  \n  \n    (B)\n    The gravitational potential energy of X is continuously increasing.\n    (Q)\n    \nTwo rings magnets Y and Z, each of mass M, are kept in frictionless vertical plastic stand so that they repel each other. Y rests on the base X and Z hangs in air in equilibrium. P is the topmost point of the stand on the common axis of the two rings. The whole system is in a lift that is going up with a constant velocity.\n  \n  \n    (C)\n    Mechanical energy of the system X + Y is continuously decreasing.\n    (R)\n    \nA pulley Y of mass $$m_0$$ is fixed to a table through a clamp X. A block of mass M hangs from a string that goes over the pulley and is fixed at point P of the table. The whole system is kept in a lift that is going down with a constant velocity.\n  \n  \n    (D)\n    The torque of the weight of Y about point is zero.\n    (S)\n    \nA sphere Y of mass M is put in a non-viscous liquid X kept in a container at rest. The sphere is released and it moves down in the liquid.\n  \n  \n    \n    \n    (T)\n    \nA sphere Y of mass M is falling with its terminal velocity in a viscous liquid X kept in a container.",
       "subject": "Physics",
       "topic": "gravitation",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Column II shows five systems in which two objects are labelled as X and Y. Also in each case a point P is shown. Column I gives some statements about X and/or Y. Match these statements to the appropriate system(s) from Column II:\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n\n\n\n\n\n\n  \n    \n    Column I\n    \n    Column II\n  \n\n\n  \n    (A)\n    The force exerted by X on Y has a magnitude $$Mg$$.\n    (P)\n    \nBlock Y of mass M left on a fixed inclined plane X, slides on it with a constant velocity.\n  \n  \n    (B)\n    The gravitational potential energy of X is continuously increasing.\n    (Q)\n    \nTwo rings magnets Y and Z, each of mass M, are kept in frictionless vertical plastic stand so that they repel each other. Y rests on the base X and Z hangs in air in equilibrium. P is the topmost point of the stand on the common axis of the two rings. The whole system is in a lift that is going up with a constant velocity.\n  \n  \n    (C)\n    Mechanical energy of the system X + Y is continuously decreasing.\n    (R)\n    \nA pulley Y of mass $$m_0$$ is fixed to a table through a clamp X. A block of mass M hangs from a string that goes over the pulley and is fixed at point P of the table. The whole system is kept in a lift that is going down with a constant velocity.\n  \n  \n    (D)\n    The torque of the weight of Y about point is zero.\n    (S)\n    \nA sphere Y of mass M is put in a non-viscous liquid X kept in a container at rest. The sphere is released and it moves down in the liquid.\n  \n  \n    \n    \n    (T)\n    \nA sphere Y of mass M is falling with its terminal velocity in a viscous liquid X kept in a container.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrm3h1v/e6f57050-4c12-497c-a87e-277df0b5ab0f/6f9dd630-cd0c-11ed-8124-cf50c8498624/file-1lfrm3h1w.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrm3xly/21a94ee9-0a76-4812-a2ec-7354345dc3f8/7c683860-cd0c-11ed-8124-cf50c8498624/file-1lfrm3xlz.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrm4e7k/34779392-8610-4158-9ce7-67caee250e55/893aff00-cd0c-11ed-8124-cf50c8498624/file-1lfrm4e7l.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrm4xya/7028b443-3ec7-41de-b742-d1d3641b098b/987b4330-cd0c-11ed-8124-cf50c8498624/file-1lfrm4xyb.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrm4xya/7028b443-3ec7-41de-b742-d1d3641b098b/987b4330-cd0c-11ed-8124-cf50c8498624/file-1lfrm4xyb.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrm977l/e5125130-4634-4e1d-b27b-43cd072f58ff/0ede9310-cd0d-11ed-8124-cf50c8498624/file-1lfrm977m.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$\\mathrm{(A)\\to (T),(S);(B)\\to (Q),(T);(C)\\to(P),(R),(T);(D)\\to(Q)}$$",
         "B": "$$\\mathrm{(A)\\to (T),(P);(B)\\to (Q),(S),(T);(C)\\to(P),(R),(T);(D)\\to(Q)}$$",
         "C": "$$\\mathrm{(A)\\to (T),(Q);(B)\\to (Q),(S),(T);(C)\\to(P),(R),(T);(D)\\to(S)}$$",
         "D": "$$\\mathrm{(A)\\to (P);(B)\\to (S),(T);(C)\\to(P),(R),(T);(D)\\to(T)}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Column II shows five systems in which two objects are labelled as X and Y. Also in each case a point P is shown. Column I gives some statements about X and/or Y. Match these statements to the appropriate system(s) from Column II: \n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n\n\n\n\n\n\n  \n    \n    Column I\n    \n    Column II\n  \n\n\n  \n    (A)\n    The force exerted by X on Y has a magnitude $$Mg$$.\n    (P)\n    Block Y of mass M left on a fixed inclined plane X, slides on it with a constant velocity.\n  \n  \n    (B)\n    The gravitational potential energy of X is continuously increasing.\n    (Q)\n    Two rings magnets Y and Z, each of mass M, are kept in frictionless vertical plastic stand so that they repel each other. Y rests on the base X and Z hangs in air in equilibrium. P is the topmost point of the stand on the common axis of the two rings. The whole system is in a lift that is going up with a constant velocity.\n  \n  \n    (C)\n    Mechanical energy of the system X + Y is continuously decreasing.\n    (R)\n    A pulley Y of mass $$m_0$$ is fixed to a table through a clamp X. A block of mass M hangs from a string that goes over the pulley and is fixed at point P of the table. The whole system is kept in a lift that is going down with a constant velocity.\n  \n  \n    (D)\n    The torque of the weight of Y about point is zero.\n    (S)\n    A sphere Y of mass M is put in a non-viscous liquid X kept in a container at rest. The sphere is released and it moves down in the liquid.\n  \n  \n    \n    \n    (T)\n    A sphere Y of mass M is falling with its terminal velocity in a viscous liquid X kept in a container.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 60,
       "year": 2009,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 60,
-      "question_text": "Six point charges, each of the same magnitude q, are arranged in different manners as shown in Column II. In each case, a point M and a line PQ passing through M are shown. Let  E be the electric field and V be the electric potential at M (potential at infinity is zero) due to the given charge distribution when it is at rest. Now, the whole system is set into rotation with a constant angular velocity about the line PQ. Let B be the magnetic field at M and $$\\mu$$ be the magnetic moment of the system in this condition. Assume each rotating charge to be equivalent to a steady current.\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n\n\n\n\n\n\n  \n    \n    Column I\n    \n    Column II\n  \n\n\n  \n    (A)\n    $$E=0$$\n    (P)\n    \nCharge are at the corners of a regular hexagon. M is at the centre of the hexagon. PQ is perpendicular to the plane of the hexagon.\n  \n  \n    (B)\n    $$V\\ne 0$$\n    (Q)\n    \nCharges are on a line perpendicular to PQ at equal intervals. M is the midpoint between the two innermost charges.\n  \n  \n    (C)\n    $$B=0$$\n    (R)\n    \nCharges are placed on two coplanar insulating rings at equal intervals. M is the common centre of the rings. PQ is perpendicular to the plane of the rings.\n  \n  \n    (D)\n    $$\\mu \\ne 0$$\n    (S)\n    \nCharges are placed at the corners of a rectangle of sides a and 2a and at the mid points of the longer sides. M is at the centre of the rectangle. PQ is parallel to the longer sides.\n  \n  \n    \n    \n    (T)\n    \nCharges are placed on two coplanar, identical insulating rings are equal intervals. M is the midpoint between the centres of the rings. PQ is perpendicular to the line joining the centres and coplanar to the rings.",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Six point charges, each of the same magnitude q, are arranged in different manners as shown in Column II. In each case, a point M and a line PQ passing through M are shown. Let  E be the electric field and V be the electric potential at M (potential at infinity is zero) due to the given charge distribution when it is at rest. Now, the whole system is set into rotation with a constant angular velocity about the line PQ. Let B be the magnetic field at M and $$\\mu$$ be the magnetic moment of the system in this condition. Assume each rotating charge to be equivalent to a steady current.\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n\n\n\n\n\n\n  \n    \n    Column I\n    \n    Column II\n  \n\n\n  \n    (A)\n    $$E=0$$\n    (P)\n    \nCharge are at the corners of a regular hexagon. M is at the centre of the hexagon. PQ is perpendicular to the plane of the hexagon.\n  \n  \n    (B)\n    $$V\\ne 0$$\n    (Q)\n    \nCharges are on a line perpendicular to PQ at equal intervals. M is the midpoint between the two innermost charges.\n  \n  \n    (C)\n    $$B=0$$\n    (R)\n    \nCharges are placed on two coplanar insulating rings at equal intervals. M is the common centre of the rings. PQ is perpendicular to the plane of the rings.\n  \n  \n    (D)\n    $$\\mu \\ne 0$$\n    (S)\n    \nCharges are placed at the corners of a rectangle of sides a and 2a and at the mid points of the longer sides. M is at the centre of the rectangle. PQ is parallel to the longer sides.\n  \n  \n    \n    \n    (T)\n    \nCharges are placed on two coplanar, identical insulating rings are equal intervals. M is the midpoint between the centres of the rings. PQ is perpendicular to the line joining the centres and coplanar to the rings.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrmktvm/abbf6dc7-f861-423e-9f40-7cdf58259e7f/5247b220-cd0e-11ed-8124-cf50c8498624/file-1lfrmktvn.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrmkglb/14a4a8ff-c8e3-4aa0-b67c-7a18b850171b/480448f0-cd0e-11ed-8124-cf50c8498624/file-1lfrmkglc.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrmjqu1/ed271ff2-7edc-46af-9bd4-a65c10e4c653/341e9890-cd0e-11ed-8124-cf50c8498624/file-1lfrmjqu2.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrmjepi/54a3564a-5f1a-416a-9cdb-0e81f7480b10/2ac0d470-cd0e-11ed-8124-cf50c8498624/file-1lfrmjepj.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lfrmj27z/a4683242-7e69-4374-b223-3e68dad60e79/211b58f0-cd0e-11ed-8124-cf50c8498624/file-1lfrmj280.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$\\mathrm{(A)\\to(R),(S);(B)\\to(R),(S);(C)\\to(P),(Q),(T);(D)\\to(T),(S)}$$",
         "B": "$$\\mathrm{(A)\\to(P),(R),(S);(B)\\to(R),(S);(C)\\to(P),(Q),(S);(D)\\to(R),(S)}$$",
         "C": "$$\\mathrm{(A)\\to(P),(R),(S);(B)\\to(R),(S);(C)\\to(P),(Q),(T);(D)\\to(R),(S)}$$",
         "D": "$$\\mathrm{(A)\\to(P),(Q),(S);(B)\\to(R),(S);(C)\\to(P),(Q),(T);(D)\\to(R),(S)}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Six point charges, each of the same magnitude q, are arranged in different manners as shown in Column II. In each case, a point M and a line PQ passing through M are shown. Let  E be the electric field and V be the electric potential at M (potential at infinity is zero) due to the given charge distribution when it is at rest. Now, the whole system is set into rotation with a constant angular velocity about the line PQ. Let B be the magnetic field at M and $$\\mu$$ be the magnetic moment of the system in this condition. Assume each rotating charge to be equivalent to a steady current. \n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n\n\n\n\n\n\n  \n    \n    Column I\n    \n    Column II\n  \n\n\n  \n    (A)\n    $$E=0$$\n    (P)\n    Charge are at the corners of a regular hexagon. M is at the centre of the hexagon. PQ is perpendicular to the plane of the hexagon.\n  \n  \n    (B)\n    $$V\\ne 0$$\n    (Q)\n    Charges are on a line perpendicular to PQ at equal intervals. M is the midpoint between the two innermost charges.\n  \n  \n    (C)\n    $$B=0$$\n    (R)\n    Charges are placed on two coplanar insulating rings at equal intervals. M is the common centre of the rings. PQ is perpendicular to the plane of the rings.\n  \n  \n    (D)\n    $$\\mu \\ne 0$$\n    (S)\n    Charges are placed at the corners of a rectangle of sides a and 2a and at the mid points of the longer sides. M is at the centre of the rectangle. PQ is parallel to the longer sides.\n  \n  \n    \n    \n    (T)\n    Charges are placed on two coplanar, identical insulating rings are equal intervals. M is the midpoint between the centres of the rings. PQ is perpendicular to the line joining the centres and coplanar to the rings.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     }
   ]
 }

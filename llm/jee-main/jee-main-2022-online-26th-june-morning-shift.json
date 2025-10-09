@@ -8,1496 +8,1670 @@
   },
   "questions": [
     {
+      "question_number": 1,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 1,
-      "question_text": "A commercially sold conc. HCl is 35% HCl by mass. If the density of this commercial acid is 1.46 g/mL, the molarity of this solution is:\n\n(Atomic mass : Cl = 35.5 amu, H = 1 amu)",
       "subject": "Chemistry",
       "topic": "some-basic-concepts-of-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A commercially sold conc. HCl is 35% HCl by mass. If the density of this commercial acid is 1.46 g/mL, the molarity of this solution is:\n\n(Atomic mass : Cl = 35.5 amu, H = 1 amu)",
+      "question_images": [],
+      "option_texts": {
         "A": "10.2 M",
         "B": "12.5 M",
         "C": "14.0 M",
         "D": "18.2 M"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A commercially sold conc. HCl is 35% HCl by mass. If the density of this commercial acid is 1.46 g/mL, the molarity of this solution is: \n(Atomic mass : Cl = 35.5 amu, H = 1 amu)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 2,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 2,
-      "question_text": "If the radius of the 3rd Bohr's orbit of hydrogen atom is r3 and the radius of 4th Bohr's orbit is r4. Then :",
       "subject": "Chemistry",
       "topic": "structure-of-atom",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the radius of the 3rd Bohr's orbit of hydrogen atom is r3 and the radius of 4th Bohr's orbit is r4. Then :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${r_4} = {9 \\over {16}}{r_3}$$",
         "B": "$${r_4} = {16 \\over {9}}{r_3}$$",
         "C": "$${r_4} = {3 \\over {4}}{r_3}$$",
         "D": "$${r_4} = {4 \\over {3}}{r_3}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "If the radius of the 3^{rd} Bohr's orbit of hydrogen atom is r_{3} and the radius of 4^{th} Bohr's orbit is r_{4}. Then :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 3,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 3,
-      "question_text": "Consider the ions/molecule\n\nO$$_2^ + $$, O2, O$$_2^ - $$, O$$_2^ {2-} $$\n\nFor increasing bond order the correct option is :",
       "subject": "Chemistry",
       "topic": "chemical-bonding-and-molecular-structure",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider the ions/molecule\n\nO$$_2^ + $$, O2, O$$_2^ - $$, O$$_2^ {2-} $$\n\nFor increasing bond order the correct option is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/BCZnqLDgpImUxYpB2/Zg1gK5Q1xLj1n6tAiUJqhAxB3rbvD/vRErIfl3wacw1pMY708M3N/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/3716soaUWwytJgHTQ/oPYd44rDhbA5TN79TWk4x4Gr9ndzq/EsglJdUOMHR8rQaoVR1KAZ/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "O$$_2^ {2-} $$ < O$$_2^ - $$ < O_{2} < O$$_2^ + $$",
         "B": "O$$_2^ - $$ < O$$_2^ {2-} $$ < O_{2} < O$$_2^ + $$",
         "C": "O$$_2^ - $$ < O$$_2^ {2-} $$ < O$$_2^ + $$ < O_{2}",
         "D": "O$$_2^ - $$ < O$$_2^ + $$ < O$$_2^ {2-} $$ < O_{2}"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Consider the ions/molecule \nO$$_2^ + $$, O_{2}, O$$_2^ - $$, O$$_2^ {2-} $$ \nFor increasing bond order the correct option is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 4,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 4,
-      "question_text": "The $${\\left( {{{\\partial E} \\over {\\partial T}}} \\right)_P}$$ of different types of half cells are as follows:\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n\n\n\n\n\n\n\n\n\n  \n    A\n    B\n    C\n    D\n  \n\n\n  \n    $$1 \\times {10^{ - 4}}$$\n    $$2 \\times {10^{ - 4}}$$\n    $$0.1 \\times {10^{ - 4}}$$\n    $$0.2 \\times {10^{ - 4}}$$\n  \n\n\n\n(Where E is the electromotive force)\n\nWhich of the above half cells would be preferred to be used as reference electrode?",
       "subject": "Chemistry",
       "topic": "electrochemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The $${\\left( {{{\\partial E} \\over {\\partial T}}} \\right)_P}$$ of different types of half cells are as follows:\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n\n\n\n\n\n\n\n\n\n  \n    A\n    B\n    C\n    D\n  \n\n\n  \n    $$1 \\times {10^{ - 4}}$$\n    $$2 \\times {10^{ - 4}}$$\n    $$0.1 \\times {10^{ - 4}}$$\n    $$0.2 \\times {10^{ - 4}}$$\n  \n\n\n\n(Where E is the electromotive force)\n\nWhich of the above half cells would be preferred to be used as reference electrode?",
+      "question_images": [],
+      "option_texts": {
         "A": "A",
         "B": "B",
         "C": "C",
         "D": "D"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The $${\\left( {{{\\partial E} \\over {\\partial T}}} \\right)_P}$$ of different types of half cells are as follows: \n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n\n\n\n\n\n\n\n\n\n  \n    A\n    B\n    C\n    D\n  \n\n\n  \n    $$1 \\times {10^{ - 4}}$$\n    $$2 \\times {10^{ - 4}}$$\n    $$0.1 \\times {10^{ - 4}}$$\n    $$0.2 \\times {10^{ - 4}}$$\n  \n\n\n(Where E is the electromotive force) \nWhich of the above half cells would be preferred to be used as reference electrode?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 5,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 5,
-      "question_text": "Choose the correct stability order of group 13 elements in their + 1 oxidation state :",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Choose the correct stability order of group 13 elements in their + 1 oxidation state :",
+      "question_images": [],
+      "option_texts": {
         "A": "Al < Ga < In < Tl",
         "B": "Tl < In < Ga < Al",
         "C": "Al < Ga < Tl < In",
         "D": "Al < Tl < Ga < In"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Choose the correct stability order of group 13 elements in their + 1 oxidation state :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 6,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 6,
-      "question_text": "Given below are two statements :\n\nStatement I : In 'Lassaigne's Test', when both nitrogen and sulphur are present in an organic compound, sodium thiocyanate is formed.\n\nStatement II : If both nitrogen and sulphur are present in an organic compound, then the excess of sodium used in sodium fusion will decompose the sodium thiocyanate formed to give NaCN and Na2S.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below :",
       "subject": "Chemistry",
       "topic": "practical-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Given below are two statements :\n\nStatement I : In 'Lassaigne's Test', when both nitrogen and sulphur are present in an organic compound, sodium thiocyanate is formed.\n\nStatement II : If both nitrogen and sulphur are present in an organic compound, then the excess of sodium used in sodium fusion will decompose the sodium thiocyanate formed to give NaCN and Na2S.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below :",
+      "question_images": [],
+      "option_texts": {
         "A": "Both Statement I and Statement II are correct.",
         "B": "Both Statement I and Statement II are incorrect.",
         "C": "Statement I is correct but Statement II is incorrect.",
         "D": "Statement I is incorrect but Statement II is correct."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Given below are two statements : \nStatement I : In 'Lassaigne's Test', when both nitrogen and sulphur are present in an organic compound, sodium thiocyanate is formed. \nStatement II : If both nitrogen and sulphur are present in an organic compound, then the excess of sodium used in sodium fusion will decompose the sodium thiocyanate formed to give NaCN and Na_{2}S. \nIn the light of the above statements, choose the most appropriate answer from the options given below :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 7,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 7,
-      "question_text": "(C7H5O2)2 $$\\buildrel {hv} \\over\n \\longrightarrow $$ [X] $$\\to$$ 2C6H5 + 2CO2\n\nConsider the above reaction and identify the intermediate 'X'",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "(C7H5O2)2 $$\\buildrel {hv} \\over\n \\longrightarrow $$ [X] $$\\to$$ 2C6H5 + 2CO2\n\nConsider the above reaction and identify the intermediate 'X'",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l97q2m1c/262aaaec-6845-4889-8a3b-5d7ee3790b74/02e9d100-4b53-11ed-86ad-0bb7aa407afc/file-1l97q2m1d.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bsy7zf/6a4747eb-678c-4aa3-ae56-8afb0047ba26/894a5bb0-fe60-11ec-b169-b5046c590266/file-1l5bsy7zg.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bsxdnb/43ad1921-f696-4d15-8fe0-788956256d60/71db3670-fe60-11ec-b169-b5046c590266/file-1l5bsxdnc.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5cck42n/0bf7fa4f-dcdd-48ae-bbc8-3370c9a81320/378652f0-fead-11ec-961d-1b7b54c57958/file-1l5cck42o.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5ccm699/099e220f-e95c-4921-ac45-27605cd2cae5/70d494e0-fead-11ec-961d-1b7b54c57958/file-1l5ccm69a.png",
+          "description": ""
+        }
+      },
       "correct_answer": "D",
-      "question": "(C_{7}H_{5}O_{2})_{2} $$\\buildrel {hv} \\over\n \\longrightarrow $$ [X] $$\\to$$ 2C_{6}H_{5} + 2CO_{2}\nConsider the above reaction and identify the intermediate 'X'",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 8,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 8,
-      "question_text": "Consider the above reaction sequence and identify the product B.",
       "subject": "Chemistry",
       "topic": "alcohols-phenols-and-ethers",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider the above reaction sequence and identify the product B.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bpuy8v/0560d653-d7a5-4baa-8d81-a90c3ad2049a/72f416f0-fe54-11ec-b169-b5046c590266/file-1l5bpuy8w.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l97q6tsh/e56d1c21-8e34-4796-a27c-b30883d84381/7823bc10-4b53-11ed-86ad-0bb7aa407afc/file-1l97q6tsi.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bpw7je/6bd69b79-33ed-4522-95c5-345cd76cbe3a/95f0d8a0-fe54-11ec-b169-b5046c590266/file-1l5bpw7jf.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bpxbf8/25f9c463-6d87-430b-a234-b2602b2b7ace/b4c01d40-fe54-11ec-b169-b5046c590266/file-1l5bpxbf9.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bpy7np/5c54083d-ffe4-4ae3-844c-89eceb1f94fe/cda6c750-fe54-11ec-b169-b5046c590266/file-1l5bpy7nq.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bpz5ys/343ab2c0-e495-406d-b39a-576c5522b978/e8274b40-fe54-11ec-b169-b5046c590266/file-1l5bpz5yt.png",
+          "description": ""
+        }
+      },
       "correct_answer": "A",
-      "question": "Consider the above reaction sequence and identify the product B.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 9,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 9,
-      "question_text": "Which will have the highest enol content?",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which will have the highest enol content?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l97q8byp/70fd8fd1-a59b-45c7-a192-b6df38a7be1a/a1fca010-4b53-11ed-86ad-0bb7aa407afc/file-1l97q8byq.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bq3brn/c3ca679c-95c3-4a04-b6d3-a5d87b286c17/5bdf2a30-fe55-11ec-b169-b5046c590266/file-1l5bq3bro.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bq2xmp/20ae1c35-268e-47f4-aeb6-8087791489e0/50f37310-fe55-11ec-b169-b5046c590266/file-1l5bq2xmq.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bq2f7x/11aa25c7-d06b-4025-9813-e494aa87f5cf/42bab3d0-fe55-11ec-b169-b5046c590266/file-1l5bq2f7y.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bq1yg1/7156baf1-477d-4912-8d55-a26c4fa52098/35c57110-fe55-11ec-b169-b5046c590266/file-1l5bq1yg2.png",
+          "description": ""
+        }
+      },
       "correct_answer": "C",
-      "question": "Which will have the highest enol content?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 10,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 10,
-      "question_text": "Among the following structures, which will show the most stable enamine formation? (Where Me is $$-$$CH3)",
       "subject": "Chemistry",
       "topic": "compounds-containing-nitrogen",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Among the following structures, which will show the most stable enamine formation? (Where Me is $$-$$CH3)",
+      "question_images": [],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bq4f7y/6572f9c9-ebfd-4223-a4cf-1e9cacfef373/7a5922e0-fe55-11ec-b169-b5046c590266/file-1l5bq4f7z.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bq58ag/b331cf93-ad22-44f9-8e26-848a4105b481/90cdbb80-fe55-11ec-b169-b5046c590266/file-1l5bq58ah.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bq6ec4/d724f2a8-07ec-4cae-90ef-57e72834c797/b1488d40-fe55-11ec-b169-b5046c590266/file-1l5bq6ec5.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bq79tw/f3391b87-a147-4a90-b606-553c3f1725a9/c99c9440-fe55-11ec-b169-b5046c590266/file-1l5bq79tx.png",
+          "description": ""
+        }
+      },
       "correct_answer": "C",
-      "question": "Among the following structures, which will show the most stable enamine formation? (Where Me is $$-$$CH_{3})",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 11,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 11,
-      "question_text": "Which statement is not true with respect to nitrate ion test?",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which statement is not true with respect to nitrate ion test?",
+      "question_images": [],
+      "option_texts": {
         "A": "A dark brown ring is formed at the junction of two solutions.",
         "B": "Ring is formed due to nitroferrous sulphate complex.",
         "C": "The brown complex is [Fe(H_{2}O)_{5} (NO)]SO_{4}.",
         "D": "Heating the nitrate salt with conc. H_{2}SO_{4}, light brown fumes are evolved."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Which statement is not true with respect to nitrate ion test?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 12,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 12,
-      "question_text": "For complete combustion of methanol\n\nCH3OH(I) + $${3 \\over 2}$$O2(g) $$\\to$$ CO2(g) + 2H2O(I)\n\nthe amount of heat produced as measured by bomb calorimeter is 726 kJ mol$$-$$1 at 27$$^\\circ$$C. The enthalpy of combustion for the reaction is $$-$$x kJ mol$$-$$1, where x is ___________. (Nearest integer)\n\n(Given : R = 8.3 JK$$-$$1 mol$$-$$1)",
       "subject": "Chemistry",
       "topic": "thermodynamics",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "For complete combustion of methanol\n\nCH3OH(I) + $${3 \\over 2}$$O2(g) $$\\to$$ CO2(g) + 2H2O(I)\n\nthe amount of heat produced as measured by bomb calorimeter is 726 kJ mol$$-$$1 at 27$$^\\circ$$C. The enthalpy of combustion for the reaction is $$-$$x kJ mol$$-$$1, where x is ___________. (Nearest integer)\n\n(Given : R = 8.3 JK$$-$$1 mol$$-$$1)",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "For complete combustion of methanol \nCH_{3}OH(I) + $${3 \\over 2}$$O_{2}(g) $$\\to$$ CO_{2}(g) + 2H_{2}O(I) \nthe amount of heat produced as measured by bomb calorimeter is 726 kJ mol^{$$-$$1} at 27$$^\\circ$$C. The enthalpy of combustion for the reaction is $$-$$x kJ mol^{$$-$$1}, where x is ___________. (Nearest integer) \n(Given : R = 8.3 JK^{$$-$$1} mol^{$$-$$1})",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 13,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 13,
-      "question_text": "A 0.5 percent solution of potassium chloride was found to freeze at $$-$$0.24$$^\\circ$$C. The percentage dissociation of potassium chloride is ______________. (Nearest integer)\n\n(Molal depression constant for water is 1.80 K kg mol$$-$$1 and molar mass of KCl is 74.6 g mol$$-$$1)",
       "subject": "Chemistry",
       "topic": "solutions",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A 0.5 percent solution of potassium chloride was found to freeze at $$-$$0.24$$^\\circ$$C. The percentage dissociation of potassium chloride is ______________. (Nearest integer)\n\n(Molal depression constant for water is 1.80 K kg mol$$-$$1 and molar mass of KCl is 74.6 g mol$$-$$1)",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A 0.5 percent solution of potassium chloride was found to freeze at $$-$$0.24$$^\\circ$$C. The percentage dissociation of potassium chloride is ______________. (Nearest integer) \n(Molal depression constant for water is 1.80 K kg mol^{$$-$$1} and molar mass of KCl is 74.6 g mol^{$$-$$1})",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 14,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 14,
-      "question_text": "50 mL of 0.1 M CH3COOH is being titrated against 0.1 M NaOH. When 25 mL of NaOH has been added, the pH of the solution will be _____________ $$\\times$$ 10$$-$$2. (Nearest integer)\n\n(Given : pKa (CH3COOH) = 4.76)\n\nlog 2 = 0.30\n\nlog 3 = 0.48\n\nlog 5 = 0.69\n\nlog 7 = 0.84\n\nlog 11 = 1.04",
       "subject": "Chemistry",
       "topic": "ionic-equilibrium",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "50 mL of 0.1 M CH3COOH is being titrated against 0.1 M NaOH. When 25 mL of NaOH has been added, the pH of the solution will be _____________ $$\\times$$ 10$$-$$2. (Nearest integer)\n\n(Given : pKa (CH3COOH) = 4.76)\n\nlog 2 = 0.30\n\nlog 3 = 0.48\n\nlog 5 = 0.69\n\nlog 7 = 0.84\n\nlog 11 = 1.04",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "50 mL of 0.1 M CH_{3}COOH is being titrated against 0.1 M NaOH. When 25 mL of NaOH has been added, the pH of the solution will be _____________ $$\\times$$ 10^{$$-$$2}. (Nearest integer) \n(Given : pK_{a} (CH_{3}COOH) = 4.76) \nlog 2 = 0.30 \nlog 3 = 0.48 \nlog 5 = 0.69 \nlog 7 = 0.84 \nlog 11 = 1.04",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 15,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 15,
-      "question_text": "A flask is filled with equal moles of A and B. The half lives of A and B are 100 s and 50 s respectively and are independent of the initial concentration. The time required for the concentration of A to be four times that of B is ___________ s.\n\n(Given : ln 2 = 0.693)",
       "subject": "Chemistry",
       "topic": "chemical-kinetics-and-nuclear-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A flask is filled with equal moles of A and B. The half lives of A and B are 100 s and 50 s respectively and are independent of the initial concentration. The time required for the concentration of A to be four times that of B is ___________ s.\n\n(Given : ln 2 = 0.693)",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A flask is filled with equal moles of A and B. The half lives of A and B are 100 s and 50 s respectively and are independent of the initial concentration. The time required for the concentration of A to be four times that of B is ___________ s. \n(Given : ln 2 = 0.693)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 16,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 16,
-      "question_text": "The spin-only magnetic moment value of the most basic oxide of vanadium among V2O3, V2O4 and V2O5 is _____________ B.M. (Nearest integer)",
       "subject": "Chemistry",
       "topic": "d-and-f-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The spin-only magnetic moment value of the most basic oxide of vanadium among V2O3, V2O4 and V2O5 is _____________ B.M. (Nearest integer)",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The spin-only magnetic moment value of the most basic oxide of vanadium among V_{2}O_{3}, V_{2}O_{4} and V_{2}O_{5} is _____________ B.M. (Nearest integer)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 17,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 17,
-      "question_text": "The spin-only magnetic moment value of an octahedral complex among CoCl3.4NH3, NiCl2.6H2O and PtCl4.2HCl, which upon reaction with excess of AgNO3 gives 2 moles of AgCl is ___________ B.M. (Nearest integer)",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The spin-only magnetic moment value of an octahedral complex among CoCl3.4NH3, NiCl2.6H2O and PtCl4.2HCl, which upon reaction with excess of AgNO3 gives 2 moles of AgCl is ___________ B.M. (Nearest integer)",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The spin-only magnetic moment value of an octahedral complex among CoCl_{3}.4NH_{3}, NiCl_{2}.6H_{2}O and PtCl_{4}.2HCl, which upon reaction with excess of AgNO_{3} gives 2 moles of AgCl is ___________ B.M. (Nearest integer)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 18,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 18,
-      "question_text": "On complete combustion 0.30 g of an organic compound gave 0.20 g of carbon dioxide and 0.10 g of water. The percentage of carbon in the given organic compound is _____________. (Nearest integer)",
       "subject": "Chemistry",
       "topic": "some-basic-concepts-of-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "On complete combustion 0.30 g of an organic compound gave 0.20 g of carbon dioxide and 0.10 g of water. The percentage of carbon in the given organic compound is _____________. (Nearest integer)",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "On complete combustion 0.30 g of an organic compound gave 0.20 g of carbon dioxide and 0.10 g of water. The percentage of carbon in the given organic compound is _____________. (Nearest integer)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 19,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 19,
-      "question_text": "Compound 'P' on nitration with dil. HNO3 yields two isomers (A) and (B). These isomers can be separated by steam distillation. Isomers (A) and (B) show the intramolecular and intermolecular hydrogen bonding respectively. Compound (P) on reaction with conc. HNO3 yields a yellow compound 'C', a strong acid. The number of oxygen atoms is present in compound 'C' _____________.",
       "subject": "Chemistry",
       "topic": "alcohols-phenols-and-ethers",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Compound 'P' on nitration with dil. HNO3 yields two isomers (A) and (B). These isomers can be separated by steam distillation. Isomers (A) and (B) show the intramolecular and intermolecular hydrogen bonding respectively. Compound (P) on reaction with conc. HNO3 yields a yellow compound 'C', a strong acid. The number of oxygen atoms is present in compound 'C' _____________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l97qwi7d/7ee752ad-2a87-4e26-8388-3139855ffbde/423a2190-4b56-11ed-86ad-0bb7aa407afc/file-1l97qwi7e.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Compound 'P' on nitration with dil. HNO_{3} yields two isomers (A) and (B). These isomers can be separated by steam distillation. Isomers (A) and (B) show the intramolecular and intermolecular hydrogen bonding respectively. Compound (P) on reaction with conc. HNO_{3} yields a yellow compound 'C', a strong acid. The number of oxygen atoms is present in compound 'C' _____________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 20,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 20,
-      "question_text": "The number of oxygens present in a nucleotide formed from a base, that is present only in RNA is ___________.",
       "subject": "Chemistry",
       "topic": "biomolecules",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The number of oxygens present in a nucleotide formed from a base, that is present only in RNA is ___________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l97qxpk2/09259f87-b71f-4f43-bfc5-d153030fcae2/63b74820-4b56-11ed-86ad-0bb7aa407afc/file-1l97qxpk3.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The number of oxygens present in a nucleotide formed from a base, that is present only in RNA is ___________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 21,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 21,
-      "question_text": "Let $$f(x) = {{x - 1} \\over {x + 1}},\\,x \\in R - \\{ 0, - 1,1\\} $$. If $${f^{n + 1}}(x) = f({f^n}(x))$$ for all n $$\\in$$ N, then $${f^6}(6) + {f^7}(7)$$ is equal to :",
       "subject": "Mathematics",
       "topic": "functions",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$f(x) = {{x - 1} \\over {x + 1}},\\,x \\in R - \\{ 0, - 1,1\\} $$. If $${f^{n + 1}}(x) = f({f^n}(x))$$ for all n $$\\in$$ N, then $${f^6}(6) + {f^7}(7)$$ is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${7 \\over 6}$$",
         "B": "$$ - {3 \\over 2}$$",
         "C": "$${7 \\over {12}}$$",
         "D": "$$ - {{11} \\over {12}}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $$f(x) = {{x - 1} \\over {x + 1}},\\,x \\in R - \\{ 0, - 1,1\\} $$. If $${f^{n + 1}}(x) = f({f^n}(x))$$ for all n $$\\in$$ N, then $${f^6}(6) + {f^7}(7)$$ is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 22,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 22,
-      "question_text": "Let $$A = \\left\\{ {z \\in C:\\left| {{{z + 1} \\over {z - 1}}} \\right| < 1} \\right\\}$$ and $$B = \\left\\{ {z \\in C:\\arg \\left( {{{z - 1} \\over {z + 1}}} \\right) = {{2\\pi } \\over 3}} \\right\\}$$. Then A $$\\cap$$ B is :",
       "subject": "Mathematics",
       "topic": "complex-numbers",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$A = \\left\\{ {z \\in C:\\left| {{{z + 1} \\over {z - 1}}} \\right| < 1} \\right\\}$$ and $$B = \\left\\{ {z \\in C:\\arg \\left( {{{z - 1} \\over {z + 1}}} \\right) = {{2\\pi } \\over 3}} \\right\\}$$. Then A $$\\cap$$ B is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lc6ndrpb/ccdf08bc-7111-4568-85c5-b0eec7b3bc91/5b4a39e0-8620-11ed-91e0-bdec0331da70/file-1lc6ndrpc.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "a portion of a circle centred at $$\\left( {0, - {1 \\over {\\sqrt 3 }}} \\right)$$ that lies in the second and third quadrants only",
         "B": "a portion of a circle centred at $$\\left( {0, - {1 \\over {\\sqrt 3 }}} \\right)$$ that lies in the second quadrant only",
         "C": "an empty",
         "D": "a portion of a circle of radius $${2 \\over {\\sqrt 3 }}$$ that lies in the third quadrant only"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $$A = \\left\\{ {z \\in C:\\left| {{{z + 1} \\over {z - 1}}} \\right| < 1} \\right\\}$$ and $$B = \\left\\{ {z \\in C:\\arg \\left( {{{z - 1} \\over {z + 1}}} \\right) = {{2\\pi } \\over 3}} \\right\\}$$. Then A $$\\cap$$ B is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 23,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 23,
-      "question_text": "The ordered pair (a, b), for which the system of linear equations\n\n3x $$-$$ 2y + z = b\n\n5x $$-$$ 8y + 9z = 3\n\n2x + y + az = $$-$$1\n\nhas no solution, is :",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The ordered pair (a, b), for which the system of linear equations\n\n3x $$-$$ 2y + z = b\n\n5x $$-$$ 8y + 9z = 3\n\n2x + y + az = $$-$$1\n\nhas no solution, is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\left( {3,{1 \\over 3}} \\right)$$",
         "B": "$$\\left( { - 3,{1 \\over 3}} \\right)$$",
         "C": "$$\\left( { - 3, - {1 \\over 3}} \\right)$$",
         "D": "$$\\left( {3, - {1 \\over 3}} \\right)$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The ordered pair (a, b), for which the system of linear equations \n3x $$-$$ 2y + z = b \n5x $$-$$ 8y + 9z = 3 \n2x + y + az = $$-$$1 \nhas no solution, is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 24,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 24,
-      "question_text": "The remainder when (2021)2023 is divided by 7 is :",
       "subject": "Mathematics",
       "topic": "binomial-theorem",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The remainder when (2021)2023 is divided by 7 is :",
+      "question_images": [],
+      "option_texts": {
         "A": "1",
         "B": "2",
         "C": "5",
         "D": "6"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The remainder when (2021)^{2023} is divided by 7 is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 25,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 25,
-      "question_text": "$$\\mathop {\\lim }\\limits_{x \\to {1 \\over {\\sqrt 2 }}} {{\\sin ({{\\cos }^{ - 1}}x) - x} \\over {1 - \\tan ({{\\cos }^{ - 1}}x)}}$$ is equal to :",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "$$\\mathop {\\lim }\\limits_{x \\to {1 \\over {\\sqrt 2 }}} {{\\sin ({{\\cos }^{ - 1}}x) - x} \\over {1 - \\tan ({{\\cos }^{ - 1}}x)}}$$ is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\sqrt 2 $$",
         "B": "$$ - \\sqrt 2 $$",
         "C": "$${1 \\over {\\sqrt 2 }}$$",
         "D": "$$ - {1 \\over {\\sqrt 2 }}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "$$\\mathop {\\lim }\\limits_{x \\to {1 \\over {\\sqrt 2 }}} {{\\sin ({{\\cos }^{ - 1}}x) - x} \\over {1 - \\tan ({{\\cos }^{ - 1}}x)}}$$ is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 26,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 26,
-      "question_text": "Let f, g : R $$\\to$$ R be two real valued functions defined as $$f(x) = \\left\\{ {\\matrix{\n   { - |x + 3|} & , & {x 1 and k2 are real constants. If (gof) is differentiable at x = 0, then (gof) ($$-$$ 4) + (gof) (4) is equal to :",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let f, g : R $$\\to$$ R be two real valued functions defined as $$f(x) = \\left\\{ {\\matrix{\n   { - |x + 3|} & , & {x 1 and k2 are real constants. If (gof) is differentiable at x = 0, then (gof) ($$-$$ 4) + (gof) (4) is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$4({e^4} + 1)$$",
         "B": "$$2(2{e^4} + 1)$$",
         "C": "$$4{e^4}$$",
         "D": "$$2(2{e^4} - 1)$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Let f, g : R $$\\to$$ R be two real valued functions defined as $$f(x) = \\left\\{ {\\matrix{\n   { - |x + 3|} & , & {x",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 27,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 27,
-      "question_text": "The sum of the absolute minimum and the absolute maximum values of the \n\nfunction f(x) = |3x $$-$$ x2 + 2| $$-$$ x in the interval [$$-$$1, 2] is :",
       "subject": "Mathematics",
       "topic": "application-of-derivatives",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The sum of the absolute minimum and the absolute maximum values of the \n\nfunction f(x) = |3x $$-$$ x2 + 2| $$-$$ x in the interval [$$-$$1, 2] is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lc6nga5p/f6bd0c59-facc-4024-b756-658e8619a898/a12a41d0-8620-11ed-ba1b-3b1de775931b/file-1lc6nga5q.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{\\sqrt {17}  + 3} \\over 2}$$",
         "B": "$${{\\sqrt {17}  + 5} \\over 2}$$",
         "C": "5",
         "D": "$${{9 - \\sqrt {17} } \\over 2}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The sum of the absolute minimum and the absolute maximum values of the function f(x) = |3x $$-$$ x^{2} + 2| $$-$$ x in the interval [$$-$$1, 2] is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 28,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 28,
-      "question_text": "The area bounded by the curve y = |x2 $$-$$ 9| and the line y = 3 is :",
       "subject": "Mathematics",
       "topic": "area-under-the-curves",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The area bounded by the curve y = |x2 $$-$$ 9| and the line y = 3 is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5rh7hff/4ef2bdc8-3288-4017-9611-a67305104639/27b58cb0-06ff-11ed-b821-f5ba0940c0a2/file-1l5rh7hfg.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$4(2\\sqrt 3  + \\sqrt 6  - 4)$$",
         "B": "$$4(4\\sqrt 3  + \\sqrt 6  - 4)$$",
         "C": "$$8(4\\sqrt 3  + 3\\sqrt 6  - 9)$$",
         "D": "$$8(4\\sqrt 3  + 2\\sqrt 6  - 9)$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The area bounded by the curve y = |x^{2} $$-$$ 9| and the line y = 3 is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 29,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 29,
-      "question_text": "Let R be the point (3, 7) and let P and Q be two points on the line x + y = 5 such that PQR is an equilateral triangle. Then the area of $$\\Delta$$PQR is :",
       "subject": "Mathematics",
       "topic": "straight-lines-and-pair-of-straight-lines",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let R be the point (3, 7) and let P and Q be two points on the line x + y = 5 such that PQR is an equilateral triangle. Then the area of $$\\Delta$$PQR is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l59j3d6d/8a4b3248-26d5-486b-9475-fbc8a7d508b1/6bc27690-fd20-11ec-8035-4341fba75e09/file-1l59j3d6h.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{25} \\over {4\\sqrt 3 }}$$",
         "B": "$${{25\\sqrt 3 } \\over 2}$$",
         "C": "$${{25} \\over {\\sqrt 3 }}$$",
         "D": "$${{25} \\over {2\\sqrt 3 }}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Let R be the point (3, 7) and let P and Q be two points on the line x + y = 5 such that PQR is an equilateral triangle. Then the area of $$\\Delta$$PQR is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 30,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 30,
-      "question_text": "If the two lines $${l_1}:{{x - 2} \\over 3} = {{y + 1} \\over {-2}},\\,z = 2$$ and $${l_2}:{{x - 1} \\over 1} = {{2y + 3} \\over \\alpha } = {{z + 5} \\over 2}$$ are perpendicular, then an angle between the lines l2 and $${l_3}:{{1 - x} \\over 3} = {{2y - 1} \\over { - 4}} = {z \\over 4}$$ is :",
       "subject": "Mathematics",
       "topic": "3d-geometry",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the two lines $${l_1}:{{x - 2} \\over 3} = {{y + 1} \\over {-2}},\\,z = 2$$ and $${l_2}:{{x - 1} \\over 1} = {{2y + 3} \\over \\alpha } = {{z + 5} \\over 2}$$ are perpendicular, then an angle between the lines l2 and $${l_3}:{{1 - x} \\over 3} = {{2y - 1} \\over { - 4}} = {z \\over 4}$$ is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${\\cos ^{ - 1}}\\left( {{{29} \\over 4}} \\right)$$",
         "B": "$${\\sec ^{ - 1}}\\left( {{{29} \\over 4}} \\right)$$",
         "C": "$${\\cos ^{ - 1}}\\left( {{2 \\over {29}}} \\right)$$",
         "D": "$${\\cos ^{ - 1}}\\left( {{2 \\over {\\sqrt {29} }}} \\right)$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "If the two lines $${l_1}:{{x - 2} \\over 3} = {{y + 1} \\over {-2}},\\,z = 2$$ and $${l_2}:{{x - 1} \\over 1} = {{2y + 3} \\over \\alpha } = {{z + 5} \\over 2}$$ are perpendicular, then an angle between the lines l_{2} and $${l_3}:{{1 - x} \\over 3} = {{2y - 1} \\over { - 4}} = {z \\over 4}$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 31,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 31,
-      "question_text": "The mean of the numbers a, b, 8, 5, 10 is 6 and their variance is 6.8. If M is the mean deviation of the numbers about the mean, then 25 M is equal to :",
       "subject": "Mathematics",
       "topic": "statistics",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The mean of the numbers a, b, 8, 5, 10 is 6 and their variance is 6.8. If M is the mean deviation of the numbers about the mean, then 25 M is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "60",
         "B": "55",
         "C": "50",
         "D": "45"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The mean of the numbers a, b, 8, 5, 10 is 6 and their variance is 6.8. If M is the mean deviation of the numbers about the mean, then 25 M is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 32,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 32,
-      "question_text": "Let $$f(x) = 2{\\cos ^{ - 1}}x + 4{\\cot ^{ - 1}}x - 3{x^2} - 2x + 10$$, $$x \\in [ - 1,1]$$. If [a, b] is the range of the function f, then 4a $$-$$ b is equal to :",
       "subject": "Mathematics",
       "topic": "application-of-derivatives",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$f(x) = 2{\\cos ^{ - 1}}x + 4{\\cot ^{ - 1}}x - 3{x^2} - 2x + 10$$, $$x \\in [ - 1,1]$$. If [a, b] is the range of the function f, then 4a $$-$$ b is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "11",
         "B": "11 $$-$$ $$\\pi$$",
         "C": "11 + $$\\pi$$",
         "D": "15 $$-$$ $$\\pi$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $$f(x) = 2{\\cos ^{ - 1}}x + 4{\\cot ^{ - 1}}x - 3{x^2} - 2x + 10$$, $$x \\in [ - 1,1]$$. If [a, b] is the range of the function f, then 4a $$-$$ b is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 33,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 33,
-      "question_text": "The sum of the cubes of all the roots of the equation \n\n$${x^4} - 3{x^3} - 2{x^2} + 3x + 1 = 0$$ is _________.",
       "subject": "Mathematics",
       "topic": "quadratic-equation-and-inequalities",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The sum of the cubes of all the roots of the equation \n\n$${x^4} - 3{x^3} - 2{x^2} + 3x + 1 = 0$$ is _________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The sum of the cubes of all the roots of the equation $${x^4} - 3{x^3} - 2{x^2} + 3x + 1 = 0$$ is _________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 34,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 34,
-      "question_text": "There are ten boys B1, B2, ......., B10 and five girls G1, G2, ........, G5 in a class. Then the number of ways of forming a group consisting of three boys and three girls, if both B1 and B2 together should not be the members of a group, is ___________.",
       "subject": "Mathematics",
       "topic": "permutations-and-combinations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "There are ten boys B1, B2, ......., B10 and five girls G1, G2, ........, G5 in a class. Then the number of ways of forming a group consisting of three boys and three girls, if both B1 and B2 together should not be the members of a group, is ___________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "There are ten boys B_{1}, B_{2}, ......., B_{10} and five girls G_{1}, G_{2}, ........, G_{5} in a class. Then the number of ways of forming a group consisting of three boys and three girls, if both B_{1} and B_{2} together should not be the members of a group, is ___________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 35,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 35,
-      "question_text": "Let f(x) = max {|x  + 1|, |x + 2|, ....., |x + 5|}. Then $$\\int\\limits_{ - 6}^0 {f(x)dx} $$ is equal to __________.",
       "subject": "Mathematics",
       "topic": "definite-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let f(x) = max {|x  + 1|, |x + 2|, ....., |x + 5|}. Then $$\\int\\limits_{ - 6}^0 {f(x)dx} $$ is equal to __________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5e62gr9/169b6319-b73d-43b9-8dcb-7f912dd4450a/67482850-ffad-11ec-94de-eb2a82e25f79/file-1l5e62gra.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let f(x) = max {|x  + 1|, |x + 2|, ....., |x + 5|}. Then $$\\int\\limits_{ - 6}^0 {f(x)dx} $$ is equal to __________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 36,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 36,
-      "question_text": "Let the solution curve y = y(x) of the differential equation \n\n$$(4 + {x^2})dy - 2x({x^2} + 3y + 4)dx = 0$$ pass through the origin. Then y(2) is equal to _____________.",
       "subject": "Mathematics",
       "topic": "differential-equations",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let the solution curve y = y(x) of the differential equation \n\n$$(4 + {x^2})dy - 2x({x^2} + 3y + 4)dx = 0$$ pass through the origin. Then y(2) is equal to _____________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let the solution curve y = y(x) of the differential equation $$(4 + {x^2})dy - 2x({x^2} + 3y + 4)dx = 0$$ pass through the origin. Then y(2) is equal to _____________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 37,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 37,
-      "question_text": "If $${\\sin ^2}(10^\\circ )\\sin (20^\\circ )\\sin (40^\\circ )\\sin (50^\\circ )\\sin (70^\\circ ) = \\alpha  - {1 \\over {16}}\\sin (10^\\circ )$$, then $$16 + {\\alpha ^{ - 1}}$$ is equal to __________.",
       "subject": "Mathematics",
       "topic": "trigonometric-ratio-and-identites",
       "sub_topic": "trigonometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "If $${\\sin ^2}(10^\\circ )\\sin (20^\\circ )\\sin (40^\\circ )\\sin (50^\\circ )\\sin (70^\\circ ) = \\alpha  - {1 \\over {16}}\\sin (10^\\circ )$$, then $$16 + {\\alpha ^{ - 1}}$$ is equal to __________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "If $${\\sin ^2}(10^\\circ )\\sin (20^\\circ )\\sin (40^\\circ )\\sin (50^\\circ )\\sin (70^\\circ ) = \\alpha  - {1 \\over {16}}\\sin (10^\\circ )$$, then $$16 + {\\alpha ^{ - 1}}$$ is equal to __________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 38,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 38,
-      "question_text": "Let A = {n $$\\in$$ N : H.C.F. (n, 45) = 1} and\n\nLet B = {2k : k $$\\in$$ {1, 2, ......., 100}}. Then the sum of all the elements of A $$\\cap$$ B is ____________.",
       "subject": "Mathematics",
       "topic": "sets-and-relations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let A = {n $$\\in$$ N : H.C.F. (n, 45) = 1} and\n\nLet B = {2k : k $$\\in$$ {1, 2, ......., 100}}. Then the sum of all the elements of A $$\\cap$$ B is ____________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let A = {n $$\\in$$ N : H.C.F. (n, 45) = 1} and \nLet B = {2k : k $$\\in$$ {1, 2, ......., 100}}. Then the sum of all the elements of A $$\\cap$$ B is ____________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 39,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 39,
-      "question_text": "The value of the integral \n\n$${{48} \\over {{\\pi ^4}}}\\int\\limits_0^\\pi  {\\left( {{{3\\pi {x^2}} \\over 2} - {x^3}} \\right){{\\sin x} \\over {1 + {{\\cos }^2}x}}dx} $$ is equal to __________.",
       "subject": "Mathematics",
       "topic": "definite-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The value of the integral \n\n$${{48} \\over {{\\pi ^4}}}\\int\\limits_0^\\pi  {\\left( {{{3\\pi {x^2}} \\over 2} - {x^3}} \\right){{\\sin x} \\over {1 + {{\\cos }^2}x}}dx} $$ is equal to __________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The value of the integral $${{48} \\over {{\\pi ^4}}}\\int\\limits_0^\\pi  {\\left( {{{3\\pi {x^2}} \\over 2} - {x^3}} \\right){{\\sin x} \\over {1 + {{\\cos }^2}x}}dx} $$ is equal to __________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 40,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 40,
-      "question_text": "Let $$A = \\sum\\limits_{i = 1}^{10} {\\sum\\limits_{j = 1}^{10} {\\min \\,\\{ i,j\\} } } $$ and $$B = \\sum\\limits_{i = 1}^{10} {\\sum\\limits_{j = 1}^{10} {\\max \\,\\{ i,j\\} } } $$. Then A + B is equal to _____________.",
       "subject": "Mathematics",
       "topic": "sets-and-relations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $$A = \\sum\\limits_{i = 1}^{10} {\\sum\\limits_{j = 1}^{10} {\\min \\,\\{ i,j\\} } } $$ and $$B = \\sum\\limits_{i = 1}^{10} {\\sum\\limits_{j = 1}^{10} {\\max \\,\\{ i,j\\} } } $$. Then A + B is equal to _____________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $$A = \\sum\\limits_{i = 1}^{10} {\\sum\\limits_{j = 1}^{10} {\\min \\,\\{ i,j\\} } } $$ and $$B = \\sum\\limits_{i = 1}^{10} {\\sum\\limits_{j = 1}^{10} {\\max \\,\\{ i,j\\} } } $$. Then A + B is equal to _____________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 41,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 41,
-      "question_text": "Let $$S = (0,2\\pi ) - \\left\\{ {{\\pi  \\over 2},{{3\\pi } \\over 4},{{3\\pi } \\over 2},{{7\\pi } \\over 4}} \\right\\}$$. Let $$y = y(x)$$, x $$\\in$$ S, be the solution curve of the differential equation $${{dy} \\over {dx}} = {1 \\over {1 + \\sin 2x}},\\,y\\left( {{\\pi  \\over 4}} \\right) = {1 \\over 2}$$. If the sum of abscissas of all the points of intersection of the curve y = y(x) with the curve $$y = \\sqrt 2 \\sin x$$ is $${{k\\pi } \\over {12}}$$, then k is equal to _____________.",
       "subject": "Mathematics",
       "topic": "differential-equations",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $$S = (0,2\\pi ) - \\left\\{ {{\\pi  \\over 2},{{3\\pi } \\over 4},{{3\\pi } \\over 2},{{7\\pi } \\over 4}} \\right\\}$$. Let $$y = y(x)$$, x $$\\in$$ S, be the solution curve of the differential equation $${{dy} \\over {dx}} = {1 \\over {1 + \\sin 2x}},\\,y\\left( {{\\pi  \\over 4}} \\right) = {1 \\over 2}$$. If the sum of abscissas of all the points of intersection of the curve y = y(x) with the curve $$y = \\sqrt 2 \\sin x$$ is $${{k\\pi } \\over {12}}$$, then k is equal to _____________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $$S = (0,2\\pi ) - \\left\\{ {{\\pi  \\over 2},{{3\\pi } \\over 4},{{3\\pi } \\over 2},{{7\\pi } \\over 4}} \\right\\}$$. Let $$y = y(x)$$, x $$\\in$$ S, be the solution curve of the differential equation $${{dy} \\over {dx}} = {1 \\over {1 + \\sin 2x}},\\,y\\left( {{\\pi  \\over 4}} \\right) = {1 \\over 2}$$. If the sum of abscissas of all the points of intersection of the curve y = y(x) with the curve $$y = \\sqrt 2 \\sin x$$ is $${{k\\pi } \\over {12}}$$, then k is equal to _____________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 42,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 42,
-      "question_text": "An expression for a dimensionless quantity P is given by $$P = {\\alpha  \\over \\beta }{\\log _e}\\left( {{{kt} \\over {\\beta x}}} \\right)$$; where $$\\alpha$$ and $$\\beta$$ are constants, x is distance; k is Boltzmann constant and t is the temperature. Then the dimensions of $$\\alpha$$ will be :",
       "subject": "Physics",
       "topic": "units-and-measurements",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An expression for a dimensionless quantity P is given by $$P = {\\alpha  \\over \\beta }{\\log _e}\\left( {{{kt} \\over {\\beta x}}} \\right)$$; where $$\\alpha$$ and $$\\beta$$ are constants, x is distance; k is Boltzmann constant and t is the temperature. Then the dimensions of $$\\alpha$$ will be :",
+      "question_images": [],
+      "option_texts": {
         "A": "[M^{0} L^{$$-$$1} T^{0}]",
         "B": "[M L^{0} T^{$$-$$2}]",
         "C": "[M L T^{$$-$$2}]",
         "D": "[M L^{2} T^{$$-$$2}]"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "An expression for a dimensionless quantity P is given by $$P = {\\alpha  \\over \\beta }{\\log _e}\\left( {{{kt} \\over {\\beta x}}} \\right)$$; where $$\\alpha$$ and $$\\beta$$ are constants, x is distance; k is Boltzmann constant and t is the temperature. Then the dimensions of $$\\alpha$$ will be :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 43,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 43,
-      "question_text": "A person is standing in an elevator. In which situation, he experiences weight loss?",
       "subject": "Physics",
       "topic": "laws-of-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A person is standing in an elevator. In which situation, he experiences weight loss?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5jhk4i8/1078b4ea-843e-4fbd-ab7c-95acb1ffb190/420cfd00-029a-11ed-a9b8-43edceee002f/file-1l5jhk4i9.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "When the elevator moves upward with constant acceleration",
         "B": "When the elevator moves downward with constant acceleration",
         "C": "When the elevator moves upward with uniform velocity",
         "D": "When the elevator moves downward with uniform velocity"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A person is standing in an elevator. In which situation, he experiences weight loss?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 44,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 44,
-      "question_text": "An object is thrown vertically upwards. At its maximum height, which of the following quantity becomes zero?",
       "subject": "Physics",
       "topic": "center-of-mass",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An object is thrown vertically upwards. At its maximum height, which of the following quantity becomes zero?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5jhmqf4/db9636cb-1bea-4bce-8bbd-a227247c026f/8a98c400-029a-11ed-a9b8-43edceee002f/file-1l5jhmqf5.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "Momentum",
         "B": "Potential Energy",
         "C": "Acceleration",
         "D": "Force"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "An object is thrown vertically upwards. At its maximum height, which of the following quantity becomes zero?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 45,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 45,
-      "question_text": "A ball is released from rest from point P of a smooth semi-spherical vessel as shown in figure. The ratio of the centripetal force and normal reaction on the ball at point Q is A while angular position of point Q is $$\\alpha$$ with respect to point P. Which of the following graphs represent the correct relation between A and $$\\alpha$$ when ball goes from Q to R?",
       "subject": "Physics",
       "topic": "circular-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A ball is released from rest from point P of a smooth semi-spherical vessel as shown in figure. The ratio of the centripetal force and normal reaction on the ball at point Q is A while angular position of point Q is $$\\alpha$$ with respect to point P. Which of the following graphs represent the correct relation between A and $$\\alpha$$ when ball goes from Q to R?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bp4pgc/4b5483aa-22b7-4cb8-b790-fe9b4e2faa7d/991f8ab0-fe51-11ec-82bb-836ba7a88df1/file-1l5bp4pgd.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5jhr5j1/302ab3e9-b1f4-4544-b636-4c3b0160e5f3/058126d0-029b-11ed-a9b8-43edceee002f/file-1l5jhr5j2.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bp6iwl/8caae413-17b9-45fa-a71c-27b010be4ac2/cbaecf40-fe51-11ec-b169-b5046c590266/file-1l5bp6iwm.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bp7ocl/972c53e9-5eb9-4a64-8383-a47a9f29d7ec/ebb2c350-fe51-11ec-b169-b5046c590266/file-1l5bp7ocm.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bp8nf2/8cbd51ab-5ff2-4d06-8b7d-2e73a026a3e9/06c9bae0-fe52-11ec-b169-b5046c590266/file-1l5bp8nf3.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bp9gfx/2aab8872-e6e9-4946-9e8f-58a0fdd37277/1d3552d0-fe52-11ec-b169-b5046c590266/file-1l5bp9gfy.png",
+          "description": ""
+        }
+      },
       "correct_answer": "C",
-      "question": "A ball is released from rest from point P of a smooth semi-spherical vessel as shown in figure. The ratio of the centripetal force and normal reaction on the ball at point Q is A while angular position of point Q is $$\\alpha$$ with respect to point P. Which of the following graphs represent the correct relation between A and $$\\alpha$$ when ball goes from Q to R?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 46,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 46,
-      "question_text": "A thin circular ring of mass M and radius R is rotating with a constant angular velocity 2 rads$$-$$1 in a horizontal plane about an axis vertical to its plane and passing through the center of the ring. If two\nobjects each of mass m be attached gently to the\nopposite ends of a diameter of ring, the ring will then rotate with an angular velocity (in rads$$-$$1).",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A thin circular ring of mass M and radius R is rotating with a constant angular velocity 2 rads$$-$$1 in a horizontal plane about an axis vertical to its plane and passing through the center of the ring. If two\nobjects each of mass m be attached gently to the\nopposite ends of a diameter of ring, the ring will then rotate with an angular velocity (in rads$$-$$1).",
+      "question_images": [],
+      "option_texts": {
         "A": "$${M \\over {(M + m)}}$$",
         "B": "$${{(M + 2m)} \\over {2M}}$$",
         "C": "$${{2M} \\over {(M + 2m)}}$$",
         "D": "$${{2(M + 2m)} \\over M}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A thin circular ring of mass M and radius R is rotating with a constant angular velocity 2 rads^{$$-$$1} in a horizontal plane about an axis vertical to its plane and passing through the center of the ring. If two\nobjects each of mass m be attached gently to the\nopposite ends of a diameter of ring, the ring will then rotate with an angular velocity (in rads^{$$-$$1}).",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 47,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 47,
-      "question_text": "The variation of acceleration due to gravity (g) with distance (r) from the center of the earth is correctly represented by :\n\n(Given R  = radius of earth)",
       "subject": "Physics",
       "topic": "gravitation",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The variation of acceleration due to gravity (g) with distance (r) from the center of the earth is correctly represented by :\n\n(Given R  = radius of earth)",
+      "question_images": [],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bpb45a/1d5909a9-3e5b-44d0-ba26-53bca00e7607/4b541de0-fe52-11ec-b169-b5046c590266/file-1l5bpb45b.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bpbwns/5209cefe-cd39-4c5c-b27e-ea46e778ffd4/615ad980-fe52-11ec-b169-b5046c590266/file-1l5bpbwnt.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bpctdi/1f6d5fc2-abbb-455a-9895-c5aa2b53e613/7aa06c70-fe52-11ec-b169-b5046c590266/file-1l5bpctdj.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bpdj50/15f356db-51fe-48a1-a7cf-f4c85d7c58fe/8e875550-fe52-11ec-b169-b5046c590266/file-1l5bpdj51.png",
+          "description": ""
+        }
+      },
       "correct_answer": "A",
-      "question": "The variation of acceleration due to gravity (g) with distance (r) from the center of the earth is correctly represented by : \n(Given R  = radius of earth)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 48,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 48,
-      "question_text": "Time period of a simple pendulum in a stationary lift is 'T'. If the lift accelerates with $${g \\over 6}$$ vertically upwards then the time period will be :\n\n(Where g = acceleration due to gravity)",
       "subject": "Physics",
       "topic": "simple-harmonic-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Time period of a simple pendulum in a stationary lift is 'T'. If the lift accelerates with $${g \\over 6}$$ vertically upwards then the time period will be :\n\n(Where g = acceleration due to gravity)",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\sqrt {{6 \\over 5}} T$$",
         "B": "$$\\sqrt {{5 \\over 6}} T$$",
         "C": "$$\\sqrt {{6 \\over 7}} T$$",
         "D": "$$\\sqrt {{7 \\over 6}} T$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Time period of a simple pendulum in a stationary lift is 'T'. If the lift accelerates with $${g \\over 6}$$ vertically upwards then the time period will be : \n(Where g = acceleration due to gravity)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 49,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 49,
-      "question_text": "A thermally insulated vessel contains an ideal gas of molecular mass M and ratio of specific heats 1.4. Vessel is moving with speed v and is suddenly brought to rest. Assuming no heat is lost to the surrounding and vessel temperature of the gas increases by :\n\n(R = universal gas constant)",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A thermally insulated vessel contains an ideal gas of molecular mass M and ratio of specific heats 1.4. Vessel is moving with speed v and is suddenly brought to rest. Assuming no heat is lost to the surrounding and vessel temperature of the gas increases by :\n\n(R = universal gas constant)",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{M{v^2}} \\over {7R}}$$",
         "B": "$${{M{v^2}} \\over {5R}}$$",
         "C": "2$${{M{v^2}} \\over {7R}}$$",
         "D": "7$${{M{v^2}} \\over {5R}}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A thermally insulated vessel contains an ideal gas of molecular mass M and ratio of specific heats 1.4. Vessel is moving with speed v and is suddenly brought to rest. Assuming no heat is lost to the surrounding and vessel temperature of the gas increases by : \n(R = universal gas constant)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 50,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 50,
-      "question_text": "Two capacitors having capacitance C1 and C2 respectively are connected as shown in figure. Initially, capacitor C1 is charged to a potential difference V volt by a battery. The battery is then removed and the charged capacitor C1 is now connected to uncharged capacitor C2 by closing the switch S. The amount of charge on the capacitor C2, after equilibrium, is :",
       "subject": "Physics",
       "topic": "capacitor",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two capacitors having capacitance C1 and C2 respectively are connected as shown in figure. Initially, capacitor C1 is charged to a potential difference V volt by a battery. The battery is then removed and the charged capacitor C1 is now connected to uncharged capacitor C2 by closing the switch S. The amount of charge on the capacitor C2, after equilibrium, is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bpfbsc/582c329c-0436-45b7-a96d-f41af4a9ecf3/c0779ac0-fe52-11ec-b169-b5046c590266/file-1l5bpfbsd.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{{C_1}{C_2}} \\over {({C_1} + {C_2})}}V$$",
         "B": "$${{({C_1} + {C_2})} \\over {{C_1}{C_2}}}V$$",
         "C": "$$({C_1} + {C_2})V$$",
         "D": "$$({C_1} - {C_2})V$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Two capacitors having capacitance C_{1} and C_{2} respectively are connected as shown in figure. Initially, capacitor C_{1} is charged to a potential difference V volt by a battery. The battery is then removed and the charged capacitor C_{1} is now connected to uncharged capacitor C_{2} by closing the switch S. The amount of charge on the capacitor C_{2}, after equilibrium, is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 51,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 51,
-      "question_text": "Given below two statements : One is labelled as Assertion (A) and other is labelled as Reason (R).\n\nAssertion (A) : Non-polar materials do not have any permanent dipole moment.\n\nReason (R) : When a non-polar material is placed in an electric field, the centre of the positive charge distribution of it's individual atom or molecule coincides with the centre of the negative charge distribution.\n\nIn the light of above statements, choose the most appropriate answer from the options given below.",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Given below two statements : One is labelled as Assertion (A) and other is labelled as Reason (R).\n\nAssertion (A) : Non-polar materials do not have any permanent dipole moment.\n\nReason (R) : When a non-polar material is placed in an electric field, the centre of the positive charge distribution of it's individual atom or molecule coincides with the centre of the negative charge distribution.\n\nIn the light of above statements, choose the most appropriate answer from the options given below.",
+      "question_images": [],
+      "option_texts": {
         "A": "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
         "B": "Both (A) and (R) are correct and (R) is not the correct explanation of (A).",
         "C": "(A) is correct but (R) is not correct.",
         "D": "(A) is not correct but (R) is correct."
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Given below two statements : One is labelled as Assertion (A) and other is labelled as Reason (R). \nAssertion (A) : Non-polar materials do not have any permanent dipole moment. \nReason (R) : When a non-polar material is placed in an electric field, the centre of the positive charge distribution of it's individual atom or molecule coincides with the centre of the negative charge distribution. \nIn the light of above statements, choose the most appropriate answer from the options given below.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 52,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 52,
-      "question_text": "The magnetic flux through a coil perpendicular to its plane is varying according to the relation $$\\phi  = (5{t^3} + 4{t^2} + 2t - 5)$$ Weber. If the resistance of the coil is 5 ohm, then the induced current through the coil at t = 2 s will be,",
       "subject": "Physics",
       "topic": "electromagnetic-induction",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The magnetic flux through a coil perpendicular to its plane is varying according to the relation $$\\phi  = (5{t^3} + 4{t^2} + 2t - 5)$$ Weber. If the resistance of the coil is 5 ohm, then the induced current through the coil at t = 2 s will be,",
+      "question_images": [],
+      "option_texts": {
         "A": "15.6 A",
         "B": "16.6 A",
         "C": "17.6 A",
         "D": "18.6 A"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The magnetic flux through a coil perpendicular to its plane is varying according to the relation $$\\phi  = (5{t^3} + 4{t^2} + 2t - 5)$$ Weber. If the resistance of the coil is 5 ohm, then the induced current through the coil at t = 2 s will be,",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 53,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 53,
-      "question_text": "An aluminium wire is stretched to make its length, 0.4% larger. The percentage change in resistance is :",
       "subject": "Physics",
       "topic": "current-electricity",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An aluminium wire is stretched to make its length, 0.4% larger. The percentage change in resistance is :",
+      "question_images": [],
+      "option_texts": {
         "A": "0.4%",
         "B": "0.2%",
         "C": "0.8%",
         "D": "0.6%"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "An aluminium wire is stretched to make its length, 0.4% larger. The percentage change in resistance is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 54,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 54,
-      "question_text": "A proton and an alpha particle of the same velocity enter in a uniform magnetic field which is acting perpendicular to their direction of motion. The ratio of the radii of the circular paths described by the alpha particle and proton is :",
       "subject": "Physics",
       "topic": "magnetics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A proton and an alpha particle of the same velocity enter in a uniform magnetic field which is acting perpendicular to their direction of motion. The ratio of the radii of the circular paths described by the alpha particle and proton is :",
+      "question_images": [],
+      "option_texts": {
         "A": "1 : 4",
         "B": "4 : 1",
         "C": "2 : 1",
         "D": "1 : 2"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A proton and an alpha particle of the same velocity enter in a uniform magnetic field which is acting perpendicular to their direction of motion. The ratio of the radii of the circular paths described by the alpha particle and proton is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 55,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 55,
-      "question_text": "If Electric field intensity of a uniform plane electromagnetic wave is given as $$E =  - 301.6\\sin (kz - \\omega t){\\widehat a_x} + 452.4\\sin (kz - \\omega t){\\widehat a_y}{V \\over m}$$. Then magnetic intensity 'H' of this wave in Am$$-$$1 will be :\n\n[Given : Speed of light in vacuum $$c = 3 \\times {10^8}$$ ms$$-$$1, Permeability of vacuum $${\\mu _0} = 4\\pi  \\times {10^{ - 7}}$$ NA$$-$$2]",
       "subject": "Physics",
       "topic": "electromagnetic-waves",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If Electric field intensity of a uniform plane electromagnetic wave is given as $$E =  - 301.6\\sin (kz - \\omega t){\\widehat a_x} + 452.4\\sin (kz - \\omega t){\\widehat a_y}{V \\over m}$$. Then magnetic intensity 'H' of this wave in Am$$-$$1 will be :\n\n[Given : Speed of light in vacuum $$c = 3 \\times {10^8}$$ ms$$-$$1, Permeability of vacuum $${\\mu _0} = 4\\pi  \\times {10^{ - 7}}$$ NA$$-$$2]",
+      "question_images": [],
+      "option_texts": {
         "A": "$$ + 0.8\\sin (kz - \\omega t){\\widehat a_y} + 0.8\\sin (kz - \\omega t){\\widehat a_x}$$",
         "B": "$$ + 1.0 \\times {10^{ - 6}}\\sin (kz - \\omega t){\\widehat a_y} + 1.5 \\times {10^{ - 6}}(kz - \\omega t){\\widehat a_x}$$",
         "C": "$$ - 0.8\\sin (kz - \\omega t){\\widehat a_y} - 1.2\\sin (kz - \\omega t){\\widehat a_x}$$",
         "D": "$$ - 1.0 \\times {10^{ - 6}}\\sin (kz - \\omega t){\\widehat a_y} - 1.5 \\times {10^{ - 6}}\\sin (kz - \\omega t){\\widehat a_x}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "If Electric field intensity of a uniform plane electromagnetic wave is given as $$E =  - 301.6\\sin (kz - \\omega t){\\widehat a_x} + 452.4\\sin (kz - \\omega t){\\widehat a_y}{V \\over m}$$. Then magnetic intensity 'H' of this wave in Am^{$$-$$1} will be : \n[Given : Speed of light in vacuum $$c = 3 \\times {10^8}$$ ms^{$$-$$1}, Permeability of vacuum $${\\mu _0} = 4\\pi  \\times {10^{ - 7}}$$ NA^{$$-$$2}]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 56,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 56,
-      "question_text": "In free space, an electromagnetic wave of 3 GHz frequency strikes over the edge of an object of size $${\\lambda  \\over {100}}$$, where $$\\lambda$$ is the wavelength of the wave in free space. The phenomenon, which happens there will be :",
       "subject": "Physics",
       "topic": "electromagnetic-waves",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In free space, an electromagnetic wave of 3 GHz frequency strikes over the edge of an object of size $${\\lambda  \\over {100}}$$, where $$\\lambda$$ is the wavelength of the wave in free space. The phenomenon, which happens there will be :",
+      "question_images": [],
+      "option_texts": {
         "A": "Reflection",
         "B": "Refraction",
         "C": "Diffraction",
         "D": "Scattering"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "In free space, an electromagnetic wave of 3 GHz frequency strikes over the edge of an object of size $${\\lambda  \\over {100}}$$, where $$\\lambda$$ is the wavelength of the wave in free space. The phenomenon, which happens there will be :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 57,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 57,
-      "question_text": "An electron with speed v and a photon with speed c have the same de-Broglie wavelength. If the kinetic energy and momentum of electron are Ee and pe and that of photon are Eph and pph respectively. Which of the following is correct?",
       "subject": "Physics",
       "topic": "dual-nature-of-radiation",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An electron with speed v and a photon with speed c have the same de-Broglie wavelength. If the kinetic energy and momentum of electron are Ee and pe and that of photon are Eph and pph respectively. Which of the following is correct?",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{{E_e}} \\over {{E_{ph}}}} = {{2c} \\over v}$$",
         "B": "$${{{E_e}} \\over {{E_{ph}}}} = {v \\over {2c}}$$",
         "C": "$${{{p_e}} \\over {{p_{ph}}}} = {{2c} \\over v}$$",
         "D": "$${{{p_e}} \\over {{p_{ph}}}} = {v \\over {2c}}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "An electron with speed v and a photon with speed c have the same de-Broglie wavelength. If the kinetic energy and momentum of electron are E_{e} and p_{e} and that of photon are E_{ph} and p_{ph} respectively. Which of the following is correct?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 58,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 58,
-      "question_text": "The I-V characteristics of a p-n junction diode in forward bias is shown in the figure. The ratio of dynamic resistance, corresponding to forward bias voltage of 2 V and  4 V respectively, is :",
       "subject": "Physics",
       "topic": "electronic-devices",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The I-V characteristics of a p-n junction diode in forward bias is shown in the figure. The ratio of dynamic resistance, corresponding to forward bias voltage of 2 V and  4 V respectively, is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bpgzh0/aedb5fa8-7186-4830-a61f-e7aa2aa3eed0/ee929540-fe52-11ec-b169-b5046c590266/file-1l5bpgzh1.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "1 : 2",
         "B": "5 : 1",
         "C": "1 : 40",
         "D": "20 : 1"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The I-V characteristics of a p-n junction diode in forward bias is shown in the figure. The ratio of dynamic resistance, corresponding to forward bias voltage of 2 V and  4 V respectively, is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 59,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 59,
-      "question_text": "A fighter jet is flying horizontally at a certain altitude with a speed of 200 ms$$-$$1. When it passes directly overhead an anti-aircraft gun, a bullet is fired from the gun, at an angle $$\\theta$$ with the horizontal, to hit the jet. If the bullet speed is 400 m/s, the value of $$\\theta$$ will be ___________$$^\\circ$$.",
       "subject": "Physics",
       "topic": "motion-in-a-plane",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A fighter jet is flying horizontally at a certain altitude with a speed of 200 ms$$-$$1. When it passes directly overhead an anti-aircraft gun, a bullet is fired from the gun, at an angle $$\\theta$$ with the horizontal, to hit the jet. If the bullet speed is 400 m/s, the value of $$\\theta$$ will be ___________$$^\\circ$$.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l7ta5g03/68fabda1-4ee5-4380-80d5-62e1f1cd3f80/8f245930-2f95-11ed-a1d8-e368d72cfa4f/file-1l7ta5g04.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A fighter jet is flying horizontally at a certain altitude with a speed of 200 ms^{$$-$$1}. When it passes directly overhead an anti-aircraft gun, a bullet is fired from the gun, at an angle $$\\theta$$ with the horizontal, to hit the jet. If the bullet speed is 400 m/s, the value of $$\\theta$$ will be ___________$$^\\circ$$.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 60,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 60,
-      "question_text": "A ball of mass 0.5 kg is dropped from the height of 10 m. The height, at which the magnitude of velocity becomes equal to the magnitude of acceleration due to gravity, is ________ m. [Use g = 10 m/s2]",
       "subject": "Physics",
       "topic": "motion-in-a-straight-line",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A ball of mass 0.5 kg is dropped from the height of 10 m. The height, at which the magnitude of velocity becomes equal to the magnitude of acceleration due to gravity, is ________ m. [Use g = 10 m/s2]",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5jhsn20/d0c7769a-768d-4895-90ef-061ec8187df5/2eda5380-029b-11ed-a9b8-43edceee002f/file-1l5jhsn21.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A ball of mass 0.5 kg is dropped from the height of 10 m. The height, at which the magnitude of velocity becomes equal to the magnitude of acceleration due to gravity, is ________ m. [Use g = 10 m/s^{2}]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2022,
-      "exam_type": "JEE Main",
-      "shift": 1,
       "question_number": 61,
+      "year": 2022,
+      "exam_type": "JEE Main",
+      "shift": 1,
+      "subject": "Physics",
+      "topic": "properties-of-matter",
+      "sub_topic": "mechanics",
       "question_text": "The elastic behaviour of material for linear stress and linear strain, is shown in the figure. The energy density for a linear strain of 5 $$\\times$$ 10$$-$$4 is __________ kJ/m3. Assume that material is elastic upto the linear strain of 5 $$\\times$$ 10$$-$$4.",
-      "subject": "Physics",
-      "topic": "properties-of-matter",
-      "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bpioc0/084c9f64-2719-42dc-8da3-a2dfe5545453/1d961b00-fe53-11ec-b169-b5046c590266/file-1l5bpioc1.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The elastic behaviour of material for linear stress and linear strain, is shown in the figure. The energy density for a linear strain of 5 $$\\times$$ 10^{$$-$$4} is __________ kJ/m^{3}. Assume that material is elastic upto the linear strain of 5 $$\\times$$ 10^{$$-$$4}.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2022,
-      "exam_type": "JEE Main",
-      "shift": 1,
       "question_number": 62,
-      "question_text": "The elongation of a wire on the surface of the earth is 10$$-$$4 m. The same wire of same dimensions is elongated by 6 $$\\times$$ 10$$-$$5 m on another planet. The acceleration due to gravity on the planet will be ____________ ms$$-$$2. (Take acceleration due to gravity on the surface of earth = 10 ms$$-$$2)",
-      "subject": "Physics",
-      "topic": "properties-of-matter",
-      "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
-      "correct_answer": "",
-      "question": "The elongation of a wire on the surface of the earth is 10^{$$-$$4} m. The same wire of same dimensions is elongated by 6 $$\\times$$ 10^{$$-$$5} m on another planet. The acceleration due to gravity on the planet will be ____________ ms^{$$-$$2}. (Take acceleration due to gravity on the surface of earth = 10 ms^{$$-$$2})",
-      "isOutOfSyllabus": false,
-      "marks": 4,
-      "negMarks": 1
-    },
-    {
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
+      "subject": "Physics",
+      "topic": "properties-of-matter",
+      "sub_topic": "mechanics",
+      "question_text": "The elongation of a wire on the surface of the earth is 10$$-$$4 m. The same wire of same dimensions is elongated by 6 $$\\times$$ 10$$-$$5 m on another planet. The acceleration due to gravity on the planet will be ____________ ms$$-$$2. (Take acceleration due to gravity on the surface of earth = 10 ms$$-$$2)",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
+      "correct_answer": "",
+      "marks": 4,
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
+    },
+    {
       "question_number": 63,
-      "question_text": "A 10 $$\\Omega$$, 20 mH coil carrying constant current is connected to a battery of 20 V through a switch. Now after switch is opened current becomes zero in 100 $$\\mu$$s. The average e.m.f. induced in the coil is ____________ V.",
+      "year": 2022,
+      "exam_type": "JEE Main",
+      "shift": 1,
       "subject": "Physics",
       "topic": "electromagnetic-induction",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A 10 $$\\Omega$$, 20 mH coil carrying constant current is connected to a battery of 20 V through a switch. Now after switch is opened current becomes zero in 100 $$\\mu$$s. The average e.m.f. induced in the coil is ____________ V.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5jhw3yo/4d242564-1414-4300-8c7c-e97049b43a97/8f574100-029b-11ed-a9b8-43edceee002f/file-1l5jhw3yp.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A 10 $$\\Omega$$, 20 mH coil carrying constant current is connected to a battery of 20 V through a switch. Now after switch is opened current becomes zero in 100 $$\\mu$$s. The average e.m.f. induced in the coil is ____________ V.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 64,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 64,
-      "question_text": "A light ray is incident, at an incident angle $$\\theta$$1, on the system of tow plane mirrors M1 and M2 having an inclination angle 75$$^\\circ$$ between them (as shown in figure). After reflecting from mirror M1 it gets reflected back by the mirror M2 with an angle of reflection 30$$^\\circ$$. The total deviation of the ray will be _____________ degree.",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A light ray is incident, at an incident angle $$\\theta$$1, on the system of tow plane mirrors M1 and M2 having an inclination angle 75$$^\\circ$$ between them (as shown in figure). After reflecting from mirror M1 it gets reflected back by the mirror M2 with an angle of reflection 30$$^\\circ$$. The total deviation of the ray will be _____________ degree.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bpkhdu/b1e130aa-8c88-4e9d-9505-36bd8079f0b4/4fd62e20-fe53-11ec-b169-b5046c590266/file-1l5bpkhdv.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l7t9ex9y/cbd8b6a4-a6c1-4bc9-beed-258eb49c338b/ada38960-2f92-11ed-89c0-3f04a2c336c7/file-1l7t9ex9z.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A light ray is incident, at an incident angle $$\\theta$$_{1}, on the system of tow plane mirrors M_{1} and M_{2} having an inclination angle 75$$^\\circ$$ between them (as shown in figure). After reflecting from mirror M_{1} it gets reflected back by the mirror M_{2} with an angle of reflection 30$$^\\circ$$. The total deviation of the ray will be _____________ degree.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 65,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 65,
-      "question_text": "In a vernier callipers, each cm on the main scale is divided into 20 equal parts. If tenth vernier scale division coincides with nineth main scale division. Then the value of vernier constant will be _________ $$\\times$$ 10$$-$$2 mm.",
       "subject": "Physics",
       "topic": "units-and-measurements",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "In a vernier callipers, each cm on the main scale is divided into 20 equal parts. If tenth vernier scale division coincides with nineth main scale division. Then the value of vernier constant will be _________ $$\\times$$ 10$$-$$2 mm.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "In a vernier callipers, each cm on the main scale is divided into 20 equal parts. If tenth vernier scale division coincides with nineth main scale division. Then the value of vernier constant will be _________ $$\\times$$ 10^{$$-$$2} mm.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 66,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 66,
-      "question_text": "As per the given circuit, the value of current through the battery will be ____________ A.",
       "subject": "Physics",
       "topic": "electronic-devices",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "As per the given circuit, the value of current through the battery will be ____________ A.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5l1epbm/23b050e1-6ca1-4c97-9a3c-5b9960870af5/aa822920-0374-11ed-9173-236a106d1868/file-1l5l1epbn.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5jhyuf1/f1b57c1d-a2cd-413a-97d2-c415814b7f7b/db6502d0-029b-11ed-a9b8-43edceee002f/file-1l5jhyuf2.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "As per the given circuit, the value of current through the battery will be ____________ A.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 67,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 67,
-      "question_text": "A 110 V, 50 Hz, AC source is connected in the circuit (as shown in figure). The current through the resistance 55 $$\\Omega$$, at resonance in the circuit, will be __________ A.",
       "subject": "Physics",
       "topic": "alternating-current",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A 110 V, 50 Hz, AC source is connected in the circuit (as shown in figure). The current through the resistance 55 $$\\Omega$$, at resonance in the circuit, will be __________ A.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bpobuh/0b5ad276-7c08-4a69-9847-c9c417ffa910/bacb9e90-fe53-11ec-b169-b5046c590266/file-1l5bpobui.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A 110 V, 50 Hz, AC source is connected in the circuit (as shown in figure). The current through the resistance 55 $$\\Omega$$, at resonance in the circuit, will be __________ A.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 68,
       "year": 2022,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 68,
-      "question_text": "An ideal fluid of density 800 kgm$$-$$3, flows smoothly through a bent pipe (as shown in figure) that tapers in cross-sectional area from a to $${a \\over 2}$$. The pressure difference between the wide and narrow sections of pipe is 4100 Pa. At wider section, the velocity of fluid is $${{\\sqrt x } \\over 6}$$ ms$$-$$1 for x = ___________. (Given g = 10 ms$$-$$2)",
       "subject": "Physics",
       "topic": "properties-of-matter",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "An ideal fluid of density 800 kgm$$-$$3, flows smoothly through a bent pipe (as shown in figure) that tapers in cross-sectional area from a to $${a \\over 2}$$. The pressure difference between the wide and narrow sections of pipe is 4100 Pa. At wider section, the velocity of fluid is $${{\\sqrt x } \\over 6}$$ ms$$-$$1 for x = ___________. (Given g = 10 ms$$-$$2)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l5bppuku/4d3bd3dd-6e75-4c78-acf8-f138a434289a/e51322e0-fe53-11ec-b169-b5046c590266/file-1l5bppukv.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "An ideal fluid of density 800 kgm^{$$-$$3}, flows smoothly through a bent pipe (as shown in figure) that tapers in cross-sectional area from a to $${a \\over 2}$$. The pressure difference between the wide and narrow sections of pipe is 4100 Pa. At wider section, the velocity of fluid is $${{\\sqrt x } \\over 6}$$ ms^{$$-$$1} for x = ___________. (Given g = 10 ms^{$$-$$2})",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     }
   ]
 }

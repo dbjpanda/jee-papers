@@ -8,1597 +8,1762 @@
   },
   "questions": [
     {
+      "question_number": 1,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 1,
-      "question_text": "The solubility of AgCN in a buffer solution of pH = 3 is x. The value of x is : [Assume : No cyano complex is formed; Ksp(AgCN) = 2.2 $$\\times$$ 10$$-$$16 and Ka(HCN) = 6.2 $$\\times$$ 10$$-$$10]",
       "subject": "Chemistry",
       "topic": "ionic-equilibrium",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The solubility of AgCN in a buffer solution of pH = 3 is x. The value of x is : [Assume : No cyano complex is formed; Ksp(AgCN) = 2.2 $$\\times$$ 10$$-$$16 and Ka(HCN) = 6.2 $$\\times$$ 10$$-$$10]",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1krecg44n/c17d41fe-335d-4557-8130-660a8cfdf6da/52533f70-ea9b-11eb-a7ea-ab6bba998c7f/file-1krecg44o.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "1.9 $$\\times$$ 10^{$$-$$5}",
         "B": "1.6 $$\\times$$ 10^{$$-$$6}",
         "C": "2.2 $$\\times$$ 10^{$$-$$16}",
         "D": "0.625 $$\\times$$ 10^{$$-$$6}"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The solubility of AgCN in a buffer solution of pH = 3 is x. The value of x is : [Assume : No cyano complex is formed; K_{sp}(AgCN) = 2.2 $$\\times$$ 10^{$$-$$16} and K_{a}(HCN) = 6.2 $$\\times$$ 10^{$$-$$10}]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 2,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 2,
-      "question_text": "Which one of the following reactions will not form acetaldehyde?",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which one of the following reactions will not form acetaldehyde?",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1kr8ojf2g/50adf636-6552-4248-a3cb-6c432bc04966/e7db2880-e77d-11eb-9a05-b37ddcfc12a9/file-1kr8ojf2h.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$C{H_3}C{H_2}OH\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{573K}^{Cu}} $$",
         "B": "$$C{H_3}C{H_2}OH\\buildrel {Cr{O_3} - {H_2}S{O_4}} \\over\n \\longrightarrow $$",
         "C": "$$C{H_2} = C{H_2} + {O_2}\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{{H_2}O}^{Pd(II)/Cu(II)}} $$",
         "D": "$$C{H_3}CN\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{ii)\\,{H_2}O}^{i)\\,DIBAL - H}} $$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Which one of the following reactions will not form acetaldehyde?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 3,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 3,
-      "question_text": "The plots of radial distribution functions for various orbitals of hydrogen atom against 'r' are given below :\n\n\n\nThe correct plot for 3s orbital is :",
       "subject": "Chemistry",
       "topic": "structure-of-atom",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The plots of radial distribution functions for various orbitals of hydrogen atom against 'r' are given below :\n\n\n\nThe correct plot for 3s orbital is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1klseempn/dce24c09-7acd-4df6-9df4-b0f0eb4851c7/a82384b0-7b8c-11eb-a157-49f87e3afb79/file-1klseempo-496w.jpg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "(B)",
         "B": "(A)",
         "C": "(C)",
         "D": "(D)"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The plots of radial distribution functions for various orbitals of hydrogen atom against 'r' are given below :\nThe correct plot for 3s orbital is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 4,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 4,
-      "question_text": "Identify A in the given chemical reaction.",
       "subject": "Chemistry",
       "topic": "hydrocarbons",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Identify A in the given chemical reaction.",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1klseh1p1/8ea07f19-56d6-44c5-9fa1-e50425b6ac00/eb54e760-7b8c-11eb-a157-49f87e3afb79/file-1klseh1p2-479w.jpg",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/1kr3217rw/02cd0f43-0f6e-480b-a1f8-863373087063/f991e4d0-e465-11eb-9ed6-79a745eab850/file-1kr3217rx.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/1klseihyv/82aae392-b6ab-4cfd-83ca-90ac874546c7/13b5f870-7b8d-11eb-a157-49f87e3afb79/file-1klseihyw-118w.jpg",
+          "description": ""
+        },
+        "B": {
+          "path": "images/imagex_cdn_examgoal_net/1klseia1q/414cb62b-44ea-4f3d-a700-25c346cabd85/0d97a7e0-7b8d-11eb-a157-49f87e3afb79/file-1klseia1r-65w.jpg",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/1klsei0r6/aa098dd6-8fc5-48fc-8705-1ad8ddf7efc2/0669e320-7b8d-11eb-a157-49f87e3afb79/file-1klsei0r7-63w.jpg",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/1klsehtht/a09a6720-2c0c-4402-8e9d-617790b0c11c/00ce3010-7b8d-11eb-a157-49f87e3afb79/file-1klsehthu-115w.jpg",
+          "description": ""
+        }
+      },
       "correct_answer": "D",
-      "question": "Identify A in the given chemical reaction.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 5,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 5,
-      "question_text": "Given below are two statements :\n\nStatement I : CeO2 can be used for oxidation of aldehydes and ketones.\n\nStatement II : Aqueous solution of EuSO4 is a strong reducing agent.\n\nIn the light of the above statements, choose the correct answer from the options given below :",
       "subject": "Chemistry",
       "topic": "d-and-f-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Given below are two statements :\n\nStatement I : CeO2 can be used for oxidation of aldehydes and ketones.\n\nStatement II : Aqueous solution of EuSO4 is a strong reducing agent.\n\nIn the light of the above statements, choose the correct answer from the options given below :",
+      "question_images": [],
+      "option_texts": {
         "A": "Statement I is true but Statement II is false.",
         "B": "Statement I is false but Statement II is true",
         "C": "Both Statement I and Statement II are false",
         "D": "Both Statement I and Statement II are true"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Given below are two statements :Statement I : CeO_{2} can be used for oxidation of aldehydes and ketones.Statement II : Aqueous solution of EuSO_{4} is a strong reducing agent.In the light of the above statements, choose the correct answer from the options given below :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 6,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 6,
-      "question_text": "Compound(s) which will liberate carbon dioxide with sodium bicarbonate solution is/are :",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Compound(s) which will liberate carbon dioxide with sodium bicarbonate solution is/are :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1klsek3p1/5dede63f-bba2-45ca-978f-4abfa5b85d35/404dae50-7b8d-11eb-a157-49f87e3afb79/file-1klsek3p2-320w.jpg",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lkjmbix7/6e25429b-e9c1-4ca5-b369-794f16c82f05/1f3bfcc0-2ba4-11ee-b256-4beacb3197a0/file-6y3zli1lkjmbix8.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lkjmdvic/37aa5295-512d-4632-9d72-320b87de5273/60934840-2ba4-11ee-b256-4beacb3197a0/file-6y3zli1lkjmdvid.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lkjmfvsh/2b067814-2a05-454a-97f1-7ad78ffdea24/98694210-2ba4-11ee-b256-4beacb3197a0/file-6y3zli1lkjmfvsi.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "C only",
         "B": "B only",
         "C": "B and C only",
         "D": "A and B only"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Compound(s) which will liberate carbon dioxide with sodium bicarbonate solution is/are :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 7,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 7,
-      "question_text": "Identify A and B in the chemical reaction.",
       "subject": "Chemistry",
       "topic": "haloalkanes-and-haloarenes",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Identify A and B in the chemical reaction.",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1klselmfq/ff0327ca-3e6c-4653-8d2f-8cb57c5a0377/6a970760-7b8d-11eb-a157-49f87e3afb79/file-1klselmfs-476w.jpg",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/1kr8pb8fk/af92ea6a-b056-41dc-a123-dd951ebe572d/ed62d700-e780-11eb-9a05-b37ddcfc12a9/file-1kr8pb8fl.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/1klsen72x/53578eb4-c21b-4307-881f-903316c3071a/9658a890-7b8d-11eb-a157-49f87e3afb79/file-1klsen72y-338w.jpg",
+          "description": ""
+        },
+        "B": {
+          "path": "images/imagex_cdn_examgoal_net/1klsemwf4/dbee2936-a0fe-4475-a071-8b98e3a2858a/8e1c5a00-7b8d-11eb-a157-49f87e3afb79/file-1klsemwf5-350w.jpg",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/1klsemjue/a560aee1-24a5-42d7-bef0-af08ae5c1541/8465a070-7b8d-11eb-a157-49f87e3afb79/file-1klsemjuf-352w.jpg",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/1klsembit/4d05e1d7-31c9-4d86-8346-26a493c3fe86/7df7d050-7b8d-11eb-a157-49f87e3afb79/file-1klsembiu-345w.jpg",
+          "description": ""
+        }
+      },
       "correct_answer": "A",
-      "question": "Identify A and B in the chemical reaction.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 8,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 8,
-      "question_text": "Which of the glycosidic linkage between galactose and glucose is present in lactose?",
       "subject": "Chemistry",
       "topic": "biomolecules",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the glycosidic linkage between galactose and glucose is present in lactose?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1ldu08py6/dcba78d4-1e58-4ef2-a44f-a397bdd23983/e3e267e0-a6c4-11ed-8d92-0101c7cb78f8/file-1ldu08py7.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "C-1 of galactose and C-6 of glucose",
         "B": "C-1 of glucose and C-6 of galactose",
         "C": "C-1 of galactose and C-4 of glucose",
         "D": "C-1 of glucose and C-4 of galactose"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Which of the glycosidic linkage between galactose and glucose is present in lactose?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 9,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 9,
-      "question_text": "According to molecular orbital theory, the species among the following that does not exist is :",
       "subject": "Chemistry",
       "topic": "chemical-bonding-and-molecular-structure",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "According to molecular orbital theory, the species among the following that does not exist is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/BCZnqLDgpImUxYpB2/Zg1gK5Q1xLj1n6tAiUJqhAxB3rbvD/vRErIfl3wacw1pMY708M3N/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/3716soaUWwytJgHTQ/oPYd44rDhbA5TN79TWk4x4Gr9ndzq/EsglJdUOMHR8rQaoVR1KAZ/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${O_2}^{2 - }$$",
         "B": "$$B{e_2}$$",
         "C": "$$H{e_2}^ - $$",
         "D": "$$H{e_2}^ + $$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "According to molecular orbital theory, the species among the following that does not exist is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 10,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 10,
-      "question_text": "Complete combustion of 1.80 g of an oxygen containing compound (CxHyOz) gave 2.64 g of CO2 and 1.08 g of H2O. The percentage of oxygen in the organic compound is :",
       "subject": "Chemistry",
       "topic": "some-basic-concepts-of-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Complete combustion of 1.80 g of an oxygen containing compound (CxHyOz) gave 2.64 g of CO2 and 1.08 g of H2O. The percentage of oxygen in the organic compound is :",
+      "question_images": [],
+      "option_texts": {
         "A": "51.63",
         "B": "50.33",
         "C": "63.53",
         "D": "53.33"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Complete combustion of 1.80 g of an oxygen containing compound (C_{x}H_{y}O_{z}) gave 2.64 g of CO_{2} and 1.08 g of H_{2}O. The percentage of oxygen in the organic compound is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 11,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 11,
-      "question_text": "The hybridization and magnetic nature of $${[Mn{(CN)_6}]^{4 - }}$$ and $${[Fe{(CN)_6}]^{3 - }}$$, respectively are :",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The hybridization and magnetic nature of $${[Mn{(CN)_6}]^{4 - }}$$ and $${[Fe{(CN)_6}]^{3 - }}$$, respectively are :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1kr8p0jjw/b8a80bfd-4f77-4851-856a-c5482acb467d/c4138ad0-e77f-11eb-9560-bd0f921ff240/file-1kr8p0jjx.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/1kr8p0jjw/b8a80bfd-4f77-4851-856a-c5482acb467d/c4138ad0-e77f-11eb-9560-bd0f921ff240/file-1kr8p0jjx.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "sp^{3}d^{2} and diamagnetic",
         "B": "d^{2}sp^{3} and paramagnetic",
         "C": "sp^{3}d^{2} and paramagnetic",
         "D": "d^{2}sp^{3} and diamagnetic"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The hybridization and magnetic nature of $${[Mn{(CN)_6}]^{4 - }}$$ and $${[Fe{(CN)_6}]^{3 - }}$$, respectively are :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 12,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 12,
-      "question_text": "The major product of the following chemical reaction is :",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The major product of the following chemical reaction is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1klsepns0/5630a393-98d6-4fbb-ab45-8a89fea39a8e/dadcca00-7b8d-11eb-a157-49f87e3afb79/file-1klsepns1-311w.jpg",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/1kr33hzg8/3b89ee9c-d3ee-48d2-b9d3-5a65d766d795/b5061380-e46b-11eb-bc6e-854d89e924ae/file-1kr33hzg9.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$C{H_3}C{H_2}CHO$$",
         "B": "$$C{H_3}C{H_2}C{H_3}$$",
         "C": "$$C{H_3}C{H_2}C{H_2}OH$$",
         "D": "$${(C{H_3}C{H_2}CO)_2}O$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The major product of the following chemical reaction is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 13,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 13,
-      "question_text": "In which of the following pairs, the outer most electronic configuration will be the same?",
       "subject": "Chemistry",
       "topic": "d-and-f-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In which of the following pairs, the outer most electronic configuration will be the same?",
+      "question_images": [],
+      "option_texts": {
         "A": "Cr^{+} and Mn^{2+}",
         "B": "Ni^{2+} and Cu^{+}",
         "C": "V^{2+} and Cr^{+}",
         "D": "Fe^{2+} and Co^{+}"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "In which of the following pairs, the outer most electronic configuration will be the same?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 14,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 14,
-      "question_text": "Which of the following reaction/s will not give p-aminoazobenzene?",
       "subject": "Chemistry",
       "topic": "compounds-containing-nitrogen",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the following reaction/s will not give p-aminoazobenzene?",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1klser6ql/77f4aa65-ac18-4d2a-9026-30b603dd54bb/055178d0-7b8e-11eb-a157-49f87e3afb79/file-1klser6qm-268w.jpg",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/1kr8olzm8/45cda886-2ef8-4f9b-a1f5-d6cd52ebc84f/2f592900-e77e-11eb-9a05-b37ddcfc12a9/file-1kr8olzm9.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/1kr8osyd8/a69bf370-a8b5-4b95-988b-7c6c84bc1407/f10bf3c0-e77e-11eb-9a05-b37ddcfc12a9/file-1kr8osyd9.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/1kr8oujf5/f1f27d1f-5123-428f-a58e-69b255eccea8/1d1e7410-e77f-11eb-9a05-b37ddcfc12a9/file-1kr8oujf6.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "C only",
         "B": "A only",
         "C": "A and B",
         "D": "B only"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Which of the following reaction/s will not give p-aminoazobenzene?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 15,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 15,
-      "question_text": "Using the provided information in the following paper chromatogram :\n\n\nFig : Paper chromatography for compounds A and B.\n\nthe calculated Rf value of A ________$$\\times$$ 10-1.",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Using the provided information in the following paper chromatogram :\n\n\nFig : Paper chromatography for compounds A and B.\n\nthe calculated Rf value of A ________$$\\times$$ 10-1.",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1klsetx40/a50a8d4e-fb01-4270-a84f-6f642c02bb23/514f0e00-7b8e-11eb-a157-49f87e3afb79/file-1klsetx41-306w.jpg",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Using the provided information in the following paper chromatogram :Fig : Paper chromatography for compounds A and B.the calculated R_{f} value of A ________$$\\times$$ 10^{-1}.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2021,
-      "exam_type": "JEE Main",
-      "shift": 1,
       "question_number": 16,
+      "year": 2021,
+      "exam_type": "JEE Main",
+      "shift": 1,
+      "subject": "Chemistry",
+      "topic": "thermodynamics",
+      "sub_topic": "physical-chemistry",
       "question_text": "The reaction of cyanamide, NH2CN(s) with oxygen was run in a bomb calorimeter and $$\\Delta$$U was found to be $$-$$742.24 kJ mol$$-$$1. The magnitude of $$\\Delta$$H298 for the reaction\n\n$$N{H_2}C{H_{(S)}} + {3 \\over 2}{O_{2(g)}} \\to {N_{2(g)}} + {O_{2(g)}} + {H_2}{O_{(I)}}$$\n\nis _________ kJ. (Rounded off to the nearest integer) [Assume ideal gases and R = 8.314 J mol$$-$$1 K$$-$$1]",
-      "subject": "Chemistry",
-      "topic": "thermodynamics",
-      "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The reaction of cyanamide, NH_{2}CN_{(s)} with oxygen was run in a bomb calorimeter and $$\\Delta$$U was found to be $$-$$742.24 kJ mol^{$$-$$1}. The magnitude of $$\\Delta$$H_{298} for the reaction$$N{H_2}C{H_{(S)}} + {3 \\over 2}{O_{2(g)}} \\to {N_{2(g)}} + {O_{2(g)}} + {H_2}{O_{(I)}}$$is _________ kJ. (Rounded off to the nearest integer) [Assume ideal gases and R = 8.314 J mol^{$$-$$1} K^{$$-$$1}]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2021,
-      "exam_type": "JEE Main",
-      "shift": 1,
       "question_number": 17,
-      "question_text": "The ionization enthalpy of Na+ formation from Na(g) is 495.8 kJ mol$$-$$1, while the electron gain enthalpy of Br is $$-$$325.0 kJ mol$$-$$1. Given the lattice enthalpy of NaBr is $$-$$728.4 kJ mol$$-$$1. The energy for the formation of NaBr ionic solid is ($$-$$) ____________ $$\\times$$ 10$$-$$1 kJ mol$$-$$1.",
-      "subject": "Chemistry",
-      "topic": "thermodynamics",
-      "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
-      "correct_answer": "",
-      "question": "The ionization enthalpy of Na^{+} formation from Na_{(g)} is 495.8 kJ mol^{$$-$$1}, while the electron gain enthalpy of Br is $$-$$325.0 kJ mol^{$$-$$1}. Given the lattice enthalpy of NaBr is $$-$$728.4 kJ mol^{$$-$$1}. The energy for the formation of NaBr ionic solid is ($$-$$) ____________ $$\\times$$ 10^{$$-$$1} kJ mol^{$$-$$1}.",
-      "isOutOfSyllabus": false,
-      "marks": 4,
-      "negMarks": 1
-    },
-    {
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
+      "subject": "Chemistry",
+      "topic": "thermodynamics",
+      "sub_topic": "physical-chemistry",
+      "question_text": "The ionization enthalpy of Na+ formation from Na(g) is 495.8 kJ mol$$-$$1, while the electron gain enthalpy of Br is $$-$$325.0 kJ mol$$-$$1. Given the lattice enthalpy of NaBr is $$-$$728.4 kJ mol$$-$$1. The energy for the formation of NaBr ionic solid is ($$-$$) ____________ $$\\times$$ 10$$-$$1 kJ mol$$-$$1.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
+      "correct_answer": "",
+      "marks": 4,
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
+    },
+    {
       "question_number": 18,
-      "question_text": "0.4 g mixture of NaOH, Na2CO3 and some inert impurities was first titrated with $${N \\over {10}}$$ HCl using phenolphthalein as an indicator, 17.5 mL of HCl was required at the end point. After this methyl orange was added and titrated. 1.5 mL of same HCl was required for the next end point. The weight percentage of Na2CO3 in the mixture is ________. (Rounded off to the nearest integer)",
+      "year": 2021,
+      "exam_type": "JEE Main",
+      "shift": 1,
       "subject": "Chemistry",
       "topic": "redox-reactions",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "0.4 g mixture of NaOH, Na2CO3 and some inert impurities was first titrated with $${N \\over {10}}$$ HCl using phenolphthalein as an indicator, 17.5 mL of HCl was required at the end point. After this methyl orange was added and titrated. 1.5 mL of same HCl was required for the next end point. The weight percentage of Na2CO3 in the mixture is ________. (Rounded off to the nearest integer)",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "0.4 g mixture of NaOH, Na_{2}CO_{3} and some inert impurities was first titrated with $${N \\over {10}}$$ HCl using phenolphthalein as an indicator, 17.5 mL of HCl was required at the end point. After this methyl orange was added and titrated. 1.5 mL of same HCl was required for the next end point. The weight percentage of Na_{2}CO_{3} in the mixture is ________. (Rounded off to the nearest integer)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 19,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 19,
-      "question_text": "In basic medium $$Cr{O_4}^{2 - }$$ oxidises $${S_2}{O_3}^{2 - }$$ to form $$S{O_4}^{2 - }$$ and itself changes into $$Cr{(OH)_4}^ - $$. The volume of 0.154 M $$Cr{O_4}^{2 - }$$ required to react with 40 mL of 0.25 M $${S_2}{O_3}^{2 - }$$ is __________ mL. (Rounded off to the nearest integer)",
       "subject": "Chemistry",
       "topic": "some-basic-concepts-of-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "In basic medium $$Cr{O_4}^{2 - }$$ oxidises $${S_2}{O_3}^{2 - }$$ to form $$S{O_4}^{2 - }$$ and itself changes into $$Cr{(OH)_4}^ - $$. The volume of 0.154 M $$Cr{O_4}^{2 - }$$ required to react with 40 mL of 0.25 M $${S_2}{O_3}^{2 - }$$ is __________ mL. (Rounded off to the nearest integer)",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "In basic medium $$Cr{O_4}^{2 - }$$ oxidises $${S_2}{O_3}^{2 - }$$ to form $$S{O_4}^{2 - }$$ and itself changes into $$Cr{(OH)_4}^ - $$. The volume of 0.154 M $$Cr{O_4}^{2 - }$$ required to react with 40 mL of 0.25 M $${S_2}{O_3}^{2 - }$$ is __________ mL. (Rounded off to the nearest integer)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 20,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 20,
-      "question_text": "Consider the following chemical reaction.\n\n\n\nThe number of sp2 hybridized carbon atom(s) present in the product is ________.",
       "subject": "Chemistry",
       "topic": "hydrocarbons",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Consider the following chemical reaction.\n\n\n\nThe number of sp2 hybridized carbon atom(s) present in the product is ________.",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1klsew3wy/1d24dca5-bfaa-4f0f-b75b-0b0ee8471f31/8e2edb20-7b8e-11eb-a157-49f87e3afb79/file-1klsew3wz-429w.jpg",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/1kra7fs22/46b65072-0ed0-4f63-b3a2-7d38968313c3/98c1b2a0-e854-11eb-a742-292178d3bdbc/file-1kra7fs23.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Consider the following chemical reaction.\nThe number of sp^{2} hybridized carbon atom(s) present in the product is ________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 21,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 21,
-      "question_text": "1 molal aqueous solution of an electrolyte A2B3 is 60% ionised. The boiling point of the solution at 1 atm is _________ K. (Rounded off to the nearest integer)\n\n[Given Kb for (H2O) = 0.52 K kg mol$$-$$1]",
       "subject": "Chemistry",
       "topic": "solutions",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "1 molal aqueous solution of an electrolyte A2B3 is 60% ionised. The boiling point of the solution at 1 atm is _________ K. (Rounded off to the nearest integer)\n\n[Given Kb for (H2O) = 0.52 K kg mol$$-$$1]",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "1 molal aqueous solution of an electrolyte A_{2}B_{3} is 60% ionised. The boiling point of the solution at 1 atm is _________ K. (Rounded off to the nearest integer)[Given K_{b} for (H_{2}O) = 0.52 K kg mol^{$$-$$1}]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 22,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 22,
-      "question_text": "Among the following, the number of halide(s) which is/are inert to hydrolysis is _________.\n\n(A) BF3\n\n(B) SiCl4\n\n(C) PCl5\n\n(D) SF6",
       "subject": "Chemistry",
       "topic": "chemical-bonding-and-molecular-structure",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Among the following, the number of halide(s) which is/are inert to hydrolysis is _________.\n\n(A) BF3\n\n(B) SiCl4\n\n(C) PCl5\n\n(D) SF6",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Among the following, the number of halide(s) which is/are inert to hydrolysis is _________.(A) BF_{3}(B) SiCl_{4}(C) PCl_{5}(D) SF_{6}",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 23,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 23,
-      "question_text": "For the reaction, aA + bB $$ \\to $$ cC + dD, the plot of log k vs $${1 \\over T}$$ is given below :\n\n\nThe temperature at which the rate constant of the reaction is 10-4 s-1 is _________ K. (Rounded off to the nearest integer)\n\n[Given : The rate constant of the reaction is 10-5 s-1 at 500 K.]",
       "subject": "Chemistry",
       "topic": "chemical-kinetics-and-nuclear-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "For the reaction, aA + bB $$ \\to $$ cC + dD, the plot of log k vs $${1 \\over T}$$ is given below :\n\n\nThe temperature at which the rate constant of the reaction is 10-4 s-1 is _________ K. (Rounded off to the nearest integer)\n\n[Given : The rate constant of the reaction is 10-5 s-1 at 500 K.]",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1klseylv3/964f7a92-5ac3-44e3-bc37-4c517dce246b/d3aa7bf0-7b8e-11eb-a157-49f87e3afb79/file-1klseylv4-248w.jpg",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "For the reaction, aA + bB $$ \\to $$ cC + dD, the plot of log k vs $${1 \\over T}$$ is given below :The temperature at which the rate constant of the reaction is 10^{-4} s^{-1} is _________ K. (Rounded off to the nearest integer)[Given : The rate constant of the reaction is 10^{-5} s^{-1} at 500 K.]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 24,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 24,
-      "question_text": "When a missile is fired from a ship, the probability that it is intercepted is $${1 \\over 3}$$ and the probability that the missile hits the target, given that it is not intercepted, is $${3 \\over 4}$$. If three missiles are fired independently from the ship, then the probability that all three hit the target, is :",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "When a missile is fired from a ship, the probability that it is intercepted is $${1 \\over 3}$$ and the probability that the missile hits the target, given that it is not intercepted, is $${3 \\over 4}$$. If three missiles are fired independently from the ship, then the probability that all three hit the target, is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${3 \\over 4}$$",
         "B": "$${3 \\over 8}$$",
         "C": "$${1 \\over 27}$$",
         "D": "$${1 \\over 8}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "When a missile is fired from a ship, the probability that it is intercepted is $${1 \\over 3}$$ and the probability that the missile hits the target, given that it is not intercepted, is $${3 \\over 4}$$. If three missiles are fired independently from the ship, then the probability that all three hit the target, is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 25,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 25,
-      "question_text": "The equation of the line through the point (0, 1, 2) and perpendicular to the line \n\n$${{x - 1} \\over 2} = {{y + 1} \\over 3} = {{z - 1} \\over { - 2}}$$ is :",
       "subject": "Mathematics",
       "topic": "3d-geometry",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The equation of the line through the point (0, 1, 2) and perpendicular to the line \n\n$${{x - 1} \\over 2} = {{y + 1} \\over 3} = {{z - 1} \\over { - 2}}$$ is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1kreebwme/d85c9773-07e8-44be-9386-fc5e24606685/af8c4860-eaa2-11eb-a7ea-ab6bba998c7f/file-1kreebwmf.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${x \\over 3} = {{y - 1} \\over { - 4}} = {{z - 2} \\over 3}$$",
         "B": "$${x \\over 3} = {{y - 1} \\over 4} = {{z - 2} \\over { - 3}}$$",
         "C": "$${x \\over { - 3}} = {{y - 1} \\over 4} = {{z - 2} \\over 3}$$",
         "D": "$${x \\over 3} = {{y - 1} \\over 4} = {{z - 2} \\over 3}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The equation of the line through the point (0, 1, 2) and perpendicular to the line $${{x - 1} \\over 2} = {{y + 1} \\over 3} = {{z - 1} \\over { - 2}}$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 26,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 26,
-      "question_text": "The value of $$\\int\\limits_{ - 1}^1 {{x^2}{e^{[{x^3}]}}} dx$$, where [ t ] denotes the greatest integer $$ \\le $$ t, is :",
       "subject": "Mathematics",
       "topic": "definite-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The value of $$\\int\\limits_{ - 1}^1 {{x^2}{e^{[{x^3}]}}} dx$$, where [ t ] denotes the greatest integer $$ \\le $$ t, is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{e + 1} \\over 3}$$",
         "B": "$${{e - 1} \\over {3e}}$$",
         "C": "$${1 \\over {3e}}$$",
         "D": "$${{e + 1} \\over {3e}}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The value of $$\\int\\limits_{ - 1}^1 {{x^2}{e^{[{x^3}]}}} dx$$, where [ t ] denotes the greatest integer $$ \\le $$ t, is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 27,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 27,
-      "question_text": "The integer 'k', for which the inequality x2 $$-$$ 2(3k $$-$$ 1)x + 8k2 $$-$$ 7 > 0 is valid for every x in R, is :",
       "subject": "Mathematics",
       "topic": "quadratic-equation-and-inequalities",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The integer 'k', for which the inequality x2 $$-$$ 2(3k $$-$$ 1)x + 8k2 $$-$$ 7 > 0 is valid for every x in R, is :",
+      "question_images": [],
+      "option_texts": {
         "A": "4",
         "B": "2",
         "C": "3",
         "D": "0"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The integer 'k', for which the inequality x^{2} $$-$$ 2(3k $$-$$ 1)x + 8k^{2} $$-$$ 7 > 0 is valid for every x in R, is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 28,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 28,
-      "question_text": "The total number of positive integral solutions (x, y, z) such that xyz = 24 is :",
       "subject": "Mathematics",
       "topic": "permutations-and-combinations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The total number of positive integral solutions (x, y, z) such that xyz = 24 is :",
+      "question_images": [],
+      "option_texts": {
         "A": "36",
         "B": "24",
         "C": "45",
         "D": "30"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The total number of positive integral solutions (x, y, z) such that xyz = 24 is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 29,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 29,
-      "question_text": "If a curve passes through the origin and the slope of the tangent to it at any point (x, y) is $${{{x^2} - 4x + y + 8} \\over {x - 2}}$$, then this curve also passes through the point :",
       "subject": "Mathematics",
       "topic": "differential-equations",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If a curve passes through the origin and the slope of the tangent to it at any point (x, y) is $${{{x^2} - 4x + y + 8} \\over {x - 2}}$$, then this curve also passes through the point :",
+      "question_images": [],
+      "option_texts": {
         "A": "(4, 4)",
         "B": "(5, 5)",
         "C": "(5, 4)",
         "D": "(4, 5)"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "If a curve passes through the origin and the slope of the tangent to it at any point (x, y) is $${{{x^2} - 4x + y + 8} \\over {x - 2}}$$, then this curve also passes through the point :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 30,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 30,
-      "question_text": "Let f, g : N $$ \\to $$ N such that f(n + 1) = f(n) + f(1) $$\\forall $$ n$$\\in$$N and g be any arbitrary function. Which of the following statements is NOT true?",
       "subject": "Mathematics",
       "topic": "functions",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let f, g : N $$ \\to $$ N such that f(n + 1) = f(n) + f(1) $$\\forall $$ n$$\\in$$N and g be any arbitrary function. Which of the following statements is NOT true?",
+      "question_images": [],
+      "option_texts": {
         "A": "If g is onto, then fog is one-one",
         "B": "f is one-one",
         "C": "If f is onto, then f(n) = n $$\\forall $$n$$\\in$$N",
         "D": "If fog is one-one, then g is one-one"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let f, g : N $$ \\to $$ N such that f(n + 1) = f(n) + f(1) $$\\forall $$ n$$\\in$$N and g be any arbitrary function. Which of the following statements is NOT true?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 31,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 31,
-      "question_text": "Let the lines (2 $$-$$ i)z = (2 + i)$$\\overline z $$ and (2 $$+$$ i)z + (i $$-$$ 2)$$\\overline z $$ $$-$$ 4i = 0, (here i2 = $$-$$1) be normal to a circle C. If the line iz + $$\\overline z $$ + 1 + i = 0 is tangent to this circle C, then its radius is :",
       "subject": "Mathematics",
       "topic": "complex-numbers",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let the lines (2 $$-$$ i)z = (2 + i)$$\\overline z $$ and (2 $$+$$ i)z + (i $$-$$ 2)$$\\overline z $$ $$-$$ 4i = 0, (here i2 = $$-$$1) be normal to a circle C. If the line iz + $$\\overline z $$ + 1 + i = 0 is tangent to this circle C, then its radius is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${3 \\over {2\\sqrt 2 }}$$",
         "B": "$$3\\sqrt 2 $$",
         "C": "$${1 \\over {2\\sqrt 2 }}$$",
         "D": "$${3 \\over {\\sqrt 2 }}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let the lines (2 $$-$$ i)z = (2 + i)$$\\overline z $$ and (2 $$+$$ i)z + (i $$-$$ 2)$$\\overline z $$ $$-$$ 4i = 0, (here i^{2} = $$-$$1) be normal to a circle C. If the line iz + $$\\overline z $$ + 1 + i = 0 is tangent to this circle C, then its radius is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 32,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 32,
-      "question_text": "$$\\mathop {\\lim }\\limits_{n \\to \\infty } {\\left( {1 + {{1 + {1 \\over 2} + ........ + {1 \\over n}} \\over {{n^2}}}} \\right)^n}$$ is equal to :",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "$$\\mathop {\\lim }\\limits_{n \\to \\infty } {\\left( {1 + {{1 + {1 \\over 2} + ........ + {1 \\over n}} \\over {{n^2}}}} \\right)^n}$$ is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{1 \\over 2}}$$",
         "B": "1",
         "C": "0",
         "D": "$${{1 \\over e}}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "$$\\mathop {\\lim }\\limits_{n \\to \\infty } {\\left( {1 + {{1 + {1 \\over 2} + ........ + {1 \\over n}} \\over {{n^2}}}} \\right)^n}$$ is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 33,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 33,
-      "question_text": "Let $$\\alpha$$ be the angle between the lines whose direction cosines satisfy the equations l + m $$-$$ n = 0 and l2 + m2 $$-$$ n2 = 0. Then the value of sin4$$\\alpha$$ + cos4$$\\alpha$$ is :",
       "subject": "Mathematics",
       "topic": "3d-geometry",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$\\alpha$$ be the angle between the lines whose direction cosines satisfy the equations l + m $$-$$ n = 0 and l2 + m2 $$-$$ n2 = 0. Then the value of sin4$$\\alpha$$ + cos4$$\\alpha$$ is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{3 \\over 8}}$$",
         "B": "$${{3 \\over 4}}$$",
         "C": "$${{1 \\over 2}}$$",
         "D": "$${{5 \\over 8}}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Let $$\\alpha$$ be the angle between the lines whose direction cosines satisfy the equations l + m $$-$$ n = 0 and l^{2} + m^{2} $$-$$ n^{2} = 0. Then the value of sin^{4}$$\\alpha$$ + cos^{4}$$\\alpha$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 34,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 34,
-      "question_text": "The value of the integral \n$$\\int {{{\\sin \\theta .\\sin 2\\theta ({{\\sin }^6}\\theta  + {{\\sin }^4}\\theta  + {{\\sin }^2}\\theta )\\sqrt {2{{\\sin }^4}\\theta  + 3{{\\sin }^2}\\theta  + 6} } \\over {1 - \\cos 2\\theta }}} \\,d\\theta $$ is :",
       "subject": "Mathematics",
       "topic": "indefinite-integrals",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The value of the integral \n$$\\int {{{\\sin \\theta .\\sin 2\\theta ({{\\sin }^6}\\theta  + {{\\sin }^4}\\theta  + {{\\sin }^2}\\theta )\\sqrt {2{{\\sin }^4}\\theta  + 3{{\\sin }^2}\\theta  + 6} } \\over {1 - \\cos 2\\theta }}} \\,d\\theta $$ is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${1 \\over {18}}{\\left[ {9 - 2{{\\cos }^6}\\theta  - 3{{\\cos }^4}\\theta  - 6{{\\cos }^2}\\theta } \\right]^{{3 \\over 2}}} + c$$",
         "B": "$${1 \\over {18}}{\\left[ {11 - 18{{\\sin }^2}\\theta  + 9{{\\sin }^4}\\theta  - 2{{\\sin }^6}\\theta } \\right]^{{3 \\over 2}}} + c$$",
         "C": "$${1 \\over {18}}{\\left[ {11 - 18{{\\cos }^2}\\theta  + 9{{\\cos }^4}\\theta  - 2{{\\cos }^6}\\theta } \\right]^{{3 \\over 2}}} + c$$",
         "D": "$${1 \\over {18}}{\\left[ {9 - 2{{\\sin }^6}\\theta  - 3{{\\sin }^4}\\theta  - 6{{\\sin }^2}\\theta } \\right]^{{3 \\over 2}}} + c$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The value of the integral $$\\int {{{\\sin \\theta .\\sin 2\\theta ({{\\sin }^6}\\theta  + {{\\sin }^4}\\theta  + {{\\sin }^2}\\theta )\\sqrt {2{{\\sin }^4}\\theta  + 3{{\\sin }^2}\\theta  + 6} } \\over {1 - \\cos 2\\theta }}} \\,d\\theta $$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 35,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 35,
-      "question_text": "The coefficients a, b and c of the quadratic equation, ax2 + bx + c = 0 are obtained by throwing a dice three times. The probability that this equation has equal roots is :",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The coefficients a, b and c of the quadratic equation, ax2 + bx + c = 0 are obtained by throwing a dice three times. The probability that this equation has equal roots is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${1 \\over {72}}$$",
         "B": "$${5 \\over {216}}$$",
         "C": "$${1 \\over {36}}$$",
         "D": "$${1 \\over {54}}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The coefficients a, b and c of the quadratic equation, ax^{2} + bx + c = 0 are obtained by throwing a dice three times. The probability that this equation has equal roots is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 36,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 36,
-      "question_text": "The image of the point (3, 5) in the line x $$-$$ y + 1 = 0, lies on :",
       "subject": "Mathematics",
       "topic": "straight-lines-and-pair-of-straight-lines",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The image of the point (3, 5) in the line x $$-$$ y + 1 = 0, lies on :",
+      "question_images": [],
+      "option_texts": {
         "A": "(x $$-$$ 4)^{2} + (y $$-$$ 4)^{2} = 8",
         "B": "(x $$-$$ 4)^{2} + (y $$+$$ 2)^{2} = 16",
         "C": "(x $$-$$ 2)^{2} + (y $$-$$ 2)^{2} = 12",
         "D": "(x $$-$$ 2)^{2} + (y $$-$$ 4)^{2} = 4"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The image of the point (3, 5) in the line x $$-$$ y + 1 = 0, lies on :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 37,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 37,
-      "question_text": "The locus of the point of intersection of the lines $$\\left( {\\sqrt 3 } \\right)kx + ky - 4\\sqrt 3  = 0$$ and $$\\sqrt 3 x - y - 4\\left( {\\sqrt 3 } \\right)k = 0$$ is a conic, whose eccentricity is _________.",
       "subject": "Mathematics",
       "topic": "hyperbola",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The locus of the point of intersection of the lines $$\\left( {\\sqrt 3 } \\right)kx + ky - 4\\sqrt 3  = 0$$ and $$\\sqrt 3 x - y - 4\\left( {\\sqrt 3 } \\right)k = 0$$ is a conic, whose eccentricity is _________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The locus of the point of intersection of the lines $$\\left( {\\sqrt 3 } \\right)kx + ky - 4\\sqrt 3  = 0$$ and $$\\sqrt 3 x - y - 4\\left( {\\sqrt 3 } \\right)k = 0$$ is a conic, whose eccentricity is _________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 38,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 38,
-      "question_text": "The graphs of sine and cosine functions, intersect each other at a number of points and between two consecutive points of intersection, the two graphs enclose the same area A. Then A4 is equal to __________.",
       "subject": "Mathematics",
       "topic": "area-under-the-curves",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The graphs of sine and cosine functions, intersect each other at a number of points and between two consecutive points of intersection, the two graphs enclose the same area A. Then A4 is equal to __________.",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1kmh7v5od/b3ba5d50-7548-47c3-8ffe-f83e5469e87b/ac1109e0-8932-11eb-a6f6-bb819fa65375/file-1kmh7v5oe.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The graphs of sine and cosine functions, intersect each other at a number of points and between two consecutive points of intersection, the two graphs enclose the same area A. Then A^{4} is equal to __________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 39,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 39,
-      "question_text": "The total number of numbers, lying between 100 and 1000 that can be formed with the digits 1, 2, 3, 4, 5, if the repetition of digits is not allowed and numbers are divisible by either 3 or 5, is _____________.",
       "subject": "Mathematics",
       "topic": "permutations-and-combinations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The total number of numbers, lying between 100 and 1000 that can be formed with the digits 1, 2, 3, 4, 5, if the repetition of digits is not allowed and numbers are divisible by either 3 or 5, is _____________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The total number of numbers, lying between 100 and 1000 that can be formed with the digits 1, 2, 3, 4, 5, if the repetition of digits is not allowed and numbers are divisible by either 3 or 5, is _____________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 40,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 40,
-      "question_text": "If $$A = \\left[ {\\matrix{\n   0 & { - \\tan \\left( {{\\theta  \\over 2}} \\right)}  \\cr \n   {\\tan \\left( {{\\theta  \\over 2}} \\right)} & 0  \\cr \n\n } } \\right]$$ and \n$$({I_2} + A){({I_2} - A)^{ - 1}} = \\left[ {\\matrix{\n   a & { - b}  \\cr \n   b & a  \\cr \n\n } } \\right]$$, then $$13({a^2} + {b^2})$$ is equal to",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "If $$A = \\left[ {\\matrix{\n   0 & { - \\tan \\left( {{\\theta  \\over 2}} \\right)}  \\cr \n   {\\tan \\left( {{\\theta  \\over 2}} \\right)} & 0  \\cr \n\n } } \\right]$$ and \n$$({I_2} + A){({I_2} - A)^{ - 1}} = \\left[ {\\matrix{\n   a & { - b}  \\cr \n   b & a  \\cr \n\n } } \\right]$$, then $$13({a^2} + {b^2})$$ is equal to",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "If $$A = \\left[ {\\matrix{\n   0 & { - \\tan \\left( {{\\theta  \\over 2}} \\right)}  \\cr \n   {\\tan \\left( {{\\theta  \\over 2}} \\right)} & 0  \\cr \n\n } } \\right]$$ and $$({I_2} + A){({I_2} - A)^{ - 1}} = \\left[ {\\matrix{\n   a & { - b}  \\cr \n   b & a  \\cr \n\n } } \\right]$$, then $$13({a^2} + {b^2})$$ is equal to",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 41,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 41,
-      "question_text": "Let A1, A2, A3, ....... be squares such that for each n $$ \\ge $$ 1, the length of the side of An equals the length of diagonal of An+1. If the length of A1 is 12 cm, then the smallest value of n for which area of An is less than one, is __________.",
       "subject": "Mathematics",
       "topic": "sequences-and-series",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let A1, A2, A3, ....... be squares such that for each n $$ \\ge $$ 1, the length of the side of An equals the length of diagonal of An+1. If the length of A1 is 12 cm, then the smallest value of n for which area of An is less than one, is __________.",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1krcwgme0/dd908946-5f89-410e-bbf2-25c3dd404f98/05b72490-e9d0-11eb-8bfb-cf6b1defe4fe/file-1krcwgme1.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let A_{1}, A_{2}, A_{3}, ....... be squares such that for each n $$ \\ge $$ 1, the length of the side of A_{n} equals the length of diagonal of A_{n+1}. If the length of A_{1} is 12 cm, then the smallest value of n for which area of A_{n} is less than one, is __________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 42,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 42,
-      "question_text": "If the system of equations\n\nkx + y + 2z = 1\n\n3x $$-$$ y $$-$$ 2z = 2\n\n$$-$$2x $$-$$2y $$-$$4z = 3\n\nhas infinitely many solutions, then k is equal to __________.",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "If the system of equations\n\nkx + y + 2z = 1\n\n3x $$-$$ y $$-$$ 2z = 2\n\n$$-$$2x $$-$$2y $$-$$4z = 3\n\nhas infinitely many solutions, then k is equal to __________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "If the system of equationskx + y + 2z = 13x $$-$$ y $$-$$ 2z = 2$$-$$2x $$-$$2y $$-$$4z = 3has infinitely many solutions, then k is equal to __________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 43,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 43,
-      "question_text": "The number of points, at which the function \nf(x) = | 2x + 1 | $$-$$ 3| x + 2 | + | x2 + x $$-$$ 2 |, x$$\\in$$R is not differentiable, is __________.",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The number of points, at which the function \nf(x) = | 2x + 1 | $$-$$ 3| x + 2 | + | x2 + x $$-$$ 2 |, x$$\\in$$R is not differentiable, is __________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The number of points, at which the function f(x) = | 2x + 1 | $$-$$ 3| x + 2 | + | x^{2} + x $$-$$ 2 |, x$$\\in$$R is not differentiable, is __________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 44,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 44,
-      "question_text": "Let $$\\overrightarrow a  = \\widehat i + 2\\widehat j - \\widehat k$$, $$\\overrightarrow b  = \\widehat i - \\widehat j$$ and $$\\overrightarrow c  = \\widehat i - \\widehat j - \\widehat k$$ be three given vectors. If $$\\overrightarrow r $$ is a vector such that $$\\overrightarrow r  \\times \\overrightarrow a  = \\overrightarrow c  \\times \\overrightarrow a $$ and $$\\overrightarrow r .\\,\\overrightarrow b  = 0$$, then $$\\overrightarrow r .\\,\\overrightarrow a $$ is equal to __________.",
       "subject": "Mathematics",
       "topic": "vector-algebra",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $$\\overrightarrow a  = \\widehat i + 2\\widehat j - \\widehat k$$, $$\\overrightarrow b  = \\widehat i - \\widehat j$$ and $$\\overrightarrow c  = \\widehat i - \\widehat j - \\widehat k$$ be three given vectors. If $$\\overrightarrow r $$ is a vector such that $$\\overrightarrow r  \\times \\overrightarrow a  = \\overrightarrow c  \\times \\overrightarrow a $$ and $$\\overrightarrow r .\\,\\overrightarrow b  = 0$$, then $$\\overrightarrow r .\\,\\overrightarrow a $$ is equal to __________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $$\\overrightarrow a  = \\widehat i + 2\\widehat j - \\widehat k$$, $$\\overrightarrow b  = \\widehat i - \\widehat j$$ and $$\\overrightarrow c  = \\widehat i - \\widehat j - \\widehat k$$ be three given vectors. If $$\\overrightarrow r $$ is a vector such that $$\\overrightarrow r  \\times \\overrightarrow a  = \\overrightarrow c  \\times \\overrightarrow a $$ and $$\\overrightarrow r .\\,\\overrightarrow b  = 0$$, then $$\\overrightarrow r .\\,\\overrightarrow a $$ is equal to __________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 45,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 45,
-      "question_text": "Let f(x) be a polynomial of degree 6 in x, in which the coefficient of x6 is unity and it has extrema at x = $$-$$1 and x = 1. If $$\\mathop {\\lim }\\limits_{x \\to 0} {{f(x)} \\over {{x^3}}} = 1$$, then $$5.f(2)$$ is equal to _________.",
       "subject": "Mathematics",
       "topic": "application-of-derivatives",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let f(x) be a polynomial of degree 6 in x, in which the coefficient of x6 is unity and it has extrema at x = $$-$$1 and x = 1. If $$\\mathop {\\lim }\\limits_{x \\to 0} {{f(x)} \\over {{x^3}}} = 1$$, then $$5.f(2)$$ is equal to _________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let f(x) be a polynomial of degree 6 in x, in which the coefficient of x^{6} is unity and it has extrema at x = $$-$$1 and x = 1. If $$\\mathop {\\lim }\\limits_{x \\to 0} {{f(x)} \\over {{x^3}}} = 1$$, then $$5.f(2)$$ is equal to _________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 46,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 46,
-      "question_text": "A proton, a deuteron and an $$\\alpha$$ particle are moving with same momentum in a uniform magnetic field. The ratio of magnetic forces acting on them is _________ and their speed is _______, in the ratio.",
       "subject": "Physics",
       "topic": "magnetics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A proton, a deuteron and an $$\\alpha$$ particle are moving with same momentum in a uniform magnetic field. The ratio of magnetic forces acting on them is _________ and their speed is _______, in the ratio.",
+      "question_images": [],
+      "option_texts": {
         "A": "2 : 1 : 1 and 4 : 2 : 1",
         "B": "4 : 2 : 1 and 2 : 1 : 1",
         "C": "1 : 2 : 4 and 2 : 1 : 1",
         "D": "1 : 2 : 4 and 1 : 1 : 2"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A proton, a deuteron and an $$\\alpha$$ particle are moving with same momentum in a uniform magnetic field. The ratio of magnetic forces acting on them is _________ and their speed is _______, in the ratio.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 47,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 47,
-      "question_text": "A solid sphere of radius R gravitationally attracts a particle placed at 3R from its centre with a force F1. Now a spherical cavity of radius $$\\left( {{R \\over 2}} \\right)$$ is made in the sphere (as shown in figure) and the force becomes F2. The value of F1 : F2 is",
       "subject": "Physics",
       "topic": "gravitation",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A solid sphere of radius R gravitationally attracts a particle placed at 3R from its centre with a force F1. Now a spherical cavity of radius $$\\left( {{R \\over 2}} \\right)$$ is made in the sphere (as shown in figure) and the force becomes F2. The value of F1 : F2 is",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1klse24x4/4859a6d7-a609-43ae-b23b-345e599fe470/4caf4e80-7b8b-11eb-a157-49f87e3afb79/file-1klse24x5-307w.jpg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "36 : 25",
         "B": "41 : 50",
         "C": "50 : 41",
         "D": "25 : 36"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A solid sphere of radius R gravitationally attracts a particle placed at 3R from its centre with a force F_{1}. Now a spherical cavity of radius $$\\left( {{R \\over 2}} \\right)$$ is made in the sphere (as shown in figure) and the force becomes F_{2}. The value of F_{1} : F_{2} is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 48,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 48,
-      "question_text": "An $$\\alpha$$ particle and a proton are accelerated from rest by a potential difference of 200V. After this, their de Broglie wavelengths are $$\\lambda$$$$\\alpha$$ and $$\\lambda$$p respectively. The ratio $${{{{\\lambda _p}} \\over {{\\lambda _\\alpha }}}}$$ is :",
       "subject": "Physics",
       "topic": "dual-nature-of-radiation",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An $$\\alpha$$ particle and a proton are accelerated from rest by a potential difference of 200V. After this, their de Broglie wavelengths are $$\\lambda$$$$\\alpha$$ and $$\\lambda$$p respectively. The ratio $${{{{\\lambda _p}} \\over {{\\lambda _\\alpha }}}}$$ is :",
+      "question_images": [],
+      "option_texts": {
         "A": "8",
         "B": "2.8",
         "C": "7.8",
         "D": "3.8"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "An $$\\alpha$$ particle and a proton are accelerated from rest by a potential difference of 200V. After this, their de Broglie wavelengths are $$\\lambda$$_{$$\\alpha$$} and $$\\lambda$$_{p} respectively. The ratio $${{{{\\lambda _p}} \\over {{\\lambda _\\alpha }}}}$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 49,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 49,
-      "question_text": "The angular frequency of alternating current in a L-C-R circuit is 100 rad/s. The components connected are shown in the figure. Find the value of inductance of the coil and capacity of condenser.",
       "subject": "Physics",
       "topic": "alternating-current",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The angular frequency of alternating current in a L-C-R circuit is 100 rad/s. The components connected are shown in the figure. Find the value of inductance of the coil and capacity of condenser.",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1klse4abm/b946c1e6-dc78-48bc-9d07-b06d0d149821/887a0220-7b8b-11eb-a157-49f87e3afb79/file-1klse4abn-341w.jpg",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/1klyumz4o/d09fb7dd-b9e3-4bf7-af2c-4dbbd9239a42/d62ae490-7f18-11eb-8513-936405db0171/file-1klyumz4p-311w.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "0.8 H and 150 $$\\mu$$F",
         "B": "0.8 H and 250 $$\\mu$$F",
         "C": "1.33 H and 150 $$\\mu$$F",
         "D": "1.33 H and 250 $$\\mu$$F"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The angular frequency of alternating current in a L-C-R circuit is 100 rad/s. The components connected are shown in the figure. Find the value of inductance of the coil and capacity of condenser.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 50,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 50,
-      "question_text": "Magnetic fields at two points on the axis of a circular coil at a distance of 0.05 m and 0.2 m from the centre are in the ratio 8 : 1. The radius of coil is ________.",
       "subject": "Physics",
       "topic": "magnetics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Magnetic fields at two points on the axis of a circular coil at a distance of 0.05 m and 0.2 m from the centre are in the ratio 8 : 1. The radius of coil is ________.",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1klyu9cvz/b703eee8-ab98-4fc3-b22b-d647bf488436/5b77b800-7f17-11eb-8513-936405db0171/file-1klyu9cw0-1580w.jpeg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "1.0 m",
         "B": "0.15 m",
         "C": "0.2 m",
         "D": "0.1 m"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Magnetic fields at two points on the axis of a circular coil at a distance of 0.05 m and 0.2 m from the centre are in the ratio 8 : 1. The radius of coil is ________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 51,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 51,
-      "question_text": "Match List - I with List - II :\n\n\n\n  \n    \n    List I\n    \n    List II\n  \n\n\n  \n    (a)\n    h (Planck's constant)\n    (i)\n    $$[ML{T^{ - 1}}]$$\n  \n  \n    (b)\n    E (kinetic energy)\n    (ii)\n    $$[M{L^2}{T^{ - 1}}]$$\n  \n  \n    (c)\n    V (electric potential)\n    (iii)\n    $$[M{L^2}{T^{ - 2}}]$$\n  \n  \n    (d)\n    P (linear momentum)\n    (iv)\n    $$[M{L^2}{I^{ - 1}}{T^{ - 3}}]$$\n  \n\n\n\nChoose the correct answer from the options given below :",
       "subject": "Physics",
       "topic": "units-and-measurements",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Match List - I with List - II :\n\n\n\n  \n    \n    List I\n    \n    List II\n  \n\n\n  \n    (a)\n    h (Planck's constant)\n    (i)\n    $$[ML{T^{ - 1}}]$$\n  \n  \n    (b)\n    E (kinetic energy)\n    (ii)\n    $$[M{L^2}{T^{ - 1}}]$$\n  \n  \n    (c)\n    V (electric potential)\n    (iii)\n    $$[M{L^2}{T^{ - 2}}]$$\n  \n  \n    (d)\n    P (linear momentum)\n    (iv)\n    $$[M{L^2}{I^{ - 1}}{T^{ - 3}}]$$\n  \n\n\n\nChoose the correct answer from the options given below :",
+      "question_images": [],
+      "option_texts": {
         "A": "(a) $$ \\to $$ (ii), (b) $$ \\to $$ (iii), (c) $$ \\to $$ (iv), (d) $$ \\to $$ (i)",
         "B": "(a) $$ \\to $$ (i), (b) $$ \\to $$ (ii), (c) $$ \\to $$ (iv), (d) $$ \\to $$ (iii)",
         "C": "(a) $$ \\to $$ (iii), (b) $$ \\to $$ (ii), (c) $$ \\to $$ (iv), (d) $$ \\to $$ (i)",
         "D": "(a) $$ \\to $$ (iii), (b) $$ \\to $$ (iv), (c) $$ \\to $$ (ii), (d) $$ \\to $$ (i)"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Match List - I with List - II :\n\n  \n    \n    List I\n    \n    List II\n  \n\n\n  \n    (a)\n    h (Planck's constant)\n    (i)\n    $$[ML{T^{ - 1}}]$$\n  \n  \n    (b)\n    E (kinetic energy)\n    (ii)\n    $$[M{L^2}{T^{ - 1}}]$$\n  \n  \n    (c)\n    V (electric potential)\n    (iii)\n    $$[M{L^2}{T^{ - 2}}]$$\n  \n  \n    (d)\n    P (linear momentum)\n    (iv)\n    $$[M{L^2}{I^{ - 1}}{T^{ - 3}}]$$\n  \n\nChoose the correct answer from the options given below :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 52,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 52,
-      "question_text": "Two satellites A and B of masses 200 kg and 400 kg are revolving round the earth at height of 600 km and 1600 km respectively.\n\nIf TA and TB are the time periods of A and B respectively then the value of TB $$-$$ TA :\n\n\n[Given : radius of earth = 6400 km, mass of earth = 6 $$\\times$$ 1024 kg]",
       "subject": "Physics",
       "topic": "gravitation",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two satellites A and B of masses 200 kg and 400 kg are revolving round the earth at height of 600 km and 1600 km respectively.\n\nIf TA and TB are the time periods of A and B respectively then the value of TB $$-$$ TA :\n\n\n[Given : radius of earth = 6400 km, mass of earth = 6 $$\\times$$ 1024 kg]",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1klse5uj5/fd1e4e39-e626-4bcd-84c6-5a90789db238/b3e59410-7b8b-11eb-a157-49f87e3afb79/file-1klse5uj6-220w.jpg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "1.33 $$\\times$$ 10^{3} s",
         "B": "4.24 $$\\times$$ 10^{2} s",
         "C": "3.33 $$\\times$$ 10^{2} s",
         "D": "4.24 $$\\times$$ 10^{3} s"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Two satellites A and B of masses 200 kg and 400 kg are revolving round the earth at height of 600 km and 1600 km respectively.If T_{A} and T_{B} are the time periods of A and B respectively then the value of T_{B} $$-$$ T_{A} :[Given : radius of earth = 6400 km, mass of earth = 6 $$\\times$$ 10^{24} kg]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 53,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 53,
-      "question_text": "Two coherent light sources having intensity in the ratio 2x produce an interference pattern. The ratio $${{{I_{\\max }} - {I_{\\min }}} \\over {{I_{\\max }} + {I_{\\min }}}}$$ will be :",
       "subject": "Physics",
       "topic": "wave-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two coherent light sources having intensity in the ratio 2x produce an interference pattern. The ratio $${{{I_{\\max }} - {I_{\\min }}} \\over {{I_{\\max }} + {I_{\\min }}}}$$ will be :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{2\\sqrt {2x} } \\over {2x + 1}}$$",
         "B": "$${{2\\sqrt {2x} } \\over {x + 1}}$$",
         "C": "$${{\\sqrt {2x} } \\over {x + 1}}$$",
         "D": "$${{\\sqrt {2x} } \\over {2x + 1}}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Two coherent light sources having intensity in the ratio 2x produce an interference pattern. The ratio $${{{I_{\\max }} - {I_{\\min }}} \\over {{I_{\\max }} + {I_{\\min }}}}$$ will be :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 54,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 54,
-      "question_text": "An engine of a train, moving with uniform acceleration, passes the signal-post with velocity u and the last compartment with velocity v. The velocity with which middle point of the train passes the signal post is :",
       "subject": "Physics",
       "topic": "motion-in-a-straight-line",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An engine of a train, moving with uniform acceleration, passes the signal-post with velocity u and the last compartment with velocity v. The velocity with which middle point of the train passes the signal post is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1klxwjnsg/dda24f48-d0b7-4cb8-81c9-5043a74f5f8b/8396ea10-7e93-11eb-a28b-a1f033072627/file-1klxwjnsh-1220w.jpeg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{u + v} \\over 2}$$",
         "B": "$$\\sqrt {{{{v^2} - {u^2}} \\over 2}} $$",
         "C": "$${{v - u} \\over 2}$$",
         "D": "$$\\sqrt {{{{v^2} + {u^2}} \\over 2}} $$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "An engine of a train, moving with uniform acceleration, passes the signal-post with velocity u and the last compartment with velocity v. The velocity with which middle point of the train passes the signal post is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 55,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 55,
-      "question_text": "Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R.\n\nAssertion A : When a rod lying freely is heated, no thermal stress is developed in it.\n\nReason R : On heating, the length of the rod increases.\n\nIn the light of the above statements, choose the correct answer from the options given below :",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R.\n\nAssertion A : When a rod lying freely is heated, no thermal stress is developed in it.\n\nReason R : On heating, the length of the rod increases.\n\nIn the light of the above statements, choose the correct answer from the options given below :",
+      "question_images": [],
+      "option_texts": {
         "A": "A is true but R is false",
         "B": "A is false but R is true",
         "C": "Both A and B are true but R is NOT the correct explanation of A",
         "D": "Both A and R are true and R is the correct explanation of A"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R.Assertion A : When a rod lying freely is heated, no thermal stress is developed in it.Reason R : On heating, the length of the rod increases.In the light of the above statements, choose the correct answer from the options given below :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 56,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 56,
-      "question_text": "The pitch of the screw gauge is 1 mm and there are 100 divisions on the circular scale. When nothing is put in between the jaws, the zero of the circular scale lies 8 divisions below the reference line. When a wire is placed between the jaws, the first linear scale division is clearly visible while 72nd division on circular scale coincides with the reference line. The radius of the wire is :",
       "subject": "Physics",
       "topic": "units-and-measurements",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The pitch of the screw gauge is 1 mm and there are 100 divisions on the circular scale. When nothing is put in between the jaws, the zero of the circular scale lies 8 divisions below the reference line. When a wire is placed between the jaws, the first linear scale division is clearly visible while 72nd division on circular scale coincides with the reference line. The radius of the wire is :",
+      "question_images": [],
+      "option_texts": {
         "A": "1.80 mm",
         "B": "0.90 mm",
         "C": "0.82 mm",
         "D": "1.64 mm"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The pitch of the screw gauge is 1 mm and there are 100 divisions on the circular scale. When nothing is put in between the jaws, the zero of the circular scale lies 8 divisions below the reference line. When a wire is placed between the jaws, the first linear scale division is clearly visible while 72^{nd} division on circular scale coincides with the reference line. The radius of the wire is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 57,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 57,
-      "question_text": "If the time period of a two meter long simple pendulum is 2s, the acceleration due to gravity at the place where pendulum is executing S.H.M. is :",
       "subject": "Physics",
       "topic": "simple-harmonic-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the time period of a two meter long simple pendulum is 2s, the acceleration due to gravity at the place where pendulum is executing S.H.M. is :",
+      "question_images": [],
+      "option_texts": {
         "A": "16 m/s^{2}",
         "B": "2$$\\pi$$^{2}^{} ms^{$$-$$2}",
         "C": "$$\\pi$$^{2} ms^{$$-$$2}",
         "D": "9.8 ms^{$$-$$2}"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "If the time period of a two meter long simple pendulum is 2s, the acceleration due to gravity at the place where pendulum is executing S.H.M. is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 58,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 58,
-      "question_text": "A diatomic gas, having $${C_p} = {7 \\over 2}R$$ and $${C_v} = {5 \\over 2}R$$, is heated at constant pressure. The ratio dU : dQ : dW :",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A diatomic gas, having $${C_p} = {7 \\over 2}R$$ and $${C_v} = {5 \\over 2}R$$, is heated at constant pressure. The ratio dU : dQ : dW :",
+      "question_images": [],
+      "option_texts": {
         "A": "5 : 7 : 3",
         "B": "3 : 7 : 2",
         "C": "5 : 7 : 2",
         "D": "3 : 5 : 2"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A diatomic gas, having $${C_p} = {7 \\over 2}R$$ and $${C_v} = {5 \\over 2}R$$, is heated at constant pressure. The ratio dU : dQ : dW :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 59,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 59,
-      "question_text": "A 5V battery is connected across the points X and Y. Assume D1 and D2 to be normal silicon diodes. Find the current supplied by the battery if the +ve terminal of the battery is connected to point X.",
       "subject": "Physics",
       "topic": "electronic-devices",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A 5V battery is connected across the points X and Y. Assume D1 and D2 to be normal silicon diodes. Find the current supplied by the battery if the +ve terminal of the battery is connected to point X.",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1klse7fwy/dad4d452-ec97-4b05-9410-44208fcd9e07/e0396320-7b8b-11eb-a157-49f87e3afb79/file-1klse7fwz-266w.jpg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$ \\sim $$ 0.5 A",
         "B": "$$ \\sim $$ 1.5 A",
         "C": "$$ \\sim $$ 0.43 A",
         "D": "$$ \\sim $$ 0.86 A"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A 5V battery is connected across the points X and Y. Assume D_{1} and D_{2} to be normal silicon diodes. Find the current supplied by the battery if the +ve terminal of the battery is connected to point X.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 60,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 60,
-      "question_text": "A student is performing the experiment of resonance column. The diameter of the column tube is 6 cm. The frequency of the tuning fork is 504 Hz. Speed of the sound at the given temperature is 336 m/s. The zero of the metre scale coincides with the top end of the resonance column tube. The reading of the water level in the column when the first resonance occurs is :",
       "subject": "Physics",
       "topic": "waves",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A student is performing the experiment of resonance column. The diameter of the column tube is 6 cm. The frequency of the tuning fork is 504 Hz. Speed of the sound at the given temperature is 336 m/s. The zero of the metre scale coincides with the top end of the resonance column tube. The reading of the water level in the column when the first resonance occurs is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1klyuf8ub/00ee2459-cbc2-4cb0-81d6-7ff293833cfa/ff323d30-7f17-11eb-8513-936405db0171/file-1klyuf8uc-680w.jpeg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "13 cm",
         "B": "18.4 cm",
         "C": "16.6 cm",
         "D": "14.8 cm"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "A student is performing the experiment of resonance column. The diameter of the column tube is 6 cm. The frequency of the tuning fork is 504 Hz. Speed of the sound at the given temperature is 336 m/s. The zero of the metre scale coincides with the top end of the resonance column tube. The reading of the water level in the column when the first resonance occurs is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 61,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 61,
-      "question_text": "In an octagon ABCDEFGH of equal side, what is the sum of \n\n$$\\overrightarrow {AB}  + \\overrightarrow {AC}  + \\overrightarrow {AD}  + \\overrightarrow {AE}  + \\overrightarrow {AF}  + \\overrightarrow {AG}  + \\overrightarrow {AH} $$,\n\nif, $$\\overrightarrow {AO}  = 2\\widehat i + 3\\widehat j - 4\\widehat k$$",
       "subject": "Physics",
       "topic": "vector-algebra",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In an octagon ABCDEFGH of equal side, what is the sum of \n\n$$\\overrightarrow {AB}  + \\overrightarrow {AC}  + \\overrightarrow {AD}  + \\overrightarrow {AE}  + \\overrightarrow {AF}  + \\overrightarrow {AG}  + \\overrightarrow {AH} $$,\n\nif, $$\\overrightarrow {AO}  = 2\\widehat i + 3\\widehat j - 4\\widehat k$$",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1klse8zob/68032ee0-cc72-4993-92d2-a9ab97ac691e/0b4c26b0-7b8c-11eb-a157-49f87e3afb79/file-1klse8zoc-248w.jpg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$ - 16\\widehat i - 24\\widehat j + 32\\widehat k$$",
         "B": "$$16\\widehat i + 24\\widehat j - 32\\widehat k$$",
         "C": "$$16\\widehat i + 24\\widehat j + 32\\widehat k$$",
         "D": "$$16\\widehat i - 24\\widehat j + 32\\widehat k$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "In an octagon ABCDEFGH of equal side, what is the sum of $$\\overrightarrow {AB}  + \\overrightarrow {AC}  + \\overrightarrow {AD}  + \\overrightarrow {AE}  + \\overrightarrow {AF}  + \\overrightarrow {AG}  + \\overrightarrow {AH} $$,if, $$\\overrightarrow {AO}  = 2\\widehat i + 3\\widehat j - 4\\widehat k$$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 62,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 62,
-      "question_text": "The current (i) at time t = 0 and t = $$\\infty $$ respectively for the given circuit is :",
       "subject": "Physics",
       "topic": "alternating-current",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The current (i) at time t = 0 and t = $$\\infty $$ respectively for the given circuit is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1klseacle/7949816a-4deb-4349-9e8f-5ba7dff948f1/31161220-7b8c-11eb-a157-49f87e3afb79/file-1klseaclf-283w.jpg",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/1krbdccn5/a9164224-0a55-4693-b234-496a6092787b/78d8ce20-e8f8-11eb-9de5-0158e8e51230/file-1krbdccn6.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/1krbdccn5/a9164224-0a55-4693-b234-496a6092787b/78d8ce20-e8f8-11eb-9de5-0158e8e51230/file-1krbdccn6.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/1krbdfr8g/75004263-a014-4755-b730-739e1fd46ee8/d78bd110-e8f8-11eb-82db-2db925b53542/file-1krbdfr8h.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/1krbdhqia/44253ebb-ea20-404d-8a06-3fb4af3be0ec/0e9a3520-e8f9-11eb-82db-2db925b53542/file-1krbdhqib.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{18E} \\over {55}},{{5E} \\over {18}}$$",
         "B": "$${{5E} \\over {18}},{{18E} \\over {55}}$$",
         "C": "$${{5E} \\over {18}},{{10E} \\over {33}}$$",
         "D": "$${{10E} \\over {33}},{{5E} \\over {18}}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The current (i) at time t = 0 and t = $$\\infty $$ respectively for the given circuit is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 63,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 63,
-      "question_text": "Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R.\n\nAssertion A : The escape velocities of planet A and B are same. But A and B are of unequal mass.\n\nReason R : The product of their mass and radius must be same. M1R1 = M2R2\n\nIn the light of the above statements, choose the most appropriate answer from the options given below :",
       "subject": "Physics",
       "topic": "gravitation",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R.\n\nAssertion A : The escape velocities of planet A and B are same. But A and B are of unequal mass.\n\nReason R : The product of their mass and radius must be same. M1R1 = M2R2\n\nIn the light of the above statements, choose the most appropriate answer from the options given below :",
+      "question_images": [],
+      "option_texts": {
         "A": "Both A and R are correct and R is the correct explanation of A",
         "B": "Both A and R are correct but R is NOT the correct explanation of A",
         "C": "A is correct but R is not correct",
         "D": "A is not correct but R is correct"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R.Assertion A : The escape velocities of planet A and B are same. But A and B are of unequal mass.Reason R : The product of their mass and radius must be same. M_{1}R_{1} = M_{2}R_{2}In the light of the above statements, choose the most appropriate answer from the options given below :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 64,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 64,
-      "question_text": "A small bob tied at one end of a thin string of length 1 m is describing a vertical circle so that the maximum and minimum tension in the string are in the ratio 5 : 1. The velocity of the bob at the highest position is ________ m/s. (Take g = 10 m/s2)",
       "subject": "Physics",
       "topic": "circular-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A small bob tied at one end of a thin string of length 1 m is describing a vertical circle so that the maximum and minimum tension in the string are in the ratio 5 : 1. The velocity of the bob at the highest position is ________ m/s. (Take g = 10 m/s2)",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1klxzdwpi/dca79f7d-95c1-48df-9efd-1e65831f2b64/9f02b760-7e9e-11eb-8383-4fc3398f351e/file-1klxzdwpj-680w.jpeg",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A small bob tied at one end of a thin string of length 1 m is describing a vertical circle so that the maximum and minimum tension in the string are in the ratio 5 : 1. The velocity of the bob at the highest position is ________ m/s. (Take g = 10 m/s^{2})",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 65,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 65,
-      "question_text": "A monoatomic gas of mass 4.0 u is kept in an insulated container. Container is moving with velocity 30 m/s. If container is suddenly stopped then change in temperature of the gas (R = gas constant) is $${x \\over {3R}}$$. Value of x is ___________.",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A monoatomic gas of mass 4.0 u is kept in an insulated container. Container is moving with velocity 30 m/s. If container is suddenly stopped then change in temperature of the gas (R = gas constant) is $${x \\over {3R}}$$. Value of x is ___________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A monoatomic gas of mass 4.0 u is kept in an insulated container. Container is moving with velocity 30 m/s. If container is suddenly stopped then change in temperature of the gas (R = gas constant) is $${x \\over {3R}}$$. Value of x is ___________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 66,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 66,
-      "question_text": "The same size images are formed by a convex lens when the object is placed at 20 cm or at 10 cm from the lens. The focal length of convex lens is __________ cm.",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The same size images are formed by a convex lens when the object is placed at 20 cm or at 10 cm from the lens. The focal length of convex lens is __________ cm.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The same size images are formed by a convex lens when the object is placed at 20 cm or at 10 cm from the lens. The focal length of convex lens is __________ cm.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 67,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 67,
-      "question_text": "A coil of inductance 2 H having negligible resistance is connected to a source of supply whose voltage is given by V = 3t volt. (where t is in second). If the voltage is applied when t = 0, then the energy stored in the coil after 4 s is _______J.",
       "subject": "Physics",
       "topic": "electromagnetic-induction",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A coil of inductance 2 H having negligible resistance is connected to a source of supply whose voltage is given by V = 3t volt. (where t is in second). If the voltage is applied when t = 0, then the energy stored in the coil after 4 s is _______J.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A coil of inductance 2 H having negligible resistance is connected to a source of supply whose voltage is given by V = 3t volt. (where t is in second). If the voltage is applied when t = 0, then the energy stored in the coil after 4 s is _______J.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 68,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 68,
-      "question_text": "The potential energy (U) of a diatomic molecule is a function dependent on r (interatomic distance) as \n\n$$U = {\\alpha  \\over {{r^{10}}}} - {\\beta  \\over {{r^5}}} - 3$$\n\nwhere, $$\\alpha$$ and $$\\beta$$ are positive constants. The equilibrium distance between two atoms will be $${\\left( {{{2\\alpha } \\over \\beta }} \\right)^{{a \\over b}}}$$, where a = ___________.",
       "subject": "Physics",
       "topic": "work-power-and-energy",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The potential energy (U) of a diatomic molecule is a function dependent on r (interatomic distance) as \n\n$$U = {\\alpha  \\over {{r^{10}}}} - {\\beta  \\over {{r^5}}} - 3$$\n\nwhere, $$\\alpha$$ and $$\\beta$$ are positive constants. The equilibrium distance between two atoms will be $${\\left( {{{2\\alpha } \\over \\beta }} \\right)^{{a \\over b}}}$$, where a = ___________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The potential energy (U) of a diatomic molecule is a function dependent on r (interatomic distance) as $$U = {\\alpha  \\over {{r^{10}}}} - {\\beta  \\over {{r^5}}} - 3$$where, $$\\alpha$$ and $$\\beta$$ are positive constants. The equilibrium distance between two atoms will be $${\\left( {{{2\\alpha } \\over \\beta }} \\right)^{{a \\over b}}}$$, where a = ___________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 69,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 69,
-      "question_text": "The electric field in a region is given by $$\\overrightarrow E  = \\left( {{3 \\over 5}{E_0}\\widehat i + {4 \\over 5}{E_0}\\widehat j} \\right){N \\over C}$$. The ratio of flux of reported field through the rectangular surface of area 0.2 m2 (parallel to y $$-$$ z plane) to that of the surface of area 0.3 m2 (parallel to x $$-$$ z plane) is a : b, where a = __________ [Here $${\\widehat i}$$, $${\\widehat j}$$ and $${\\widehat k}$$ are unit vectors along x, y and z-axes respectively.]",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The electric field in a region is given by $$\\overrightarrow E  = \\left( {{3 \\over 5}{E_0}\\widehat i + {4 \\over 5}{E_0}\\widehat j} \\right){N \\over C}$$. The ratio of flux of reported field through the rectangular surface of area 0.2 m2 (parallel to y $$-$$ z plane) to that of the surface of area 0.3 m2 (parallel to x $$-$$ z plane) is a : b, where a = __________ [Here $${\\widehat i}$$, $${\\widehat j}$$ and $${\\widehat k}$$ are unit vectors along x, y and z-axes respectively.]",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The electric field in a region is given by $$\\overrightarrow E  = \\left( {{3 \\over 5}{E_0}\\widehat i + {4 \\over 5}{E_0}\\widehat j} \\right){N \\over C}$$. The ratio of flux of reported field through the rectangular surface of area 0.2 m^{2} (parallel to y $$-$$ z plane) to that of the surface of area 0.3 m^{2} (parallel to x $$-$$ z plane) is a : b, where a = __________ [Here $${\\widehat i}$$, $${\\widehat j}$$ and $${\\widehat k}$$ are unit vectors along x, y and z-axes respectively.]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 70,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 70,
-      "question_text": "In a certain thermodynamical process, the pressure of a gas depends on its volume as kV3. The work done when the temperature changes from 100$$^\\circ$$C to 300$$^\\circ$$C will be ___________ nR, where n denotes number of moles of a gas.",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "In a certain thermodynamical process, the pressure of a gas depends on its volume as kV3. The work done when the temperature changes from 100$$^\\circ$$C to 300$$^\\circ$$C will be ___________ nR, where n denotes number of moles of a gas.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "In a certain thermodynamical process, the pressure of a gas depends on its volume as kV^{3}. The work done when the temperature changes from 100$$^\\circ$$C to 300$$^\\circ$$C will be ___________ nR, where n denotes number of moles of a gas.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 71,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 71,
-      "question_text": "512 identical drops of mercury are charged to a potential of 2V each. The drops are joined to form a single drop. The potential of this drop is ________ V.",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "512 identical drops of mercury are charged to a potential of 2V each. The drops are joined to form a single drop. The potential of this drop is ________ V.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "512 identical drops of mercury are charged to a potential of 2V each. The drops are joined to form a single drop. The potential of this drop is ________ V.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 72,
       "year": 2021,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 72,
-      "question_text": "A transmitting station releases waves of wavelength 960 m. A capacitor of 2.56 $$\\mu$$F is used in the resonant circuit. The self inductance of coil necessary for resonance is __________ $$\\times$$ 10$$-$$8 H.",
       "subject": "Physics",
       "topic": "alternating-current",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A transmitting station releases waves of wavelength 960 m. A capacitor of 2.56 $$\\mu$$F is used in the resonant circuit. The self inductance of coil necessary for resonance is __________ $$\\times$$ 10$$-$$8 H.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A transmitting station releases waves of wavelength 960 m. A capacitor of 2.56 $$\\mu$$F is used in the resonant circuit. The self inductance of coil necessary for resonance is __________ $$\\times$$ 10^{$$-$$8} H.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     }
   ]
 }

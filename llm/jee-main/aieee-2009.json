@@ -8,1828 +8,1982 @@
   },
   "questions": [
     {
+      "question_number": 1,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 1,
-      "question_text": "A binary liquid solution is prepared by mixing n-heptane and ethanol. Which one of the following\nstatements is correct regarding the behaviour of the solution ?",
       "subject": "Chemistry",
       "topic": "solutions",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A binary liquid solution is prepared by mixing n-heptane and ethanol. Which one of the following\nstatements is correct regarding the behaviour of the solution ?",
+      "question_images": [],
+      "option_texts": {
         "A": "The solution formed is an ideal solution",
         "B": "The solution is non-ideal, showing +ve deviation from Raoult’s law.",
         "C": "The solution is non-ideal, showing –ve deviation from Raoult’s law.",
         "D": "n-heptane shows +ve deviation while ethanol shows –ve deviation from Raoult’s law."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A binary liquid solution is prepared by mixing n-heptane and ethanol. Which one of the following\nstatements is correct regarding the behaviour of the solution ?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 2,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 2,
-      "question_text": "The number of stereoisomers possible for a compound of the molecular formula\nCH3 - CH = CH - CH(OH) - Me is :",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The number of stereoisomers possible for a compound of the molecular formula\nCH3 - CH = CH - CH(OH) - Me is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/NZn6Z054rtRqU3kNN/96JgCN6ETrW7s7M4WSBdmQUKRD2Ky/sO900m4i4OVRv1mvDvUiyM/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "2",
         "B": "4",
         "C": "6",
         "D": "3"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The number of stereoisomers possible for a compound of the molecular formula\nCH_{3} - CH = CH - CH(OH) - Me is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 3,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 3,
-      "question_text": "The alkene that exhibits geometrical isomerism is :",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The alkene that exhibits geometrical isomerism is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/oyKzH8IKWR13NUfUj/O4Z5v9DfXzZyOyg6560UEDBOIRlFt/daIdX59FG48bMtyLLfcU42/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "propene",
         "B": "2-methyl propene",
         "C": "2-butene",
         "D": "2- methyl -2- butene"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The alkene that exhibits geometrical isomerism is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 4,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 4,
-      "question_text": "The IUPAC name of neopentane is",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The IUPAC name of neopentane is",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/FzqCvy7jMJ7LFkv1k/5CoOMjZYPiQIkPA4WRBh3qtaHNSWj/ZqoDnljPyU3O85XIvevXzx/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "2-methylbutane",
         "B": "2, 2-dimethylpropane",
         "C": "2-methylpropane",
         "D": "2,2-dimethylbutane"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The IUPAC name of neopentane is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 5,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 5,
-      "question_text": "Arrange the carbanions, $${(C{H_3})_3}\\overline C $$,  $$\\overline C C{l_3}$$ , $${(C{H_3})_2}\\overline C H$$, $${C_6}{H_5}\\overline C H{}_2$$ in order of their decreasing stability :",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Arrange the carbanions, $${(C{H_3})_3}\\overline C $$,  $$\\overline C C{l_3}$$ , $${(C{H_3})_2}\\overline C H$$, $${C_6}{H_5}\\overline C H{}_2$$ in order of their decreasing stability :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/6TaCV4GDupUWbTcvo/UjGLVYeLBuz6MKR7pfiCEPpyvvxXc/0pyR0mzqZjbSc8HjqgFTUk/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${(C{H_3})_2}\\overline C H$$ > $$\\overline C C{l_3}$$ > $${C_6}{H_5}\\overline C H{}_2$$ > $${(C{H_3})_3}\\overline C $$",
         "B": "$$\\overline C C{l_3}$$ > $${C_6}{H_5}\\overline C H{}_2$$ > $${(C{H_3})_2}\\overline C H$$ > $${(C{H_3})_3}\\overline C $$",
         "C": "$${(C{H_3})_3}\\overline C $$ > $${(C{H_3})_2}\\overline C H$$ > $${C_6}{H_5}\\overline C H{}_2$$ > $$\\overline C C{l_3}$$",
         "D": "$${C_6}{H_5}\\overline C H{}_2$$ > $$\\overline C C{l_3}$$ > $${(C{H_3})_3}\\overline C $$ > $${(C{H_3})_2}\\overline C H$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Arrange the carbanions, $${(C{H_3})_3}\\overline C $$,  $$\\overline C C{l_3}$$ , $${(C{H_3})_2}\\overline C H$$, $${C_6}{H_5}\\overline C H{}_2$$ in order of their decreasing stability :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 6,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 6,
-      "question_text": "Solid Ba(NO3)2 is gradually dissolved in a 1.0 $$\\times$$ 10-4 M Na2CO3 solution. At what concentration of Ba2+ will a precipitate begin to form ?\n\n(Ksp for BaCO3 = 5.1 $$\\times$$ 10−9 )",
       "subject": "Chemistry",
       "topic": "ionic-equilibrium",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Solid Ba(NO3)2 is gradually dissolved in a 1.0 $$\\times$$ 10-4 M Na2CO3 solution. At what concentration of Ba2+ will a precipitate begin to form ?\n\n(Ksp for BaCO3 = 5.1 $$\\times$$ 10−9 )",
+      "question_images": [],
+      "option_texts": {
         "A": "5.1 $$\\times$$ 10^{-5} M",
         "B": "8.1 $$\\times$$ 10^{-8} M",
         "C": "8.1 $$\\times$$ 10^{-7} M",
         "D": "4.1 $$\\times$$ 10^{-5} M"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Solid Ba(NO_{3})_{2} is gradually dissolved in a 1.0 $$\\times$$ 10^{-4} M Na_{2}CO_{3} solution. At what concentration of Ba^{2+} will a precipitate begin to form ?\n(K_{sp} for BaCO_{3} = 5.1 $$\\times$$ 10^{−9} )",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 7,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 7,
-      "question_text": "On the basis of the following thermochemical data : \n($$\\Delta _fG^oH^+_{(aq)}$$ = 0)\n\n\n\nH2O(l) $$\\to$$ H+(aq) + OH-(aq); $$\\Delta H$$ = 57.32 kJ\n\nH2(g) + $${1 \\over 2} O_2(g) \\to$$ H2O(l); $$\\Delta H$$ = -286.20 kJ\n\n\nThe value of enthalpy of formation of OH− ion at 25oC is :",
       "subject": "Chemistry",
       "topic": "thermodynamics",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "On the basis of the following thermochemical data : \n($$\\Delta _fG^oH^+_{(aq)}$$ = 0)\n\n\n\nH2O(l) $$\\to$$ H+(aq) + OH-(aq); $$\\Delta H$$ = 57.32 kJ\n\nH2(g) + $${1 \\over 2} O_2(g) \\to$$ H2O(l); $$\\Delta H$$ = -286.20 kJ\n\n\nThe value of enthalpy of formation of OH− ion at 25oC is :",
+      "question_images": [],
+      "option_texts": {
         "A": "-22.88 kJ",
         "B": "-228.88 kJ",
         "C": "+228.88 kJ",
         "D": "-343.52 kJ"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "On the basis of the following thermochemical data : ($$\\Delta _fG^oH^+_{(aq)}$$ = 0)\n\nH_{2}O(l) $$\\to$$ H^{+}(aq) + OH^{-}(aq); $$\\Delta H$$ = 57.32 kJ\nH_{2}(g) + $${1 \\over 2} O_2(g) \\to$$ H_{2}O(l); $$\\Delta H$$ = -286.20 kJ\nThe value of enthalpy of formation of OH^{−} ion at 25^{o}C is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 8,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 8,
-      "question_text": "Two liquids X and Y form an ideal solution. At 300K, vapour pressure of the solution containing 1 mol\nof X and 3 mol of Y is 550 mm Hg. At the same temperature, if 1 mol of Y is further added to this\nsolution, vapour pressure of the solution increases by 10 mm Hg. Vapour pressure (in mm Hg) of X\nand Y in their pure states will be, respectively :",
       "subject": "Chemistry",
       "topic": "solutions",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two liquids X and Y form an ideal solution. At 300K, vapour pressure of the solution containing 1 mol\nof X and 3 mol of Y is 550 mm Hg. At the same temperature, if 1 mol of Y is further added to this\nsolution, vapour pressure of the solution increases by 10 mm Hg. Vapour pressure (in mm Hg) of X\nand Y in their pure states will be, respectively :",
+      "question_images": [],
+      "option_texts": {
         "A": "200 and 300",
         "B": "300 and 400",
         "C": "400 and 600",
         "D": "500 and 600"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Two liquids X and Y form an ideal solution. At 300K, vapour pressure of the solution containing 1 mol\nof X and 3 mol of Y is 550 mm Hg. At the same temperature, if 1 mol of Y is further added to this\nsolution, vapour pressure of the solution increases by 10 mm Hg. Vapour pressure (in mm Hg) of X\nand Y in their pure states will be, respectively :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 9,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 9,
-      "question_text": "In Cannizzaro reaction given below \n\n2PhCHO $$\\buildrel {\\mathop {:OH}\\limits^{\\left(  -  \\right)} } \\over\n \\longrightarrow $$ PhCH2OH + $$PhC\\mathop O\\limits^{..} $$2(-)\n\n the slowest step is :",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In Cannizzaro reaction given below \n\n2PhCHO $$\\buildrel {\\mathop {:OH}\\limits^{\\left(  -  \\right)} } \\over\n \\longrightarrow $$ PhCH2OH + $$PhC\\mathop O\\limits^{..} $$2(-)\n\n the slowest step is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/o55ruUCaaDgHhuRmY/eNbE5Q2aGeDSNfUmSXVtMaFdpyEi8/jqvW1FpaPCpB9QjDCpiG8J/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "the transfer of hydride to the carbonyl group",
         "B": "the abstraction of proton from the carboxylic group",
         "C": "the attack of $$:\\mathop {OH}\\limits^{( - )} $$ at the carboxyl group",
         "D": "the deprotonation of Ph CH_{2}OH"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "In Cannizzaro reaction given below \n2PhCHO $$\\buildrel {\\mathop {:OH}\\limits^{\\left(  -  \\right)} } \\over\n \\longrightarrow $$ PhCH_{2}OH + $$PhC\\mathop O\\limits^{..} $$_{2}^{(-)}\n the slowest step is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 10,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 10,
-      "question_text": "The set representing the correct order of ionic radius is :",
       "subject": "Chemistry",
       "topic": "periodic-table-and-periodicity",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The set representing the correct order of ionic radius is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$N{a^ + } > L{i^ + } > M{g^{2 + }} > B{e^{2 + }}$$",
         "B": "$$L{i^ + } > N{a^ + } > M{g^{2 + }} > B{e^{2 + }}$$",
         "C": "$$M{g^{2 + }} > B{e^{2 + }} > L{i^ + } > N{a^ + }$$",
         "D": "$$L{i^ + } > B{e^{2 + }} > N{a^ + } > M{g^{2 + }}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The set representing the correct order of ionic radius is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 11,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 11,
-      "question_text": "The two functional groups present in a typical carbohydrate are",
       "subject": "Chemistry",
       "topic": "biomolecules",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The two functional groups present in a typical carbohydrate are",
+      "question_images": [],
+      "option_texts": {
         "A": "-OH and -COOH",
         "B": "-CHO and -COOH",
         "C": "> C = O and - OH",
         "D": "- OH and -CHO"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The two functional groups present in a typical carbohydrate are",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 12,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 12,
-      "question_text": "Which of the following on heating with aqueous KOH, produces acetaldehyde ?",
       "subject": "Chemistry",
       "topic": "haloalkanes-and-haloarenes",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the following on heating with aqueous KOH, produces acetaldehyde ?",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/mPFBfUf3bTep5Oq5P/2aexT0fbxsax1pPLqaWP5gwUKb3dz/QeVXiX9vSUZXku8LHRLlnY/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "CH_{3}COCl",
         "B": "CH_{3}CH_{2}Cl",
         "C": "CH_{2}ClCH_{2}Cl",
         "D": "CH_{3}CHCl_{2}"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Which of the following on heating with aqueous KOH, produces acetaldehyde ?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 13,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 13,
-      "question_text": "A liquid was mixed with ethanol and a drop of concentrated H2SO4 was added. A compound with a\nfruity smell was formed. The liquid was :",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A liquid was mixed with ethanol and a drop of concentrated H2SO4 was added. A compound with a\nfruity smell was formed. The liquid was :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/YTUDpJdAmZK1Bk8WD/xuQqso9ZT4RddXANOnlQ6yq1nbwB1/azR9uwfMKMSLHe10vLu36h/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "CH_{3}OH",
         "B": "HCHO",
         "C": "CH_{3}CO CH_{3}",
         "D": "CH_{3}COOH"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "A liquid was mixed with ethanol and a drop of concentrated H_{2}SO_{4} was added. A compound with a\nfruity smell was formed. The liquid was :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 14,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 14,
-      "question_text": "The major product obtained on interaction of phenol with sodium hydroxide and carbon dioxide is :",
       "subject": "Chemistry",
       "topic": "alcohols-phenols-and-ethers",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The major product obtained on interaction of phenol with sodium hydroxide and carbon dioxide is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/oVmueTdxdO2wykPL3/AkbSdI8fiujfiJNvJbx3cQ8vTLxFo/jHGSwF3MZAuOw6kPpcnAs6/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "benzoic acid",
         "B": "salicylaldehyde",
         "C": "salicylic acid",
         "D": "phthalic acid"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The major product obtained on interaction of phenol with sodium hydroxide and carbon dioxide is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 15,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 15,
-      "question_text": "Which of the following has an optical isomer ?",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the following has an optical isomer ?",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/POYVqIHpGEhlYkqwY/0K8lNs1yqKUBWatAscov1NhwbO7Fg/hs6g4Kw1xLBVMIzx6VLHzZ/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "[Co(en)(NH_{3})_{2}]^{2+}",
         "B": "[Co(H_{2}O)_{4}(en)]^{3+}",
         "C": "[Co(en)_{2}(NH_{3})_{2}]^{3+}",
         "D": "[Co(NH_{3})_{3}Cl]^{+}"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Which of the following has an optical isomer ?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 16,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 16,
-      "question_text": "Which of the following pairs represents linkage isomers ?",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the following pairs represents linkage isomers ?",
+      "question_images": [],
+      "option_texts": {
         "A": "[Pd (P Ph_{3})_{2} (NCS)_{2}] and [Pd (P Ph_{3})_{2} (SCN)_{2}]",
         "B": "[Co(NH_{3})_{5} NO_{3}]SO_{4} and [Co(NH_{3})_{5} SO_{4}]NO_{3}",
         "C": "[Pt Cl_{2}(NH_{3})_{4}] Br_{2} and [Pt Br_{2}(NH_{3})_{4}] Cl_{2}",
         "D": "[Cu (NH_{3})_{4}] [Pt Cl_{4}] and [Pt (NH_{3})_{4}] [CuCl_{4}]"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Which of the following pairs represents linkage isomers ?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 17,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 17,
-      "question_text": "Knowing that the Chemistry of lanthanoids (Ln) is dominated by its +3 oxidation state, which of the\nfollowing statements is incorrect?",
       "subject": "Chemistry",
       "topic": "d-and-f-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Knowing that the Chemistry of lanthanoids (Ln) is dominated by its +3 oxidation state, which of the\nfollowing statements is incorrect?",
+      "question_images": [],
+      "option_texts": {
         "A": "Because of the large size of the Ln (III) ions the bonding in its compounds is predominantly ionic in\n character.",
         "B": "The ionic sizes of Ln (III) decrease in general with increasing atomic number.",
         "C": "Ln (III) compounds are generally colourless",
         "D": "Ln (III) hydroxides are mainly basic in character."
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Knowing that the Chemistry of lanthanoids (Ln) is dominated by its +3 oxidation state, which of the\nfollowing statements is incorrect?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 18,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 18,
-      "question_text": "In context with the transition elements, which of the following statements is incorrect ?",
       "subject": "Chemistry",
       "topic": "d-and-f-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In context with the transition elements, which of the following statements is incorrect ?",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/O4aGrCjzUHsRBk8IM/7nVk1iyBM2W0oRaWPhc4VQDo5IVsR/2QWEJgC5hM6w1SB3CpYAgu/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "In addition to the normal oxidation states, the zero oxidation state is also shown by these elements in complexes.",
         "B": "In the highest oxidation states, the transition metal show basic character and form cationic complexes.",
         "C": "In the highest oxidation states of the first five transition elements (Sc to Mn), all the 4s and 3d electrons are used for bonding",
         "D": "Once the d^{5} configuration is exceeded, the tendency to involve all the 3d electrons in bonding\n decreases."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "In context with the transition elements, which of the following statements is incorrect ?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 19,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 19,
-      "question_text": "The half life period of a first order chemical reaction is 6.93 minutes. The time required for the\ncompletion of 99% of the chemical reaction will be (log 2=0.301) :",
       "subject": "Chemistry",
       "topic": "chemical-kinetics-and-nuclear-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The half life period of a first order chemical reaction is 6.93 minutes. The time required for the\ncompletion of 99% of the chemical reaction will be (log 2=0.301) :",
+      "question_images": [],
+      "option_texts": {
         "A": "230.3 minutes",
         "B": "23.03 minutes",
         "C": "46.06 minutes",
         "D": "460.6 minutes"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The half life period of a first order chemical reaction is 6.93 minutes. The time required for the\ncompletion of 99% of the chemical reaction will be (log 2=0.301) :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 20,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 20,
-      "question_text": "In a fuel cell methanol is used as fuel and oxygen gas is used as an oxidizer. The reaction is\n\nCH3OH(l) + 3/2O2  $$\\to$$ CO2 (g) + 2H2O (l) \n\nAt 298K standard Gibb’s energies of formation for CH3OH(l), H2O(l) and CO2 (g) are -166.2, -237.2 and -394.4 kJ mol−1 respectively. If standard enthalpy of combustion of methanol is -726 kJ mol−1, efficiency of the fuel cell will be",
       "subject": "Chemistry",
       "topic": "electrochemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In a fuel cell methanol is used as fuel and oxygen gas is used as an oxidizer. The reaction is\n\nCH3OH(l) + 3/2O2  $$\\to$$ CO2 (g) + 2H2O (l) \n\nAt 298K standard Gibb’s energies of formation for CH3OH(l), H2O(l) and CO2 (g) are -166.2, -237.2 and -394.4 kJ mol−1 respectively. If standard enthalpy of combustion of methanol is -726 kJ mol−1, efficiency of the fuel cell will be",
+      "question_images": [],
+      "option_texts": {
         "A": "87%",
         "B": "90%",
         "C": "97%",
         "D": "80%"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "In a fuel cell methanol is used as fuel and oxygen gas is used as an oxidizer. The reaction is\nCH_{3}OH(l) + 3/2O_{2 } $$\\to$$ CO_{2} (g) + 2H_{2}O (l) \nAt 298K standard Gibb’s energies of formation for CH_{3}OH(l), H_{2}O(l) and CO_{2} (g) are -166.2, -237.2 and -394.4 kJ mol^{−1} respectively. If standard enthalpy of combustion of methanol is -726 kJ mol^{−1}, efficiency of the fuel cell will be",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 21,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 21,
-      "question_text": "Given : $$E_{F{e^{3 + }}/Fe}^o$$  = -0.036V; $$E_{F{e^{2 + }}/Fe}^o$$ = -0.439 V\n\nThe value of standard electrode potential for the change, \n\nFe3+ (aq) + e- $$\\to$$ Fe2+ (aq) will be",
       "subject": "Chemistry",
       "topic": "electrochemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Given : $$E_{F{e^{3 + }}/Fe}^o$$  = -0.036V; $$E_{F{e^{2 + }}/Fe}^o$$ = -0.439 V\n\nThe value of standard electrode potential for the change, \n\nFe3+ (aq) + e- $$\\to$$ Fe2+ (aq) will be",
+      "question_images": [],
+      "option_texts": {
         "A": "-0.072 V",
         "B": "0.385 V",
         "C": "0.770 V",
         "D": "0.270"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Given : $$E_{F{e^{3 + }}/Fe}^o$$  = -0.036V; $$E_{F{e^{2 + }}/Fe}^o$$ = -0.439 V\nThe value of standard electrode potential for the change, \nFe^{3+} (aq) + e^{-} $$\\to$$ Fe^{2+} (aq) will be",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 22,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 22,
-      "question_text": "Using MO theory, predict which of the following species has the shortest bond length?",
       "subject": "Chemistry",
       "topic": "chemical-bonding-and-molecular-structure",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Using MO theory, predict which of the following species has the shortest bond length?",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/BCZnqLDgpImUxYpB2/Zg1gK5Q1xLj1n6tAiUJqhAxB3rbvD/vRErIfl3wacw1pMY708M3N/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/3716soaUWwytJgHTQ/oPYd44rDhbA5TN79TWk4x4Gr9ndzq/EsglJdUOMHR8rQaoVR1KAZ/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$O_2^+$$",
         "B": "$$O_2^-$$",
         "C": "$$O_2^{2-}$$",
         "D": "$$O_2^{2+}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Using MO theory, predict which of the following species has the shortest bond length?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 23,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 23,
-      "question_text": "In which of the following arrangements, the sequence is not strictly according to the property written against it",
       "subject": "Chemistry",
       "topic": "periodic-table-and-periodicity",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In which of the following arrangements, the sequence is not strictly according to the property written against it",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/bX1Sy6dvaPsmWcZcP/ZjhcwWbz9e01ZyOShtFmMw9ru0u1b/D3fQB8fJumCl7KV0oWgzCc/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "CO_{2} < SiO_{2} <  SnO_{2} < PbO_{2} : increasing oxidising power",
         "B": "HF < HCl < HBr, HI : increasing acid strength",
         "C": "NH_{3} < PH_{3} < AsH_{3} < SbH_{3} : increasing basic strength",
         "D": "B < C < O < N : increasing first ionization enthalpy"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "In which of the following arrangements, the sequence is not strictly according to the property written against it",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 24,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 24,
-      "question_text": "In an atom, an electron is moving with a speed of 600 m/s with an accuracy of 0.005%. Certainity\nwith which the position of the electron can be located is (h = 6.6 $$\\times$$ 10-34 kg m2s-1, mass of electron, em = 9.1 $$\\times$$ 10-31 kg)",
       "subject": "Chemistry",
       "topic": "structure-of-atom",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In an atom, an electron is moving with a speed of 600 m/s with an accuracy of 0.005%. Certainity\nwith which the position of the electron can be located is (h = 6.6 $$\\times$$ 10-34 kg m2s-1, mass of electron, em = 9.1 $$\\times$$ 10-31 kg)",
+      "question_images": [],
+      "option_texts": {
         "A": "5.10 $$\\times$$ 10^{-3} m",
         "B": "1.92 $$\\times$$ 10^{-3} m",
         "C": "3.84 $$\\times$$ 10^{-3} m",
         "D": "1.52 $$\\times$$ 10^{-4} m"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "In an atom, an electron is moving with a speed of 600 m/s with an accuracy of 0.005%. Certainity\nwith which the position of the electron can be located is (h = 6.6 $$\\times$$ 10^{-34} kg m^{2}s^{-1}, mass of electron, e_{m} = 9.1 $$\\times$$ 10^{-31} kg)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 25,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 25,
-      "question_text": "Calculate the wavelength (in nanometer) associated with a proton moving at 1.0 x 103 ms−1\n (Mass of proton = 1.67 $$\\times$$ 10-27 kg and h =  6.63 $$\\times$$ 10-34 Js) :",
       "subject": "Chemistry",
       "topic": "structure-of-atom",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Calculate the wavelength (in nanometer) associated with a proton moving at 1.0 x 103 ms−1\n (Mass of proton = 1.67 $$\\times$$ 10-27 kg and h =  6.63 $$\\times$$ 10-34 Js) :",
+      "question_images": [],
+      "option_texts": {
         "A": "0.40 nm",
         "B": "2.5 nm",
         "C": "14.0 nm",
         "D": "0.32 nm"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Calculate the wavelength (in nanometer) associated with a proton moving at 1.0 x 10^{3} ms^{−1}\n (Mass of proton = 1.67 $$\\times$$ 10^{-27} kg and h =  6.63 $$\\times$$ 10^{-34} Js) :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 26,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 26,
-      "question_text": "Statement - 1 : The variance of first n even natural numbers is $${{{n^2} - 1} \\over 4}$$\n\n\nStatement - 2 : The sum of first n natural numbers is $${{n\\left( {n + 1} \\right)} \\over 2}$$ and the sum of squares of first n natural numbers is $${{n\\left( {n + 1} \\right)\\left( {2n + 1} \\right)} \\over 6}$$",
       "subject": "Mathematics",
       "topic": "statistics",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Statement - 1 : The variance of first n even natural numbers is $${{{n^2} - 1} \\over 4}$$\n\n\nStatement - 2 : The sum of first n natural numbers is $${{n\\left( {n + 1} \\right)} \\over 2}$$ and the sum of squares of first n natural numbers is $${{n\\left( {n + 1} \\right)\\left( {2n + 1} \\right)} \\over 6}$$",
+      "question_images": [],
+      "option_texts": {
         "A": "Statement-1 is true, Statement-2 is true; Statement-2 is a correct explanation for Statement-1",
         "B": "Statement-1 is true, Statement-2 is true; Statement-2 is not a correct explanation for Statement-1",
         "C": "Statement-1 is true, Statement-2 is false",
         "D": "Statement-1 is false, Statement-2 is true"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Statement - 1 : The variance of first n even natural numbers is $${{{n^2} - 1} \\over 4}$$\nStatement - 2 : The sum of first n natural numbers is $${{n\\left( {n + 1} \\right)} \\over 2}$$ and the sum of squares of first n natural numbers is $${{n\\left( {n + 1} \\right)\\left( {2n + 1} \\right)} \\over 6}$$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 27,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 27,
-      "question_text": "If the mean deviation of number 1, 1 + d, 1 + 2d,........, 1 + 100d from their mean is 255, then the d is\nequal to",
       "subject": "Mathematics",
       "topic": "statistics",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the mean deviation of number 1, 1 + d, 1 + 2d,........, 1 + 100d from their mean is 255, then the d is\nequal to",
+      "question_images": [],
+      "option_texts": {
         "A": "20.0",
         "B": "10.1",
         "C": "20.2",
         "D": "10.0"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "If the mean deviation of number 1, 1 + d, 1 + 2d,........, 1 + 100d from their mean is 255, then the d is\nequal to",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 28,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 28,
-      "question_text": "For real x, let f(x) = x3 + 5x + 1, then",
       "subject": "Mathematics",
       "topic": "functions",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "For real x, let f(x) = x3 + 5x + 1, then",
+      "question_images": [],
+      "option_texts": {
         "A": "f is one-one but not onto R",
         "B": "f is onto R but not one-one",
         "C": "f is one-one and onto R",
         "D": "f is neither one-one nor onto R"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "For real x, let f(x) = x^{3} + 5x + 1, then",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 29,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 29,
-      "question_text": "Let $$f\\left( x \\right) = {\\left( {x + 1} \\right)^2} - 1,x \\ge  - 1$$\n\n\nStatement - 1 : The set $$\\left\\{ {x:f\\left( x \\right) = {f^{ - 1}}\\left( x \\right)} \\right\\} = \\left\\{ {0, - 1} \\right\\}$$.\n\n\nStatement - 2 : $$f$$ is a bijection.",
       "subject": "Mathematics",
       "topic": "functions",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$f\\left( x \\right) = {\\left( {x + 1} \\right)^2} - 1,x \\ge  - 1$$\n\n\nStatement - 1 : The set $$\\left\\{ {x:f\\left( x \\right) = {f^{ - 1}}\\left( x \\right)} \\right\\} = \\left\\{ {0, - 1} \\right\\}$$.\n\n\nStatement - 2 : $$f$$ is a bijection.",
+      "question_images": [],
+      "option_texts": {
         "A": "Statement - 1 is true, Statement - 2 is true; Statement - 2 is a correct explanation for Statement - 1",
         "B": "Statement - 1 is true, Statement - 2 is true; Statement - 2 is not a correct explanation for Statement - 1",
         "C": "Statement - 1 is true, Statement - 2 is false",
         "D": "Statement - 1 is false, Statement - 2 is true"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let $$f\\left( x \\right) = {\\left( {x + 1} \\right)^2} - 1,x \\ge  - 1$$\nStatement - 1 : The set $$\\left\\{ {x:f\\left( x \\right) = {f^{ - 1}}\\left( x \\right)} \\right\\} = \\left\\{ {0, - 1} \\right\\}$$.\nStatement - 2 : $$f$$ is a bijection.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 30,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 30,
-      "question_text": "If $$\\,\\left| {z - {4 \\over z}} \\right| = 2,$$ then the maximum value of $$\\,\\left| z \\right|$$ is equal to :",
       "subject": "Mathematics",
       "topic": "complex-numbers",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If $$\\,\\left| {z - {4 \\over z}} \\right| = 2,$$ then the maximum value of $$\\,\\left| z \\right|$$ is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\sqrt 5  + 1$$",
         "B": "2",
         "C": "$$2 + \\sqrt 2 $$",
         "D": "$$\\sqrt 3  + 1$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "If $$\\,\\left| {z - {4 \\over z}} \\right| = 2,$$ then the maximum value of $$\\,\\left| z \\right|$$ is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 31,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 31,
-      "question_text": "Let $$y$$ be an implicit function of $$x$$ defined by $${x^{2x}} - 2{x^x}\\cot \\,y - 1 = 0$$. Then $$y'(1)$$ equals",
       "subject": "Mathematics",
       "topic": "differentiation",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$y$$ be an implicit function of $$x$$ defined by $${x^{2x}} - 2{x^x}\\cot \\,y - 1 = 0$$. Then $$y'(1)$$ equals",
+      "question_images": [],
+      "option_texts": {
         "A": "$$1$$",
         "B": "$$\\log \\,2$$",
         "C": "$$-\\log \\,2$$",
         "D": "$$-1$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Let $$y$$ be an implicit function of $$x$$ defined by $${x^{2x}} - 2{x^x}\\cot \\,y - 1 = 0$$. Then $$y'(1)$$ equals",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 32,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 32,
-      "question_text": "One ticket is selected at random from $$50$$ tickets numbered $$00, 01, 02, ...., 49.$$ Then the probability that the sum of the digits on the selected ticket is $$8$$, given that the product of these digits is zer, equals :",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "One ticket is selected at random from $$50$$ tickets numbered $$00, 01, 02, ...., 49.$$ Then the probability that the sum of the digits on the selected ticket is $$8$$, given that the product of these digits is zer, equals :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${1 \\over 7}$$",
         "B": "$${5 \\over 14}$$",
         "C": "$${1 \\over 50}$$",
         "D": "$${1 \\over 14}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "One ticket is selected at random from $$50$$ tickets numbered $$00, 01, 02, ...., 49.$$ Then the probability that the sum of the digits on the selected ticket is $$8$$, given that the product of these digits is zer, equals :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 33,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 33,
-      "question_text": "$$\\int\\limits_0^\\pi  {\\left[ {\\cot x} \\right]dx,} $$ where $$\\left[ . \\right]$$ denotes the greatest integer function, is equal to:",
       "subject": "Mathematics",
       "topic": "definite-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "$$\\int\\limits_0^\\pi  {\\left[ {\\cot x} \\right]dx,} $$ where $$\\left[ . \\right]$$ denotes the greatest integer function, is equal to:",
+      "question_images": [],
+      "option_texts": {
         "A": "$$1$$",
         "B": "$$-1$$",
         "C": "$$ - {\\pi  \\over 2}$$",
         "D": "$$  {\\pi  \\over 2}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "$$\\int\\limits_0^\\pi  {\\left[ {\\cot x} \\right]dx,} $$ where $$\\left[ . \\right]$$ denotes the greatest integer function, is equal to:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 34,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 34,
-      "question_text": "The area of the region bounded by the parabola $${\\left( {y - 2} \\right)^2} = x - 1,$$ the tangent of the parabola at the point $$(2, 3)$$ and the $$x$$-axis is :",
       "subject": "Mathematics",
       "topic": "area-under-the-curves",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The area of the region bounded by the parabola $${\\left( {y - 2} \\right)^2} = x - 1,$$ the tangent of the parabola at the point $$(2, 3)$$ and the $$x$$-axis is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/AM5bXoG020lpLmywY/JtPQJTLpFoRXGjYcXgOHFaVaz0r0F/1YSfSwXHv9CuQdWSwRikpa/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$6$$",
         "B": "$$9$$",
         "C": "$$12$$",
         "D": "$$3$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The area of the region bounded by the parabola $${\\left( {y - 2} \\right)^2} = x - 1,$$ the tangent of the parabola at the point $$(2, 3)$$ and the $$x$$-axis is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 35,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 35,
-      "question_text": "Let $$a, b, c$$ be such that $$b\\left( {a + c} \\right) \\ne 0$$ if\n$$\\left| {\\matrix{\n   a & {a + 1} & {a - 1}  \\cr \n   { - b} & {b + 1} & {b - 1}  \\cr \n   c & {c - 1} & {c + 1}  \\cr \n\n } } \\right| + \\left| {\\matrix{\n   {a + 1} & {b + 1} & {c - 1}  \\cr \n   {a - 1} & {b - 1} & {c + 1}  \\cr \n   {{{\\left( { - 1} \\right)}^{n + 2}}a} & {{{\\left( { - 1} \\right)}^{n + 1}}b} & {{{\\left( { - 1} \\right)}^n}c}  \\cr \n\n } } \\right| = 0$$\n\n\n\nthen the value of $$n$$ :",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$a, b, c$$ be such that $$b\\left( {a + c} \\right) \\ne 0$$ if\n$$\\left| {\\matrix{\n   a & {a + 1} & {a - 1}  \\cr \n   { - b} & {b + 1} & {b - 1}  \\cr \n   c & {c - 1} & {c + 1}  \\cr \n\n } } \\right| + \\left| {\\matrix{\n   {a + 1} & {b + 1} & {c - 1}  \\cr \n   {a - 1} & {b - 1} & {c + 1}  \\cr \n   {{{\\left( { - 1} \\right)}^{n + 2}}a} & {{{\\left( { - 1} \\right)}^{n + 1}}b} & {{{\\left( { - 1} \\right)}^n}c}  \\cr \n\n } } \\right| = 0$$\n\n\n\nthen the value of $$n$$ :",
+      "question_images": [],
+      "option_texts": {
         "A": "any even integer",
         "B": "any odd integer",
         "C": "any integer",
         "D": "zero"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $$a, b, c$$ be such that $$b\\left( {a + c} \\right) \\ne 0$$ if\n$$\\left| {\\matrix{\n   a & {a + 1} & {a - 1}  \\cr \n   { - b} & {b + 1} & {b - 1}  \\cr \n   c & {c - 1} & {c + 1}  \\cr \n\n } } \\right| + \\left| {\\matrix{\n   {a + 1} & {b + 1} & {c - 1}  \\cr \n   {a - 1} & {b - 1} & {c + 1}  \\cr \n   {{{\\left( { - 1} \\right)}^{n + 2}}a} & {{{\\left( { - 1} \\right)}^{n + 1}}b} & {{{\\left( { - 1} \\right)}^n}c}  \\cr \n\n } } \\right| = 0$$\n\nthen the value of $$n$$ :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 36,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 36,
-      "question_text": "Given $$P\\left( x \\right) = {x^4} + a{x^3} + b{x^2} + cx + d$$ such that $$x=0$$ is the only \n\nreal root of $$P'\\,\\left( x \\right) = 0.$$ If $$P\\left( { - 1} \\right) < P\\left( 1 \\right),$$ then in the interval $$\\left[ { - 1,1} \\right]:$$",
       "subject": "Mathematics",
       "topic": "application-of-derivatives",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Given $$P\\left( x \\right) = {x^4} + a{x^3} + b{x^2} + cx + d$$ such that $$x=0$$ is the only \n\nreal root of $$P'\\,\\left( x \\right) = 0.$$ If $$P\\left( { - 1} \\right) < P\\left( 1 \\right),$$ then in the interval $$\\left[ { - 1,1} \\right]:$$",
+      "question_images": [],
+      "option_texts": {
         "A": "$$P(-1)$$ is not minimum but $$P(1)$$ is the maximum of $$P$$",
         "B": "$$P(-1)$$ is the minimum but $$P(1)$$ is not the maximum of $$P$$",
         "C": "Neither $$P(-1)$$ is the minimum nor $$P(1)$$ is the maximum of $$P$$",
         "D": "$$P(-1)$$ is the minimum and $$P(1)$$ is the maximum of $$P$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Given $$P\\left( x \\right) = {x^4} + a{x^3} + b{x^2} + cx + d$$ such that $$x=0$$ is the only \nreal root of $$P'\\,\\left( x \\right) = 0.$$ If $$P\\left( { - 1} \\right) < P\\left( 1 \\right),$$ then in the interval $$\\left[ { - 1,1} \\right]:$$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 37,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 37,
-      "question_text": "Let $$f\\left( x \\right) = x\\left| x \\right|$$ and $$g\\left( x \\right) = \\sin x.$$\n\nStatement-1: gof is differentiable at $$x=0$$ and its derivative is continuous at that point. \n\nStatement-2: gof is twice differentiable at $$x=0$$.",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$f\\left( x \\right) = x\\left| x \\right|$$ and $$g\\left( x \\right) = \\sin x.$$\n\nStatement-1: gof is differentiable at $$x=0$$ and its derivative is continuous at that point. \n\nStatement-2: gof is twice differentiable at $$x=0$$.",
+      "question_images": [],
+      "option_texts": {
         "A": "Statement-1 is true, Statement-2 is true; Statement-2 is not a correct explanation for Statement-1.",
         "B": "Statement-1 is true, Statement-2 is false",
         "C": "Statement-1 is false, Statement-2 is true",
         "D": "Statement-1 is true, Statement-2 is true Statement-2 is a correct explanation for Statement-1"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $$f\\left( x \\right) = x\\left| x \\right|$$ and $$g\\left( x \\right) = \\sin x.$$\nStatement-1: gof is differentiable at $$x=0$$ and its derivative is continuous at that point. \nStatement-2: gof is twice differentiable at $$x=0$$.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 38,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 38,
-      "question_text": "The ellipse $${x^2} + 4{y^2} = 4$$ is inscribed in a rectangle aligned with the coordinate axex, which in turn is inscribed in another ellipse that passes through the point $$(4,0)$$. Then the equation of the ellipse is :",
       "subject": "Mathematics",
       "topic": "ellipse",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The ellipse $${x^2} + 4{y^2} = 4$$ is inscribed in a rectangle aligned with the coordinate axex, which in turn is inscribed in another ellipse that passes through the point $$(4,0)$$. Then the equation of the ellipse is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/hS6HFBHwq2ZBDaY7q/hAvv0tXvdSCjUKyjmxy8lF0kOYDAC/nFc7ORhyi4n0pEjGI03aZT/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${x^2} + 12{y^2} = 16$$",
         "B": "$$4{x^2} + 48{y^2} = 48$$",
         "C": "$$4{x^2} + 64{y^2} = 48$$",
         "D": "$${x^2} + 16{y^2} = 16$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The ellipse $${x^2} + 4{y^2} = 4$$ is inscribed in a rectangle aligned with the coordinate axex, which in turn is inscribed in another ellipse that passes through the point $$(4,0)$$. Then the equation of the ellipse is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 39,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 39,
-      "question_text": "Three distinct points A, B and C are given in the 2 -dimensional coordinates plane such that the ratio of the distance of any one of them from the point $$(1, 0)$$ to the distance from the point $$(-1, 0)$$ is equal to $${1 \\over 3}$$. Then the circumcentre of the triangle ABC is at the point :",
       "subject": "Mathematics",
       "topic": "circle",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Three distinct points A, B and C are given in the 2 -dimensional coordinates plane such that the ratio of the distance of any one of them from the point $$(1, 0)$$ to the distance from the point $$(-1, 0)$$ is equal to $${1 \\over 3}$$. Then the circumcentre of the triangle ABC is at the point :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\left( {{5 \\over 4},0} \\right)$$",
         "B": "$$\\left( {{5 \\over 2},0} \\right)$$",
         "C": "$$\\left( {{5 \\over 3},0} \\right)$$",
         "D": "$$\\left( {0,0} \\right)$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Three distinct points A, B and C are given in the 2 -dimensional coordinates plane such that the ratio of the distance of any one of them from the point $$(1, 0)$$ to the distance from the point $$(-1, 0)$$ is equal to $${1 \\over 3}$$. Then the circumcentre of the triangle ABC is at the point :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 40,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 40,
-      "question_text": "The lines $$p\\left( {{p^2} + 1} \\right)x - y + q = 0$$ and $$\\left( {{p^2} + 1} \\right){}^2x + \\left( {{p^2} + 1} \\right)y + 2q$$ $$=0$$ are perpendicular to a common line for :",
       "subject": "Mathematics",
       "topic": "straight-lines-and-pair-of-straight-lines",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The lines $$p\\left( {{p^2} + 1} \\right)x - y + q = 0$$ and $$\\left( {{p^2} + 1} \\right){}^2x + \\left( {{p^2} + 1} \\right)y + 2q$$ $$=0$$ are perpendicular to a common line for :",
+      "question_images": [],
+      "option_texts": {
         "A": "exactly one values of $$p$$",
         "B": "exactly two values of $$p$$",
         "C": "more than two values of $$p$$",
         "D": "no value of $$p$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The lines $$p\\left( {{p^2} + 1} \\right)x - y + q = 0$$ and $$\\left( {{p^2} + 1} \\right){}^2x + \\left( {{p^2} + 1} \\right)y + 2q$$ $$=0$$ are perpendicular to a common line for :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 41,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 41,
-      "question_text": "The shortest distance between the line $$y - x = 1$$ and the curve $$x = {y^2}$$ is :",
       "subject": "Mathematics",
       "topic": "straight-lines-and-pair-of-straight-lines",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The shortest distance between the line $$y - x = 1$$ and the curve $$x = {y^2}$$ is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{2\\sqrt 3 } \\over 8}$$",
         "B": "$${{3\\sqrt 2 } \\over 5}$$",
         "C": "$${{\\sqrt 3 } \\over 4}$$",
         "D": "$${{3\\sqrt 2 } \\over 8}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The shortest distance between the line $$y - x = 1$$ and the curve $$x = {y^2}$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 42,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 42,
-      "question_text": "The remainder left out when $${8^{2n}} - {\\left( {62} \\right)^{2n + 1}}$$ is divided by 9 is :",
       "subject": "Mathematics",
       "topic": "binomial-theorem",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The remainder left out when $${8^{2n}} - {\\left( {62} \\right)^{2n + 1}}$$ is divided by 9 is :",
+      "question_images": [],
+      "option_texts": {
         "A": "2",
         "B": "7",
         "C": "8",
         "D": "0"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The remainder left out when $${8^{2n}} - {\\left( {62} \\right)^{2n + 1}}$$ is divided by 9 is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 43,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 43,
-      "question_text": "From 6 different novels and 3 different dictionaries, 4 novels and 1 dictionary are to be selected and arranged in a row on a shelf so that the dictionary is always in the middle. Then the number of such arrangement is :",
       "subject": "Mathematics",
       "topic": "permutations-and-combinations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "From 6 different novels and 3 different dictionaries, 4 novels and 1 dictionary are to be selected and arranged in a row on a shelf so that the dictionary is always in the middle. Then the number of such arrangement is :",
+      "question_images": [],
+      "option_texts": {
         "A": "at least 500 but less than 750",
         "B": "at least 750 but less than 1000",
         "C": "at least 1000",
         "D": "less than 500"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "From 6 different novels and 3 different dictionaries, 4 novels and 1 dictionary are to be selected and arranged in a row on a shelf so that the dictionary is always in the middle. Then the number of such arrangement is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 44,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 44,
-      "question_text": "If the roots of the equation $$b{x^2} + cx + a = 0$$ imaginary, then for all real values of $$x$$, the expression $$3{b^2}{x^2} + 6bcx + 2{c^2}$$ is :",
       "subject": "Mathematics",
       "topic": "quadratic-equation-and-inequalities",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the roots of the equation $$b{x^2} + cx + a = 0$$ imaginary, then for all real values of $$x$$, the expression $$3{b^2}{x^2} + 6bcx + 2{c^2}$$ is :",
+      "question_images": [],
+      "option_texts": {
         "A": "less than $$4ab$$",
         "B": "greater than $$-4ab$$",
         "C": "less than $$-4ab$$",
         "D": "greater than $$4ab$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "If the roots of the equation $$b{x^2} + cx + a = 0$$ imaginary, then for all real values of $$x$$, the expression $$3{b^2}{x^2} + 6bcx + 2{c^2}$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 45,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 45,
-      "question_text": "Let A and B denote the statements \nA: $$\\cos \\alpha  + \\cos \\beta  + \\cos \\gamma  = 0$$\n\nB: $$\\sin \\alpha  + \\sin \\beta  + \\sin \\gamma  = 0$$\n\nIf $$\\cos \\left( {\\beta  - \\gamma } \\right) + \\cos \\left( {\\gamma  - \\alpha } \\right) + \\cos \\left( {\\alpha  - \\beta } \\right) =  - {3 \\over 2},$$  then:",
       "subject": "Mathematics",
       "topic": "trigonometric-ratio-and-identites",
       "sub_topic": "trigonometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let A and B denote the statements \nA: $$\\cos \\alpha  + \\cos \\beta  + \\cos \\gamma  = 0$$\n\nB: $$\\sin \\alpha  + \\sin \\beta  + \\sin \\gamma  = 0$$\n\nIf $$\\cos \\left( {\\beta  - \\gamma } \\right) + \\cos \\left( {\\gamma  - \\alpha } \\right) + \\cos \\left( {\\alpha  - \\beta } \\right) =  - {3 \\over 2},$$  then:",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/NsadawwaS2h3NirJH/tKh7VlaUvcffKgIxHbs77BOEdJKrc/nETh1WaoX7vL4KhWy9FT4k/uploadfile.jpg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "A is false and B is true",
         "B": "both A and B are true",
         "C": "both A and B are false",
         "D": "A is true and B is false"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let A and B denote the statements \nA: $$\\cos \\alpha  + \\cos \\beta  + \\cos \\gamma  = 0$$ \nB: $$\\sin \\alpha  + \\sin \\beta  + \\sin \\gamma  = 0$$ \nIf $$\\cos \\left( {\\beta  - \\gamma } \\right) + \\cos \\left( {\\gamma  - \\alpha } \\right) + \\cos \\left( {\\alpha  - \\beta } \\right) =  - {3 \\over 2},$$  then:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 46,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 46,
-      "question_text": "The projections of a vector on the three coordinate axis are $$6,-3,2$$ respectively. The direction cosines of the vector are :",
       "subject": "Mathematics",
       "topic": "3d-geometry",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The projections of a vector on the three coordinate axis are $$6,-3,2$$ respectively. The direction cosines of the vector are :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${6 \\over 5},{{ - 3} \\over 5},{2 \\over 5}$$",
         "B": "$${6 \\over 7 },{{ - 3} \\over 7},{2 \\over 7}$$",
         "C": "$${- 6 \\over 7 },{{ - 3} \\over 7},{2 \\over 7}$$",
         "D": "$$6, -3, 2$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The projections of a vector on the three coordinate axis are $$6,-3,2$$ respectively. The direction cosines of the vector are :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 47,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 47,
-      "question_text": "If $A, B$ and $C$ are three sets such that $A \\cap B=A \\cap C$ and $A \\cup B=A \\cup C$, then :",
       "subject": "Mathematics",
       "topic": "sets-and-relations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If $A, B$ and $C$ are three sets such that $A \\cap B=A \\cap C$ and $A \\cup B=A \\cup C$, then :",
+      "question_images": [],
+      "option_texts": {
         "A": "$A=C$",
         "B": "$B=C$",
         "C": "$A \\cap B=\\phi$",
         "D": "$A=B$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "If $A, B$ and $C$ are three sets such that $A \\cap B=A \\cap C$ and $A \\cup B=A \\cup C$, then :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 48,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 48,
-      "question_text": "The logic circuit shown below has the input waveforms $$'A'$$ and $$'B'$$ as shown. Pick out the correct output waveform. \n \n\nOutput is",
       "subject": "Physics",
       "topic": "electronic-devices",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The logic circuit shown below has the input waveforms $$'A'$$ and $$'B'$$ as shown. Pick out the correct output waveform. \n \n\nOutput is",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/fNiPMUFxmHSPL1m66/3kLYCEr1i9E7nZOe53IbXzoWf5uB7/DuJHETVWeQY1qccDBnCnvV/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/G8z6KNHDC1Ogt2DvQ/UUHwIYWP1gfgcXiHxifUdtIXS59o5/zP6fbicVEZEGyOA9bYbngD/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
+      },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/QYLHIx2AmxB6wfFmt/A2cafoBf87JeEq8LUaodjR0ehTZy2/7XZb88VbzyWMn7uWoBPrJY/image.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/imagex_cdn_examgoal_net/2SVQS4iMNPRGuFh6H/aZUg6qNLwrqP8EHPxmP7ywqcfR3sd/12PjqCkQhglhDc3Yn3URiN/image.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/w6q86zVOBXkTA171i/GMnKsrg9uF3W9O4LH4TPCPGlZyeKP/6P81hninCL9C9Fh0jJVQFm/image.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/wNJmW6d4K9NYJ9Uqj/ISoetU9WUB6FHgRSeLvsOzBLwZfFf/CK3Qbud4vb0WZGPFf2oMEZ/image.png",
+          "description": ""
+        }
       },
       "correct_answer": "D",
-      "question": "The logic circuit shown below has the input waveforms $$'A'$$ and $$'B'$$ as shown. Pick out the correct output waveform. \n \n\nOutput is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 49,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 49,
-      "question_text": "A $$p$$-$$n$$ junction $$(D)$$ shown in the figure can act as a rectifier. An alternating current source $$(V)$$ is connected in the circuit.\n\nThe current $$(I)$$ in the resistor $$(R)$$ can be shown by :",
       "subject": "Physics",
       "topic": "electronic-devices",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A $$p$$-$$n$$ junction $$(D)$$ shown in the figure can act as a rectifier. An alternating current source $$(V)$$ is connected in the circuit.\n\nThe current $$(I)$$ in the resistor $$(R)$$ can be shown by :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/mox7jptyXfwiL2UaR/pHpxpIaBmr0UyOw3aXGpjsqy7OwNm/CakhEamAmslQpna24ey77W/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/r2oLjAyvECarCzjJ0/wfpKQumsS3btvi21nYwC2HsbZ4A75/Lvvff8iWHidltEoSgtyzo1/image.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/imagex_cdn_examgoal_net/VJVCHOwfNJ7CctQjy/Y4yHTPIYKHSInXuViMr78eaphEJd9/vsZdtcTzYEKp0HaWpJ8bf2/image.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/gpTfSmJVL1aCRZ7Iq/aMvIr7axvcjaGMRrzFZNdkCKuSlSV/8cCbLDFsAG54FjWQgW1mVr/image.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/JQzYmIy1kxbRBUlhD/KI4RKxcrk9XQQNOS14QQl1AVcwN1a/5GVt7OFNgl7mDDarPf8RJd/image.png",
+          "description": ""
+        }
+      },
       "correct_answer": "B",
-      "question": "A $$p$$-$$n$$ junction $$(D)$$ shown in the figure can act as a rectifier. An alternating current source $$(V)$$ is connected in the circuit.\n\nThe current $$(I)$$ in the resistor $$(R)$$ can be shown by :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 50,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 50,
-      "question_text": "The above is a plot of binding energy per nucleon $${E_b},$$ against the nuclear mass $$M;A,B,C,D,E,F$$ correspond to different nuclei. Consider four reactions : \n\n$$\\eqalign{\n  & \\left( i \\right)\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,A + B \\to C + \\varepsilon \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\left( {ii} \\right)\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,C \\to A + B + \\varepsilon \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,  \\cr \n  & \\left( {iii} \\right)\\,\\,\\,\\,\\,\\,D + E \\to F + \\varepsilon \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\left( {iv} \\right)\\,\\,\\,\\,\\,\\,\\,\\,\\,F \\to D + E + \\varepsilon ,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, \\cr} $$ \n\nwhere $$\\varepsilon $$ is the energy released? In which reactions is $$\\varepsilon $$ positive?",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The above is a plot of binding energy per nucleon $${E_b},$$ against the nuclear mass $$M;A,B,C,D,E,F$$ correspond to different nuclei. Consider four reactions : \n\n$$\\eqalign{\n  & \\left( i \\right)\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,A + B \\to C + \\varepsilon \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\left( {ii} \\right)\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,C \\to A + B + \\varepsilon \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,  \\cr \n  & \\left( {iii} \\right)\\,\\,\\,\\,\\,\\,D + E \\to F + \\varepsilon \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\left( {iv} \\right)\\,\\,\\,\\,\\,\\,\\,\\,\\,F \\to D + E + \\varepsilon ,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, \\cr} $$ \n\nwhere $$\\varepsilon $$ is the energy released? In which reactions is $$\\varepsilon $$ positive?",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/Iwba6l7huXtb4cV9z/LjbrhivZwg4Vxj3pHwKoBBFazDUR1/d60QAsHPoqhtMpn2lMuSuk/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$(i)$$ and $$(iii)$$",
         "B": "$$(ii)$$ and $$(iv)$$",
         "C": "$$(ii)$$ and $$(iii)$$",
         "D": "$$(i)$$ and $$(iv)$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The above is a plot of binding energy per nucleon $${E_b},$$ against the nuclear mass $$M;A,B,C,D,E,F$$ correspond to different nuclei. Consider four reactions : \n$$\\eqalign{\n  & \\left( i \\right)\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,A + B \\to C + \\varepsilon \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\left( {ii} \\right)\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,C \\to A + B + \\varepsilon \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,  \\cr \n  & \\left( {iii} \\right)\\,\\,\\,\\,\\,\\,D + E \\to F + \\varepsilon \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\left( {iv} \\right)\\,\\,\\,\\,\\,\\,\\,\\,\\,F \\to D + E + \\varepsilon ,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, \\cr} $$ \nwhere $$\\varepsilon $$ is the energy released? In which reactions is $$\\varepsilon $$ positive?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 51,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 51,
-      "question_text": "The surface of a metal is illuminated with the light of $$400$$ $$nm.$$ The kinetic energy of the ejected photoelectrons was found to be $$1.68$$ $$eV.$$ The work function of the metal is : $$\\left( {hc = 1240eV.nm} \\right)$$",
       "subject": "Physics",
       "topic": "dual-nature-of-radiation",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The surface of a metal is illuminated with the light of $$400$$ $$nm.$$ The kinetic energy of the ejected photoelectrons was found to be $$1.68$$ $$eV.$$ The work function of the metal is : $$\\left( {hc = 1240eV.nm} \\right)$$",
+      "question_images": [],
+      "option_texts": {
         "A": "$$1.41$$ $$eV$$",
         "B": "$$1.51$$ $$eV$$",
         "C": "$$1.68$$ $$eV$$",
         "D": "$$3.09$$ $$eV$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The surface of a metal is illuminated with the light of $$400$$ $$nm.$$ The kinetic energy of the ejected photoelectrons was found to be $$1.68$$ $$eV.$$ The work function of the metal is : $$\\left( {hc = 1240eV.nm} \\right)$$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 52,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 52,
-      "question_text": "The transition from the state $$n=4$$  to $$n=3$$ in a hydrogen like atom result in ultra violet radiation. Infrared radiation will be obtained in the transition from :",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The transition from the state $$n=4$$  to $$n=3$$ in a hydrogen like atom result in ultra violet radiation. Infrared radiation will be obtained in the transition from :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$3 \\to 2$$",
         "B": "$$4 \\to 2$$",
         "C": "$$5 \\to 4$$",
         "D": "$$2 \\to 1$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The transition from the state $$n=4$$  to $$n=3$$ in a hydrogen like atom result in ultra violet radiation. Infrared radiation will be obtained in the transition from :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 53,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 53,
-      "question_text": "A transparent solid cylindrical rod has a refractive index of $${2 \\over {\\sqrt 3 }}.$$ It is surrounded by air. A light ray is incident at the mid-point of one end of the rod as shown in the figure.\n \nThe incident angle $$\\theta $$ for which the light ray grazes along the wall of the rod is :",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A transparent solid cylindrical rod has a refractive index of $${2 \\over {\\sqrt 3 }}.$$ It is surrounded by air. A light ray is incident at the mid-point of one end of the rod as shown in the figure.\n \nThe incident angle $$\\theta $$ for which the light ray grazes along the wall of the rod is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/lfPB6SIaPkP1TPHpI/8jHDNYG60LicDvbi1ruVEb5lyD7tY/s7FAnlzXaaxIsBID3kyekH/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/6yA1krd4XwRo0RZge/DYYkVtg6VPVm6fdizsOmPI2cLGEWf/n7Ji5KfyKpKEuvLhr01g2H/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${\\sin ^{ - 1}}\\left( {{\\raise0.5ex\\hbox{$\\scriptstyle {\\sqrt 3 }$}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 2$}}} \\right)$$",
         "B": "$${\\sin ^{ - 1}}\\left( {{\\raise0.5ex\\hbox{$\\scriptstyle 2$}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle {\\sqrt 3 }$}}} \\right)$$",
         "C": "$${\\sin ^{ - 1}}\\left( {{1 \\over {\\sqrt 3 }}} \\right)$$",
         "D": "$${\\sin ^{ - 1}}\\left( {{\\raise0.5ex\\hbox{$\\scriptstyle 1$}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 2$}}} \\right)$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A transparent solid cylindrical rod has a refractive index of $${2 \\over {\\sqrt 3 }}.$$ It is surrounded by air. A light ray is incident at the mid-point of one end of the rod as shown in the figure.\n \nThe incident angle $$\\theta $$ for which the light ray grazes along the wall of the rod is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 54,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 54,
-      "question_text": "An inductor of inductance $$L=400$$ $$mH$$ and resistors of resistance $${R_1} = 2\\Omega $$ and $${R_2} = 2\\Omega $$ are connected to a battery of $$emf$$ $$12$$ $$V$$ as shown in the figure. The internal resistance of the battery is negligible. The switch $$S$$ is closed at $$t=0.$$ The potential drop across $$L$$ as a function of time is :",
       "subject": "Physics",
       "topic": "alternating-current",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An inductor of inductance $$L=400$$ $$mH$$ and resistors of resistance $${R_1} = 2\\Omega $$ and $${R_2} = 2\\Omega $$ are connected to a battery of $$emf$$ $$12$$ $$V$$ as shown in the figure. The internal resistance of the battery is negligible. The switch $$S$$ is closed at $$t=0.$$ The potential drop across $$L$$ as a function of time is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/IGJGcmXziV76bLghV/xPkVZPoV2xVpMy6p6SBshm5IZf3Zf/KdVUUEjhjCjDJi4MF012hn/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{12} \\over t}{e^{ - 3t}}V$$",
         "B": "$$6\\left( {1 - {e^{ - t/0.2}}} \\right)V$$",
         "C": "$$12{e^{ - 5t}}V$$",
         "D": "$$6{e^{ - 5t}}V$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "An inductor of inductance $$L=400$$ $$mH$$ and resistors of resistance $${R_1} = 2\\Omega $$ and $${R_2} = 2\\Omega $$ are connected to a battery of $$emf$$ $$12$$ $$V$$ as shown in the figure. The internal resistance of the battery is negligible. The switch $$S$$ is closed at $$t=0.$$ The potential drop across $$L$$ as a function of time is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 55,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 55,
-      "question_text": "In an optics experiment, with the position of the object fixed, a student varies the position of a convex lens and for each position, the screen is adjusted to get a clear image of the object. A graph between the object distance $$u$$ and the image distance $$v,$$ from the lens, is plotted using the same scale for the two axes. A straight line passing through the origin and making an angle of $${45^ \\circ }$$  with the $$x$$-axis meets the experimental curve at $$P.$$ The coordinates of $$P$$ will be :",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In an optics experiment, with the position of the object fixed, a student varies the position of a convex lens and for each position, the screen is adjusted to get a clear image of the object. A graph between the object distance $$u$$ and the image distance $$v,$$ from the lens, is plotted using the same scale for the two axes. A straight line passing through the origin and making an angle of $${45^ \\circ }$$  with the $$x$$-axis meets the experimental curve at $$P.$$ The coordinates of $$P$$ will be :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/haLmo78kkJPia0U21/huRjuUlPXYrNNmm1mhtpintvbuMlR/lZJSMkyLYm5sDBKOTBEkFW/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$\\left( {{f \\over 2},{f \\over 2}} \\right)$$",
         "B": "$$\\left( {f,f} \\right)$$",
         "C": "$$\\left( {4f,4f} \\right)$$",
         "D": "$$\\left( {2f,2f} \\right)$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "In an optics experiment, with the position of the object fixed, a student varies the position of a convex lens and for each position, the screen is adjusted to get a clear image of the object. A graph between the object distance $$u$$ and the image distance $$v,$$ from the lens, is plotted using the same scale for the two axes. A straight line passing through the origin and making an angle of $${45^ \\circ }$$  with the $$x$$-axis meets the experimental curve at $$P.$$ The coordinates of $$P$$ will be :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 56,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 56,
-      "question_text": "A mixture of light, consisting of wavelength $$590$$ $$nm$$ and an unknown wavelength, illuminates Young's double slit and gives rise to two overlapping interference patterns on the screen. The central maximum of both lights coincide. Further, it is observed that the third bright fringe of known light coincides with the $$4$$th bright fringe of the unknown light. From this data, the wavelength of the unknown light is :",
       "subject": "Physics",
       "topic": "wave-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A mixture of light, consisting of wavelength $$590$$ $$nm$$ and an unknown wavelength, illuminates Young's double slit and gives rise to two overlapping interference patterns on the screen. The central maximum of both lights coincide. Further, it is observed that the third bright fringe of known light coincides with the $$4$$th bright fringe of the unknown light. From this data, the wavelength of the unknown light is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$885.0$$ $$nm$$",
         "B": "$$442.5$$ $$nm$$",
         "C": "$$776.8$$ $$nm$$",
         "D": "$$393.4$$ $$nm$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A mixture of light, consisting of wavelength $$590$$ $$nm$$ and an unknown wavelength, illuminates Young's double slit and gives rise to two overlapping interference patterns on the screen. The central maximum of both lights coincide. Further, it is observed that the third bright fringe of known light coincides with the $$4$$th bright fringe of the unknown light. From this data, the wavelength of the unknown light is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 57,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 57,
-      "question_text": "A current loop $$ABCD$$ is held fixed on the plane of the paper as shown in the figure. The arcs $$BC$$ (radius $$= b$$) and $$DA$$ (radius $$=a$$) of the loop are joined by two straight wires $$AB$$ and $$CD$$. A steady current $$I$$ is flowing in the loop. Angle made by $$AB$$ and $$CD$$ at the origin $$O$$ is  $${30^ \\circ }.$$ Another straight thin wire steady current $${I_1}$$ flowing out of the plane of the paper is kept at the origin.\n \nDue to the presence of the current $${I_1}$$ at the origin:",
       "subject": "Physics",
       "topic": "magnetics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A current loop $$ABCD$$ is held fixed on the plane of the paper as shown in the figure. The arcs $$BC$$ (radius $$= b$$) and $$DA$$ (radius $$=a$$) of the loop are joined by two straight wires $$AB$$ and $$CD$$. A steady current $$I$$ is flowing in the loop. Angle made by $$AB$$ and $$CD$$ at the origin $$O$$ is  $${30^ \\circ }.$$ Another straight thin wire steady current $${I_1}$$ flowing out of the plane of the paper is kept at the origin.\n \nDue to the presence of the current $${I_1}$$ at the origin:",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/qB0iYGtiD7LY2zmJl/7wpw9gqkKpyBGkBnynlb8vc48209U/4DpjyBtaDwjPdTggxWgpPJ/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "The forces on $$AD$$ are  $$BC$$ are zero.",
         "B": "The magnitude of the net force on the loop is given by $${{{I_1}I} \\over {4\\pi }}{\\mu _0}\\left[ {2\\left( {b - a} \\right) + {\\raise0.5ex\\hbox{$\\scriptstyle \\pi $}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 3$}}\\left( {a + b} \\right)} \\right].$$",
         "C": "The magnitude of the net force on the loop is given by $${{{\\mu _0}I{I_1}} \\over {24ab}}\\left( {b - a} \\right).$$",
         "D": "The forces on $$AB$$ and $$DC$$ are zero."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A current loop $$ABCD$$ is held fixed on the plane of the paper as shown in the figure. The arcs $$BC$$ (radius $$= b$$) and $$DA$$ (radius $$=a$$) of the loop are joined by two straight wires $$AB$$ and $$CD$$. A steady current $$I$$ is flowing in the loop. Angle made by $$AB$$ and $$CD$$ at the origin $$O$$ is  $${30^ \\circ }.$$ Another straight thin wire steady current $${I_1}$$ flowing out of the plane of the paper is kept at the origin.\n \nDue to the presence of the current $${I_1}$$ at the origin:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 58,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 58,
-      "question_text": "A current loop $$ABCD$$ is held fixed on the plane of the paper as shown in the figure. The arcs $$BC$$ (radius $$= b$$) and $$DA$$ (radius $$=a$$) of the loop are joined by two straight wires $$AB$$ and $$CD$$. A steady current $$I$$ is flowing in the loop. Angle made by $$AB$$ and $$CD$$ at the origin $$O$$ is  $${30^ \\circ }.$$ Another straight thin wire steady current $${I_1}$$ flowing out of the plane of the paper is kept at the origin.\n \nThe magnitude of the magnetic field $$(B)$$ due to the loop $$ABCD$$ at the origin $$(O)$$ is :",
       "subject": "Physics",
       "topic": "magnetics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A current loop $$ABCD$$ is held fixed on the plane of the paper as shown in the figure. The arcs $$BC$$ (radius $$= b$$) and $$DA$$ (radius $$=a$$) of the loop are joined by two straight wires $$AB$$ and $$CD$$. A steady current $$I$$ is flowing in the loop. Angle made by $$AB$$ and $$CD$$ at the origin $$O$$ is  $${30^ \\circ }.$$ Another straight thin wire steady current $${I_1}$$ flowing out of the plane of the paper is kept at the origin.\n \nThe magnitude of the magnetic field $$(B)$$ due to the loop $$ABCD$$ at the origin $$(O)$$ is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/qB0iYGtiD7LY2zmJl/7wpw9gqkKpyBGkBnynlb8vc48209U/4DpjyBtaDwjPdTggxWgpPJ/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{{\\mu _0}I\\left( {b - a} \\right)} \\over {24ab}}$$",
         "B": "$${{{\\mu _0}I} \\over {4\\pi }}\\left[ {{{b - a} \\over {ab}}} \\right]$$",
         "C": "$${{{\\mu _0}I} \\over {4\\pi }}\\left[ {2\\left( {b - a} \\right) + {\\raise0.5ex\\hbox{$\\scriptstyle \\pi $}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 3$}}\\left( {a + b} \\right)} \\right]$$",
         "D": "zero"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A current loop $$ABCD$$ is held fixed on the plane of the paper as shown in the figure. The arcs $$BC$$ (radius $$= b$$) and $$DA$$ (radius $$=a$$) of the loop are joined by two straight wires $$AB$$ and $$CD$$. A steady current $$I$$ is flowing in the loop. Angle made by $$AB$$ and $$CD$$ at the origin $$O$$ is  $${30^ \\circ }.$$ Another straight thin wire steady current $${I_1}$$ flowing out of the plane of the paper is kept at the origin.\n \nThe magnitude of the magnetic field $$(B)$$ due to the loop $$ABCD$$ at the origin $$(O)$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 59,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 59,
-      "question_text": "Two points $$P$$ and $$Q$$ are maintained at the potentials of $$10$$ $$V$$ and $$-4$$ $$V$$, respectively. The work done in moving $$100$$ electrons from $$P$$ to $$Q$$ is :",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two points $$P$$ and $$Q$$ are maintained at the potentials of $$10$$ $$V$$ and $$-4$$ $$V$$, respectively. The work done in moving $$100$$ electrons from $$P$$ to $$Q$$ is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$9.60 \\times {10^{ - 17}}J$$",
         "B": "$$ - 2.24 \\times {10^{ - 16}}J$$",
         "C": "$$ 2.24 \\times {10^{ - 16}}J$$",
         "D": "$$- 9.60 \\times {10^{ - 17}}J$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Two points $$P$$ and $$Q$$ are maintained at the potentials of $$10$$ $$V$$ and $$-4$$ $$V$$, respectively. The work done in moving $$100$$ electrons from $$P$$ to $$Q$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 60,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 60,
-      "question_text": "Consider a rubber ball freely falling from a height $$h=4.9$$ $$m$$  onto a horizontal elastic plate. Assume that the duration of collision is negligible and the collision with the plate is totally elastic. \n\n\nThen the velocity as a function of time and the height as a function of  time will be :",
       "subject": "Physics",
       "topic": "motion-in-a-straight-line",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider a rubber ball freely falling from a height $$h=4.9$$ $$m$$  onto a horizontal elastic plate. Assume that the duration of collision is negligible and the collision with the plate is totally elastic. \n\n\nThen the velocity as a function of time and the height as a function of  time will be :",
+      "question_images": [],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/9pIz03QyAdZfVxI1c/NN9sOK1BxfES1wKA7nPnE2lM5zZJM/0u5abVLC0SMUKG6KwH3U1f/image.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l6t9j9ry/ed002583-74a4-4104-bf05-37cb8d7bfae4/ef2705e0-1bc6-11ed-8fe8-d30a4b6841a3/file-1l6t9j9rz.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/JTp8mt7voae2GRB9R/ePo7LazxgvvYj9PvOFdoYKQhrBquh/jhhU3HA1WtpVQeMrijqoKL/image.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/iuJsktMMyKgCmrXZY/XiwpdZqaeAXPqPDAXcldC1oM5E9kM/HBCXv6MJmxuEdcBzIGfKVC/image.png",
+          "description": ""
+        }
+      },
       "correct_answer": "B",
-      "question": "Consider a rubber ball freely falling from a height $$h=4.9$$ $$m$$  onto a horizontal elastic plate. Assume that the duration of collision is negligible and the collision with the plate is totally elastic. \nThen the velocity as a function of time and the height as a function of  time will be :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 61,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 61,
-      "question_text": "(This question contains Statement-1 and Statement-2. Of the four choices given after the statements, choose the one that best describes the two statements.)\nStatement-1 : For a charged particle moving from point $$P$$ to point $$Q$$, the net work done by an electrostatic field on the particle is independent of the path connecting point $$P$$ to point $$Q.$$\n\nStatement-2 : The net work done by a conservative force on an object moving along a closed loop is zero.",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "(This question contains Statement-1 and Statement-2. Of the four choices given after the statements, choose the one that best describes the two statements.)\nStatement-1 : For a charged particle moving from point $$P$$ to point $$Q$$, the net work done by an electrostatic field on the particle is independent of the path connecting point $$P$$ to point $$Q.$$\n\nStatement-2 : The net work done by a conservative force on an object moving along a closed loop is zero.",
+      "question_images": [],
+      "option_texts": {
         "A": "Statement-1 is true, Statement-2 is true; Statement-2 is the correct explanation of Statement-1.",
         "B": "Statement-1 is true, Statement-2 is true; Statement-2 is not  the correct explanation of Statement-1.",
         "C": "Statement- 1 is false, Statement- 2 is true.",
         "D": "Statement- 1 true, Statement- 2 is false"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "(This question contains Statement-1 and Statement-2. Of the four choices given after the statements, choose the one that best describes the two statements.)\nStatement-1 : For a charged particle moving from point $$P$$ to point $$Q$$, the net work done by an electrostatic field on the particle is independent of the path connecting point $$P$$ to point $$Q.$$\nStatement-2 : The net work done by a conservative force on an object moving along a closed loop is zero.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 62,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 62,
-      "question_text": "A charge $$Q$$ is placed at each of the opposite corners of a square. A charge $$q$$ is placed at each of the  other two corners. If the net electrical force on $$Q$$ is zero, then $$Q/q$$ equals:",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A charge $$Q$$ is placed at each of the opposite corners of a square. A charge $$q$$ is placed at each of the  other two corners. If the net electrical force on $$Q$$ is zero, then $$Q/q$$ equals:",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/BzLlRzn0u5SWvCQIN/QF7s2wmRe0lUFoqR2BFoI3loWBMP7/5S1b9Dscj5TnQnS3RNsVJO/image.svg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$-1$$",
         "B": "$$1$$",
         "C": "$$ - {1 \\over {\\sqrt 2 }}$$",
         "D": "$$ - 2\\sqrt 2 $$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "A charge $$Q$$ is placed at each of the opposite corners of a square. A charge $$q$$ is placed at each of the  other two corners. If the net electrical force on $$Q$$ is zero, then $$Q/q$$ equals:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 63,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 63,
-      "question_text": "Let $$P\\left( r \\right) = {Q \\over {\\pi {R^4}}}r$$ be the change density distribution for a solid sphere of radius $$R$$ and total charge $$Q$$. For a point $$'p'$$ inside the sphere at distance $${r_1}$$ from the center of the sphere, the magnitude of electric field is :",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$P\\left( r \\right) = {Q \\over {\\pi {R^4}}}r$$ be the change density distribution for a solid sphere of radius $$R$$ and total charge $$Q$$. For a point $$'p'$$ inside the sphere at distance $${r_1}$$ from the center of the sphere, the magnitude of electric field is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/tiqW9aKqmddagbGAr/b4V9twI4tWYWLeyOCDAebisNjE4uF/YYD86LfwchXuGfn5rM0nDR/image.svg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${Q \\over {4\\pi \\,{ \\in _0}\\,r_1^2}}$$",
         "B": "$${{Qr_1^2} \\over {4\\pi \\,{ \\in _0}\\,{R^4}}}$$",
         "C": "$${{Qr_1^2} \\over {3\\pi \\,{ \\in _0}\\,{R^4}}}$$",
         "D": "$$0$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $$P\\left( r \\right) = {Q \\over {\\pi {R^4}}}r$$ be the change density distribution for a solid sphere of radius $$R$$ and total charge $$Q$$. For a point $$'p'$$ inside the sphere at distance $${r_1}$$ from the center of the sphere, the magnitude of electric field is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 64,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 64,
-      "question_text": "Three sound waves of equal amplitudes have frequencies $$\\left( {v - 1} \\right),\\,v,\\,\\left( {v + 1} \\right).$$ They superpose to give beats. The number of beats produced per second will be :",
       "subject": "Physics",
       "topic": "waves",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Three sound waves of equal amplitudes have frequencies $$\\left( {v - 1} \\right),\\,v,\\,\\left( {v + 1} \\right).$$ They superpose to give beats. The number of beats produced per second will be :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$3$$",
         "B": "$$2$$",
         "C": "$$1$$",
         "D": "$$4$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Three sound waves of equal amplitudes have frequencies $$\\left( {v - 1} \\right),\\,v,\\,\\left( {v + 1} \\right).$$ They superpose to give beats. The number of beats produced per second will be :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 65,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 65,
-      "question_text": "If $$x,$$ $$v$$ and $$a$$ denote the displacement, the velocity and the acceleration of a particle executing simple harmonic motion of time period $$T,$$ then, which of the following does not change with time?",
       "subject": "Physics",
       "topic": "simple-harmonic-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If $$x,$$ $$v$$ and $$a$$ denote the displacement, the velocity and the acceleration of a particle executing simple harmonic motion of time period $$T,$$ then, which of the following does not change with time?",
+      "question_images": [],
+      "option_texts": {
         "A": "$$aT/x$$",
         "B": "$$aT + 2\\pi v$$",
         "C": "$$aT/v$$",
         "D": "$${a^2}{T^2} + 4{\\pi ^2}{v^2}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "If $$x,$$ $$v$$ and $$a$$ denote the displacement, the velocity and the acceleration of a particle executing simple harmonic motion of time period $$T,$$ then, which of the following does not change with time?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 66,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 66,
-      "question_text": "Two moles of helium gas are taken over the cycle $$ABCD$$, as shown in the $$P$$-$$T$$ diagram.\n \nThe net work done on the gas in the cycle $$ABCDA$$ is:",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two moles of helium gas are taken over the cycle $$ABCD$$, as shown in the $$P$$-$$T$$ diagram.\n \nThe net work done on the gas in the cycle $$ABCDA$$ is:",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/kL9IFbFk4ynlJaPv9/nrqT0fOSfEycVZatTX2D1gOuRYozW/f0djQCbWSLYWN9ssqqaMS9/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$276$$ $$R$$",
         "B": "$$1076$$ $$R$$",
         "C": "$$1904$$ $$R$$",
         "D": "zero"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Two moles of helium gas are taken over the cycle $$ABCD$$, as shown in the $$P$$-$$T$$ diagram.\n \nThe net work done on the gas in the cycle $$ABCDA$$ is:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 67,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 67,
-      "question_text": "Two moles of helium gas are taken over the cycle $$ABCD,$$ as shown in the $$P$$-$$T$$ diagram.\n \nThe work done on the gas in taking it from $$D$$ to $$A$$ is :",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two moles of helium gas are taken over the cycle $$ABCD,$$ as shown in the $$P$$-$$T$$ diagram.\n \nThe work done on the gas in taking it from $$D$$ to $$A$$ is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/OCCqNsnBb6k2TwPFf/mQhrDIhyXBnQsHTFlLVUBSCT93Otu/j3qP3Oow0WPqFIuDe9WRhV/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$+414$$ $$R$$",
         "B": "$$-690$$ $$R$$",
         "C": "$$+690$$ $$R$$",
         "D": "$$-414$$ $$R$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Two moles of helium gas are taken over the cycle $$ABCD,$$ as shown in the $$P$$-$$T$$ diagram.\n \nThe work done on the gas in taking it from $$D$$ to $$A$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 68,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 68,
-      "question_text": "Two moles of helium gas are taken over the cycle $$ABCD,$$ as shown in the $$P$$-$$T$$ diagram.\n \nAssuming the gas to be ideal the work done on the gas in taking it from $$A$$ to $$B$$ is :",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two moles of helium gas are taken over the cycle $$ABCD,$$ as shown in the $$P$$-$$T$$ diagram.\n \nAssuming the gas to be ideal the work done on the gas in taking it from $$A$$ to $$B$$ is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/OCCqNsnBb6k2TwPFf/mQhrDIhyXBnQsHTFlLVUBSCT93Otu/j3qP3Oow0WPqFIuDe9WRhV/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$300$$ $$R$$",
         "B": "$$400$$ $$R$$",
         "C": "$$500$$ $$R$$",
         "D": "$$200$$ $$R$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Two moles of helium gas are taken over the cycle $$ABCD,$$ as shown in the $$P$$-$$T$$ diagram.\n \nAssuming the gas to be ideal the work done on the gas in taking it from $$A$$ to $$B$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 69,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 69,
-      "question_text": "A long metallic bar is carrying heat from one of its ends to the other end under steady-state. The variation of temperature $$\\theta $$ along the length $$x$$ of the bar from its hot end is best described by which of the following figures?",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A long metallic bar is carrying heat from one of its ends to the other end under steady-state. The variation of temperature $$\\theta $$ along the length $$x$$ of the bar from its hot end is best described by which of the following figures?",
+      "question_images": [],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/tV2Ep70jRfKuHTTr8/RDIqSarCEXAJyYNu5Z346yvKWLW4u/7qaBQ4bJhS0EjchZBNEEGY/image.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/imagex_cdn_examgoal_net/keLhTqLWyLcWZuLZc/3mcm5MnwqptB9YyjIbczvmsenXdM8/N9Id65qLwrOwsTJbixvcsE/image.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/3xLpa5ODnfGg6yqHl/Mvh8auUtx9kyPwzTPyknYp1y1ysLh/W45vdwlPUqbGVLjIzQDB35/image.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/P3RINeDWR7fq5RI7G/RNIOit1xgbHghTb9EkGKpWMrzlk3b/plHdoKMlCaXWRDjnmJZz9W/image.png",
+          "description": ""
+        }
+      },
       "correct_answer": "A",
-      "question": "A long metallic bar is carrying heat from one of its ends to the other end under steady-state. The variation of temperature $$\\theta $$ along the length $$x$$ of the bar from its hot end is best described by which of the following figures?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 70,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 70,
-      "question_text": "One $$kg$$ of a diatomic gas is at a pressure of $$8 \\times {10^4}\\,N/{m^2}.$$ The density of the gas is $$4kg/{m^3}$$. What is the energy of the gas due to its thermal motion ?",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "One $$kg$$ of a diatomic gas is at a pressure of $$8 \\times {10^4}\\,N/{m^2}.$$ The density of the gas is $$4kg/{m^3}$$. What is the energy of the gas due to its thermal motion ?",
+      "question_images": [],
+      "option_texts": {
         "A": "$$5 \\times {10^4}\\,J$$",
         "B": "$$6 \\times {10^4}\\,J$$",
         "C": "$$7 \\times {10^4}\\,J$$",
         "D": "$$3 \\times {10^4}\\,J$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "One $$kg$$ of a diatomic gas is at a pressure of $$8 \\times {10^4}\\,N/{m^2}.$$ The density of the gas is $$4kg/{m^3}$$. What is the energy of the gas due to its thermal motion ?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 71,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 71,
-      "question_text": "Statement - 1: The temperature dependence of resistance is usually given as $$R = {R_0}\\left( {1 + \\alpha \\,\\Delta t} \\right).$$ The resistance of wire changes from $$100\\Omega $$  to $$150\\Omega $$ when its temperature is increased from $${27^ \\circ }C$$ to $${227^ \\circ }C$$. This implies that $$\\alpha  = 2.5 \\times {10^{ - 3}}/C.$$ \nStatement - 2: $$R = {R_0}\\left( {1 + \\alpha \\,\\Delta t} \\right)$$ is valid only when the change in the temperature $$\\Delta T$$ is small and $$\\Delta T = \\left( {R - {R_0}} \\right) <  < {R_0}.$$",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Statement - 1: The temperature dependence of resistance is usually given as $$R = {R_0}\\left( {1 + \\alpha \\,\\Delta t} \\right).$$ The resistance of wire changes from $$100\\Omega $$  to $$150\\Omega $$ when its temperature is increased from $${27^ \\circ }C$$ to $${227^ \\circ }C$$. This implies that $$\\alpha  = 2.5 \\times {10^{ - 3}}/C.$$ \nStatement - 2: $$R = {R_0}\\left( {1 + \\alpha \\,\\Delta t} \\right)$$ is valid only when the change in the temperature $$\\Delta T$$ is small and $$\\Delta T = \\left( {R - {R_0}} \\right) <  < {R_0}.$$",
+      "question_images": [],
+      "option_texts": {
         "A": "Statement - 1 is true, Statement - 2 is true; Statement - 2 is the correct explanation of Statement - 1",
         "B": "Statement - 1 is true, Statement - 2 is true; Statement - 2 is not the correct explanation of Statement - 1",
         "C": "Statement - 1 is false, Statement - 2 is true",
         "D": "Statement - 1 is true, Statement - 2 is false"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Statement - 1: The temperature dependence of resistance is usually given as $$R = {R_0}\\left( {1 + \\alpha \\,\\Delta t} \\right).$$ The resistance of wire changes from $$100\\Omega $$  to $$150\\Omega $$ when its temperature is increased from $${27^ \\circ }C$$ to $${227^ \\circ }C$$. This implies that $$\\alpha  = 2.5 \\times {10^{ - 3}}/C.$$ \nStatement - 2: $$R = {R_0}\\left( {1 + \\alpha \\,\\Delta t} \\right)$$ is valid only when the change in the temperature $$\\Delta T$$ is small and $$\\Delta T = \\left( {R - {R_0}} \\right) <  < {R_0}.$$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 72,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 72,
-      "question_text": "Two wires are made of the same material and have the same volume. However wire $$1$$ has cross-sectional area $$A$$ and wire $$2$$ has cross-sectional area $$3A.$$ If the length of wire $$1$$ increases by $$\\Delta x$$ on applying force $$F,$$ how much force is needed to stretch wire $$2$$ by the same amount?",
       "subject": "Physics",
       "topic": "properties-of-matter",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two wires are made of the same material and have the same volume. However wire $$1$$ has cross-sectional area $$A$$ and wire $$2$$ has cross-sectional area $$3A.$$ If the length of wire $$1$$ increases by $$\\Delta x$$ on applying force $$F,$$ how much force is needed to stretch wire $$2$$ by the same amount?",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/40OoXqkX0j40joIBG/yOPAubVBfaQcyNx7nYBxNjDkguC2f/GWM7lXbHGEd2tBbaFrY2Fb/image.svg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$4F$$",
         "B": "$$6F$$",
         "C": "$$9F$$",
         "D": "$$F$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Two wires are made of the same material and have the same volume. However wire $$1$$ has cross-sectional area $$A$$ and wire $$2$$ has cross-sectional area $$3A.$$ If the length of wire $$1$$ increases by $$\\Delta x$$ on applying force $$F,$$ how much force is needed to stretch wire $$2$$ by the same amount?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 73,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 73,
-      "question_text": "The height at which the acceleration due to gravity becomes $${g \\over 9}$$ (where $$g=$$ the acceleration due to gravity on the surface of the earth) in terms of $$R,$$ the radius of the earth, is:",
       "subject": "Physics",
       "topic": "gravitation",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The height at which the acceleration due to gravity becomes $${g \\over 9}$$ (where $$g=$$ the acceleration due to gravity on the surface of the earth) in terms of $$R,$$ the radius of the earth, is:",
+      "question_images": [],
+      "option_texts": {
         "A": "$${R \\over {\\sqrt 2 }}$$",
         "B": "$$R/2$$",
         "C": "$$\\sqrt 2 \\,\\,R$$",
         "D": "$$2\\,R$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The height at which the acceleration due to gravity becomes $${g \\over 9}$$ (where $$g=$$ the acceleration due to gravity on the surface of the earth) in terms of $$R,$$ the radius of the earth, is:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 74,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 74,
-      "question_text": "A thin uniform rod of length $$l$$ and mass $$m$$ is swinging freely about a horizontal axis passing through its end. Its maximum angular speed is $$\\omega $$. Its center of mass rises to a maximum height of:",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A thin uniform rod of length $$l$$ and mass $$m$$ is swinging freely about a horizontal axis passing through its end. Its maximum angular speed is $$\\omega $$. Its center of mass rises to a maximum height of:",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/S55cDI0cWbihwfXQP/3bP4RBCPguUStDWQzDIQEzNLjUXS6/oxFDLm2pNQIrtqZOFEeVzt/image.svg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${1 \\over 6}\\,\\,{{l\\omega } \\over g}$$",
         "B": "$${1 \\over 2}\\,\\,{{{l^2}{\\omega ^2}} \\over g}$$",
         "C": "$${1 \\over 6}\\,\\,{{{l^2}{\\omega ^2}} \\over g}$$",
         "D": "$${1 \\over 3}\\,\\,{{{l^2}{\\omega ^2}} \\over g}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A thin uniform rod of length $$l$$ and mass $$m$$ is swinging freely about a horizontal axis passing through its end. Its maximum angular speed is $$\\omega $$. Its center of mass rises to a maximum height of:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 75,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 75,
-      "question_text": "A particle has an initial velocity $$3\\widehat i + 4\\widehat j$$ and an acceleration of $$0.4\\widehat i + 0.3\\widehat j$$. Its speed after 10 s is:",
       "subject": "Physics",
       "topic": "motion-in-a-plane",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A particle has an initial velocity $$3\\widehat i + 4\\widehat j$$ and an acceleration of $$0.4\\widehat i + 0.3\\widehat j$$. Its speed after 10 s is:",
+      "question_images": [],
+      "option_texts": {
         "A": "$$7\\sqrt 2 $$ units",
         "B": "7 units",
         "C": "8.5 units",
         "D": "10 units"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A particle has an initial velocity $$3\\widehat i + 4\\widehat j$$ and an acceleration of $$0.4\\widehat i + 0.3\\widehat j$$. Its speed after 10 s is:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 76,
       "year": 2009,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 76,
-      "question_text": "In an experiment the angles are required to be measured using an instrument, 29 divisions of the\nmain scale exactly coincide with the 30 divisions of the vernier scale. If the smallest division of the\nmain scale is half-a degree(=$$0.5^\\circ $$), then the least count of the instrument is:",
       "subject": "Physics",
       "topic": "units-and-measurements",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In an experiment the angles are required to be measured using an instrument, 29 divisions of the\nmain scale exactly coincide with the 30 divisions of the vernier scale. If the smallest division of the\nmain scale is half-a degree(=$$0.5^\\circ $$), then the least count of the instrument is:",
+      "question_images": [],
+      "option_texts": {
         "A": "one minute",
         "B": "half minute",
         "C": "one degree",
         "D": "half degree"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "In an experiment the angles are required to be measured using an instrument, 29 divisions of the\nmain scale exactly coincide with the 30 divisions of the vernier scale. If the smallest division of the\nmain scale is half-a degree(=$$0.5^\\circ $$), then the least count of the instrument is:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     }
   ]
 }

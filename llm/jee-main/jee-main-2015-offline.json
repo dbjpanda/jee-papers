@@ -8,1660 +8,1877 @@
   },
   "questions": [
     {
+      "question_number": 1,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 1,
-      "question_text": "The vapour pressure of acetone at 20oC is 185 torr. When 1.2 g of a non-volatile substance was dissolved in\n100 g of acetone at 20oC, its vapour pressure was 183 torr. The molar mass (g mol-1) of the substance is:",
       "subject": "Chemistry",
       "topic": "solutions",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The vapour pressure of acetone at 20oC is 185 torr. When 1.2 g of a non-volatile substance was dissolved in\n100 g of acetone at 20oC, its vapour pressure was 183 torr. The molar mass (g mol-1) of the substance is:",
+      "question_images": [],
+      "option_texts": {
         "A": "64",
         "B": "128",
         "C": "488",
         "D": "32"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The vapour pressure of acetone at 20^{o}C is 185 torr. When 1.2 g of a non-volatile substance was dissolved in\n100 g of acetone at 20^{o}C, its vapour pressure was 183 torr. The molar mass (g mol^{-1}) of the substance is:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 2,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 2,
-      "question_text": "Which of the following compounds will exhibit geometrical isomerism?",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the following compounds will exhibit geometrical isomerism?",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/xgXw9Sv6sFA8fu9mr/MF2zxyKDBbT2tu7aGPHmX7D6rvD0f/MynQlGt8j2lHJ0i7OLOvfg/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "3-Phenyl-1-butene",
         "B": "2-Phenyl-1-butene",
         "C": "1,1-Diphenyl-1-propane",
         "D": "1-Phenyl-2-butene"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Which of the following compounds will exhibit geometrical isomerism?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 3,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 3,
-      "question_text": "In Carius method of estimation of halogens, 250 mg of an organic compound gave 141 mg of AgBr. The\npercentage of bromine in the compound is: (at. Mass Ag = 108; Br = 80)",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In Carius method of estimation of halogens, 250 mg of an organic compound gave 141 mg of AgBr. The\npercentage of bromine in the compound is: (at. Mass Ag = 108; Br = 80)",
+      "question_images": [],
+      "option_texts": {
         "A": "48",
         "B": "60",
         "C": "36",
         "D": "24"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "In Carius method of estimation of halogens, 250 mg of an organic compound gave 141 mg of AgBr. The\npercentage of bromine in the compound is: (at. Mass Ag = 108; Br = 80)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 4,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 4,
-      "question_text": "The molecular formula of a commercial resin used for exchanging ions in water softening is\nC8H7SO3Na (Mol. Wt. 206). What would be the maximum uptake of Ca2+ ions by the resin when expressed in mole per gram resin?",
       "subject": "Chemistry",
       "topic": "some-basic-concepts-of-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The molecular formula of a commercial resin used for exchanging ions in water softening is\nC8H7SO3Na (Mol. Wt. 206). What would be the maximum uptake of Ca2+ ions by the resin when expressed in mole per gram resin?",
+      "question_images": [],
+      "option_texts": {
         "A": "2/309",
         "B": "1/412",
         "C": "1/103",
         "D": "1/206"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The molecular formula of a commercial resin used for exchanging ions in water softening is\nC_{8}H_{7}SO_{3}Na (Mol. Wt. 206). What would be the maximum uptake of Ca^{2+} ions by the resin when expressed in mole per gram resin?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 5,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 5,
-      "question_text": "The following reaction is performed at 298 K\n\n2NO(g) +  O2 (g) $$\\leftrightharpoons$$ 2NO2 (g)\n \nThe standard free energy of formation of NO(g) is 86.6 kJ/mol at 298 K. What is the standard free energy\nof formation of NO2(g) at 298 K? (KP = 1.6 × 1012)",
       "subject": "Chemistry",
       "topic": "thermodynamics",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The following reaction is performed at 298 K\n\n2NO(g) +  O2 (g) $$\\leftrightharpoons$$ 2NO2 (g)\n \nThe standard free energy of formation of NO(g) is 86.6 kJ/mol at 298 K. What is the standard free energy\nof formation of NO2(g) at 298 K? (KP = 1.6 × 1012)",
+      "question_images": [],
+      "option_texts": {
         "A": "86600 + R(298) ln(1.6 $$\\times$$ 10^{12})",
         "B": "86600 - $$ln (1.6 \\times 10^{12}) \\over R (298)$$",
         "C": "0.5[2×86,600 – R(298) ln(1.6×10^{12})]",
         "D": "R(298) ln(1.6×10^{12}) – 86600"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The following reaction is performed at 298 K\n2NO(g) +  O_{2} (g) $$\\leftrightharpoons$$ 2NO_{2} (g) \nThe standard free energy of formation of NO(g) is 86.6 kJ/mol at 298 K. What is the standard free energy\nof formation of NO_{2}(g) at 298 K? (KP = 1.6 × 10^{12})",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 6,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 6,
-      "question_text": "The standard Gibbs energy change at 300 K for the reaction 2A $$\\leftrightharpoons$$ B + C is 2494.2 J. At a given time,\nthe composition of the reaction mixture is [A] = 1/2, [B] = 2 and [C] = 1/2. The reaction proceeds in the: [R = 8.314 J/K/mol, e = 2.718]",
       "subject": "Chemistry",
       "topic": "chemical-equilibrium",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The standard Gibbs energy change at 300 K for the reaction 2A $$\\leftrightharpoons$$ B + C is 2494.2 J. At a given time,\nthe composition of the reaction mixture is [A] = 1/2, [B] = 2 and [C] = 1/2. The reaction proceeds in the: [R = 8.314 J/K/mol, e = 2.718]",
+      "question_images": [],
+      "option_texts": {
         "A": "reverse direction because Q > K_{c}",
         "B": "forward direction because Q < K_{c}",
         "C": "reverse direction because Q < K_{c}",
         "D": "forward direction because Q > K_{c}"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The standard Gibbs energy change at 300 K for the reaction 2A $$\\leftrightharpoons$$ B + C is 2494.2 J. At a given time,\nthe composition of the reaction mixture is [A] = 1/2, [B] = 2 and [C] = 1/2. The reaction proceeds in the: [R = 8.314 J/K/mol, e = 2.718]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 7,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 7,
-      "question_text": "Two Faraday of electricity is passed through a solution of CuSO4. The mass of copper deposited at the\ncathode is: (at. mass of Cu = 63.5 amu)",
       "subject": "Chemistry",
       "topic": "electrochemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two Faraday of electricity is passed through a solution of CuSO4. The mass of copper deposited at the\ncathode is: (at. mass of Cu = 63.5 amu)",
+      "question_images": [],
+      "option_texts": {
         "A": "63.5 g",
         "B": "2 g",
         "C": "127 g",
         "D": "0 g"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Two Faraday of electricity is passed through a solution of CuSO_{4}. The mass of copper deposited at the\ncathode is: (at. mass of Cu = 63.5 amu)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 8,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 8,
-      "question_text": "The intermolecular interaction that is dependent on the inverse cube of distance between the molecule is:",
       "subject": "Chemistry",
       "topic": "chemical-bonding-and-molecular-structure",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The intermolecular interaction that is dependent on the inverse cube of distance between the molecule is:",
+      "question_images": [],
+      "option_texts": {
         "A": "ion-dipole interaction",
         "B": "London force",
         "C": "hydrogen bond",
         "D": "ion-ion interaction"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The intermolecular interaction that is dependent on the inverse cube of distance between the molecule is:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 9,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 9,
-      "question_text": "Match the catalysts to the correct processes :\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-p7ly{font-weight:bold;font-size:20px;text-align:center}\n.tg .tg-4kyz{font-size:20px;text-align:center}\n\n\n  \n    \n    Catalyst\n    \n    Process\n  \n  \n    (A)\n    TiCl3\n    (i)\n    Wacker process\n  \n  \n    (B)\n    PdCl2\n    (ii)\n    Ziegler - Natta\npolymerization\n  \n  \n    (C)\n    CuCl2\n    (iii)\n    Contact process\n  \n  \n    (D)\n    V2O5\n    (iv)\n    Deacon's process",
       "subject": "Chemistry",
       "topic": "d-and-f-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Match the catalysts to the correct processes :\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-p7ly{font-weight:bold;font-size:20px;text-align:center}\n.tg .tg-4kyz{font-size:20px;text-align:center}\n\n\n  \n    \n    Catalyst\n    \n    Process\n  \n  \n    (A)\n    TiCl3\n    (i)\n    Wacker process\n  \n  \n    (B)\n    PdCl2\n    (ii)\n    Ziegler - Natta\npolymerization\n  \n  \n    (C)\n    CuCl2\n    (iii)\n    Contact process\n  \n  \n    (D)\n    V2O5\n    (iv)\n    Deacon's process",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\left( A \\right) - \\left( {ii} \\right),\\,\\,\\left( B \\right) - \\left( {iii} \\right),\\,\\,\\left( C \\right) - \\left( {iv} \\right),\\,\\,\\left( D \\right) - \\left( i \\right)$$",
         "B": "$$\\left( A \\right) - \\left( {iii} \\right),\\,\\,\\left( B \\right) - \\left( i \\right),\\,\\,\\left( C \\right) - \\left( {ii} \\right),\\,\\,\\left( D \\right) - \\left( {iv} \\right)$$",
         "C": "$$\\left( A \\right) - \\left( {iii} \\right),\\,\\,\\left( B \\right) - \\left( {ii} \\right),\\,\\,\\left( C \\right) - \\left( {iv} \\right),\\,\\,\\left( D \\right) - \\left( i \\right)$$",
         "D": "$$\\left( A \\right) - \\left( {ii} \\right),\\,\\,\\left( B \\right) - \\left( i \\right),\\,\\,\\left( C \\right) - \\left( {iv} \\right),\\,\\,\\left( D \\right) - \\left( {iii} \\right)$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Match the catalysts to the correct processes :\n\n.tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-p7ly{font-weight:bold;font-size:20px;text-align:center}\n.tg .tg-4kyz{font-size:20px;text-align:center}\n\n\n  \n    \n    Catalyst\n    \n    Process\n  \n  \n    (A)\n    TiCl_{3}\n    (i)\n    Wacker process\n  \n  \n    (B)\n    PdCl_{2}\n    (ii)\n    Ziegler - Nattapolymerization\n  \n  \n    (C)\n    CuCl_{2}\n    (iii)\n    Contact process\n  \n  \n    (D)\n    V_{2}O_{5}\n    (iv)\n    Deacon's process",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 10,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 10,
-      "question_text": "In the reaction \n\n\n\n\nThe product $$E$$ is :",
       "subject": "Chemistry",
       "topic": "compounds-containing-nitrogen",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In the reaction \n\n\n\n\nThe product $$E$$ is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91g23aq/568be86f-eb7d-424d-812a-5f8bfbb69f19/253ff120-47df-11ed-8284-6d7e98c66709/file-1l91g23ar.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91g5uql/9ae982f8-784f-48a1-9844-7364f2b898a2/8ddfd8d0-47df-11ed-8284-6d7e98c66709/file-1l91g5uqm.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91g3z44/27ea8879-b13e-4b61-95b1-adf8543ec42c/59a2e440-47df-11ed-8284-6d7e98c66709/file-1l91g3z45.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91g4i01/e2939391-6f44-40ae-b651-a94f58d7eb92/6839c910-47df-11ed-8284-6d7e98c66709/file-1l91g4i02.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91g4zkv/850e6fca-7fd3-46c5-8110-060fd32b3af7/75ce0af0-47df-11ed-8284-6d7e98c66709/file-1l91g4zkw.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91g5daq/20020b30-307a-4b7c-8061-ef688c17a67f/80670e30-47df-11ed-8284-6d7e98c66709/file-1l91g5dar.png",
+          "description": ""
+        }
+      },
       "correct_answer": "A",
-      "question": "In the reaction \n\nThe product $$E$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 11,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 11,
-      "question_text": "Which compound would give $$5$$ - keto - $$2$$ - methylhexanal upon ozonolysis?",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which compound would give $$5$$ - keto - $$2$$ - methylhexanal upon ozonolysis?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91fye5o/809b7e5c-4d9b-4c61-a5b1-7e093b9ebbad/be66e6c0-47de-11ed-9a49-57ec402e0bd4/file-1l91fye5p.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91fwa31/8c1bec13-aade-4967-af1b-208e9387c046/83a31bd0-47de-11ed-9a49-57ec402e0bd4/file-1l91fwa32.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91fviy3/7651244a-9e42-461f-aa76-1dad1f0dc896/6eac97b0-47de-11ed-9a49-57ec402e0bd4/file-1l91fviy4.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91fwq2y/d3a27ef3-b5d4-4081-b71b-7d7019c134bc/8ffeb6a0-47de-11ed-9a49-57ec402e0bd4/file-1l91fwq2z.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91fx8my/0a3e7c39-76d9-4dba-ad92-d8e0b873b6d2/9e5425a0-47de-11ed-9a49-57ec402e0bd4/file-1l91fx8mz.png",
+          "description": ""
+        }
+      },
       "correct_answer": "D",
-      "question": "Which compound would give $$5$$ - keto - $$2$$ - methylhexanal upon ozonolysis?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 12,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 12,
-      "question_text": "Which of the vitamins given below is water soluble?",
       "subject": "Chemistry",
       "topic": "biomolecules",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the vitamins given below is water soluble?",
+      "question_images": [],
+      "option_texts": {
         "A": "Vitamin D",
         "B": "Vitamin E",
         "C": "Vitamin K",
         "D": "Vitamin C"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Which of the vitamins given below is water soluble?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 13,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 13,
-      "question_text": "In the following sequence of reactions:\n\n\n\n\nThe product C is",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In the following sequence of reactions:\n\n\n\n\nThe product C is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91fzzhw/c0288a70-125a-4687-b47d-c2d516433969/eab20340-47de-11ed-8284-6d7e98c66709/file-1l91fzzhx.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91g0po2/20075bda-2cd5-455d-93d0-879e8c2fd6a1/fee97d20-47de-11ed-8284-6d7e98c66709/file-1l91g0po3.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "C_{6}H_{5}CH_{3}",
         "B": "C_{6}H_{5}CH_{2}OH",
         "C": "C_{6}H_{5}CHO",
         "D": "C_{6}H_{5}COOH"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "In the following sequence of reactions:\n\nThe product C is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 14,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 14,
-      "question_text": "The synthesis of alkyl fluorides is best accomplished by:",
       "subject": "Chemistry",
       "topic": "haloalkanes-and-haloarenes",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The synthesis of alkyl fluorides is best accomplished by:",
+      "question_images": [],
+      "option_texts": {
         "A": "Sandmeyer’s reaction",
         "B": "Finkelstein reaction",
         "C": "Swarts reaction",
         "D": "Free radical fluorination"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The synthesis of alkyl fluorides is best accomplished by:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 15,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 15,
-      "question_text": "The number of geometric isomers that can exist for square planar [Pt (Cl) (py) (NH3) (NH2OH)]+ is (py = pyridine) :",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The number of geometric isomers that can exist for square planar [Pt (Cl) (py) (NH3) (NH2OH)]+ is (py = pyridine) :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91otovx/97be41e5-a979-4a4c-b9f6-f8f3ec15c075/6dce7ed0-4801-11ed-8757-0f869593f41f/file-1l91otovy.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "3",
         "B": "4",
         "C": "6",
         "D": "2"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The number of geometric isomers that can exist for square planar [Pt (Cl) (py) (NH_{3}) (NH_{2}OH)]+ is (py = pyridine) :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 16,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 16,
-      "question_text": "The colour of KMnO4 is due to :",
       "subject": "Chemistry",
       "topic": "d-and-f-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The colour of KMnO4 is due to :",
+      "question_images": [],
+      "option_texts": {
         "A": "d – d transition",
         "B": "L $$\\to$$ M charge transfer transition",
         "C": "$$\\sigma$$ – $$\\sigma$$* transition",
         "D": "M $$\\to$$ L charge transfer transition"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The colour of KMnO_{4} is due to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 17,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 17,
-      "question_text": "Which of the following compounds is not colored yellow?",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the following compounds is not colored yellow?",
+      "question_images": [],
+      "option_texts": {
         "A": "K_{3}[Co(NO_{2})_{6}]",
         "B": "(NH_{4})_{3}[As(Mo_{3}O_{10})_{4}]",
         "C": "BaCrO_{4}",
         "D": "Zn_{2}[Fe(CN)_{6}]"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Which of the following compounds is not colored yellow?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 18,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 18,
-      "question_text": "Assertion : Nitrogen and Oxygen are the main components in the atmosphere but these do not react to\nform oxides of nitrogen.\n\n\nReason : The reaction between nitrogen and oxygen requires high temperature.",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Assertion : Nitrogen and Oxygen are the main components in the atmosphere but these do not react to\nform oxides of nitrogen.\n\n\nReason : The reaction between nitrogen and oxygen requires high temperature.",
+      "question_images": [],
+      "option_texts": {
         "A": "Both assertion and reason are correct, and the reason is the correct explanation for the assertion",
         "B": "Both assertion and reason are correct, but the reason is not the correct explanation for the assertion",
         "C": "The assertion is incorrect, but the reason is correct",
         "D": "Both the assertion and reason are incorrect"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Assertion : Nitrogen and Oxygen are the main components in the atmosphere but these do not react to\nform oxides of nitrogen.\nReason : The reaction between nitrogen and oxygen requires high temperature.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 19,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 19,
-      "question_text": "Which one has the highest boiling point?",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which one has the highest boiling point?",
+      "question_images": [],
+      "option_texts": {
         "A": "Ne",
         "B": "Kr",
         "C": "Xe",
         "D": "He"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Which one has the highest boiling point?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 20,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 20,
-      "question_text": "Higher order (>3) reactions are rare due to",
       "subject": "Chemistry",
       "topic": "chemical-kinetics-and-nuclear-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Higher order (>3) reactions are rare due to",
+      "question_images": [],
+      "option_texts": {
         "A": "increase in entropy and activation energy as more molecules are involved",
         "B": "shifting of equilibrium towards reactants due to elastic collisions",
         "C": "loss of active species on collision",
         "D": "low probability of simultaneous collision of all the reacting species"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Higher order (>3) reactions are rare due to",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 21,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 21,
-      "question_text": "The ionic radii (in Å) of N3–, O2– and F– are respectively:",
       "subject": "Chemistry",
       "topic": "periodic-table-and-periodicity",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The ionic radii (in Å) of N3–, O2– and F– are respectively:",
+      "question_images": [],
+      "option_texts": {
         "A": "1.36, 1.71 and 1.40",
         "B": "1.71, 1.40 and 1.36",
         "C": "1.71, 1.36 and 1.40",
         "D": "1.36, 1.40 and 1.71"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The ionic radii (in Å) of N^{3–}, O^{2–} and F^{–} are respectively:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 22,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 22,
-      "question_text": "Which of the following is the energy of a possible excited state of hydrogen?",
       "subject": "Chemistry",
       "topic": "structure-of-atom",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the following is the energy of a possible excited state of hydrogen?",
+      "question_images": [],
+      "option_texts": {
         "A": "–6.8 eV",
         "B": "–3.4 eV",
         "C": "+6.8 eV",
         "D": "+13.6 eV"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Which of the following is the energy of a possible excited state of hydrogen?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 23,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 23,
-      "question_text": "If the function.\n\n\n$$g\\left( x \\right) = \\left\\{ {\\matrix{\n   {k\\sqrt {x + 1} ,} & {0 \\le x \\le 3}  \\cr \n   {m\\,x + 2,} & {3 < x \\le 5}  \\cr \n\n } } \\right.$$\n\n\nis differentiable, then the value of $$k+m$$ is :",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the function.\n\n\n$$g\\left( x \\right) = \\left\\{ {\\matrix{\n   {k\\sqrt {x + 1} ,} & {0 \\le x \\le 3}  \\cr \n   {m\\,x + 2,} & {3 < x \\le 5}  \\cr \n\n } } \\right.$$\n\n\nis differentiable, then the value of $$k+m$$ is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{10} \\over 3}$$",
         "B": "$$4$$",
         "C": "$$2$$",
         "D": "$${{16} \\over 5}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "If the function.\n$$g\\left( x \\right) = \\left\\{ {\\matrix{\n   {k\\sqrt {x + 1} ,} & {0 \\le x \\le 3}  \\cr \n   {m\\,x + 2,} & {3 < x \\le 5}  \\cr \n\n } } \\right.$$\nis differentiable, then the value of $$k+m$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 24,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 24,
-      "question_text": "The mean of the data set comprising of 16 observations is 16. If one of the observation valued 16 is deleted\nand three new observations valued 3, 4 and 5 are added to the data, then the mean of the resultant data, is :",
       "subject": "Mathematics",
       "topic": "statistics",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The mean of the data set comprising of 16 observations is 16. If one of the observation valued 16 is deleted\nand three new observations valued 3, 4 and 5 are added to the data, then the mean of the resultant data, is :",
+      "question_images": [],
+      "option_texts": {
         "A": "15.8",
         "B": "14.0",
         "C": "16.8",
         "D": "16.0"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The mean of the data set comprising of 16 observations is 16. If one of the observation valued 16 is deleted\nand three new observations valued 3, 4 and 5 are added to the data, then the mean of the resultant data, is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 25,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 25,
-      "question_text": "$$\\mathop {\\lim }\\limits_{x \\to 0} {{\\left( {1 - \\cos 2x} \\right)\\left( {3 + \\cos x} \\right)} \\over {x\\tan 4x}}$$ is equal to",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "$$\\mathop {\\lim }\\limits_{x \\to 0} {{\\left( {1 - \\cos 2x} \\right)\\left( {3 + \\cos x} \\right)} \\over {x\\tan 4x}}$$ is equal to",
+      "question_images": [],
+      "option_texts": {
         "A": "2",
         "B": "$${1 \\over 2}$$",
         "C": "4",
         "D": "3"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "$$\\mathop {\\lim }\\limits_{x \\to 0} {{\\left( {1 - \\cos 2x} \\right)\\left( {3 + \\cos x} \\right)} \\over {x\\tan 4x}}$$ is equal to",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 26,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 26,
-      "question_text": "Let $$\\alpha $$ and $$\\beta $$ be the roots of equation $${x^2} - 6x - 2 = 0$$. If $${a_n} = {\\alpha ^n} - {\\beta ^n},$$  for $$n \\ge 1,$$ then the value of $${{{a_{10}} - 2{a_8}} \\over {2{a_9}}}$$  is equal to :",
       "subject": "Mathematics",
       "topic": "quadratic-equation-and-inequalities",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$\\alpha $$ and $$\\beta $$ be the roots of equation $${x^2} - 6x - 2 = 0$$. If $${a_n} = {\\alpha ^n} - {\\beta ^n},$$  for $$n \\ge 1,$$ then the value of $${{{a_{10}} - 2{a_8}} \\over {2{a_9}}}$$  is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$3$$",
         "B": "$$ - 3$$",
         "C": "$$6$$",
         "D": "$$ - 6$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $$\\alpha $$ and $$\\beta $$ be the roots of equation $${x^2} - 6x - 2 = 0$$. If $${a_n} = {\\alpha ^n} - {\\beta ^n},$$  for $$n \\ge 1,$$ then the value of $${{{a_{10}} - 2{a_8}} \\over {2{a_9}}}$$  is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 27,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 27,
-      "question_text": "If $$12$$ different balls are to be placed in $$3$$ identical boxes, then the probability that one of the boxes contains exactly $$3$$ balls is :",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If $$12$$ different balls are to be placed in $$3$$ identical boxes, then the probability that one of the boxes contains exactly $$3$$ balls is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$220{\\left( {{1 \\over 3}} \\right)^{12}}$$",
         "B": "$$22{\\left( {{1 \\over 3}} \\right)^{11}}$$",
         "C": "$${{55} \\over 3}{\\left( {{2 \\over 3}} \\right)^{11}}$$",
         "D": "$$55{\\left( {{2 \\over 3}} \\right)^{10}}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "If $$12$$ different balls are to be placed in $$3$$ identical boxes, then the probability that one of the boxes contains exactly $$3$$ balls is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 28,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 28,
-      "question_text": "Let $$y(x)$$ be the solution of the differential equation \n\n\n$$\\left( {x\\,\\log x} \\right){{dy} \\over {dx}} + y = 2x\\,\\log x,\\left( {x \\ge 1} \\right).$$ Then $$y(e)$$ is equal to :",
       "subject": "Mathematics",
       "topic": "differential-equations",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$y(x)$$ be the solution of the differential equation \n\n\n$$\\left( {x\\,\\log x} \\right){{dy} \\over {dx}} + y = 2x\\,\\log x,\\left( {x \\ge 1} \\right).$$ Then $$y(e)$$ is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$2$$",
         "B": "$$2e$$",
         "C": "$$e$$",
         "D": "$$0$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $$y(x)$$ be the solution of the differential equation \n$$\\left( {x\\,\\log x} \\right){{dy} \\over {dx}} + y = 2x\\,\\log x,\\left( {x \\ge 1} \\right).$$ Then $$y(e)$$ is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 29,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 29,
-      "question_text": "The area (in sq. units) of the region described by \n\n\n$$\\left\\{ {\\left( {x,y} \\right):{y^2} \\le 2x} \\right.$$ and $$\\left. {y \\ge 4x - 1} \\right\\}$$ is :",
       "subject": "Mathematics",
       "topic": "area-under-the-curves",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The area (in sq. units) of the region described by \n\n\n$$\\left\\{ {\\left( {x,y} \\right):{y^2} \\le 2x} \\right.$$ and $$\\left. {y \\ge 4x - 1} \\right\\}$$ is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91nf3yh/b4e886d1-7f41-4b72-ab7a-245bf94417c9/ef2e8480-47fb-11ed-8757-0f869593f41f/file-1l91nf3yi.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{15} \\over {64}}$$",
         "B": "$${{9} \\over {32}}$$",
         "C": "$${{7} \\over {32}}$$",
         "D": "$${{5} \\over {64}}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The area (in sq. units) of the region described by \n$$\\left\\{ {\\left( {x,y} \\right):{y^2} \\le 2x} \\right.$$ and $$\\left. {y \\ge 4x - 1} \\right\\}$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 30,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 30,
-      "question_text": "The integral \n\n$$\\int\\limits_2^4 {{{\\log \\,{x^2}} \\over {\\log {x^2} + \\log \\left( {36 - 12x + {x^2}} \\right)}}dx} $$   is equal to :",
       "subject": "Mathematics",
       "topic": "definite-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The integral \n\n$$\\int\\limits_2^4 {{{\\log \\,{x^2}} \\over {\\log {x^2} + \\log \\left( {36 - 12x + {x^2}} \\right)}}dx} $$   is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$1$$",
         "B": "$$6$$",
         "C": "$$2$$",
         "D": "$$4$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The integral \n$$\\int\\limits_2^4 {{{\\log \\,{x^2}} \\over {\\log {x^2} + \\log \\left( {36 - 12x + {x^2}} \\right)}}dx} $$   is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 31,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 31,
-      "question_text": "The integral $$\\int {{{dx} \\over {{x^2}{{\\left( {{x^4} + 1} \\right)}^{3/4}}}}} $$ equals :",
       "subject": "Mathematics",
       "topic": "indefinite-integrals",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The integral $$\\int {{{dx} \\over {{x^2}{{\\left( {{x^4} + 1} \\right)}^{3/4}}}}} $$ equals :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$ - {\\left( {{x^4} + 1} \\right)^{{1 \\over 4}}} + c$$",
         "B": "$$ - {\\left( {{{{x^4} + 1} \\over {{x^4}}}} \\right)^{{1 \\over 4}}} + c$$",
         "C": "$$  {\\left( {{{{x^4} + 1} \\over {{x^4}}}} \\right)^{{1 \\over 4}}} + c$$",
         "D": "$$  {\\left( {{x^4} + 1} \\right)^{{1 \\over 4}}} + c$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The integral $$\\int {{{dx} \\over {{x^2}{{\\left( {{x^4} + 1} \\right)}^{3/4}}}}} $$ equals :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 32,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 32,
-      "question_text": "If $$A = \\left[ {\\matrix{\n   1 & 2 & 2  \\cr \n   2 & 1 & { - 2}  \\cr \n   a & 2 & b  \\cr \n\n } } \\right]$$ is a matrix satisfying the equation \n\n\n$$A{A^T} = 9\\text{I},$$ where $$I$$ is $$3 \\times 3$$ identity matrix, then the ordered \n\n\npair $$(a, b)$$ is equal to :",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If $$A = \\left[ {\\matrix{\n   1 & 2 & 2  \\cr \n   2 & 1 & { - 2}  \\cr \n   a & 2 & b  \\cr \n\n } } \\right]$$ is a matrix satisfying the equation \n\n\n$$A{A^T} = 9\\text{I},$$ where $$I$$ is $$3 \\times 3$$ identity matrix, then the ordered \n\n\npair $$(a, b)$$ is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$(2, 1)$$",
         "B": "$$(-2, -1)$$",
         "C": "$$(2, -1)$$",
         "D": "$$(-2, 1)$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "If $$A = \\left[ {\\matrix{\n   1 & 2 & 2  \\cr \n   2 & 1 & { - 2}  \\cr \n   a & 2 & b  \\cr \n\n } } \\right]$$ is a matrix satisfying the equation \n$$A{A^T} = 9\\text{I},$$ where $$I$$ is $$3 \\times 3$$ identity matrix, then the ordered \npair $$(a, b)$$ is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 33,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 33,
-      "question_text": "The set of all values of $$\\lambda $$ for which the system of linear equations:\n\n\n$$\\matrix{\n   {2{x_1} - 2{x_2} + {x_3} = \\lambda {x_1}}  \\cr \n   {2{x_1} - 3{x_2} + 2{x_3} = \\lambda {x_2}}  \\cr \n   { - {x_1} + 2{x_2} = \\lambda {x_3}}  \\cr \n\n } $$\n\n\nhas a non-trivial solution",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The set of all values of $$\\lambda $$ for which the system of linear equations:\n\n\n$$\\matrix{\n   {2{x_1} - 2{x_2} + {x_3} = \\lambda {x_1}}  \\cr \n   {2{x_1} - 3{x_2} + 2{x_3} = \\lambda {x_2}}  \\cr \n   { - {x_1} + 2{x_2} = \\lambda {x_3}}  \\cr \n\n } $$\n\n\nhas a non-trivial solution",
+      "question_images": [],
+      "option_texts": {
         "A": "contains two elements",
         "B": "contains more than two elements",
         "C": "in an empty set",
         "D": "is a singleton"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The set of all values of $$\\lambda $$ for which the system of linear equations:\n$$\\matrix{\n   {2{x_1} - 2{x_2} + {x_3} = \\lambda {x_1}}  \\cr \n   {2{x_1} - 3{x_2} + 2{x_3} = \\lambda {x_2}}  \\cr \n   { - {x_1} + 2{x_2} = \\lambda {x_3}}  \\cr \n\n } $$\nhas a non-trivial solution",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 34,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 34,
-      "question_text": "Let $$f(x)$$ be a polynomial of degree four having extreme values \n\nat $$x=1$$ and $$x=2$$. If $$\\mathop {\\lim }\\limits_{x \\to 0} \\left[ {1 + {{f\\left( x \\right)} \\over {{x^2}}}} \\right] = 3$$, then f$$(2)$$ is equal to :",
       "subject": "Mathematics",
       "topic": "application-of-derivatives",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$f(x)$$ be a polynomial of degree four having extreme values \n\nat $$x=1$$ and $$x=2$$. If $$\\mathop {\\lim }\\limits_{x \\to 0} \\left[ {1 + {{f\\left( x \\right)} \\over {{x^2}}}} \\right] = 3$$, then f$$(2)$$ is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$0$$",
         "B": "$$4$$",
         "C": "$$-8$$",
         "D": "$$-4$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $$f(x)$$ be a polynomial of degree four having extreme values \nat $$x=1$$ and $$x=2$$. If $$\\mathop {\\lim }\\limits_{x \\to 0} \\left[ {1 + {{f\\left( x \\right)} \\over {{x^2}}}} \\right] = 3$$, then f$$(2)$$ is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 35,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 35,
-      "question_text": "Let $${\\tan ^{ - 1}}y = {\\tan ^{ - 1}}x + {\\tan ^{ - 1}}\\left( {{{2x} \\over {1 - {x^2}}}} \\right),$$ \n\n where $$\\left| x \\right| < {1 \\over {\\sqrt 3 }}.$$ Then a value of $$y$$ is :",
       "subject": "Mathematics",
       "topic": "inverse-trigonometric-functions",
       "sub_topic": "trigonometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $${\\tan ^{ - 1}}y = {\\tan ^{ - 1}}x + {\\tan ^{ - 1}}\\left( {{{2x} \\over {1 - {x^2}}}} \\right),$$ \n\n where $$\\left| x \\right| < {1 \\over {\\sqrt 3 }}.$$ Then a value of $$y$$ is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{3x - {x^3}} \\over {1 + 3{x^2}}}$$",
         "B": "$${{3x + {x^3}} \\over {1 + 3{x^2}}}$$",
         "C": "$${{3x - {x^3}} \\over {1 - 3{x^2}}}$$",
         "D": "$${{3x + {x^3}} \\over {1 - 3{x^2}}}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let $${\\tan ^{ - 1}}y = {\\tan ^{ - 1}}x + {\\tan ^{ - 1}}\\left( {{{2x} \\over {1 - {x^2}}}} \\right),$$ \n where $$\\left| x \\right| < {1 \\over {\\sqrt 3 }}.$$ Then a value of $$y$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 36,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 36,
-      "question_text": "Let $$O$$ be the vertex and $$Q$$ be any point on the parabola, $${{x^2} = 8y}$$. If the point $$P$$ divides the line segment $$OQ$$ internally in the ratio $$1:3$$, then locus of $$P$$ is :",
       "subject": "Mathematics",
       "topic": "parabola",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$O$$ be the vertex and $$Q$$ be any point on the parabola, $${{x^2} = 8y}$$. If the point $$P$$ divides the line segment $$OQ$$ internally in the ratio $$1:3$$, then locus of $$P$$ is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kxw9mg20/83fce52e-2630-4574-a56c-ffe9c399a8da/aef7f480-6b3f-11ec-8608-9b519146e1b7/file-1kxw9mg21.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${y^2} = 2x$$",
         "B": "$${{x^2} = 2y}$$",
         "C": "$${{x^2} = y}$$",
         "D": "$${y^2} = x$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $$O$$ be the vertex and $$Q$$ be any point on the parabola, $${{x^2} = 8y}$$. If the point $$P$$ divides the line segment $$OQ$$ internally in the ratio $$1:3$$, then locus of $$P$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 37,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 37,
-      "question_text": "Locus of the image of the point $$(2, 3)$$ in the line $$\\left( {2x - 3y + 4} \\right) + k\\left( {x - 2y + 3} \\right) = 0,\\,k \\in R,$$  is a :",
       "subject": "Mathematics",
       "topic": "circle",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Locus of the image of the point $$(2, 3)$$ in the line $$\\left( {2x - 3y + 4} \\right) + k\\left( {x - 2y + 3} \\right) = 0,\\,k \\in R,$$  is a :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91npsqa/a856b112-8560-4eba-878d-d29d808c6c0a/1868e920-47fd-11ed-8757-0f869593f41f/file-1l91npsqb.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "circle of radius $$\\sqrt 2 $$.",
         "B": "circle of radius $$\\sqrt 3 $$.",
         "C": "straight line parallel to $$x$$-axis",
         "D": "straight line parallel to $$y$$-axis"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Locus of the image of the point $$(2, 3)$$ in the line $$\\left( {2x - 3y + 4} \\right) + k\\left( {x - 2y + 3} \\right) = 0,\\,k \\in R,$$  is a :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 38,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 38,
-      "question_text": "The number of points, having both co-ordinates as integers, that lie in the interior of the triangle with vertices $$(0, 0)$$  $$(0, 41)$$ and $$(41, 0)$$ is :",
       "subject": "Mathematics",
       "topic": "straight-lines-and-pair-of-straight-lines",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The number of points, having both co-ordinates as integers, that lie in the interior of the triangle with vertices $$(0, 0)$$  $$(0, 41)$$ and $$(41, 0)$$ is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kxw9pbpa/316e0bc4-d33f-4ef5-89c3-8879b661f4ca/ff0879e0-6b3f-11ec-8608-9b519146e1b7/file-1kxw9pbpb.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "820",
         "B": "780",
         "C": "901",
         "D": "861"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The number of points, having both co-ordinates as integers, that lie in the interior of the triangle with vertices $$(0, 0)$$  $$(0, 41)$$ and $$(41, 0)$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 39,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 39,
-      "question_text": "If m is the A.M. of two distinct real numbers l and n $$(l,n > 1)$$ and $${G_1},{G_2}$$ and $${G_3}$$ are three geometric means between $$l$$ and n, then $$G_1^4\\, + 2G_2^4\\, + G_3^4$$ equals:",
       "subject": "Mathematics",
       "topic": "sequences-and-series",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If m is the A.M. of two distinct real numbers l and n $$(l,n > 1)$$ and $${G_1},{G_2}$$ and $${G_3}$$ are three geometric means between $$l$$ and n, then $$G_1^4\\, + 2G_2^4\\, + G_3^4$$ equals:",
+      "question_images": [],
+      "option_texts": {
         "A": "$$4\\,lm{n^2}$$",
         "B": "$$4\\,{l^2}{m^2}{n^2}$$",
         "C": "$$4\\,{l^2}m\\,n$$",
         "D": "$$4\\,l\\,{m^2}n$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "If m is the A.M. of two distinct real numbers l and n $$(l,n > 1)$$ and $${G_1},{G_2}$$ and $${G_3}$$ are three geometric means between $$l$$ and n, then $$G_1^4\\, + 2G_2^4\\, + G_3^4$$ equals:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 40,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 40,
-      "question_text": "The number of integers greater than 6,000 that can be formed, using the digits 3, 5, 6, 7 and 8, without repetition, is:",
       "subject": "Mathematics",
       "topic": "permutations-and-combinations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The number of integers greater than 6,000 that can be formed, using the digits 3, 5, 6, 7 and 8, without repetition, is:",
+      "question_images": [],
+      "option_texts": {
         "A": "120",
         "B": "72",
         "C": "216",
         "D": "192"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The number of integers greater than 6,000 that can be formed, using the digits 3, 5, 6, 7 and 8, without repetition, is:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 41,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 41,
-      "question_text": "A complex number z is said to be unimodular if $$\\,\\left| z \\right| = 1$$. Suppose $${z_1}$$ and $${z_2}$$ are complex numbers such that $${{{z_1} - 2{z_2}} \\over {2 - {z_1}\\overline {{z_2}} }}$$ is unimodular and $${z_2}$$ is not unimodular. Then the point $${z_1}$$ lies on a :",
       "subject": "Mathematics",
       "topic": "complex-numbers",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A complex number z is said to be unimodular if $$\\,\\left| z \\right| = 1$$. Suppose $${z_1}$$ and $${z_2}$$ are complex numbers such that $${{{z_1} - 2{z_2}} \\over {2 - {z_1}\\overline {{z_2}} }}$$ is unimodular and $${z_2}$$ is not unimodular. Then the point $${z_1}$$ lies on a :",
+      "question_images": [],
+      "option_texts": {
         "A": "circle of radius 2.",
         "B": "circle of radius $${\\sqrt 2 }$$.",
         "C": "straight line parallel to x-axis",
         "D": "straight line parallel to y-axis."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A complex number z is said to be unimodular if $$\\,\\left| z \\right| = 1$$. Suppose $${z_1}$$ and $${z_2}$$ are complex numbers such that $${{{z_1} - 2{z_2}} \\over {2 - {z_1}\\overline {{z_2}} }}$$ is unimodular and $${z_2}$$ is not unimodular. Then the point $${z_1}$$ lies on a :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 42,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 42,
-      "question_text": "Let A and B be two sets containing four and\ntwo elements respectively. Then, the number\nof subsets of the set A $\\times$ B , each having atleast\nthree elements are",
       "subject": "Mathematics",
       "topic": "sets-and-relations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let A and B be two sets containing four and\ntwo elements respectively. Then, the number\nof subsets of the set A $\\times$ B , each having atleast\nthree elements are",
+      "question_images": [],
+      "option_texts": {
         "A": "219",
         "B": "256",
         "C": "275",
         "D": "510"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let A and B be two sets containing four and\ntwo elements respectively. Then, the number\nof subsets of the set A $\\times$ B , each having atleast\nthree elements are",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 43,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 43,
-      "question_text": "As an electron makes a transition from an excited state to the ground state of a hydrogen - like atom/ion :",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "As an electron makes a transition from an excited state to the ground state of a hydrogen - like atom/ion :",
+      "question_images": [],
+      "option_texts": {
         "A": "kinetic energy decreases, potential energy increases but total energy remains same",
         "B": "kinetic energy and total energy decrease but potential energy increases",
         "C": "its kinetic energy increases but potential energy and total energy decrease",
         "D": "kinetic energy, potential energy and total energy decrease"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "As an electron makes a transition from an excited state to the ground state of a hydrogen - like atom/ion :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 44,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 44,
-      "question_text": "A red $$LED$$ emits light at $$0.1$$ watt uniformly around it. The amplitude of the electric field of the light at a distance of $$1$$ $$m$$ from the diode is :",
       "subject": "Physics",
       "topic": "electronic-devices",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A red $$LED$$ emits light at $$0.1$$ watt uniformly around it. The amplitude of the electric field of the light at a distance of $$1$$ $$m$$ from the diode is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$5.48$$ $$V/m$$",
         "B": "$$7.75$$ $$V/m$$",
         "C": "$$1.73$$ $$V/m$$",
         "D": "$$2.45$$ $$V/m$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "A red $$LED$$ emits light at $$0.1$$ watt uniformly around it. The amplitude of the electric field of the light at a distance of $$1$$ $$m$$ from the diode is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 45,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 45,
-      "question_text": "Monochromatic light is incident on a glass prism of angle $$A$$. If the refractive index of the material of the prism is $$\\mu $$, a ray, incident at an angle $$\\theta $$. on the face $$AB$$ would get transmitted through the face $$AC$$ of the prism provided :",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Monochromatic light is incident on a glass prism of angle $$A$$. If the refractive index of the material of the prism is $$\\mu $$, a ray, incident at an angle $$\\theta $$. on the face $$AB$$ would get transmitted through the face $$AC$$ of the prism provided :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91fjwn8/5894faf5-3977-45d7-9ef4-ac3c440be8b9/2b8bcc40-47dd-11ed-8284-6d7e98c66709/file-1l91fjwn9.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91fl11x/e4a00f10-3331-489e-b3bb-b76cfeb2f90f/4ac28540-47dd-11ed-9a49-57ec402e0bd4/file-1l91fl11y.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$\\theta  > {\\cos ^{ - 1}}\\left[ {\\mu \\,\\sin \\left( {A + {{\\sin }^{ - 1}}} \\right.\\left( {{1 \\over \\mu }} \\right)} \\right]$$",
         "B": "$$\\theta  < {\\cos ^{ - 1}}\\left[ {\\mu \\,\\sin \\left( {A + {{\\sin }^{ - 1}}} \\right.\\left( {{1 \\over \\mu }} \\right)} \\right]$$",
         "C": "$$\\theta  > si{n^{ - 1}}\\left[ {\\mu \\,\\sin \\left( {A - {{\\sin }^{ - 1}}} \\right.\\left( {{1 \\over \\mu }} \\right)} \\right]$$",
         "D": "$$\\theta  < si{n^{ - 1}}\\left[ {\\mu \\,\\sin \\left( {A - {{\\sin }^{ - 1}}} \\right.\\left( {{1 \\over \\mu }} \\right)} \\right]$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Monochromatic light is incident on a glass prism of angle $$A$$. If the refractive index of the material of the prism is $$\\mu $$, a ray, incident at an angle $$\\theta $$. on the face $$AB$$ would get transmitted through the face $$AC$$ of the prism provided :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 46,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 46,
-      "question_text": "An inductor $$(L=0.03$$ $$H)$$ and a resistor $$\\left( {R = 0.15\\,k\\Omega } \\right)$$ are connected in series to a battery of $$15V$$ $$EMF$$ in a circuit shown below. The key $${K_1}$$ has been kept closed for a long time. Then at $$t=0$$, $${K_1}$$ is opened and key $${K_2}$$  is closed simultaneously. At $$t=1$$ $$ms,$$ the current in the circuit will be : $$\\left( {{e^5} \\cong 150} \\right)$$",
       "subject": "Physics",
       "topic": "alternating-current",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An inductor $$(L=0.03$$ $$H)$$ and a resistor $$\\left( {R = 0.15\\,k\\Omega } \\right)$$ are connected in series to a battery of $$15V$$ $$EMF$$ in a circuit shown below. The key $${K_1}$$ has been kept closed for a long time. Then at $$t=0$$, $${K_1}$$ is opened and key $${K_2}$$  is closed simultaneously. At $$t=1$$ $$ms,$$ the current in the circuit will be : $$\\left( {{e^5} \\cong 150} \\right)$$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91fio1b/db2b9d6b-3c48-4bab-9abf-9d2ffbf87838/09163bf0-47dd-11ed-8284-6d7e98c66709/file-1l91fio1c.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$6.7$$ $$mA$$",
         "B": "$$0.67$$ $$mA$$",
         "C": "$$100$$ $$mA$$",
         "D": "$$67$$ $$mA$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "An inductor $$(L=0.03$$ $$H)$$ and a resistor $$\\left( {R = 0.15\\,k\\Omega } \\right)$$ are connected in series to a battery of $$15V$$ $$EMF$$ in a circuit shown below. The key $${K_1}$$ has been kept closed for a long time. Then at $$t=0$$, $${K_1}$$ is opened and key $${K_2}$$  is closed simultaneously. At $$t=1$$ $$ms,$$ the current in the circuit will be : $$\\left( {{e^5} \\cong 150} \\right)$$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 47,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 47,
-      "question_text": "An $$LCR$$ circuit is equivalent to a damped pendulum. In an $$LCR$$ circuit the capacitor is charged to $${Q_0}$$ and then connected to the $$L$$ and $$R$$ as shown below : \n\n\n\nIf a student plots graphs of the square of maximum charge $$\\left( {Q_{Max}^2} \\right)$$ on the capacitor with time$$(t)$$ for two different values $${L_1}$$ and $${L_2}$$ $$\\left( {{L_1} > {L_2}} \\right)$$ of $$L$$ then which of the following represents this graph correctly ? \n\n$$\\left( {plots\\,\\,are\\,\\,schematic\\,\\,and\\,\\,niot\\,\\,drawn\\,\\,to\\,\\,scale} \\right)$$",
       "subject": "Physics",
       "topic": "alternating-current",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An $$LCR$$ circuit is equivalent to a damped pendulum. In an $$LCR$$ circuit the capacitor is charged to $${Q_0}$$ and then connected to the $$L$$ and $$R$$ as shown below : \n\n\n\nIf a student plots graphs of the square of maximum charge $$\\left( {Q_{Max}^2} \\right)$$ on the capacitor with time$$(t)$$ for two different values $${L_1}$$ and $${L_2}$$ $$\\left( {{L_1} > {L_2}} \\right)$$ of $$L$$ then which of the following represents this graph correctly ? \n\n$$\\left( {plots\\,\\,are\\,\\,schematic\\,\\,and\\,\\,niot\\,\\,drawn\\,\\,to\\,\\,scale} \\right)$$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91fmmiq/4dbd6ef2-4cda-46b3-b6a8-749c4d6ff88c/7726f620-47dd-11ed-9a49-57ec402e0bd4/file-1l91fmmir.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91fscjm/37fdaa04-6a6c-40c7-bca1-bc62db93c167/164d2620-47de-11ed-9a49-57ec402e0bd4/file-1l91fscjn.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91fp8ku/1310e8e1-f91c-4040-93ce-16996684616a/bfcf6ce0-47dd-11ed-9a49-57ec402e0bd4/file-1l91fp8kv.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91fpsu6/6f5c6a8b-51fb-4d1a-a414-c19f8a290cf6/cf75ecf0-47dd-11ed-9a49-57ec402e0bd4/file-1l91fpsu7.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91frfta/71e0a586-3e6f-4ef3-bc03-4d5403e2e0be/fd0485f0-47dd-11ed-9a49-57ec402e0bd4/file-1l91frftb.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91fqn6v/46f2a75b-3721-4476-b4db-078ac0077ec4/e6e81f70-47dd-11ed-9a49-57ec402e0bd4/file-1l91fqn6w.png",
+          "description": ""
+        }
+      },
       "correct_answer": "C",
-      "question": "An $$LCR$$ circuit is equivalent to a damped pendulum. In an $$LCR$$ circuit the capacitor is charged to $${Q_0}$$ and then connected to the $$L$$ and $$R$$ as shown below : \n \nIf a student plots graphs of the square of maximum charge $$\\left( {Q_{Max}^2} \\right)$$ on the capacitor with time$$(t)$$ for two different values $${L_1}$$ and $${L_2}$$ $$\\left( {{L_1} > {L_2}} \\right)$$ of $$L$$ then which of the following represents this graph correctly ? \n$$\\left( {plots\\,\\,are\\,\\,schematic\\,\\,and\\,\\,niot\\,\\,drawn\\,\\,to\\,\\,scale} \\right)$$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 48,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 48,
-      "question_text": "Assuming human pupil to have a radius of $$0.25$$ $$cm$$ and a comfortable viewing distance of $$25$$ $$cm$$, the minimum separation between two objects that human eye can resolve at $$500$$ $$nm$$ wavelength is :",
       "subject": "Physics",
       "topic": "wave-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Assuming human pupil to have a radius of $$0.25$$ $$cm$$ and a comfortable viewing distance of $$25$$ $$cm$$, the minimum separation between two objects that human eye can resolve at $$500$$ $$nm$$ wavelength is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91o3hnk/c197115c-36ef-4771-8b36-59db3bed4cfb/952ea200-47fe-11ed-8757-0f869593f41f/file-1l91o3hnl.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$100\\,\\mu m$$",
         "B": "$$300\\,\\mu m$$",
         "C": "$$1\\,\\mu m$$",
         "D": "$$30\\,\\mu m$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Assuming human pupil to have a radius of $$0.25$$ $$cm$$ and a comfortable viewing distance of $$25$$ $$cm$$, the minimum separation between two objects that human eye can resolve at $$500$$ $$nm$$ wavelength is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 49,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 49,
-      "question_text": "On a hot summer night, the refractive index of air  is smallest near the ground and increases with height from  the ground. When a light beam is directed horizontally, the Huygens' principle leads us to conclude that as it travels, the light beam :",
       "subject": "Physics",
       "topic": "wave-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "On a hot summer night, the refractive index of air  is smallest near the ground and increases with height from  the ground. When a light beam is directed horizontally, the Huygens' principle leads us to conclude that as it travels, the light beam :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91o2jwp/86cfef0d-83f8-4b5e-9033-21a0ed2e7f60/7b1d3390-47fe-11ed-8757-0f869593f41f/file-1l91o2jwq.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "bends down wards",
         "B": "bends upwards",
         "C": "becomes narrower",
         "D": "goes horizontally without any deflection"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "On a hot summer night, the refractive index of air  is smallest near the ground and increases with height from  the ground. When a light beam is directed horizontally, the Huygens' principle leads us to conclude that as it travels, the light beam :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 50,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 50,
-      "question_text": "Two coaxial solenoids of different radius carry current $$I$$ in the same direction. $$\\overrightarrow {{F_1}} $$ be the magnetic force on the inner solenoid due to the outer one and $$\\overrightarrow {{F_2}} $$ be the magnetic force on the outer solenoid due to the inner one. Then :",
       "subject": "Physics",
       "topic": "electromagnetic-induction",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two coaxial solenoids of different radius carry current $$I$$ in the same direction. $$\\overrightarrow {{F_1}} $$ be the magnetic force on the inner solenoid due to the outer one and $$\\overrightarrow {{F_2}} $$ be the magnetic force on the outer solenoid due to the inner one. Then :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\overrightarrow {{F_1}} $$  is radially in wards and $$\\overrightarrow {{F_2}}  = 0$$",
         "B": "$$\\overrightarrow {{F_1}} $$  is radially outwards and $$\\overrightarrow {{F_2}}  = 0$$",
         "C": "$$\\overrightarrow {{F_1}}  = \\overrightarrow {{F_2}}  = 0$$",
         "D": "$$\\overrightarrow {{F_1}} $$ is radially inwards and $$\\overrightarrow {{F_2}} $$ is radially outards"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Two coaxial solenoids of different radius carry current $$I$$ in the same direction. $$\\overrightarrow {{F_1}} $$ be the magnetic force on the inner solenoid due to the outer one and $$\\overrightarrow {{F_2}} $$ be the magnetic force on the outer solenoid due to the inner one. Then :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 51,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 51,
-      "question_text": "A rectangular loop of sides $$10$$ $$cm$$ and $$5$$ $$cm$$ carrying a current $$1$$ of $$12A$$ is placed in different orientations as shown in the figures below :\n\n\n\nIf there is a uniform magnetic field of $$0.3$$ $$T$$ in the positive $$z$$ direction, in which orientations the loop would be in $$(i)$$ stable equilibrium and $$(ii)$$ unstable equilibrium ?",
       "subject": "Physics",
       "topic": "magnetics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A rectangular loop of sides $$10$$ $$cm$$ and $$5$$ $$cm$$ carrying a current $$1$$ of $$12A$$ is placed in different orientations as shown in the figures below :\n\n\n\nIf there is a uniform magnetic field of $$0.3$$ $$T$$ in the positive $$z$$ direction, in which orientations the loop would be in $$(i)$$ stable equilibrium and $$(ii)$$ unstable equilibrium ?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91fg0nh/2d65064c-128a-41bc-b7bf-2ad165880e0c/bf679fd0-47dc-11ed-8284-6d7e98c66709/file-1l91fg0ni.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$(B)$$ and $$(D)$$, respectively",
         "B": "$$(B)$$ and $$(C)$$, respectively",
         "C": "$$(A)$$ and $$(B)$$, respectively",
         "D": "$$(A)$$ and $$(C)$$, respectively"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A rectangular loop of sides $$10$$ $$cm$$ and $$5$$ $$cm$$ carrying a current $$1$$ of $$12A$$ is placed in different orientations as shown in the figures below : \n \nIf there is a uniform magnetic field of $$0.3$$ $$T$$ in the positive $$z$$ direction, in which orientations the loop would be in $$(i)$$ stable equilibrium and $$(ii)$$ unstable equilibrium ?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 52,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 52,
-      "question_text": "Two stones are thrown up simultaneously from the edge of a cliff $$240$$ $$m$$ high with initial speed of $$10$$ $$m/s$$ and $$40$$ $$m/s$$ respectively. Which of the following graph best represents the time variation of relative position of the second stone with respect to the first ?\n\n\n(Assume stones do not rebound after hitting the ground and neglect air resistance, take $$g = 10m/{s^2}$$)\n\n\n(The figures are schematic and not drawn to scale)",
       "subject": "Physics",
       "topic": "motion-in-a-straight-line",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two stones are thrown up simultaneously from the edge of a cliff $$240$$ $$m$$ high with initial speed of $$10$$ $$m/s$$ and $$40$$ $$m/s$$ respectively. Which of the following graph best represents the time variation of relative position of the second stone with respect to the first ?\n\n\n(Assume stones do not rebound after hitting the ground and neglect air resistance, take $$g = 10m/{s^2}$$)\n\n\n(The figures are schematic and not drawn to scale)",
+      "question_images": [],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91dw8zy/227e1c58-4098-46f6-a69e-17118c030811/b08a4ae0-47d6-11ed-9a0e-8f7a98995d79/file-1l91dw8zz.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91dx2iz/3eeb81cc-2d7a-4e8a-b9a4-9789b139525b/c759adb0-47d6-11ed-9a0e-8f7a98995d79/file-1l91dx2j0.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91dsqp1/9b08c45c-b83b-4857-b979-ed70b4fd06c1/4ef92e40-47d6-11ed-9a0e-8f7a98995d79/file-1l91dsqp2.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91dti7v/0c1ad1d7-449f-4fff-a08c-d4a9be92f713/643c24b0-47d6-11ed-9a0e-8f7a98995d79/file-1l91dti7w.png",
+          "description": ""
+        }
+      },
       "correct_answer": "A",
-      "question": "Two stones are thrown up simultaneously from the edge of a cliff $$240$$ $$m$$ high with initial speed of $$10$$ $$m/s$$ and $$40$$ $$m/s$$ respectively. Which of the following graph best represents the time variation of relative position of the second stone with respect to the first ?\n(Assume stones do not rebound after hitting the ground and neglect air resistance, take $$g = 10m/{s^2}$$)\n(The figures are schematic and not drawn to scale)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 53,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 53,
-      "question_text": "In the circuit shown, the current in the $$1\\Omega $$ resistor is :",
       "subject": "Physics",
       "topic": "current-electricity",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In the circuit shown, the current in the $$1\\Omega $$ resistor is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91f1uw2/6738d71f-139b-44c0-8d44-e5465eb162a7/35a04820-47db-11ed-8284-6d7e98c66709/file-1l91f1uw3.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91f47um/350b1501-6062-49f3-9f33-e2d7cbb1899a/77416de0-47db-11ed-8284-6d7e98c66709/file-1l91f47un.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91f4wfy/8e5ba4f4-42e8-4711-8dd9-15c5a9462ca6/8a40b5e0-47db-11ed-8284-6d7e98c66709/file-1l91f4wfz.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91f5hzn/569a8140-2f45-4837-b01f-1a3f78a84a6f/9ae5ba30-47db-11ed-8284-6d7e98c66709/file-1l91f5hzo.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$0.13$$ $$A,$$ from $$Q$$ to $$P$$",
         "B": "$$0.13$$ $$A$$, from $$P$$ to $$Q$$",
         "C": "$$1.3A$$ from $$P$$ to $$Q$$",
         "D": "$$0A$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "In the circuit shown, the current in the $$1\\Omega $$ resistor is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 54,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 54,
-      "question_text": "Two long current carrying thin wires, both with current $$I,$$ are held by insulating threads of length $$L$$ and are in equilibrium as shown in the figure, with threads making an angle $$'\\theta '$$ with the vertical. If wires have mass $$\\lambda $$ per unit-length then the value of $$I$$ is : \n\n($$g=$$ $$gravitational$$ $$acceleration$$ )",
       "subject": "Physics",
       "topic": "magnetics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two long current carrying thin wires, both with current $$I,$$ are held by insulating threads of length $$L$$ and are in equilibrium as shown in the figure, with threads making an angle $$'\\theta '$$ with the vertical. If wires have mass $$\\lambda $$ per unit-length then the value of $$I$$ is : \n\n($$g=$$ $$gravitational$$ $$acceleration$$ )",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91f7cuv/3a7bb61e-6287-4a8c-a932-a655d2cc36cb/ce8d2580-47db-11ed-8284-6d7e98c66709/file-1l91f7cuw.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91f8ury/49827386-97e5-4277-8921-73e46ec64f98/f833aee0-47db-11ed-8284-6d7e98c66709/file-1l91f8urz.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$2\\sqrt {{{\\pi gL} \\over {{\\mu _0}}}\\tan \\theta } $$",
         "B": "$$\\sqrt {{{\\pi \\lambda gL} \\over {{\\mu _0}}}\\tan \\theta } $$",
         "C": "$$\\sin \\theta \\sqrt {{{\\pi \\lambda gL} \\over {{\\mu _0}\\,\\cos \\theta }}} $$",
         "D": "$$2\\sin \\theta \\sqrt {{{\\pi \\lambda gL} \\over {{\\mu _0}\\,\\cos \\theta }}} $$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Two long current carrying thin wires, both with current $$I,$$ are held by insulating threads of length $$L$$ and are in equilibrium as shown in the figure, with threads making an angle $$'\\theta '$$ with the vertical. If wires have mass $$\\lambda $$ per unit-length then the value of $$I$$ is : \n($$g=$$ $$gravitational$$ $$acceleration$$ )",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 55,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 55,
-      "question_text": "When $$5V$$ potential difference is applied across a wire of length $$0.1$$ $$m,$$ the drift speed of electrons is $$2.5 \\times {10^{ - 4}}\\,\\,m{s^{ - 1}}.$$ If the electron density in the wire is $$8 \\times {10^{28}}\\,\\,{m^{ - 3}},$$ the resistivity of the material is close to :",
       "subject": "Physics",
       "topic": "current-electricity",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "When $$5V$$ potential difference is applied across a wire of length $$0.1$$ $$m,$$ the drift speed of electrons is $$2.5 \\times {10^{ - 4}}\\,\\,m{s^{ - 1}}.$$ If the electron density in the wire is $$8 \\times {10^{28}}\\,\\,{m^{ - 3}},$$ the resistivity of the material is close to :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$1.6 \\times {10^{ - 6}}\\Omega m$$",
         "B": "$$1.6 \\times {10^{ - 5}}\\Omega m$$",
         "C": "$$1.6 \\times {10^{ - 8}}\\Omega m$$",
         "D": "$$1.6 \\times {10^{ - 7}}\\Omega m$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "When $$5V$$ potential difference is applied across a wire of length $$0.1$$ $$m,$$ the drift speed of electrons is $$2.5 \\times {10^{ - 4}}\\,\\,m{s^{ - 1}}.$$ If the electron density in the wire is $$8 \\times {10^{28}}\\,\\,{m^{ - 3}},$$ the resistivity of the material is close to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 56,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 56,
-      "question_text": "A long cylindrical shell carries positives surfaces change $$\\sigma $$ in the upper half and negative surface charge - $$\\sigma $$ in the lower half. The electric field lines around the cylinder will look like figure given in : \n\n(figures are schematic and not drawn to scale)",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A long cylindrical shell carries positives surfaces change $$\\sigma $$ in the upper half and negative surface charge - $$\\sigma $$ in the lower half. The electric field lines around the cylinder will look like figure given in : \n\n(figures are schematic and not drawn to scale)",
+      "question_images": [],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91elqw3/56bf7907-6950-4d66-a65e-7f626ff4a4e4/75972b30-47d9-11ed-8284-6d7e98c66709/file-1l91elqw4.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91emnqg/cf2ebec5-5607-468d-b6b4-a92044681a8d/8ef61280-47d9-11ed-8284-6d7e98c66709/file-1l91emnqh.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91en4q0/aa553754-1f4d-48d6-9679-604e3388385b/9c157280-47d9-11ed-8284-6d7e98c66709/file-1l91en4q1.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91enktx/060949e0-95c1-4860-888b-dbcc30b0ab11/a8870650-47d9-11ed-8284-6d7e98c66709/file-1l91enkty.png",
+          "description": ""
+        }
+      },
       "correct_answer": "C",
-      "question": "A long cylindrical shell carries positives surfaces change $$\\sigma $$ in the upper half and negative surface charge - $$\\sigma $$ in the lower half. The electric field lines around the cylinder will look like figure given in : \n(figures are schematic and not drawn to scale)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 57,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 57,
-      "question_text": "A uniformly charged solid sphere of radius $$R$$ has potential $${V_0}$$ (measured with respect to $$\\infty $$) on its surface. For this sphere the equipotential surfaces with potentials $${{3{V_0}} \\over 2},\\,{{5{V_0}} \\over 4},\\,{{3{V_0}} \\over 4}$$ and $${{{V_0}} \\over 4}$$ have radius $${R_1},\\,\\,{R_2},\\,\\,{R_3}$$ and $${R_4}$$ respectively. Then",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A uniformly charged solid sphere of radius $$R$$ has potential $${V_0}$$ (measured with respect to $$\\infty $$) on its surface. For this sphere the equipotential surfaces with potentials $${{3{V_0}} \\over 2},\\,{{5{V_0}} \\over 4},\\,{{3{V_0}} \\over 4}$$ and $${{{V_0}} \\over 4}$$ have radius $${R_1},\\,\\,{R_2},\\,\\,{R_3}$$ and $${R_4}$$ respectively. Then",
+      "question_images": [],
+      "option_texts": {
         "A": "$${R_1} = 0$$ and $${R_2} < \\left( {{R_4} - {R_3}} \\right)$$",
         "B": "$$2R < {R_4}$$",
         "C": "$${R_1} = 0$$ and $${R_2} > \\left( {{R_4} - {R_3}} \\right)$$",
         "D": "$${R_1} \\ne 0$$ and $$\\left( {{R_2} - {R_1}} \\right) > \\left( {{R_4} - {R_3}} \\right)$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A uniformly charged solid sphere of radius $$R$$ has potential $${V_0}$$ (measured with respect to $$\\infty $$) on its surface. For this sphere the equipotential surfaces with potentials $${{3{V_0}} \\over 2},\\,{{5{V_0}} \\over 4},\\,{{3{V_0}} \\over 4}$$ and $${{{V_0}} \\over 4}$$ have radius $${R_1},\\,\\,{R_2},\\,\\,{R_3}$$ and $${R_4}$$ respectively. Then",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 58,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 58,
-      "question_text": "In the given circuit, charges $${Q_2}$$ on the $$2\\mu F$$ capacitor changes as $$C$$ is varied from $$1\\,\\mu F$$ to $$3\\mu F.$$ $${Q_2}$$ as a function of $$'C'$$ is given properly by: \n\n$$\\left( {figures\\,\\,are\\,\\,drawn\\,\\,schematically\\,\\,and\\,\\,are\\,\\,not\\,\\,to\\,\\,scale} \\right)$$",
       "subject": "Physics",
       "topic": "capacitor",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In the given circuit, charges $${Q_2}$$ on the $$2\\mu F$$ capacitor changes as $$C$$ is varied from $$1\\,\\mu F$$ to $$3\\mu F.$$ $${Q_2}$$ as a function of $$'C'$$ is given properly by: \n\n$$\\left( {figures\\,\\,are\\,\\,drawn\\,\\,schematically\\,\\,and\\,\\,are\\,\\,not\\,\\,to\\,\\,scale} \\right)$$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91ephkp/a1280b2a-b9cf-49f4-b4cf-d8fa58744add/dda16290-47d9-11ed-8284-6d7e98c66709/file-1l91ephkq.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91eyqe7/e672db6e-ef4b-411f-9575-03dfdb825efb/deb9baf0-47da-11ed-8284-6d7e98c66709/file-1l91eyqe8.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91f0167/67fc44de-71e3-4189-aa3b-24aa5a9ad1b5/02dc37f0-47db-11ed-8284-6d7e98c66709/file-1l91f0168.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91evknq/38effe94-7dda-42e7-8fb4-71a42d405dcf/86de1f60-47da-11ed-8284-6d7e98c66709/file-1l91evknr.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91ev2m0/d87a5a5c-90b3-4734-aef4-f8c218cd4ccf/78ed1780-47da-11ed-8284-6d7e98c66709/file-1l91ev2m1.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91eubg4/2be7a1a5-a855-45f5-ac15-6ee8efb3d15a/63f16340-47da-11ed-8284-6d7e98c66709/file-1l91eubg5.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91etttt/3a7baedb-2809-44b6-8108-5a7d76b1b796/56550b10-47da-11ed-8284-6d7e98c66709/file-1l91etttu.png",
+          "description": ""
+        }
+      },
       "correct_answer": "D",
-      "question": "In the given circuit, charges $${Q_2}$$ on the $$2\\mu F$$ capacitor changes as $$C$$ is varied from $$1\\,\\mu F$$ to $$3\\mu F.$$ $${Q_2}$$ as a function of $$'C'$$ is given properly by: \n$$\\left( {figures\\,\\,are\\,\\,drawn\\,\\,schematically\\,\\,and\\,\\,are\\,\\,not\\,\\,to\\,\\,scale} \\right)$$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2015,
-      "exam_type": "JEE Main",
-      "shift": 1,
       "question_number": 59,
-      "question_text": "For a simple pendulum, a graph is plotted between its kinetic energy $$(KE)$$ and potential energy $$(PE)$$ against its displacement $$d.$$ Which one of the following represents these correctly?  \n\n$$(graphs$$ $$are$$ $$schematic$$ $$and$$ $$not$$ $$drawn$$ $$to$$ $$scale)$$",
+      "year": 2015,
+      "exam_type": "JEE Main",
+      "shift": 1,
       "subject": "Physics",
       "topic": "simple-harmonic-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "For a simple pendulum, a graph is plotted between its kinetic energy $$(KE)$$ and potential energy $$(PE)$$ against its displacement $$d.$$ Which one of the following represents these correctly?  \n\n$$(graphs$$ $$are$$ $$schematic$$ $$and$$ $$not$$ $$drawn$$ $$to$$ $$scale)$$",
+      "question_images": [],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91eit1d/7a6bfae6-634a-4eb5-a695-bd4780392ae7/23d23f10-47d9-11ed-8284-6d7e98c66709/file-1l91eit1e.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91ehdr7/d5b1398c-e814-43a3-b350-3566cba5a2da/fc34f330-47d8-11ed-8284-6d7e98c66709/file-1l91ehdr8.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91ehxps/afeb6e54-af50-4845-93fa-770b0813b557/0ba03f00-47d9-11ed-8284-6d7e98c66709/file-1l91ehxpt.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91eie1j/623980b1-fcaa-469e-aae7-4c74f86797e6/183cda70-47d9-11ed-8284-6d7e98c66709/file-1l91eie1k.png",
+          "description": ""
+        }
+      },
       "correct_answer": "D",
-      "question": "For a simple pendulum, a graph is plotted between its kinetic energy $$(KE)$$ and potential energy $$(PE)$$ against its displacement $$d.$$ Which one of the following represents these correctly?  \n$$(graphs$$ $$are$$ $$schematic$$ $$and$$ $$not$$ $$drawn$$ $$to$$ $$scale)$$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 60,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 60,
-      "question_text": "A pendulum made of a uniform wire of cross sectional area $$A$$ has time period $$T.$$ When an additional mass $$M$$ is added to its bob, the time period changes to $${T_{M.}}$$ If the Young's modulus of the material of the wire is $$Y$$ then $${1 \\over Y}$$ is equal to : \n\n($$g=$$ $$gravitational$$ $$acceleration$$)",
       "subject": "Physics",
       "topic": "simple-harmonic-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A pendulum made of a uniform wire of cross sectional area $$A$$ has time period $$T.$$ When an additional mass $$M$$ is added to its bob, the time period changes to $${T_{M.}}$$ If the Young's modulus of the material of the wire is $$Y$$ then $${1 \\over Y}$$ is equal to : \n\n($$g=$$ $$gravitational$$ $$acceleration$$)",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\left[ {1 - {{\\left( {{{{T_M}} \\over T}} \\right)}^2}} \\right]{A \\over {Mg}}$$",
         "B": "$$\\left[ {1 - {{\\left( {{T \\over {{T_M}}}} \\right)}^2}} \\right]{A \\over {Mg}}$$",
         "C": "$$\\left[ {{{\\left( {{{{T_M}} \\over T}} \\right)}^2} - 1} \\right]{A \\over {Mg}}$$",
         "D": "$$\\left[ {{{\\left( {{{{T_M}} \\over T}} \\right)}^2} - 1} \\right]{{Mg} \\over A}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A pendulum made of a uniform wire of cross sectional area $$A$$ has time period $$T.$$ When an additional mass $$M$$ is added to its bob, the time period changes to $${T_{M.}}$$ If the Young's modulus of the material of the wire is $$Y$$ then $${1 \\over Y}$$ is equal to : \n($$g=$$ $$gravitational$$ $$acceleration$$)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 61,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 61,
-      "question_text": "From a solid sphere of mass $$M$$ and radius $$R,$$ a spherical portion of radius $$R/2$$ is removed, as shown in the figure. Taking gravitational potential $$V=0$$ at $$r = \\infty ,$$ the potential at the center of the cavity thus formed is: \n($$G=gravitational $$ $$constant$$)",
       "subject": "Physics",
       "topic": "gravitation",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "From a solid sphere of mass $$M$$ and radius $$R,$$ a spherical portion of radius $$R/2$$ is removed, as shown in the figure. Taking gravitational potential $$V=0$$ at $$r = \\infty ,$$ the potential at the center of the cavity thus formed is: \n($$G=gravitational $$ $$constant$$)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91e5lo5/91b01283-f796-40fb-b71f-474ba5b2aeda/b49c8250-47d7-11ed-9a0e-8f7a98995d79/file-1l91e5lo6.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/a49Jv8rcFlHMGgTxP/PGzAOvXknGnmshjXoIKxO5OwI36wd/Ma8OvyTk33ymmGKc9umGOE/image.svg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{ - 2GM} \\over {3R}}$$",
         "B": "$${{ - 2GM} \\over R}$$",
         "C": "$${{ - GM} \\over {2R}}$$",
         "D": "$${{ - GM} \\over R}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "From a solid sphere of mass $$M$$ and radius $$R,$$ a spherical portion of radius $$R/2$$ is removed, as shown in the figure. Taking gravitational potential $$V=0$$ at $$r = \\infty ,$$ the potential at the center of the cavity thus formed is: ($$G=gravitational $$ $$constant$$)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 62,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 62,
-      "question_text": "Consider a spherical shell of radius $$R$$ at temperature $$T$$. The black body radiation inside it can be considered as an ideal gas of photons with internal energy per unit volume $$u = {U \\over V}\\, \\propto \\,{T^4}$$ and pressure $$p = {1 \\over 3}\\left( {{U \\over V}} \\right)$$ . If the shell now undergoes an adiabatic expansion the relation between $$T$$ and $$R$$ is:",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider a spherical shell of radius $$R$$ at temperature $$T$$. The black body radiation inside it can be considered as an ideal gas of photons with internal energy per unit volume $$u = {U \\over V}\\, \\propto \\,{T^4}$$ and pressure $$p = {1 \\over 3}\\left( {{U \\over V}} \\right)$$ . If the shell now undergoes an adiabatic expansion the relation between $$T$$ and $$R$$ is:",
+      "question_images": [],
+      "option_texts": {
         "A": "$$T\\, \\propto {1 \\over R}$$",
         "B": "$$T\\, \\propto {1 \\over {{R^3}}}$$",
         "C": "$$T\\, \\propto \\,{e^{ - R}}$$",
         "D": "$$T\\, \\propto \\,{e^{ - 3R}}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Consider a spherical shell of radius $$R$$ at temperature $$T$$. The black body radiation inside it can be considered as an ideal gas of photons with internal energy per unit volume $$u = {U \\over V}\\, \\propto \\,{T^4}$$ and pressure $$p = {1 \\over 3}\\left( {{U \\over V}} \\right)$$ . If the shell now undergoes an adiabatic expansion the relation between $$T$$ and $$R$$ is:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 63,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 63,
-      "question_text": "Consider an ideal gas confined in an isolated closed chamber. As the gas undergoes an adiabatic expansion, the average time of collision between molecules increases as $${V^q},$$ where $$V$$ is the volume of the gas. The value of $$q$$ is: $$\\left( {\\gamma  = {{{C_p}} \\over {{C_v}}}} \\right)$$",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider an ideal gas confined in an isolated closed chamber. As the gas undergoes an adiabatic expansion, the average time of collision between molecules increases as $${V^q},$$ where $$V$$ is the volume of the gas. The value of $$q$$ is: $$\\left( {\\gamma  = {{{C_p}} \\over {{C_v}}}} \\right)$$",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{\\gamma  + 1} \\over 2}$$",
         "B": "$${{\\gamma  - 1} \\over 2}$$",
         "C": "$${{3\\gamma  + 5} \\over 6}$$",
         "D": "$${{3\\gamma  - 5} \\over 6}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Consider an ideal gas confined in an isolated closed chamber. As the gas undergoes an adiabatic expansion, the average time of collision between molecules increases as $${V^q},$$ where $$V$$ is the volume of the gas. The value of $$q$$ is: $$\\left( {\\gamma  = {{{C_p}} \\over {{C_v}}}} \\right)$$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 64,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 64,
-      "question_text": "A solid body of constant heat capacity $$1$$ $$J/{}^ \\circ C$$ is being heated by keeping it in contact with reservoirs in two ways:\n\n$$(i)$$  Sequentially keeping in contact with $$2$$ reservoirs such that each reservoir \n\n$$\\,\\,\\,\\,\\,\\,\\,\\,$$supplies same amount of heat. \n\n$$(ii)$$ Sequentially keeping in contact with $$8$$ reservoirs such that each reservoir \n\n$$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,$$supplies same amount of heat. \n\nIn both the cases body is brought from initial temperature $${100^ \\circ }C$$ to final temperature $${200^ \\circ }C$$. Entropy change of the body in the two cases respectively is :",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A solid body of constant heat capacity $$1$$ $$J/{}^ \\circ C$$ is being heated by keeping it in contact with reservoirs in two ways:\n\n$$(i)$$  Sequentially keeping in contact with $$2$$ reservoirs such that each reservoir \n\n$$\\,\\,\\,\\,\\,\\,\\,\\,$$supplies same amount of heat. \n\n$$(ii)$$ Sequentially keeping in contact with $$8$$ reservoirs such that each reservoir \n\n$$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,$$supplies same amount of heat. \n\nIn both the cases body is brought from initial temperature $${100^ \\circ }C$$ to final temperature $${200^ \\circ }C$$. Entropy change of the body in the two cases respectively is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$ln2, 2ln2$$",
         "B": "$$2ln2, 8ln2$$",
         "C": "$$ln2, 4ln2$$",
         "D": "$$ln2, ln2$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "A solid body of constant heat capacity $$1$$ $$J/{}^ \\circ C$$ is being heated by keeping it in contact with reservoirs in two ways:\n$$(i)$$  Sequentially keeping in contact with $$2$$ reservoirs such that each reservoir \n$$\\,\\,\\,\\,\\,\\,\\,\\,$$supplies same amount of heat. \n$$(ii)$$ Sequentially keeping in contact with $$8$$ reservoirs such that each reservoir \n$$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,$$supplies same amount of heat. \nIn both the cases body is brought from initial temperature $${100^ \\circ }C$$ to final temperature $${200^ \\circ }C$$. Entropy change of the body in the two cases respectively is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 65,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 65,
-      "question_text": "Given in the figure are two blocks $$A$$ and $$B$$ of weight 20 N and 100 N, respectively. These are being pressed against a wall by a force $$F$$ as shown. If the coefficient of friction between the blocks is 0.1 and between block $$B$$ and the wall is 0.15, the frictional force applied by the wall on block $$B$$ is :",
       "subject": "Physics",
       "topic": "laws-of-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Given in the figure are two blocks $$A$$ and $$B$$ of weight 20 N and 100 N, respectively. These are being pressed against a wall by a force $$F$$ as shown. If the coefficient of friction between the blocks is 0.1 and between block $$B$$ and the wall is 0.15, the frictional force applied by the wall on block $$B$$ is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91dzva8/32a61b53-56bd-4d0a-b3d8-bf03d4828714/152ee910-47d7-11ed-9a0e-8f7a98995d79/file-1l91dzva9.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91e0o0r/9ac128bf-b681-4232-8326-27e1c05120d4/2b6196b0-47d7-11ed-9a0e-8f7a98995d79/file-1l91e0o0s.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91e1pyh/2dcf7057-2c13-402e-8e0b-5b5d7c5901ed/48afb990-47d7-11ed-9a0e-8f7a98995d79/file-1l91e1pyi.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$120$$ $$N$$",
         "B": "$$150$$ $$N$$",
         "C": "$$100$$ $$N$$",
         "D": "$$80$$ $$N$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Given in the figure are two blocks $$A$$ and $$B$$ of weight 20 N and 100 N, respectively. These are being pressed against a wall by a force $$F$$ as shown. If the coefficient of friction between the blocks is 0.1 and between block $$B$$ and the wall is 0.15, the frictional force applied by the wall on block $$B$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 66,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 66,
-      "question_text": "From a solid sphere of mass $$M$$ and radius $$R$$ a cube of maximum possible volume is cut. Moment of inertia of cube about an axis passing through its center and perpendicular to one of its face is:",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "From a solid sphere of mass $$M$$ and radius $$R$$ a cube of maximum possible volume is cut. Moment of inertia of cube about an axis passing through its center and perpendicular to one of its face is:",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91oebzm/4546a40f-3e1e-43ec-be20-b0bdd9fd76ef/c2b4e120-47ff-11ed-8757-0f869593f41f/file-1l91oebzn.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{4M{R^2}} \\over {9\\sqrt {3\\pi } }}$$",
         "B": "$${{4M{R^2}} \\over {3\\sqrt {3\\pi } }}$$",
         "C": "$${{M{R^2}} \\over {32\\sqrt {2\\pi } }}$$",
         "D": "$${{M{R^2}} \\over {16\\sqrt {2\\pi } }}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "From a solid sphere of mass $$M$$ and radius $$R$$ a cube of maximum possible volume is cut. Moment of inertia of cube about an axis passing through its center and perpendicular to one of its face is:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 67,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 67,
-      "question_text": "Distance of the center of mass of a solid uniform cone from its vertex is $$z{}_0$$. If the radius of its base is $$R$$ and its height is $$h$$ then $$z{}_0$$ is equal to :",
       "subject": "Physics",
       "topic": "center-of-mass",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Distance of the center of mass of a solid uniform cone from its vertex is $$z{}_0$$. If the radius of its base is $$R$$ and its height is $$h$$ then $$z{}_0$$ is equal to :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91ofg7j/6a0d62ec-2d96-49cf-9855-a36685260c79/e1c685f0-47ff-11ed-8757-0f869593f41f/file-1l91ofg7k.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{5h} \\over 8}$$",
         "B": "$${{3{h^2}} \\over {8R}}$$",
         "C": "$${{{h^2}} \\over {4R}}$$",
         "D": "$${{3h} \\over 4}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Distance of the center of mass of a solid uniform cone from its vertex is $$z{}_0$$. If the radius of its base is $$R$$ and its height is $$h$$ then $$z{}_0$$ is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 68,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 68,
-      "question_text": "A particle of mass $$m$$ moving in the $$x$$ direction with speed $$2v$$ is hit by another particle of mass $$2m$$  moving in the $$y$$ direction with speed $$v.$$  If the collision is perfectly inelastic, the percentage loss in the energy during the collision is close to:",
       "subject": "Physics",
       "topic": "center-of-mass",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A particle of mass $$m$$ moving in the $$x$$ direction with speed $$2v$$ is hit by another particle of mass $$2m$$  moving in the $$y$$ direction with speed $$v.$$  If the collision is perfectly inelastic, the percentage loss in the energy during the collision is close to:",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l91oguxy/85d124a8-cb21-4c9b-ad8d-99746c3176de/08f77b70-4800-11ed-8757-0f869593f41f/file-1l91oguxz.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$56\\% $$",
         "B": "$$62\\% $$",
         "C": "$$44\\% $$",
         "D": "$$50\\% $$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A particle of mass $$m$$ moving in the $$x$$ direction with speed $$2v$$ is hit by another particle of mass $$2m$$  moving in the $$y$$ direction with speed $$v.$$  If the collision is perfectly inelastic, the percentage loss in the energy during the collision is close to:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 69,
       "year": 2015,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 69,
-      "question_text": "The period of oscillation of a simple pendulum is $$T = 2\\pi \\sqrt {{L \\over g}} $$.  Measured value of L is 20.0 cm known to 1 mm accuracy and time for 100 oscillations of the pendulum is found to be 90 s using wrist watch of 1 s resolution. The accuracy in the determination of g is:",
       "subject": "Physics",
       "topic": "simple-harmonic-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The period of oscillation of a simple pendulum is $$T = 2\\pi \\sqrt {{L \\over g}} $$.  Measured value of L is 20.0 cm known to 1 mm accuracy and time for 100 oscillations of the pendulum is found to be 90 s using wrist watch of 1 s resolution. The accuracy in the determination of g is:",
+      "question_images": [],
+      "option_texts": {
         "A": "1 %",
         "B": "5 %",
         "C": "2 %",
         "D": "3 %"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The period of oscillation of a simple pendulum is $$T = 2\\pi \\sqrt {{L \\over g}} $$.  Measured value of L is 20.0 cm known to 1 mm accuracy and time for 100 oscillations of the pendulum is found to be 90 s using wrist watch of 1 s resolution. The accuracy in the determination of g is:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     }
   ]
 }

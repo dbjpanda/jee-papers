@@ -8,1138 +8,1468 @@
   },
   "questions": [
     {
+      "question_number": 1,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 1,
-      "question_text": "A closed vessel contains $10 \\mathrm{~g}$ of an ideal gas $\\mathbf{X}$ at $300 \\mathrm{~K}$, which exerts $2 \\mathrm{~atm}$ pressure. At the same temperature, $80 \\mathrm{~g}$ of another ideal gas $\\mathbf{Y}$ is added to it and the pressure becomes $6 \\mathrm{~atm}$. The ratio of root mean square velocities of $\\mathbf{X}$ and $\\mathbf{Y}$ at $300 \\mathrm{~K}$ is",
       "subject": "Chemistry",
       "topic": "gaseous-state",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A closed vessel contains $10 \\mathrm{~g}$ of an ideal gas $\\mathbf{X}$ at $300 \\mathrm{~K}$, which exerts $2 \\mathrm{~atm}$ pressure. At the same temperature, $80 \\mathrm{~g}$ of another ideal gas $\\mathbf{Y}$ is added to it and the pressure becomes $6 \\mathrm{~atm}$. The ratio of root mean square velocities of $\\mathbf{X}$ and $\\mathbf{Y}$ at $300 \\mathrm{~K}$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "$2 \\sqrt{2}: \\sqrt{3}$",
         "B": "$2 \\sqrt{2}: 1$",
         "C": "$1: 2$",
         "D": "$2: 1$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "A closed vessel contains $10 \\mathrm{~g}$ of an ideal gas $\\mathbf{X}$ at $300 \\mathrm{~K}$, which exerts $2 \\mathrm{~atm}$ pressure. At the same temperature, $80 \\mathrm{~g}$ of another ideal gas $\\mathbf{Y}$ is added to it and the pressure becomes $6 \\mathrm{~atm}$. The ratio of root mean square velocities of $\\mathbf{X}$ and $\\mathbf{Y}$ at $300 \\mathrm{~K}$ is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 2,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 2,
-      "question_text": "At room temperature, disproportionation of an aqueous solution of in situ generated nitrous acid $\\left(\\mathrm{HNO}_2\\right)$ gives the species",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "At room temperature, disproportionation of an aqueous solution of in situ generated nitrous acid $\\left(\\mathrm{HNO}_2\\right)$ gives the species",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\mathrm{H}_3 \\mathrm{O}^{+}, \\mathrm{NO}_3^{-}$and $\\mathrm{NO}$",
         "B": "$\\mathrm{H}_3 \\mathrm{O}^{+}, \\mathrm{NO}_3{ }^{-}$and $\\mathrm{NO}_2$",
         "C": "$\\mathrm{H}_3 \\mathrm{O}^{+}, \\mathrm{NO}^{-}$and $\\mathrm{NO}_2$",
         "D": "$\\mathrm{H}_3 \\mathrm{O}^{+}, \\mathrm{NO}_3{ }^{-}$and $\\mathrm{N}_2 \\mathrm{O}$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "At room temperature, disproportionation of an aqueous solution of in situ generated nitrous acid $\\left(\\mathrm{HNO}_2\\right)$ gives the species",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 3,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 3,
-      "question_text": "Aspartame, an artificial sweetener, is a dipeptide aspartyl phenylalanine methyl ester. The structure of aspartame is",
       "subject": "Chemistry",
       "topic": "chemistry-in-everyday-life",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Aspartame, an artificial sweetener, is a dipeptide aspartyl phenylalanine methyl ester. The structure of aspartame is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrajwhl/63bbb465-1897-48a4-8f9d-e3d7b5922a2f/f8610290-1d6e-11ef-9432-0dd564193bb4/file-6y3zli1lwrajwhm.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxj2pexr/1fd53ece-664c-49bd-8389-2426c12712c4/3ad396f0-2cb6-11ef-89b4-1522032c1a82/file-jaoe38c1lxj2pexs.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwran0f5/41a7a9cb-be0b-430b-9c66-16601e7ba8c4/4ed80510-1d6f-11ef-9432-0dd564193bb4/file-6y3zli1lwran0f6.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwramwzm/2f59a341-9356-4bb7-9157-bce19ea84939/4c317620-1d6f-11ef-9432-0dd564193bb4/file-6y3zli1lwramwzn.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwramtgp/e3720379-c6e3-4f6e-8d73-f2f1381c4076/49784990-1d6f-11ef-9432-0dd564193bb4/file-6y3zli1lwramtgq.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrampmz/44ddfb66-7865-4618-b882-b94d11327c7a/4683e8c0-1d6f-11ef-9432-0dd564193bb4/file-6y3zli1lwrampn0.png",
+          "description": ""
+        }
+      },
       "correct_answer": "B",
-      "question": "Aspartame, an artificial sweetener, is a dipeptide aspartyl phenylalanine methyl ester. The structure of aspartame is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 4,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 4,
-      "question_text": "Among the following options, select the option in which each complex in Set-I shows geometrical isomerism and the two complexes in Set-II are ionization isomers of each other.\n\n\n$$ \\text { [en }=\\mathrm{H}_2 \\mathrm{NCH}_2 \\mathrm{CH}_2 \\mathrm{NH}_2 \\text { ] } $$",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Among the following options, select the option in which each complex in Set-I shows geometrical isomerism and the two complexes in Set-II are ionization isomers of each other.\n\n\n$$ \\text { [en }=\\mathrm{H}_2 \\mathrm{NCH}_2 \\mathrm{CH}_2 \\mathrm{NH}_2 \\text { ] } $$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxj2hl8u/54cd9ef6-e7ed-4f53-abd6-35ed5f4d0a3b/6139dee0-2cb5-11ef-89b4-1522032c1a82/file-jaoe38c1lxj2hl8v.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxj2hheh/988ac07f-63e9-45e8-81ab-b0b9d516a7fc/5e41d490-2cb5-11ef-89b4-1522032c1a82/file-jaoe38c1lxj2hhei.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "Set-I: $\\left[\\mathrm{Ni}(\\mathrm{CO})_4\\right]$ and $\\left[\\mathrm{PdCl}_2\\left(\\mathrm{PPh}_3\\right)_2\\right]$ \n\nSet-II: $\\left[\\mathrm{Co}\\left(\\mathrm{NH}_3\\right)_5 \\mathrm{Cl}\\right] \\mathrm{SO}_4$ and $\\left[\\mathrm{Co}\\left(\\mathrm{NH}_3\\right)_5\\left(\\mathrm{SO}_4\\right)\\right] \\mathrm{Cl}$",
         "B": "Set-I: $\\left[\\mathrm{Co}(\\mathrm{en})\\left(\\mathrm{NH}_3\\right)_2 \\mathrm{Cl}_2\\right]$ and $\\left[\\mathrm{PdCl}_2\\left(\\mathrm{PPh}_3\\right)_2\\right]$ \n\nSet-II: $\\left[\\mathrm{Co}\\left(\\mathrm{NH}_3\\right)_6\\right]\\left[\\mathrm{Cr}(\\mathrm{CN})_6\\right]$ and $\\left[\\mathrm{Cr}\\left(\\mathrm{NH}_3\\right)_6\\right]\\left[\\mathrm{Co}(\\mathrm{CN})_6\\right]$",
         "C": "Set-I: $\\left[\\mathrm{Co}\\left(\\mathrm{NH}_3\\right)_3\\left(\\mathrm{NO}_2\\right)_3\\right]$ and $\\left[\\mathrm{Co}(\\mathrm{en})_2 \\mathrm{Cl}_2\\right]$ \n\nSet-II: $\\left[\\mathrm{Co}\\left(\\mathrm{NH}_3\\right)_5 \\mathrm{Cl}\\right] \\mathrm{SO}_4$ and $\\left[\\mathrm{Co}\\left(\\mathrm{NH}_3\\right)_5\\left(\\mathrm{SO}_4\\right)\\right] \\mathrm{Cl}$",
         "D": "Set-I: $\\left[\\mathrm{Cr}\\left(\\mathrm{NH}_3\\right)_5 \\mathrm{Cl}\\right] \\mathrm{Cl}_2$ and $\\left[\\mathrm{Co}(\\mathrm{en})\\left(\\mathrm{NH}_3\\right)_2 \\mathrm{Cl}_2\\right]$ \n\nSet-II: $\\left[\\mathrm{Cr}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_6\\right] \\mathrm{Cl}_3$ and $\\left[\\mathrm{Cr}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_5 \\mathrm{Cl}\\right] \\mathrm{Cl}_2 \\cdot \\mathrm{H}_2 \\mathrm{O}$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Among the following options, select the option in which each complex in Set-I shows geometrical isomerism and the two complexes in Set-II are ionization isomers of each other. \n\n$$ \\text { [en }=\\mathrm{H}_2 \\mathrm{NCH}_2 \\mathrm{CH}_2 \\mathrm{NH}_2 \\text { ] } $$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 5,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 5,
-      "question_text": "Among the following, the correct statement(s) for electrons in an atom is(are)",
       "subject": "Chemistry",
       "topic": "structure-of-atom",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Among the following, the correct statement(s) for electrons in an atom is(are)",
+      "question_images": [],
+      "option_texts": {
         "A": "Uncertainty principle rules out the existence of definite paths for electrons.",
         "B": "The energy of an electron in $2 s$ orbital of an atom is lower than the energy of an electron that is infinitely far away from the nucleus.",
         "C": "According to Bohr's model, the most negative energy value for an electron is given by $\\mathrm{n}=1$, which corresponds to the most stable orbit.",
         "D": "According to Bohr's model, the magnitude of velocity of electrons increases with increase in values of $n$."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Among the following, the correct statement(s) for electrons in an atom is(are)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 6,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 6,
-      "question_text": "Reaction of iso-propylbenzene with $\\mathrm{O}_2$ followed by the treatment with $\\mathrm{H}_3 \\mathrm{O}^{+}$forms phenol and a by-product $\\mathbf{P}$. Reaction of $\\mathbf{P}$ with 3 equivalents of $\\mathrm{Cl}_2$ gives compound $\\mathbf{Q}$. Treatment of $\\mathbf{Q}$ with $\\mathrm{Ca}(\\mathrm{OH})_2$ produces compound $\\mathbf{R}$ and calcium salt $\\mathbf{S}$.\n\n\nThe correct statement(s) regarding $\\mathbf{P}, \\mathbf{Q}, \\mathbf{R}$ and $\\mathbf{S}$ is(are)",
       "subject": "Chemistry",
       "topic": "alcohols-phenols-and-ethers",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Reaction of iso-propylbenzene with $\\mathrm{O}_2$ followed by the treatment with $\\mathrm{H}_3 \\mathrm{O}^{+}$forms phenol and a by-product $\\mathbf{P}$. Reaction of $\\mathbf{P}$ with 3 equivalents of $\\mathrm{Cl}_2$ gives compound $\\mathbf{Q}$. Treatment of $\\mathbf{Q}$ with $\\mathrm{Ca}(\\mathrm{OH})_2$ produces compound $\\mathbf{R}$ and calcium salt $\\mathbf{S}$.\n\n\nThe correct statement(s) regarding $\\mathbf{P}, \\mathbf{Q}, \\mathbf{R}$ and $\\mathbf{S}$ is(are)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxj28ewc/e9c576f0-46ea-412f-873b-7003b58f42b4/620a6ac0-2cb4-11ef-89b4-1522032c1a82/file-jaoe38c1lxj28ewd.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxj28acb/6e3c7dce-f356-479f-8480-3a473eb22134/5e8562b0-2cb4-11ef-89b4-1522032c1a82/file-jaoe38c1lxj28acc.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "Reaction of $\\mathbf{P}$ with $\\mathbf{R}$ in the presence of $\\mathrm{KOH}$ followed by acidification gives",
         "B": "Reaction of $\\mathbf{R}$ with $\\mathrm{O}_2$ in the presence of light gives phosgene gas",
         "C": "$\\mathbf{Q}$ reacts with aqueous $\\mathrm{NaOH}$ to produce $\\mathrm{Cl}_3 \\mathrm{CCH}_2 \\mathrm{OH}$ and $\\mathrm{Cl}_3 \\mathrm{CCOONa}$",
         "D": "$\\mathbf{S}$ on heating gives $\\mathbf{P}$"
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrbaavv/6160323f-3ef2-400a-9da0-5445c4e64d1a/d689a6b0-1d71-11ef-90d0-2bede4b9420c/file-6y3zli1lwrbaavw.png",
+          "description": ""
+        }
+      },
       "correct_answer": "A",
-      "question": "Reaction of iso-propylbenzene with $\\mathrm{O}_2$ followed by the treatment with $\\mathrm{H}_3 \\mathrm{O}^{+}$forms phenol and a by-product $\\mathbf{P}$. Reaction of $\\mathbf{P}$ with 3 equivalents of $\\mathrm{Cl}_2$ gives compound $\\mathbf{Q}$. Treatment of $\\mathbf{Q}$ with $\\mathrm{Ca}(\\mathrm{OH})_2$ produces compound $\\mathbf{R}$ and calcium salt $\\mathbf{S}$. \n\nThe correct statement(s) regarding $\\mathbf{P}, \\mathbf{Q}, \\mathbf{R}$ and $\\mathbf{S}$ is(are)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 7,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 7,
-      "question_text": "The option(s) in which at least three molecules follow Octet Rule is(are)",
       "subject": "Chemistry",
       "topic": "chemical-bonding-and-molecular-structure",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The option(s) in which at least three molecules follow Octet Rule is(are)",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\mathrm{CO}_2, \\mathrm{C}_2 \\mathrm{H}_4, \\mathrm{NO}$ and $\\mathrm{HCl}$",
         "B": "$\\mathrm{NO}_2, \\mathrm{O}_3, \\mathrm{HCl}$ and $\\mathrm{H}_2 \\mathrm{SO}_4$",
         "C": "$\\mathrm{BCl}_3, \\mathrm{NO}, \\mathrm{NO}_2$ and $\\mathrm{H}_2 \\mathrm{SO}_4$",
         "D": "$\\mathrm{CO}_2, \\mathrm{BCl}_3, \\mathrm{O}_3$ and $\\mathrm{C}_2 \\mathrm{H}_4$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The option(s) in which at least three molecules follow Octet Rule is(are)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 8,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 8,
-      "question_text": "Consider the following volume-temperature $(\\mathrm{V}-\\mathrm{T})$ diagram for the expansion of 5 moles of an ideal monoatomic gas.\n\n\n\n\nConsidering only $\\mathrm{P}-\\mathrm{V}$ work is involved, the total change in enthalpy (in Joule) for the transformation of state in the sequence $\\mathbf{X} \\rightarrow \\mathbf{Y} \\rightarrow \\mathbf{Z}$ is ____________.\n\n\n[Use the given data: Molar heat capacity of the gas for the given temperature range, $\\mathrm{C}_{\\mathrm{V}, \\mathrm{m}}=12 \\mathrm{~J} \\mathrm{~K}^{-1}$ $\\mathrm{mol}^{-1}$ and gas constant, $\\left.\\mathrm{R}=8.3 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}\\right]$",
       "subject": "Chemistry",
       "topic": "thermodynamics",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Consider the following volume-temperature $(\\mathrm{V}-\\mathrm{T})$ diagram for the expansion of 5 moles of an ideal monoatomic gas.\n\n\n\n\nConsidering only $\\mathrm{P}-\\mathrm{V}$ work is involved, the total change in enthalpy (in Joule) for the transformation of state in the sequence $\\mathbf{X} \\rightarrow \\mathbf{Y} \\rightarrow \\mathbf{Z}$ is ____________.\n\n\n[Use the given data: Molar heat capacity of the gas for the given temperature range, $\\mathrm{C}_{\\mathrm{V}, \\mathrm{m}}=12 \\mathrm{~J} \\mathrm{~K}^{-1}$ $\\mathrm{mol}^{-1}$ and gas constant, $\\left.\\mathrm{R}=8.3 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}\\right]$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrbkk54/17847fe6-4de5-4318-a41d-b27eee6adf0b/f3c7a780-1d72-11ef-90d0-2bede4b9420c/file-6y3zli1lwrbkk55.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Consider the following volume-temperature $(\\mathrm{V}-\\mathrm{T})$ diagram for the expansion of 5 moles of an ideal monoatomic gas. \n\n\n\nConsidering only $\\mathrm{P}-\\mathrm{V}$ work is involved, the total change in enthalpy (in Joule) for the transformation of state in the sequence $\\mathbf{X} \\rightarrow \\mathbf{Y} \\rightarrow \\mathbf{Z}$ is ____________. \n\n[Use the given data: Molar heat capacity of the gas for the given temperature range, $\\mathrm{C}_{\\mathrm{V}, \\mathrm{m}}=12 \\mathrm{~J} \\mathrm{~K}^{-1}$ $\\mathrm{mol}^{-1}$ and gas constant, $\\left.\\mathrm{R}=8.3 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}\\right]$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 9,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 9,
-      "question_text": "Consider the following reaction,\n\n\n$$ 2 \\mathrm{H}_2(\\mathrm{~g})+2 \\mathrm{NO}(\\mathrm{g}) \\rightarrow \\mathrm{N}_2(\\mathrm{~g})+2 \\mathrm{H}_2 \\mathrm{O}(\\mathrm{g}) $$\n\n\nwhich follows the mechanism given below :\n\n\n$$ \\begin{array}{ll} 2 \\mathrm{NO}(\\mathrm{g}) \\stackrel{k_1}{\\underset{k_{-1}}{\\rightleftharpoons}} \\mathrm{N}_2 \\mathrm{O}_2(\\mathrm{~g}) & \\text { (fast equlibrium) } \\\\\\\\ \\mathrm{N}_2 \\mathrm{O}_2(\\mathrm{~g})+\\mathrm{H}_2(\\mathrm{~g}) \\xrightarrow{k_2} \\mathrm{~N}_2 \\mathrm{O}(\\mathrm{g})+\\mathrm{H}_2 \\mathrm{O}(\\mathrm{g}) & \\text { (slow reaction) } \\\\\\\\ \\mathrm{N}_2 \\mathrm{O}(\\mathrm{g})+\\mathrm{H}_2(\\mathrm{~g}) \\xrightarrow{k_3} \\mathrm{~N}_2(\\mathrm{~g})+\\mathrm{H}_2 \\mathrm{O}(\\mathrm{g}) & \\text { (fast reaction) } \\end{array} $$\n\n\nThe order of the reaction is __________.",
       "subject": "Chemistry",
       "topic": "chemical-kinetics-and-nuclear-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Consider the following reaction,\n\n\n$$ 2 \\mathrm{H}_2(\\mathrm{~g})+2 \\mathrm{NO}(\\mathrm{g}) \\rightarrow \\mathrm{N}_2(\\mathrm{~g})+2 \\mathrm{H}_2 \\mathrm{O}(\\mathrm{g}) $$\n\n\nwhich follows the mechanism given below :\n\n\n$$ \\begin{array}{ll} 2 \\mathrm{NO}(\\mathrm{g}) \\stackrel{k_1}{\\underset{k_{-1}}{\\rightleftharpoons}} \\mathrm{N}_2 \\mathrm{O}_2(\\mathrm{~g}) & \\text { (fast equlibrium) } \\\\\\\\ \\mathrm{N}_2 \\mathrm{O}_2(\\mathrm{~g})+\\mathrm{H}_2(\\mathrm{~g}) \\xrightarrow{k_2} \\mathrm{~N}_2 \\mathrm{O}(\\mathrm{g})+\\mathrm{H}_2 \\mathrm{O}(\\mathrm{g}) & \\text { (slow reaction) } \\\\\\\\ \\mathrm{N}_2 \\mathrm{O}(\\mathrm{g})+\\mathrm{H}_2(\\mathrm{~g}) \\xrightarrow{k_3} \\mathrm{~N}_2(\\mathrm{~g})+\\mathrm{H}_2 \\mathrm{O}(\\mathrm{g}) & \\text { (fast reaction) } \\end{array} $$\n\n\nThe order of the reaction is __________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Consider the following reaction, \n\n$$ 2 \\mathrm{H}_2(\\mathrm{~g})+2 \\mathrm{NO}(\\mathrm{g}) \\rightarrow \\mathrm{N}_2(\\mathrm{~g})+2 \\mathrm{H}_2 \\mathrm{O}(\\mathrm{g}) $$ \n\nwhich follows the mechanism given below : \n\n$$ \\begin{array}{ll} 2 \\mathrm{NO}(\\mathrm{g}) \\stackrel{k_1}{\\underset{k_{-1}}{\\rightleftharpoons}} \\mathrm{N}_2 \\mathrm{O}_2(\\mathrm{~g}) & \\text { (fast equlibrium) } \\\\\\\\ \\mathrm{N}_2 \\mathrm{O}_2(\\mathrm{~g})+\\mathrm{H}_2(\\mathrm{~g}) \\xrightarrow{k_2} \\mathrm{~N}_2 \\mathrm{O}(\\mathrm{g})+\\mathrm{H}_2 \\mathrm{O}(\\mathrm{g}) & \\text { (slow reaction) } \\\\\\\\ \\mathrm{N}_2 \\mathrm{O}(\\mathrm{g})+\\mathrm{H}_2(\\mathrm{~g}) \\xrightarrow{k_3} \\mathrm{~N}_2(\\mathrm{~g})+\\mathrm{H}_2 \\mathrm{O}(\\mathrm{g}) & \\text { (fast reaction) } \\end{array} $$ \n\nThe order of the reaction is __________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 10,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 10,
-      "question_text": "Complete reaction of acetaldehyde with excess formaldehyde, upon heating with conc. $\\mathrm{NaOH}$ solution, gives $\\mathbf{P}$ and $\\mathbf{Q}$. Compound $\\mathbf{P}$ does not give Tollens' test, whereas $\\mathbf{Q}$ on acidification gives positive Tollens' test. Treatment of $\\mathbf{P}$ with excess cyclohexanone in the presence of catalytic amount of $p$-toluenesulfonic acid (PTSA) gives product $\\mathbf{R}$.\n\n\nSum of the number of methylene groups $\\left(-\\mathrm{CH}_2-\\right)$ and oxygen atoms in $\\mathbf{R}$ is __________.",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Complete reaction of acetaldehyde with excess formaldehyde, upon heating with conc. $\\mathrm{NaOH}$ solution, gives $\\mathbf{P}$ and $\\mathbf{Q}$. Compound $\\mathbf{P}$ does not give Tollens' test, whereas $\\mathbf{Q}$ on acidification gives positive Tollens' test. Treatment of $\\mathbf{P}$ with excess cyclohexanone in the presence of catalytic amount of $p$-toluenesulfonic acid (PTSA) gives product $\\mathbf{R}$.\n\n\nSum of the number of methylene groups $\\left(-\\mathrm{CH}_2-\\right)$ and oxygen atoms in $\\mathbf{R}$ is __________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxj22p67/269dca9d-3940-4d4a-9012-bd4796855321/c31f47f0-2cb3-11ef-89b4-1522032c1a82/file-jaoe38c1lxj22p68.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Complete reaction of acetaldehyde with excess formaldehyde, upon heating with conc. $\\mathrm{NaOH}$ solution, gives $\\mathbf{P}$ and $\\mathbf{Q}$. Compound $\\mathbf{P}$ does not give Tollens' test, whereas $\\mathbf{Q}$ on acidification gives positive Tollens' test. Treatment of $\\mathbf{P}$ with excess cyclohexanone in the presence of catalytic amount of $p$-toluenesulfonic acid (PTSA) gives product $\\mathbf{R}$. \n\nSum of the number of methylene groups $\\left(-\\mathrm{CH}_2-\\right)$ and oxygen atoms in $\\mathbf{R}$ is __________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 11,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 11,
-      "question_text": "Among $\\mathrm{V}(\\mathrm{CO})_6, \\mathrm{Cr}(\\mathrm{CO})_5, \\mathrm{Cu}(\\mathrm{CO})_3, \\mathrm{Mn}(\\mathrm{CO})_5, \\mathrm{Fe}(\\mathrm{CO})_5,\\left[\\mathrm{Co}(\\mathrm{CO})_3\\right]^{3-},\\left[\\mathrm{Cr}(\\mathrm{CO})_4\\right]^{4-}$, and $\\operatorname{Ir}(\\mathrm{CO})_3$, the total number of species isoelectronic with $\\mathrm{Ni}(\\mathrm{CO})_4$ is _________.\n\n\n[Given, atomic number: $\\mathrm{V}=23, \\mathrm{Cr}=24, \\mathrm{Mn}=25, \\mathrm{Fe}=26, \\mathrm{Co}=27, \\mathrm{Ni}=28, \\mathrm{Cu}=29, \\mathrm{Ir}=77$ ]",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Among $\\mathrm{V}(\\mathrm{CO})_6, \\mathrm{Cr}(\\mathrm{CO})_5, \\mathrm{Cu}(\\mathrm{CO})_3, \\mathrm{Mn}(\\mathrm{CO})_5, \\mathrm{Fe}(\\mathrm{CO})_5,\\left[\\mathrm{Co}(\\mathrm{CO})_3\\right]^{3-},\\left[\\mathrm{Cr}(\\mathrm{CO})_4\\right]^{4-}$, and $\\operatorname{Ir}(\\mathrm{CO})_3$, the total number of species isoelectronic with $\\mathrm{Ni}(\\mathrm{CO})_4$ is _________.\n\n\n[Given, atomic number: $\\mathrm{V}=23, \\mathrm{Cr}=24, \\mathrm{Mn}=25, \\mathrm{Fe}=26, \\mathrm{Co}=27, \\mathrm{Ni}=28, \\mathrm{Cu}=29, \\mathrm{Ir}=77$ ]",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Among $\\mathrm{V}(\\mathrm{CO})_6, \\mathrm{Cr}(\\mathrm{CO})_5, \\mathrm{Cu}(\\mathrm{CO})_3, \\mathrm{Mn}(\\mathrm{CO})_5, \\mathrm{Fe}(\\mathrm{CO})_5,\\left[\\mathrm{Co}(\\mathrm{CO})_3\\right]^{3-},\\left[\\mathrm{Cr}(\\mathrm{CO})_4\\right]^{4-}$, and $\\operatorname{Ir}(\\mathrm{CO})_3$, the total number of species isoelectronic with $\\mathrm{Ni}(\\mathrm{CO})_4$ is _________. \n\n[Given, atomic number: $\\mathrm{V}=23, \\mathrm{Cr}=24, \\mathrm{Mn}=25, \\mathrm{Fe}=26, \\mathrm{Co}=27, \\mathrm{Ni}=28, \\mathrm{Cu}=29, \\mathrm{Ir}=77$ ]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 12,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 12,
-      "question_text": "In the following reaction sequence, the major product $\\mathbf{P}$ is formed.\n\n\nGlycerol reacts completely with excess $\\mathbf{P}$ in the presence of an acid catalyst to form $\\mathbf{Q}$. Reaction of $\\mathbf{Q}$ with excess $\\mathrm{NaOH}$ followed by the treatment with $\\mathrm{CaCl}_2$ yields Ca-soap $\\mathbf{R}$, quantitatively. Starting with one mole of $\\mathbf{Q}$, the amount of $\\mathbf{R}$ produced in gram is __________.\n\n\n[Given, atomic weight: $\\mathrm{H}=1, \\mathrm{C}=12, \\mathrm{~N}=14, \\mathrm{O}=16, \\mathrm{Na}=23, \\mathrm{Cl}=35, \\mathrm{Ca}=40$ ]",
       "subject": "Chemistry",
       "topic": "hydrocarbons",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "In the following reaction sequence, the major product $\\mathbf{P}$ is formed.\n\n\nGlycerol reacts completely with excess $\\mathbf{P}$ in the presence of an acid catalyst to form $\\mathbf{Q}$. Reaction of $\\mathbf{Q}$ with excess $\\mathrm{NaOH}$ followed by the treatment with $\\mathrm{CaCl}_2$ yields Ca-soap $\\mathbf{R}$, quantitatively. Starting with one mole of $\\mathbf{Q}$, the amount of $\\mathbf{R}$ produced in gram is __________.\n\n\n[Given, atomic weight: $\\mathrm{H}=1, \\mathrm{C}=12, \\mathrm{~N}=14, \\mathrm{O}=16, \\mathrm{Na}=23, \\mathrm{Cl}=35, \\mathrm{Ca}=40$ ]",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrci9cc/f4713748-29f0-4a49-b20e-1813d26f5f89/9cf2a9b0-1d76-11ef-8e49-ebf8b3f9beea/file-6y3zli1lwrci9cd.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxj1v1y1/c0a60237-e955-46be-9edf-f666e79bc377/ee841890-2cb2-11ef-89b4-1522032c1a82/file-jaoe38c1lxj1v1y2.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxj1wwhg/5d899007-51e8-41f3-8c8c-0396a84d7849/21ea8340-2cb3-11ef-89b4-1522032c1a82/file-jaoe38c1lxj1wwhh.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxj1ws8b/96c10641-44f2-42e6-be0c-ec1cf481c753/1ea14bb0-2cb3-11ef-89b4-1522032c1a82/file-jaoe38c1lxj1ws8c.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "In the following reaction sequence, the major product $\\mathbf{P}$ is formed. \n\nGlycerol reacts completely with excess $\\mathbf{P}$ in the presence of an acid catalyst to form $\\mathbf{Q}$. Reaction of $\\mathbf{Q}$ with excess $\\mathrm{NaOH}$ followed by the treatment with $\\mathrm{CaCl}_2$ yields Ca-soap $\\mathbf{R}$, quantitatively. Starting with one mole of $\\mathbf{Q}$, the amount of $\\mathbf{R}$ produced in gram is __________. \n\n[Given, atomic weight: $\\mathrm{H}=1, \\mathrm{C}=12, \\mathrm{~N}=14, \\mathrm{O}=16, \\mathrm{Na}=23, \\mathrm{Cl}=35, \\mathrm{Ca}=40$ ]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 13,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 13,
-      "question_text": "Among the following complexes, the total number of diamagnetic species is ___________.\n\n\n$\\left[\\mathrm{Mn}\\left(\\mathrm{NH}_3\\right)_6\\right]^{3+},\\left[\\mathrm{MnCl}_6\\right]^{3-},\\left[\\mathrm{FeF}_6\\right]^{3-},\\left[\\mathrm{CoF}_6\\right]^{3-},\\left[\\mathrm{Fe}\\left(\\mathrm{NH}_3\\right)_6\\right]^{3+}$, and $\\left[\\mathrm{Co}(\\mathrm{en})_3\\right]^{3+}$\n\n\n[Given, atomic number: $\\mathrm{Mn}=25, \\mathrm{Fe}=26, \\mathrm{Co}=27$;\n\n\n$$ \\text { en } \\left.=\\mathrm{H}_2 \\mathrm{NCH}_2 \\mathrm{CH}_2 \\mathrm{NH}_2\\right] $$",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Among the following complexes, the total number of diamagnetic species is ___________.\n\n\n$\\left[\\mathrm{Mn}\\left(\\mathrm{NH}_3\\right)_6\\right]^{3+},\\left[\\mathrm{MnCl}_6\\right]^{3-},\\left[\\mathrm{FeF}_6\\right]^{3-},\\left[\\mathrm{CoF}_6\\right]^{3-},\\left[\\mathrm{Fe}\\left(\\mathrm{NH}_3\\right)_6\\right]^{3+}$, and $\\left[\\mathrm{Co}(\\mathrm{en})_3\\right]^{3+}$\n\n\n[Given, atomic number: $\\mathrm{Mn}=25, \\mathrm{Fe}=26, \\mathrm{Co}=27$;\n\n\n$$ \\text { en } \\left.=\\mathrm{H}_2 \\mathrm{NCH}_2 \\mathrm{CH}_2 \\mathrm{NH}_2\\right] $$",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Among the following complexes, the total number of diamagnetic species is ___________.\n$\\left[\\mathrm{Mn}\\left(\\mathrm{NH}_3\\right)_6\\right]^{3+},\\left[\\mathrm{MnCl}_6\\right]^{3-},\\left[\\mathrm{FeF}_6\\right]^{3-},\\left[\\mathrm{CoF}_6\\right]^{3-},\\left[\\mathrm{Fe}\\left(\\mathrm{NH}_3\\right)_6\\right]^{3+}$, and $\\left[\\mathrm{Co}(\\mathrm{en})_3\\right]^{3+}$\n\n[Given, atomic number: $\\mathrm{Mn}=25, \\mathrm{Fe}=26, \\mathrm{Co}=27$; \n\n$$ \\text { en } \\left.=\\mathrm{H}_2 \\mathrm{NCH}_2 \\mathrm{CH}_2 \\mathrm{NH}_2\\right] $$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 14,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 14,
-      "question_text": "In a conductometric titration, small volume of titrant of higher concentration is added stepwise to a larger volume of titrate of much lower concentration, and the conductance is measured after each addition.\n\n\nThe limiting ionic conductivity $\\left(\\Lambda_0\\right)$ values (in $\\mathrm{mS} \\mathrm{m}{ }^2 \\mathrm{~mol}^{-1}$ ) for different ions in aqueous solutions are given below:\n\n\n$$ \\begin{array}{|c|c|c|c|c|c|c|c|c|c|} \\hline \\text { Ions } & \\mathrm{Ag}^{+} & \\mathrm{K}^{+} & \\mathrm{Na}^{+} & \\mathrm{H}^{+} & \\mathrm{NO}_3^{-} & \\mathrm{Cl}^{-} & \\mathrm{SO}_4^{2-} & \\mathrm{OH}^{-} & \\mathrm{CH}_3 \\mathrm{COO}^{-} \\\\ \\hline \\Lambda_0 & 6.2 & 7.4 & 5.0 & 35.0 & 7.2 & 7.6 & 16.0 & 19.9 & 4.1 \\\\ \\hline \\end{array} $$\n\n\nFor different combinations of titrates and titrants given in List-I, the graphs of 'conductance' versus 'volume of titrant' are given in List-II.\n\n\nMatch each entry in List-I with the appropriate entry in List-II and choose the correct option.\n\n\n\n\n\n    \n        table {\n            width: 80%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid lightgrey;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid lightgrey;\n            padding: 10px;\n            text-align: left;\n        }\n    \n\n\n\n\n    \n        LIST-I\n        LIST-II\n    \n    \n        (P) Titrate: KCl \n Titrant: AgNO$_3$\n        \n            \n        \n    \n    \n        (Q) Titrate: AgNO$_3$ \n Titrant: KCl\n        \n           \n        \n    \n    \n        (R) Titrate: NaOH \n Titrant: HCl\n        \n            \n        \n    \n    \n        (S) Titrate: NaOH \n Titrant: CH$_3$COOH",
       "subject": "Chemistry",
       "topic": "electrochemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In a conductometric titration, small volume of titrant of higher concentration is added stepwise to a larger volume of titrate of much lower concentration, and the conductance is measured after each addition.\n\n\nThe limiting ionic conductivity $\\left(\\Lambda_0\\right)$ values (in $\\mathrm{mS} \\mathrm{m}{ }^2 \\mathrm{~mol}^{-1}$ ) for different ions in aqueous solutions are given below:\n\n\n$$ \\begin{array}{|c|c|c|c|c|c|c|c|c|c|} \\hline \\text { Ions } & \\mathrm{Ag}^{+} & \\mathrm{K}^{+} & \\mathrm{Na}^{+} & \\mathrm{H}^{+} & \\mathrm{NO}_3^{-} & \\mathrm{Cl}^{-} & \\mathrm{SO}_4^{2-} & \\mathrm{OH}^{-} & \\mathrm{CH}_3 \\mathrm{COO}^{-} \\\\ \\hline \\Lambda_0 & 6.2 & 7.4 & 5.0 & 35.0 & 7.2 & 7.6 & 16.0 & 19.9 & 4.1 \\\\ \\hline \\end{array} $$\n\n\nFor different combinations of titrates and titrants given in List-I, the graphs of 'conductance' versus 'volume of titrant' are given in List-II.\n\n\nMatch each entry in List-I with the appropriate entry in List-II and choose the correct option.\n\n\n\n\n\n    \n        table {\n            width: 80%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid lightgrey;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid lightgrey;\n            padding: 10px;\n            text-align: left;\n        }\n    \n\n\n\n\n    \n        LIST-I\n        LIST-II\n    \n    \n        (P) Titrate: KCl \n Titrant: AgNO$_3$\n        \n            \n        \n    \n    \n        (Q) Titrate: AgNO$_3$ \n Titrant: KCl\n        \n           \n        \n    \n    \n        (R) Titrate: NaOH \n Titrant: HCl\n        \n            \n        \n    \n    \n        (S) Titrate: NaOH \n Titrant: CH$_3$COOH",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrd3fno/41209295-337b-495e-9000-084755b979be/e9d18c40-1d78-11ef-bc93-e5db3876c9c1/file-6y3zli1lwrd3fnp.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrd5lj6/592f1734-6142-4ee8-bfe3-479ef63714d4/25f97b10-1d79-11ef-8c8e-6fd8a8e185a4/file-6y3zli1lwrd5lj7.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrdcroz/cf67fd5f-d23d-4646-ae28-f9bd2fdc4796/ed660830-1d79-11ef-8c8e-6fd8a8e185a4/file-6y3zli1lwrdcrp0.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrdco7x/c35f46a5-f854-451b-abf4-73a5b9698d12/eab714d0-1d79-11ef-8c8e-6fd8a8e185a4/file-6y3zli1lwrdco7y.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrdckqb/a9f7056c-b907-4657-957a-ebb053dcd7d4/e8051430-1d79-11ef-8c8e-6fd8a8e185a4/file-6y3zli1lwrdckqc.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "P-4, Q-3, R-2, S-5",
         "B": "P-2, Q-4, R-3, S-1",
         "C": "P-3, Q-4, R-2, S-5",
         "D": "P-4, Q-3, R-2, S-1"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "In a conductometric titration, small volume of titrant of higher concentration is added stepwise to a larger volume of titrate of much lower concentration, and the conductance is measured after each addition. \n\nThe limiting ionic conductivity $\\left(\\Lambda_0\\right)$ values (in $\\mathrm{mS} \\mathrm{m}{ }^2 \\mathrm{~mol}^{-1}$ ) for different ions in aqueous solutions are given below: \n\n$$ \\begin{array}{|c|c|c|c|c|c|c|c|c|c|} \\hline \\text { Ions } & \\mathrm{Ag}^{+} & \\mathrm{K}^{+} & \\mathrm{Na}^{+} & \\mathrm{H}^{+} & \\mathrm{NO}_3^{-} & \\mathrm{Cl}^{-} & \\mathrm{SO}_4^{2-} & \\mathrm{OH}^{-} & \\mathrm{CH}_3 \\mathrm{COO}^{-} \\\\ \\hline \\Lambda_0 & 6.2 & 7.4 & 5.0 & 35.0 & 7.2 & 7.6 & 16.0 & 19.9 & 4.1 \\\\ \\hline \\end{array} $$ \n\nFor different combinations of titrates and titrants given in List-I, the graphs of 'conductance' versus 'volume of titrant' are given in List-II. \n\nMatch each entry in List-I with the appropriate entry in List-II and choose the correct option. \n\n\n\n\n    \n        table {\n            width: 80%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid lightgrey;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid lightgrey;\n            padding: 10px;\n            text-align: left;\n        }\n    \n\n\n\n\n    \n        LIST-I\n        LIST-II\n    \n    \n        (P) Titrate: KCl  Titrant: AgNO$_3$\n        \n            \n        \n    \n    \n        (Q) Titrate: AgNO$_3$  Titrant: KCl\n        \n           \n        \n    \n    \n        (R) Titrate: NaOH  Titrant: HCl\n        \n            \n        \n    \n    \n        (S) Titrate: NaOH  Titrant: CH$_3$COOH",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 15,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 15,
-      "question_text": "Based on VSEPR model, match the xenon compounds given in List-I with the corresponding geometries and the number of lone pairs on xenon given in List-II and choose the correct option.\n\n\n\n        table {\n            width: 80%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid lightgrey;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid lightgrey;\n            padding: 10px;\n            text-align: left;\n        }\n    \n\n    \n        List-I\n        List-II\n    \n    \n        (P) XeF$_2$\n        (1) Trigonal bipyramidal and two lone pair of electrons\n    \n    \n        (Q) XeF$_4$\n        (2) Tetrahedral and one lone pair of electrons\n    \n    \n        (R) XeO$_3$\n        (3) Octahedral and two lone pair of electrons\n    \n    \n        (S) XeO$_3$F$_2$\n        (4) Trigonal bipyramidal and no lone pair of electrons\n    \n    \n        \n        (5) Trigonal bipyramidal and three lone pair of electrons",
       "subject": "Chemistry",
       "topic": "chemical-bonding-and-molecular-structure",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Based on VSEPR model, match the xenon compounds given in List-I with the corresponding geometries and the number of lone pairs on xenon given in List-II and choose the correct option.\n\n\n\n        table {\n            width: 80%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid lightgrey;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid lightgrey;\n            padding: 10px;\n            text-align: left;\n        }\n    \n\n    \n        List-I\n        List-II\n    \n    \n        (P) XeF$_2$\n        (1) Trigonal bipyramidal and two lone pair of electrons\n    \n    \n        (Q) XeF$_4$\n        (2) Tetrahedral and one lone pair of electrons\n    \n    \n        (R) XeO$_3$\n        (3) Octahedral and two lone pair of electrons\n    \n    \n        (S) XeO$_3$F$_2$\n        (4) Trigonal bipyramidal and no lone pair of electrons\n    \n    \n        \n        (5) Trigonal bipyramidal and three lone pair of electrons",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxiplwqt/58948496-d82f-4a23-8430-7c39af0372a2/02aaa350-2c83-11ef-932b-e990a38d0824/file-jaoe38c1lxiplwqu.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxipls5f/06f98da6-7850-447d-aa1c-a6c1aef084b3/ff1e2130-2c82-11ef-932b-e990a38d0824/file-jaoe38c1lxipls5g.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxiplnoi/00ab89a9-d1cc-4b6e-9966-cfe9c14bd1a9/fbaa3020-2c82-11ef-932b-e990a38d0824/file-jaoe38c1lxiplnoj.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxipljfc/fb10bf26-85c0-48b2-8845-9eedf6ebd9bc/f8625820-2c82-11ef-932b-e990a38d0824/file-jaoe38c1lxipljfo.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "P-5, Q-2, R-3, S-1",
         "B": "P-5, Q-3, R-2, S-4",
         "C": "P-4, Q-3, R-2, S-1",
         "D": "P-4, Q-2, R-5, S-3"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Based on VSEPR model, match the xenon compounds given in List-I with the corresponding geometries and the number of lone pairs on xenon given in List-II and choose the correct option. \n\n\n        table {\n            width: 80%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid lightgrey;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid lightgrey;\n            padding: 10px;\n            text-align: left;\n        }\n    \n\n    \n        List-I\n        List-II\n    \n    \n        (P) XeF$_2$\n        (1) Trigonal bipyramidal and two lone pair of electrons\n    \n    \n        (Q) XeF$_4$\n        (2) Tetrahedral and one lone pair of electrons\n    \n    \n        (R) XeO$_3$\n        (3) Octahedral and two lone pair of electrons\n    \n    \n        (S) XeO$_3$F$_2$\n        (4) Trigonal bipyramidal and no lone pair of electrons\n    \n    \n        \n        (5) Trigonal bipyramidal and three lone pair of electrons",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 16,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 16,
-      "question_text": "List-I contains various reaction sequences and List-II contains the possible products. Match each entry in List-I with the appropriate entry in List-II and choose the correct option.\n\n\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid lightgrey;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid lightgrey;\n            padding: 10px;\n            text-align: left;\n            vertical-align: top;\n        }\n        img {\n            max-width: 100px;\n            height: auto;\n        }\n    \n    \n        List-I\n        List-II",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "List-I contains various reaction sequences and List-II contains the possible products. Match each entry in List-I with the appropriate entry in List-II and choose the correct option.\n\n\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid lightgrey;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid lightgrey;\n            padding: 10px;\n            text-align: left;\n            vertical-align: top;\n        }\n        img {\n            max-width: 100px;\n            height: auto;\n        }\n    \n    \n        List-I\n        List-II",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwre1l9e/5907962d-f636-4e6e-952e-bba3ec174274/9fa86c20-1d7c-11ef-9da7-09e5c9054b58/file-6y3zli1lwre1l9f.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwre72tf/64155d53-f774-4a3c-8d1d-82fee865b389/3843f530-1d7d-11ef-b93e-e9f90f7df694/file-6y3zli1lwre72tg.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwre1hth/5bca26b6-c033-4c46-be76-c87005667d96/9cffba50-1d7c-11ef-9da7-09e5c9054b58/file-6y3zli1lwre1hti.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwre6z23/3566d9b7-d5b6-4876-bbbd-09d2672c1edf/355c8cb0-1d7d-11ef-b93e-e9f90f7df694/file-6y3zli1lwre6z24.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwre1en1/a6afc32a-c404-404f-aa81-6d1121090b0c/9a8b10d0-1d7c-11ef-9da7-09e5c9054b58/file-6y3zli1lwre1en2.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwre6vcn/f0ad6a22-a5fc-4db4-b52e-21c06cb55747/327f8470-1d7d-11ef-b93e-e9f90f7df694/file-6y3zli1lwre6vco.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwre1bb1/d722c282-eae0-4b55-94bb-db9021220736/97f7bbc0-1d7c-11ef-9da7-09e5c9054b58/file-6y3zli1lwre1bb2.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwre6rpn/64267906-5609-41ee-b1f9-ada63ccaac6b/2fafe9b0-1d7d-11ef-b93e-e9f90f7df694/file-6y3zli1lwre6rpo.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwre6nm5/06f9331d-0971-49b1-927c-4cf3d1faa914/2c8584c0-1d7d-11ef-b93e-e9f90f7df694/file-6y3zli1lwre6nm6.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxj1ldle/db045768-79e7-47cc-a69e-847d568a7f3a/e16c4f20-2cb1-11ef-8c1d-efa2c9edc9a5/file-jaoe38c1lxj1ldlf.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxj1mac8/75bc800f-fb4e-40a4-b600-8d1fcdeead71/fab7d580-2cb1-11ef-89b4-1522032c1a82/file-jaoe38c1lxj1mac9.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxj1mtww/41e29794-9926-4445-a3e6-45eebe978e2b/09d6af00-2cb2-11ef-89b4-1522032c1a82/file-jaoe38c1lxj1mtwx.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxj1ncqq/110517f0-fef5-4c3f-bf61-1a0f92215094/18624930-2cb2-11ef-89b4-1522032c1a82/file-jaoe38c1lxj1ncqr.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "P-3, Q-5, R-4, S-1",
         "B": "P-3, Q-2, R-4, S-1",
         "C": "P-3, Q-5, R-1, S-4",
         "D": "P-5, Q-2, R-4, S-1"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "List-I contains various reaction sequences and List-II contains the possible products. Match each entry in List-I with the appropriate entry in List-II and choose the correct option. \n\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid lightgrey;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid lightgrey;\n            padding: 10px;\n            text-align: left;\n            vertical-align: top;\n        }\n        img {\n            max-width: 100px;\n            height: auto;\n        }\n    \n    \n        List-I\n        List-II",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 17,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 17,
-      "question_text": "List-I contains various reaction sequences and List-II contains different phenolic compounds. Match each entry in List-I with the appropriate entry in List-II and choose the correct option.\n\n\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid lightgrey;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid lightgrey;\n            padding: 10px;\n            text-align: left;\n            vertical-align: top;\n        }\n        img {\n            max-width: 100px;\n            height: auto;\n        }\n    \n    \n        List-I\n        List-II",
       "subject": "Chemistry",
       "topic": "compounds-containing-nitrogen",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "List-I contains various reaction sequences and List-II contains different phenolic compounds. Match each entry in List-I with the appropriate entry in List-II and choose the correct option.\n\n\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid lightgrey;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid lightgrey;\n            padding: 10px;\n            text-align: left;\n            vertical-align: top;\n        }\n        img {\n            max-width: 100px;\n            height: auto;\n        }\n    \n    \n        List-I\n        List-II",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrf638f/8af11c2e-722b-4cf3-ad37-1e1c08176081/05e846f0-1d81-11ef-92ec-2bfed168ac85/file-6y3zli1lwrf638g.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrf9xq8/9f3bd986-b5d3-4c77-9c57-ccfb91b72864/70e42000-1d81-11ef-a2d3-43cd46fce6e9/file-6y3zli1lwrf9xq9.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrf6045/9d860da2-5b3f-43b0-bdd8-16ef44db0b15/037f8450-1d81-11ef-92ec-2bfed168ac85/file-6y3zli1lwrf6046.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrf9tp8/77f548cf-abe2-46a7-bab7-ab412b55055a/6dc79dc0-1d81-11ef-a2d3-43cd46fce6e9/file-6y3zli1lwrf9tp9.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrf5wr0/4f4737ef-7394-4446-8731-ff05ff0a228a/00e614c0-1d81-11ef-92ec-2bfed168ac85/file-6y3zli1lwrf5wr1.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrf9por/fdc52fa6-2778-4f6b-bac2-ba62ae767e75/6aae01b0-1d81-11ef-a2d3-43cd46fce6e9/file-6y3zli1lwrf9pos.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrf5tbk/b4d277c1-e69f-43b4-bd17-e9bcd2a97ad9/fe3ffb00-1d80-11ef-92ec-2bfed168ac85/file-6y3zli1lwrf5tbl.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrf9lo6/83bb0c0a-0dc1-49fc-a340-3f8e751a2f40/6793c960-1d81-11ef-a2d3-43cd46fce6e9/file-6y3zli1lwrf9lo7.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrf9htl/9d089f7a-d149-4af3-a390-35d9bd51c72b/649a8690-1d81-11ef-a2d3-43cd46fce6e9/file-6y3zli1lwrf9htm.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrfkagr/c9fab08e-179b-4e72-afe4-83bdee8fab2c/90d24cb0-1d82-11ef-a2d3-43cd46fce6e9/file-6y3zli1lwrfkags.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrfk7c7/914d6189-3faf-481d-88b9-c210972675e6/8e680370-1d82-11ef-a2d3-43cd46fce6e9/file-6y3zli1lwrfk7c8.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrfk3jq/700215e1-f37a-445c-a8a8-803fcbffbed8/8b7a5960-1d82-11ef-a2d3-43cd46fce6e9/file-6y3zli1lwrfk3jr.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwrfjz3v/35ee288a-ea1a-4e03-a123-824b0845eeeb/880c34b0-1d82-11ef-a2d3-43cd46fce6e9/file-6y3zli1lwrfjz3w.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "P-2, Q-3, R-4, S-5",
         "B": "P-2, Q-3, R-5, S-1",
         "C": "P-3, Q-5, R-4, S-1",
         "D": "P-3, Q-2, R-5, S-4"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "List-I contains various reaction sequences and List-II contains different phenolic compounds. Match each entry in List-I with the appropriate entry in List-II and choose the correct option. \n\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid lightgrey;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid lightgrey;\n            padding: 10px;\n            text-align: left;\n            vertical-align: top;\n        }\n        img {\n            max-width: 100px;\n            height: auto;\n        }\n    \n    \n        List-I\n        List-II",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 18,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 18,
-      "question_text": "Let $f(x)$ be a continuously differentiable function on the interval $(0, \\infty)$ such that $f(1)=2$ and\n\n\n$$ \\lim\\limits_{t \\rightarrow x} \\frac{t^{10} f(x)-x^{10} f(t)}{t^9-x^9}=1 $$\n\n\nfor each $x>0$. Then, for all $x>0, f(x)$ is equal to :",
       "subject": "Mathematics",
       "topic": "differential-equations",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $f(x)$ be a continuously differentiable function on the interval $(0, \\infty)$ such that $f(1)=2$ and\n\n\n$$ \\lim\\limits_{t \\rightarrow x} \\frac{t^{10} f(x)-x^{10} f(t)}{t^9-x^9}=1 $$\n\n\nfor each $x>0$. Then, for all $x>0, f(x)$ is equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\frac{31}{11 x}-\\frac{9}{11} x^{10}$",
         "B": "$\\frac{9}{11 x}+\\frac{13}{11} x^{10}$",
         "C": "$\\frac{-9}{11 x}+\\frac{31}{11} x^{10}$",
         "D": "$\\frac{13}{11 x}+\\frac{9}{11} x^{10}$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $f(x)$ be a continuously differentiable function on the interval $(0, \\infty)$ such that $f(1)=2$ and \n\n$$ \\lim\\limits_{t \\rightarrow x} \\frac{t^{10} f(x)-x^{10} f(t)}{t^9-x^9}=1 $$ \n\nfor each $x>0$. Then, for all $x>0, f(x)$ is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 19,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 19,
-      "question_text": "A student appears for a quiz consisting of only true-false type questions and answers all the questions. The student knows the answers of some questions and guesses the answers for the remaining questions. Whenever the student knows the answer of a question, he gives the correct answer. Assume that the probability of the student giving the correct answer for a question, given that he has guessed it, is $\\frac{1}{2}$. Also assume that the probability of the answer for a question being guessed, given that the student's answer is correct, is $\\frac{1}{6}$. Then the probability that the student knows the answer of a randomly chosen question is :",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A student appears for a quiz consisting of only true-false type questions and answers all the questions. The student knows the answers of some questions and guesses the answers for the remaining questions. Whenever the student knows the answer of a question, he gives the correct answer. Assume that the probability of the student giving the correct answer for a question, given that he has guessed it, is $\\frac{1}{2}$. Also assume that the probability of the answer for a question being guessed, given that the student's answer is correct, is $\\frac{1}{6}$. Then the probability that the student knows the answer of a randomly chosen question is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\frac{1}{12}$",
         "B": "$\\frac{1}{7}$",
         "C": "$\\frac{5}{7}$",
         "D": "$\\frac{5}{12}$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A student appears for a quiz consisting of only true-false type questions and answers all the questions. The student knows the answers of some questions and guesses the answers for the remaining questions. Whenever the student knows the answer of a question, he gives the correct answer. Assume that the probability of the student giving the correct answer for a question, given that he has guessed it, is $\\frac{1}{2}$. Also assume that the probability of the answer for a question being guessed, given that the student's answer is correct, is $\\frac{1}{6}$. Then the probability that the student knows the answer of a randomly chosen question is :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 20,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 20,
-      "question_text": "Let $\\frac{\\pi}{2} $$ \\left(\\sin \\frac{11 x}{2}\\right)(\\sin 6 x-\\cos 6 x)+\\left(\\cos \\frac{11 x}{2}\\right)(\\sin 6 x+\\cos 6 x) $$\n\n\nis equal to :",
       "subject": "Mathematics",
       "topic": "trigonometric-functions-and-equations",
       "sub_topic": "trigonometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $\\frac{\\pi}{2} $$ \\left(\\sin \\frac{11 x}{2}\\right)(\\sin 6 x-\\cos 6 x)+\\left(\\cos \\frac{11 x}{2}\\right)(\\sin 6 x+\\cos 6 x) $$\n\n\nis equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\frac{\\sqrt{11}-1}{2 \\sqrt{3}}$",
         "B": "$\\frac{\\sqrt{11}+1}{2 \\sqrt{3}}$",
         "C": "$\\frac{\\sqrt{11}+1}{3 \\sqrt{2}}$",
         "D": "$\\frac{\\sqrt{11}-1}{3 \\sqrt{2}}$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $\\frac{\\pi}{2} < x < \\pi$ be such that $\\cot x=\\frac{-5}{\\sqrt{11}}$. Then \n\n$$ \\left(\\sin \\frac{11 x}{2}\\right)(\\sin 6 x-\\cos 6 x)+\\left(\\cos \\frac{11 x}{2}\\right)(\\sin 6 x+\\cos 6 x) $$ \n\nis equal to :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 21,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 21,
-      "question_text": "Consider the ellipse $\\frac{x^2}{9}+\\frac{y^2}{4}=1$. Let $S(p, q)$ be a point in the first quadrant such that $\\frac{p^2}{9}+\\frac{q^2}{4}>1$. Two tangents are drawn from $S$ to the ellipse, of which one meets the ellipse at one end point of the minor axis and the other meets the ellipse at a point $T$ in the fourth quadrant. Let $R$ be the vertex of the ellipse with positive $x$-coordinate and $O$ be the center of the ellipse. If the area of the triangle $\\triangle O R T$ is $\\frac{3}{2}$, then which of the following options is correct?",
       "subject": "Mathematics",
       "topic": "ellipse",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider the ellipse $\\frac{x^2}{9}+\\frac{y^2}{4}=1$. Let $S(p, q)$ be a point in the first quadrant such that $\\frac{p^2}{9}+\\frac{q^2}{4}>1$. Two tangents are drawn from $S$ to the ellipse, of which one meets the ellipse at one end point of the minor axis and the other meets the ellipse at a point $T$ in the fourth quadrant. Let $R$ be the vertex of the ellipse with positive $x$-coordinate and $O$ be the center of the ellipse. If the area of the triangle $\\triangle O R T$ is $\\frac{3}{2}$, then which of the following options is correct?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwxhv0ts/83f47b16-fb99-470d-ac46-419840a7cb69/416e57f0-20d8-11ef-9cb8-55fd0c638932/file-6y3zli1lwxhv0tt.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$q=2, p=3 \\sqrt{3}$",
         "B": "$q=2, p=4 \\sqrt{3}$",
         "C": "$q=1, p=5 \\sqrt{3}$",
         "D": "$q=1, p=6 \\sqrt{3}$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Consider the ellipse $\\frac{x^2}{9}+\\frac{y^2}{4}=1$. Let $S(p, q)$ be a point in the first quadrant such that $\\frac{p^2}{9}+\\frac{q^2}{4}>1$. Two tangents are drawn from $S$ to the ellipse, of which one meets the ellipse at one end point of the minor axis and the other meets the ellipse at a point $T$ in the fourth quadrant. Let $R$ be the vertex of the ellipse with positive $x$-coordinate and $O$ be the center of the ellipse. If the area of the triangle $\\triangle O R T$ is $\\frac{3}{2}$, then which of the following options is correct?",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 22,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 22,
-      "question_text": "Let $S=\\{a+b \\sqrt{2}: a, b \\in \\mathbb{Z}\\}, T_1=\\left\\{(-1+\\sqrt{2})^n: n \\in \\mathbb{N}\\right\\}$, and $T_2=\\left\\{(1+\\sqrt{2})^n: n \\in \\mathbb{N}\\right\\}$. Then which of the following statements is (are) TRUE?",
       "subject": "Mathematics",
       "topic": "complex-numbers",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $S=\\{a+b \\sqrt{2}: a, b \\in \\mathbb{Z}\\}, T_1=\\left\\{(-1+\\sqrt{2})^n: n \\in \\mathbb{N}\\right\\}$, and $T_2=\\left\\{(1+\\sqrt{2})^n: n \\in \\mathbb{N}\\right\\}$. Then which of the following statements is (are) TRUE?",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\mathbb{Z} \\cup T_1 \\cup T_2 \\subset S$",
         "B": "$T_1 \\cap\\left(0, \\frac{1}{2024}\\right)=\\phi$, where $\\phi$ denotes the empty set.",
         "C": "$T_2 \\cap(2024, \\infty) \\neq \\phi$",
         "D": "For any given $a, b \\in \\mathbb{Z}, \\cos (\\pi(a+b \\sqrt{2}))+i \\sin (\\pi(a+b \\sqrt{2})) \\in \\mathbb{Z}$ if and only if $b=0$, where $i=\\sqrt{-1}$."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $S=\\{a+b \\sqrt{2}: a, b \\in \\mathbb{Z}\\}, T_1=\\left\\{(-1+\\sqrt{2})^n: n \\in \\mathbb{N}\\right\\}$, and $T_2=\\left\\{(1+\\sqrt{2})^n: n \\in \\mathbb{N}\\right\\}$. Then which of the following statements is (are) TRUE?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 23,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 23,
-      "question_text": "Let $\\mathbb{R}^2$ denote $\\mathbb{R} \\times \\mathbb{R}$. Let\n\n\n$$ S=\\left\\{(a, b, c): a, b, c \\in \\mathbb{R} \\text { and } a x^2+2 b x y+c y^2>0 \\text { for all }(x, y) \\in \\mathbb{R}^2-\\{(0,0)\\}\\right\\} . $$\n\n\nThen which of the following statements is (are) TRUE?",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $\\mathbb{R}^2$ denote $\\mathbb{R} \\times \\mathbb{R}$. Let\n\n\n$$ S=\\left\\{(a, b, c): a, b, c \\in \\mathbb{R} \\text { and } a x^2+2 b x y+c y^2>0 \\text { for all }(x, y) \\in \\mathbb{R}^2-\\{(0,0)\\}\\right\\} . $$\n\n\nThen which of the following statements is (are) TRUE?",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\left(2, \\frac{7}{2}, 6\\right) \\in S$",
         "B": "If $\\left(3, b, \\frac{1}{12}\\right) \\in S$, then $|2 b|<1$.",
         "C": "For any given $(a, b, c) \\in S$, the system of linear equations \n\n$$ \\begin{aligned} & a x+b y=1 \\\\ & b x+c y=-1 \\end{aligned} $$ \n\nhas a unique solution.",
         "D": "For any given $(a, b, c) \\in S$, the system of linear equations \n\n$$ \\begin{aligned} & (a+1) x+b y=0 \\\\ & b x+(c+1) y=0 \\end{aligned} $$ \n\nhas a unique solution."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $\\mathbb{R}^2$ denote $\\mathbb{R} \\times \\mathbb{R}$. Let \n\n$$ S=\\left\\{(a, b, c): a, b, c \\in \\mathbb{R} \\text { and } a x^2+2 b x y+c y^2>0 \\text { for all }(x, y) \\in \\mathbb{R}^2-\\{(0,0)\\}\\right\\} . $$ \n\nThen which of the following statements is (are) TRUE?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 24,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 24,
-      "question_text": "Let $\\mathbb{R}^3$ denote the three-dimensional space. Take two points $P=(1,2,3)$ and $Q=(4,2,7)$. Let $\\operatorname{dist}(X, Y)$ denote the distance between two points $X$ and $Y$ in $\\mathbb{R}^3$. Let\n\n\n$$ \\begin{gathered} S=\\left\\{X \\in \\mathbb{R}^3:(\\operatorname{dist}(X, P))^2-(\\operatorname{dist}(X, Q))^2=50\\right\\} \\text { and } \\\\ T=\\left\\{Y \\in \\mathbb{R}^3:(\\operatorname{dist}(Y, Q))^2-(\\operatorname{dist}(Y, P))^2=50\\right\\} . \\end{gathered} $$\n\n\nThen which of the following statements is (are) TRUE?",
       "subject": "Mathematics",
       "topic": "3d-geometry",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $\\mathbb{R}^3$ denote the three-dimensional space. Take two points $P=(1,2,3)$ and $Q=(4,2,7)$. Let $\\operatorname{dist}(X, Y)$ denote the distance between two points $X$ and $Y$ in $\\mathbb{R}^3$. Let\n\n\n$$ \\begin{gathered} S=\\left\\{X \\in \\mathbb{R}^3:(\\operatorname{dist}(X, P))^2-(\\operatorname{dist}(X, Q))^2=50\\right\\} \\text { and } \\\\ T=\\left\\{Y \\in \\mathbb{R}^3:(\\operatorname{dist}(Y, Q))^2-(\\operatorname{dist}(Y, P))^2=50\\right\\} . \\end{gathered} $$\n\n\nThen which of the following statements is (are) TRUE?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzdit9v6/b4b98460-9da5-433f-aa70-de604b6142db/f312b120-5140-11ef-a18d-b11057c77886/file-jaoe38c1lzdit9v7.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzdit9v6/b4b98460-9da5-433f-aa70-de604b6142db/f312b120-5140-11ef-a18d-b11057c77886/file-jaoe38c1lzdit9v7.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "There is a triangle whose area is 1 and all of whose vertices are from $S$.",
         "B": "There are two distinct points $L$ and $M$ in $T$ such that each point on the line segment $L M$ is also in $T$.",
         "C": "There are infinitely many rectangles of perimeter 48 , two of whose vertices are from $S$ and the other two vertices are from $T$.",
         "D": "There is a square of perimeter 48 , two of whose vertices are from $S$ and the other two vertices are from $T$."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $\\mathbb{R}^3$ denote the three-dimensional space. Take two points $P=(1,2,3)$ and $Q=(4,2,7)$. Let $\\operatorname{dist}(X, Y)$ denote the distance between two points $X$ and $Y$ in $\\mathbb{R}^3$. Let \n\n$$ \\begin{gathered} S=\\left\\{X \\in \\mathbb{R}^3:(\\operatorname{dist}(X, P))^2-(\\operatorname{dist}(X, Q))^2=50\\right\\} \\text { and } \\\\ T=\\left\\{Y \\in \\mathbb{R}^3:(\\operatorname{dist}(Y, Q))^2-(\\operatorname{dist}(Y, P))^2=50\\right\\} . \\end{gathered} $$ \n\nThen which of the following statements is (are) TRUE?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 25,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 25,
-      "question_text": "Let $a=3 \\sqrt{2}$ and $b=\\frac{1}{5^{1 / 6} \\sqrt{6}}$. If $x, y \\in \\mathbb{R}$ are such that\n\n\n$$ \\begin{aligned} & 3 x+2 y=\\log _a(18)^{\\frac{5}{4}} \\quad \\text { and } \\\\ & 2 x-y=\\log _b(\\sqrt{1080}), \\end{aligned} $$\n\n\nthen $4 x+5 y$ is equal to __________.",
       "subject": "Mathematics",
       "topic": "quadratic-equation-and-inequalities",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $a=3 \\sqrt{2}$ and $b=\\frac{1}{5^{1 / 6} \\sqrt{6}}$. If $x, y \\in \\mathbb{R}$ are such that\n\n\n$$ \\begin{aligned} & 3 x+2 y=\\log _a(18)^{\\frac{5}{4}} \\quad \\text { and } \\\\ & 2 x-y=\\log _b(\\sqrt{1080}), \\end{aligned} $$\n\n\nthen $4 x+5 y$ is equal to __________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $a=3 \\sqrt{2}$ and $b=\\frac{1}{5^{1 / 6} \\sqrt{6}}$. If $x, y \\in \\mathbb{R}$ are such that \n\n$$ \\begin{aligned} & 3 x+2 y=\\log _a(18)^{\\frac{5}{4}} \\quad \\text { and } \\\\ & 2 x-y=\\log _b(\\sqrt{1080}), \\end{aligned} $$ \n\nthen $4 x+5 y$ is equal to __________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 26,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 26,
-      "question_text": "Let $f(x)=x^4+a x^3+b x^2+c$ be a polynomial with real coefficients such that $f(1)=-9$. Suppose that $i \\sqrt{3}$ is a root of the equation $4 x^3+3 a x^2+2 b x=0$, where $i=\\sqrt{-1}$. If $\\alpha_1, \\alpha_2, \\alpha_3$, and $\\alpha_4$ are all the roots of the equation $f(x)=0$, then $\\left|\\alpha_1\\right|^2+\\left|\\alpha_2\\right|^2+\\left|\\alpha_3\\right|^2+\\left|\\alpha_4\\right|^2$ is equal to ____________.",
       "subject": "Mathematics",
       "topic": "complex-numbers",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $f(x)=x^4+a x^3+b x^2+c$ be a polynomial with real coefficients such that $f(1)=-9$. Suppose that $i \\sqrt{3}$ is a root of the equation $4 x^3+3 a x^2+2 b x=0$, where $i=\\sqrt{-1}$. If $\\alpha_1, \\alpha_2, \\alpha_3$, and $\\alpha_4$ are all the roots of the equation $f(x)=0$, then $\\left|\\alpha_1\\right|^2+\\left|\\alpha_2\\right|^2+\\left|\\alpha_3\\right|^2+\\left|\\alpha_4\\right|^2$ is equal to ____________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $f(x)=x^4+a x^3+b x^2+c$ be a polynomial with real coefficients such that $f(1)=-9$. Suppose that $i \\sqrt{3}$ is a root of the equation $4 x^3+3 a x^2+2 b x=0$, where $i=\\sqrt{-1}$. If $\\alpha_1, \\alpha_2, \\alpha_3$, and $\\alpha_4$ are all the roots of the equation $f(x)=0$, then $\\left|\\alpha_1\\right|^2+\\left|\\alpha_2\\right|^2+\\left|\\alpha_3\\right|^2+\\left|\\alpha_4\\right|^2$ is equal to ____________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 27,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 27,
-      "question_text": "Let $S=\\left\\{A=\\left(\\begin{array}{lll}0 & 1 & c \\\\ 1 & a & d \\\\ 1 & b & e\\end{array}\\right): a, b, c, d, e \\in\\{0,1\\}\\right.$ and $\\left.|A| \\in\\{-1,1\\}\\right\\}$, where $|A|$ denotes the determinant of $A$. Then the number of elements in $S$ is __________.",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $S=\\left\\{A=\\left(\\begin{array}{lll}0 & 1 & c \\\\ 1 & a & d \\\\ 1 & b & e\\end{array}\\right): a, b, c, d, e \\in\\{0,1\\}\\right.$ and $\\left.|A| \\in\\{-1,1\\}\\right\\}$, where $|A|$ denotes the determinant of $A$. Then the number of elements in $S$ is __________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzdk0sq1/4cd749d7-9250-41b4-8311-5332e8c41e34/ad6eae80-5145-11ef-bb15-997f1b6a93a1/file-jaoe38c1lzdk0sq2.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $S=\\left\\{A=\\left(\\begin{array}{lll}0 & 1 & c \\\\ 1 & a & d \\\\ 1 & b & e\\end{array}\\right): a, b, c, d, e \\in\\{0,1\\}\\right.$ and $\\left.|A| \\in\\{-1,1\\}\\right\\}$, where $|A|$ denotes the determinant of $A$. Then the number of elements in $S$ is __________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 28,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 28,
-      "question_text": "A group of 9 students, $s_1, s_2, \\ldots, s_9$, is to be divided to form three teams $X, Y$, and $Z$ of sizes 2,3 , and 4 , respectively. Suppose that $s_1$ cannot be selected for the team $X$, and $s_2$ cannot be selected for the team $Y$. Then the number of ways to form such teams, is ____________.",
       "subject": "Mathematics",
       "topic": "permutations-and-combinations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A group of 9 students, $s_1, s_2, \\ldots, s_9$, is to be divided to form three teams $X, Y$, and $Z$ of sizes 2,3 , and 4 , respectively. Suppose that $s_1$ cannot be selected for the team $X$, and $s_2$ cannot be selected for the team $Y$. Then the number of ways to form such teams, is ____________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A group of 9 students, $s_1, s_2, \\ldots, s_9$, is to be divided to form three teams $X, Y$, and $Z$ of sizes 2,3 , and 4 , respectively. Suppose that $s_1$ cannot be selected for the team $X$, and $s_2$ cannot be selected for the team $Y$. Then the number of ways to form such teams, is ____________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 29,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 29,
-      "question_text": "Let $\\overrightarrow{O P}=\\frac{\\alpha-1}{\\alpha} \\hat{i}+\\hat{j}+\\hat{k}, \\overrightarrow{O Q}=\\hat{i}+\\frac{\\beta-1}{\\beta} \\hat{j}+\\hat{k}$ and $\\overrightarrow{O R}=\\hat{i}+\\hat{j}+\\frac{1}{2} \\hat{k}$ be three vectors, where $\\alpha, \\beta \\in \\mathbb{R}-\\{0\\}$ and $O$ denotes the origin. If $(\\overrightarrow{O P} \\times \\overrightarrow{O Q}) \\cdot \\overrightarrow{O R}=0$ and the point $(\\alpha, \\beta, 2)$ lies on the plane $3 x+3 y-z+l=0$, then the value of $l$ is ____________.",
       "subject": "Mathematics",
       "topic": "vector-algebra",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $\\overrightarrow{O P}=\\frac{\\alpha-1}{\\alpha} \\hat{i}+\\hat{j}+\\hat{k}, \\overrightarrow{O Q}=\\hat{i}+\\frac{\\beta-1}{\\beta} \\hat{j}+\\hat{k}$ and $\\overrightarrow{O R}=\\hat{i}+\\hat{j}+\\frac{1}{2} \\hat{k}$ be three vectors, where $\\alpha, \\beta \\in \\mathbb{R}-\\{0\\}$ and $O$ denotes the origin. If $(\\overrightarrow{O P} \\times \\overrightarrow{O Q}) \\cdot \\overrightarrow{O R}=0$ and the point $(\\alpha, \\beta, 2)$ lies on the plane $3 x+3 y-z+l=0$, then the value of $l$ is ____________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $\\overrightarrow{O P}=\\frac{\\alpha-1}{\\alpha} \\hat{i}+\\hat{j}+\\hat{k}, \\overrightarrow{O Q}=\\hat{i}+\\frac{\\beta-1}{\\beta} \\hat{j}+\\hat{k}$ and $\\overrightarrow{O R}=\\hat{i}+\\hat{j}+\\frac{1}{2} \\hat{k}$ be three vectors, where $\\alpha, \\beta \\in \\mathbb{R}-\\{0\\}$ and $O$ denotes the origin. If $(\\overrightarrow{O P} \\times \\overrightarrow{O Q}) \\cdot \\overrightarrow{O R}=0$ and the point $(\\alpha, \\beta, 2)$ lies on the plane $3 x+3 y-z+l=0$, then the value of $l$ is ____________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 30,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 30,
-      "question_text": "Let $X$ be a random variable, and let $P(X=x)$ denote the probability that $X$ takes the value $x$. Suppose that the points $(x, P(X=x)), x=0,1,2,3,4$, lie on a fixed straight line in the $x y$-plane, and $P(X=x)=0$ for all $x \\in \\mathbb{R}-\\{0,1,2,3,4\\}$. If the mean of $X$ is $\\frac{5}{2}$, and the variance of $X$ is $\\alpha$, then the value of $24 \\alpha$ is _____________.",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $X$ be a random variable, and let $P(X=x)$ denote the probability that $X$ takes the value $x$. Suppose that the points $(x, P(X=x)), x=0,1,2,3,4$, lie on a fixed straight line in the $x y$-plane, and $P(X=x)=0$ for all $x \\in \\mathbb{R}-\\{0,1,2,3,4\\}$. If the mean of $X$ is $\\frac{5}{2}$, and the variance of $X$ is $\\alpha$, then the value of $24 \\alpha$ is _____________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $X$ be a random variable, and let $P(X=x)$ denote the probability that $X$ takes the value $x$. Suppose that the points $(x, P(X=x)), x=0,1,2,3,4$, lie on a fixed straight line in the $x y$-plane, and $P(X=x)=0$ for all $x \\in \\mathbb{R}-\\{0,1,2,3,4\\}$. If the mean of $X$ is $\\frac{5}{2}$, and the variance of $X$ is $\\alpha$, then the value of $24 \\alpha$ is _____________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 31,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 31,
-      "question_text": "Let $\\alpha$ and $\\beta$ be the distinct roots of the equation $x^2+x-1=0$. Consider the set $T=\\{1, \\alpha, \\beta\\}$. For a $3 \\times 3$ matrix $M=\\left(a_{i j}\\right)_{3 \\times 3}$, define $R_i=a_{i 1}+a_{i 2}+a_{i 3}$ and $C_j=a_{1 j}+a_{2 j}+a_{3 j}$ for $i=1,2,3$ and $j=1,2,3$.\n\n\n\nMatch each entry in List-I to the correct entry in List-II.\n\n\n \n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        \n    \n\n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) The number of matrices $ M = (a_{ij})_{3x3} $ with all entries in $ T $ such that $ R_i = C_j = 0 $ for all $ i, j $, is\n            (1) 1\n        \n        \n            (Q) The number of symmetric matrices $ M = (a_{ij})_{3x3} $ with all entries in $ T $ such that $ C_j = 0 $ for all $ j $, is\n            (2) 12\n        \n        \n            (R) Let $ M = (a_{ij})_{3x3} $ be a skew symmetric matrix such that $ a_{ij} \\in T $ for $ i > j $. \n\nThen the number of elements in the set \n\n\n                $ \\left\\{ \n                    \\begin{pmatrix}\n                        x \\\\\n                        y \\\\\n                        z \n                    \\end{pmatrix} : x, y, z \\in \\mathbb{R}, M \n                    \\begin{pmatrix}\n                        x \\\\\n                        y \\\\\n                        z \n                    \\end{pmatrix} = \n                    \\begin{pmatrix}\na_{12} \\\\\n                        0 \\\\\n                        \n                        a_{13} \n                    \\end{pmatrix}\n                \\right\\} $ \n                is\n            (3) infinite\n        \n        \n            (S) Let $ M = (a_{ij})_{3x3} $ be a matrix with all entries in $ T $ such that $ R_i = 0 $ for all $ i $. Then the absolute value of the determinant of $ M $ is\n            (4) 6\n        \n    \n\n\nThe correct option is",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $\\alpha$ and $\\beta$ be the distinct roots of the equation $x^2+x-1=0$. Consider the set $T=\\{1, \\alpha, \\beta\\}$. For a $3 \\times 3$ matrix $M=\\left(a_{i j}\\right)_{3 \\times 3}$, define $R_i=a_{i 1}+a_{i 2}+a_{i 3}$ and $C_j=a_{1 j}+a_{2 j}+a_{3 j}$ for $i=1,2,3$ and $j=1,2,3$.\n\n\n\nMatch each entry in List-I to the correct entry in List-II.\n\n\n \n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        \n    \n\n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) The number of matrices $ M = (a_{ij})_{3x3} $ with all entries in $ T $ such that $ R_i = C_j = 0 $ for all $ i, j $, is\n            (1) 1\n        \n        \n            (Q) The number of symmetric matrices $ M = (a_{ij})_{3x3} $ with all entries in $ T $ such that $ C_j = 0 $ for all $ j $, is\n            (2) 12\n        \n        \n            (R) Let $ M = (a_{ij})_{3x3} $ be a skew symmetric matrix such that $ a_{ij} \\in T $ for $ i > j $. \n\nThen the number of elements in the set \n\n\n                $ \\left\\{ \n                    \\begin{pmatrix}\n                        x \\\\\n                        y \\\\\n                        z \n                    \\end{pmatrix} : x, y, z \\in \\mathbb{R}, M \n                    \\begin{pmatrix}\n                        x \\\\\n                        y \\\\\n                        z \n                    \\end{pmatrix} = \n                    \\begin{pmatrix}\na_{12} \\\\\n                        0 \\\\\n                        \n                        a_{13} \n                    \\end{pmatrix}\n                \\right\\} $ \n                is\n            (3) infinite\n        \n        \n            (S) Let $ M = (a_{ij})_{3x3} $ be a matrix with all entries in $ T $ such that $ R_i = 0 $ for all $ i $. Then the absolute value of the determinant of $ M $ is\n            (4) 6\n        \n    \n\n\nThe correct option is",
+      "question_images": [],
+      "option_texts": {
         "A": "(P) $\\rightarrow$ (4) $\\quad$ (Q) $\\rightarrow(2) \\quad(\\mathrm{R}) \\rightarrow(5) \\quad$ (S) $\\rightarrow$ (1)",
         "B": "$(\\mathrm{P}) \\rightarrow(2) \\quad(\\mathrm{Q}) \\rightarrow(4) \\quad(\\mathrm{R}) \\rightarrow(1) \\quad(\\mathrm{S}) \\rightarrow(5)$",
         "C": "$(\\mathrm{P}) \\rightarrow(2) \\quad$ (Q) $\\rightarrow(4) \\quad(\\mathrm{R}) \\rightarrow(3) \\quad$ (S) $\\rightarrow$ (5)",
         "D": "(P) $\\rightarrow$ (1) $\\quad$ (Q) $\\rightarrow$ (5) $\\quad$ (R) $\\rightarrow$ (3) $\\quad$ (S) $\\rightarrow$ (4)"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let $\\alpha$ and $\\beta$ be the distinct roots of the equation $x^2+x-1=0$. Consider the set $T=\\{1, \\alpha, \\beta\\}$. For a $3 \\times 3$ matrix $M=\\left(a_{i j}\\right)_{3 \\times 3}$, define $R_i=a_{i 1}+a_{i 2}+a_{i 3}$ and $C_j=a_{1 j}+a_{2 j}+a_{3 j}$ for $i=1,2,3$ and $j=1,2,3$.\n\nMatch each entry in List-I to the correct entry in List-II.\n \n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        \n    \n\n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) The number of matrices $ M = (a_{ij})_{3x3} $ with all entries in $ T $ such that $ R_i = C_j = 0 $ for all $ i, j $, is\n            (1) 1\n        \n        \n            (Q) The number of symmetric matrices $ M = (a_{ij})_{3x3} $ with all entries in $ T $ such that $ C_j = 0 $ for all $ j $, is\n            (2) 12\n        \n        \n            (R) Let $ M = (a_{ij})_{3x3} $ be a skew symmetric matrix such that $ a_{ij} \\in T $ for $ i > j $. Then the number of elements in the set \n                $ \\left\\{ \n                    \\begin{pmatrix}\n                        x \\\\\n                        y \\\\\n                        z \n                    \\end{pmatrix} : x, y, z \\in \\mathbb{R}, M \n                    \\begin{pmatrix}\n                        x \\\\\n                        y \\\\\n                        z \n                    \\end{pmatrix} = \n                    \\begin{pmatrix}\na_{12} \\\\\n                        0 \\\\\n                        \n                        a_{13} \n                    \\end{pmatrix}\n                \\right\\} $ \n                is\n            (3) infinite\n        \n        \n            (S) Let $ M = (a_{ij})_{3x3} $ be a matrix with all entries in $ T $ such that $ R_i = 0 $ for all $ i $. Then the absolute value of the determinant of $ M $ is\n            (4) 6\n        \n    \n\nThe correct option is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 32,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 32,
-      "question_text": "Let the straight line $y=2 x$ touch a circle with center $(0, \\alpha), \\alpha>0$, and radius $r$ at a point $A_1$. Let $B_1$ be the point on the circle such that the line segment $A_1 B_1$ is a diameter of the circle. Let $\\alpha+r=5+\\sqrt{5}$.\n\n\nMatch each entry in List-I to the correct entry in List-II.\n\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        body[data-theme='dark'] th, body[data-theme='dark'] td {\n            border: 1px solid white;\n        }\n    \n\n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) $\\alpha$ equals\n            (1) $(-2, 4)$\n        \n        \n            (Q) $r$ equals\n            (2) $\\sqrt{5}$\n        \n        \n            (R) $A_1$ equals\n            (3) $(-2, 6)$\n        \n        \n            (S) $B_1$ equals\n            (4) $5$\n        \n        \n            \n            (5) $(2, 4)$\n        \n    \n\n\n\n\nThe correct option is",
       "subject": "Mathematics",
       "topic": "circle",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let the straight line $y=2 x$ touch a circle with center $(0, \\alpha), \\alpha>0$, and radius $r$ at a point $A_1$. Let $B_1$ be the point on the circle such that the line segment $A_1 B_1$ is a diameter of the circle. Let $\\alpha+r=5+\\sqrt{5}$.\n\n\nMatch each entry in List-I to the correct entry in List-II.\n\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        body[data-theme='dark'] th, body[data-theme='dark'] td {\n            border: 1px solid white;\n        }\n    \n\n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) $\\alpha$ equals\n            (1) $(-2, 4)$\n        \n        \n            (Q) $r$ equals\n            (2) $\\sqrt{5}$\n        \n        \n            (R) $A_1$ equals\n            (3) $(-2, 6)$\n        \n        \n            (S) $B_1$ equals\n            (4) $5$\n        \n        \n            \n            (5) $(2, 4)$\n        \n    \n\n\n\n\nThe correct option is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lze4yztm/ee0214a5-7bf6-408f-b8e1-4889011fadce/9b02d3a0-5197-11ef-ae8e-bb0708d95ccf/file-jaoe38c1lze4yztn.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$(\\mathrm{P}) \\rightarrow(4) \\quad(\\mathrm{Q}) \\rightarrow(2) \\quad(\\mathrm{R}) \\rightarrow(1) \\quad(\\mathrm{S}) \\rightarrow(3)$",
         "B": "$(\\mathrm{P}) \\rightarrow(2) \\quad(\\mathrm{Q}) \\rightarrow(4) \\quad(\\mathrm{R}) \\rightarrow(1) \\quad(\\mathrm{S}) \\rightarrow(3)$",
         "C": "$(\\mathrm{P}) \\rightarrow(4) \\quad(\\mathrm{Q}) \\rightarrow(2) \\quad(\\mathrm{R}) \\rightarrow(5) \\quad(\\mathrm{S}) \\rightarrow(3)$",
         "D": "$(\\mathrm{P}) \\rightarrow(2) \\quad(\\mathrm{Q}) \\rightarrow(4) \\quad(\\mathrm{R}) \\rightarrow(3) \\quad(\\mathrm{S}) \\rightarrow(5)$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let the straight line $y=2 x$ touch a circle with center $(0, \\alpha), \\alpha>0$, and radius $r$ at a point $A_1$. Let $B_1$ be the point on the circle such that the line segment $A_1 B_1$ is a diameter of the circle. Let $\\alpha+r=5+\\sqrt{5}$. \n\nMatch each entry in List-I to the correct entry in List-II.\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        body[data-theme='dark'] th, body[data-theme='dark'] td {\n            border: 1px solid white;\n        }\n    \n\n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) $\\alpha$ equals\n            (1) $(-2, 4)$\n        \n        \n            (Q) $r$ equals\n            (2) $\\sqrt{5}$\n        \n        \n            (R) $A_1$ equals\n            (3) $(-2, 6)$\n        \n        \n            (S) $B_1$ equals\n            (4) $5$\n        \n        \n            \n            (5) $(2, 4)$\n        \n    \n\n\n\nThe correct option is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 33,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 33,
-      "question_text": "Let $\\gamma \\in \\mathbb{R}$ be such that the lines $L_1: \\frac{x+11}{1}=\\frac{y+21}{2}=\\frac{z+29}{3}$ and $L_2: \\frac{x+16}{3}=\\frac{y+11}{2}=\\frac{z+4}{\\gamma}$ intersect. Let $R_1$ be the point of intersection of $L_1$ and $L_2$. Let $O=(0,0,0)$, and $\\hat{n}$ denote a unit normal vector to the plane containing both the lines $L_1$ and $L_2$.\n\n\nMatch each entry in List-I to the correct entry in List-II.\n\n\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        body[data-theme='dark'] th, body[data-theme='dark'] td {\n            border: 1px solid white;\n        }\n    \n\n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) $\\gamma$ equals\n            (1) $-\\hat{i} - \\hat{j} + \\hat{k}$\n        \n        \n            (Q) A possible choice for $\\hat{n}$ is\n            (2) $\\sqrt{\\frac{3}{2}}$\n        \n        \n            (R) $\\overrightarrow{OR_1}$ equals\n            (3) $1$\n        \n        \n            (S) A possible value of $\\overrightarrow{OR_1} \\cdot \\hat{n}$ is\n            (4) $\\frac{1}{\\sqrt{6}} \\hat{i} - \\frac{2}{\\sqrt{6}} \\hat{j} + \\frac{1}{\\sqrt{6}} \\hat{k}$\n        \n        \n            \n            (5) $\\sqrt{\\frac{2}{3}}$\n        \n    \n\n\nThe correct option is :",
       "subject": "Mathematics",
       "topic": "3d-geometry",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $\\gamma \\in \\mathbb{R}$ be such that the lines $L_1: \\frac{x+11}{1}=\\frac{y+21}{2}=\\frac{z+29}{3}$ and $L_2: \\frac{x+16}{3}=\\frac{y+11}{2}=\\frac{z+4}{\\gamma}$ intersect. Let $R_1$ be the point of intersection of $L_1$ and $L_2$. Let $O=(0,0,0)$, and $\\hat{n}$ denote a unit normal vector to the plane containing both the lines $L_1$ and $L_2$.\n\n\nMatch each entry in List-I to the correct entry in List-II.\n\n\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        body[data-theme='dark'] th, body[data-theme='dark'] td {\n            border: 1px solid white;\n        }\n    \n\n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) $\\gamma$ equals\n            (1) $-\\hat{i} - \\hat{j} + \\hat{k}$\n        \n        \n            (Q) A possible choice for $\\hat{n}$ is\n            (2) $\\sqrt{\\frac{3}{2}}$\n        \n        \n            (R) $\\overrightarrow{OR_1}$ equals\n            (3) $1$\n        \n        \n            (S) A possible value of $\\overrightarrow{OR_1} \\cdot \\hat{n}$ is\n            (4) $\\frac{1}{\\sqrt{6}} \\hat{i} - \\frac{2}{\\sqrt{6}} \\hat{j} + \\frac{1}{\\sqrt{6}} \\hat{k}$\n        \n        \n            \n            (5) $\\sqrt{\\frac{2}{3}}$\n        \n    \n\n\nThe correct option is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$(\\mathrm{P}) \\rightarrow(3) \\quad(\\mathrm{Q}) \\rightarrow(4) \\quad(\\mathrm{R}) \\rightarrow(1) \\quad(\\mathrm{S}) \\rightarrow(2)$",
         "B": "$(\\mathrm{P}) \\rightarrow(5) \\quad(\\mathrm{Q}) \\rightarrow(4) \\quad(\\mathrm{R}) \\rightarrow(1) \\quad(\\mathrm{S}) \\rightarrow(2)$",
         "C": "$(\\mathrm{P}) \\rightarrow(3) \\quad$ (Q) $\\rightarrow(4) \\quad(\\mathrm{R}) \\rightarrow(1) \\quad$ (S) $\\rightarrow(5)$",
         "D": "$(\\mathrm{P}) \\rightarrow(3) \\quad(\\mathrm{Q}) \\rightarrow(1) \\quad(\\mathrm{R}) \\rightarrow(4) \\quad$ (S) $\\rightarrow(5)$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let $\\gamma \\in \\mathbb{R}$ be such that the lines $L_1: \\frac{x+11}{1}=\\frac{y+21}{2}=\\frac{z+29}{3}$ and $L_2: \\frac{x+16}{3}=\\frac{y+11}{2}=\\frac{z+4}{\\gamma}$ intersect. Let $R_1$ be the point of intersection of $L_1$ and $L_2$. Let $O=(0,0,0)$, and $\\hat{n}$ denote a unit normal vector to the plane containing both the lines $L_1$ and $L_2$. \n\nMatch each entry in List-I to the correct entry in List-II. \n\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        body[data-theme='dark'] th, body[data-theme='dark'] td {\n            border: 1px solid white;\n        }\n    \n\n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) $\\gamma$ equals\n            (1) $-\\hat{i} - \\hat{j} + \\hat{k}$\n        \n        \n            (Q) A possible choice for $\\hat{n}$ is\n            (2) $\\sqrt{\\frac{3}{2}}$\n        \n        \n            (R) $\\overrightarrow{OR_1}$ equals\n            (3) $1$\n        \n        \n            (S) A possible value of $\\overrightarrow{OR_1} \\cdot \\hat{n}$ is\n            (4) $\\frac{1}{\\sqrt{6}} \\hat{i} - \\frac{2}{\\sqrt{6}} \\hat{j} + \\frac{1}{\\sqrt{6}} \\hat{k}$\n        \n        \n            \n            (5) $\\sqrt{\\frac{2}{3}}$\n        \n    \n\nThe correct option is :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 34,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 34,
-      "question_text": "Let $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ and $g: \\mathbb{R} \\rightarrow \\mathbb{R}$ be functions defined by\n\n\n$$ f(x)=\\left\\{\\begin{array}{ll} x|x| \\sin \\left(\\frac{1}{x}\\right), & x \\neq 0, \\\\ 0, & x=0, \\end{array} \\quad \\text { and } g(x)= \\begin{cases}1-2 x, & 0 \\leq x \\leq \\frac{1}{2}, \\\\ 0, & \\text { otherwise } .\\end{cases}\\right. $$\n\n\nLet $a, b, c, d \\in \\mathbb{R}$. Define the function $h: \\mathbb{R} \\rightarrow \\mathbb{R}$ by\n\n\n$$ h(x)=a f(x)+b\\left(g(x)+g\\left(\\frac{1}{2}-x\\right)\\right)+c(x-g(x))+d g(x), x \\in \\mathbb{R} . $$\n\n\nMatch each entry in List-I to the correct entry in List-II.\n\n\n \n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        body[data-theme='dark'] th, body[data-theme='dark'] td {\n            border: 1px solid white;\n        }\n    \n\n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) If $a = 0$, $b = 1$, $c = 0$, and $d = 0$, then\n            (1) $h$ is one-one.\n        \n        \n            (Q) If $a = 1$, $b = 0$, $c = 0$, and $d = 0$, then\n            (2) $h$ is onto.\n        \n        \n            (R) If $a = 0$, $b = 0$, $c = 1$, and $d = 0$, then\n            (3) $h$ is differentiable on $\\mathbb{R}$.\n        \n        \n            (S) If $a = 0$, $b = 0$, $c = 0$, and $d = 1$, then\n            (4) the range of $h$ is $[0, 1]$.\n        \n        \n            \n            (5) the range of $h$ is $\\{0, 1\\}$.\n        \n    \n\n\nThe correct option is",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ and $g: \\mathbb{R} \\rightarrow \\mathbb{R}$ be functions defined by\n\n\n$$ f(x)=\\left\\{\\begin{array}{ll} x|x| \\sin \\left(\\frac{1}{x}\\right), & x \\neq 0, \\\\ 0, & x=0, \\end{array} \\quad \\text { and } g(x)= \\begin{cases}1-2 x, & 0 \\leq x \\leq \\frac{1}{2}, \\\\ 0, & \\text { otherwise } .\\end{cases}\\right. $$\n\n\nLet $a, b, c, d \\in \\mathbb{R}$. Define the function $h: \\mathbb{R} \\rightarrow \\mathbb{R}$ by\n\n\n$$ h(x)=a f(x)+b\\left(g(x)+g\\left(\\frac{1}{2}-x\\right)\\right)+c(x-g(x))+d g(x), x \\in \\mathbb{R} . $$\n\n\nMatch each entry in List-I to the correct entry in List-II.\n\n\n \n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        body[data-theme='dark'] th, body[data-theme='dark'] td {\n            border: 1px solid white;\n        }\n    \n\n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) If $a = 0$, $b = 1$, $c = 0$, and $d = 0$, then\n            (1) $h$ is one-one.\n        \n        \n            (Q) If $a = 1$, $b = 0$, $c = 0$, and $d = 0$, then\n            (2) $h$ is onto.\n        \n        \n            (R) If $a = 0$, $b = 0$, $c = 1$, and $d = 0$, then\n            (3) $h$ is differentiable on $\\mathbb{R}$.\n        \n        \n            (S) If $a = 0$, $b = 0$, $c = 0$, and $d = 1$, then\n            (4) the range of $h$ is $[0, 1]$.\n        \n        \n            \n            (5) the range of $h$ is $\\{0, 1\\}$.\n        \n    \n\n\nThe correct option is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lze621rc/d346313b-1008-49e1-b8b0-a32d17be6844/d9102770-519b-11ef-a2f6-f5c78832fa84/file-jaoe38c1lze621rd.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lze68xwo/5c355578-4f2e-445c-9034-a5cd71ebbe67/98c09280-519c-11ef-a2f6-f5c78832fa84/file-jaoe38c1lze68xwp.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lze6ahgw/d853e4fc-0824-4c9c-9c99-64835399a521/c3ac1f00-519c-11ef-a2f6-f5c78832fa84/file-jaoe38c1lze6ahgx.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$(\\mathrm{P}) \\rightarrow(4)$\n$(\\mathrm{Q}) \\rightarrow(3)$\n$(\\mathrm{R}) \\rightarrow(1)$\n(S) $\\rightarrow$ (2)",
         "B": "$(\\mathrm{P}) \\rightarrow(5)$\n$(\\mathrm{Q}) \\rightarrow(2)$\n$(\\mathrm{R}) \\rightarrow(4)$\n(S) $\\rightarrow(3)$",
         "C": "$(\\mathrm{P}) \\rightarrow(5)$\n$(\\mathrm{Q}) \\rightarrow(3)$\n$(\\mathrm{R}) \\rightarrow(2)$\n$(\\mathrm{S}) \\rightarrow(4)$",
         "D": "$(\\mathrm{P}) \\rightarrow(4)$\n$(\\mathrm{Q}) \\rightarrow(2)$\n$(\\mathrm{R}) \\rightarrow(1)$\n$(\\mathrm{S}) \\rightarrow(3)$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ and $g: \\mathbb{R} \\rightarrow \\mathbb{R}$ be functions defined by \n\n$$ f(x)=\\left\\{\\begin{array}{ll} x|x| \\sin \\left(\\frac{1}{x}\\right), & x \\neq 0, \\\\ 0, & x=0, \\end{array} \\quad \\text { and } g(x)= \\begin{cases}1-2 x, & 0 \\leq x \\leq \\frac{1}{2}, \\\\ 0, & \\text { otherwise } .\\end{cases}\\right. $$ \n\nLet $a, b, c, d \\in \\mathbb{R}$. Define the function $h: \\mathbb{R} \\rightarrow \\mathbb{R}$ by \n\n$$ h(x)=a f(x)+b\\left(g(x)+g\\left(\\frac{1}{2}-x\\right)\\right)+c(x-g(x))+d g(x), x \\in \\mathbb{R} . $$ \n\nMatch each entry in List-I to the correct entry in List-II. \n\n \n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        body[data-theme='dark'] th, body[data-theme='dark'] td {\n            border: 1px solid white;\n        }\n    \n\n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) If $a = 0$, $b = 1$, $c = 0$, and $d = 0$, then\n            (1) $h$ is one-one.\n        \n        \n            (Q) If $a = 1$, $b = 0$, $c = 0$, and $d = 0$, then\n            (2) $h$ is onto.\n        \n        \n            (R) If $a = 0$, $b = 0$, $c = 1$, and $d = 0$, then\n            (3) $h$ is differentiable on $\\mathbb{R}$.\n        \n        \n            (S) If $a = 0$, $b = 0$, $c = 0$, and $d = 1$, then\n            (4) the range of $h$ is $[0, 1]$.\n        \n        \n            \n            (5) the range of $h$ is $\\{0, 1\\}$.\n        \n    \n\nThe correct option is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 35,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 35,
-      "question_text": "A dimensionless quantity is constructed in terms of electronic charge $e$, permittivity of free space $\\varepsilon_0$, Planck's constant $h$, and speed of light $c$. If the dimensionless quantity is written as $e^\\alpha \\varepsilon_0{ }^\\beta h^\\gamma c^\\delta$ and $n$ is a non-zero integer, then $(\\alpha, \\beta, \\gamma, \\delta)$ is given by :",
       "subject": "Physics",
       "topic": "units-and-measurements",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A dimensionless quantity is constructed in terms of electronic charge $e$, permittivity of free space $\\varepsilon_0$, Planck's constant $h$, and speed of light $c$. If the dimensionless quantity is written as $e^\\alpha \\varepsilon_0{ }^\\beta h^\\gamma c^\\delta$ and $n$ is a non-zero integer, then $(\\alpha, \\beta, \\gamma, \\delta)$ is given by :",
+      "question_images": [],
+      "option_texts": {
         "A": "$(2 n,-n,-n,-n)$",
         "B": "$(n,-n,-2 n,-n)$",
         "C": "$(n,-n,-n,-2 n)$",
         "D": "$(2 n,-n,-2 n,-2 n)$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A dimensionless quantity is constructed in terms of electronic charge $e$, permittivity of free space $\\varepsilon_0$, Planck's constant $h$, and speed of light $c$. If the dimensionless quantity is written as $e^\\alpha \\varepsilon_0{ }^\\beta h^\\gamma c^\\delta$ and $n$ is a non-zero integer, then $(\\alpha, \\beta, \\gamma, \\delta)$ is given by :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 36,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 36,
-      "question_text": "An infinitely long wire, located on the $z$-axis, carries a current $I$ along the $+z$-direction and produces the magnetic field $\\vec{B}$. The magnitude of the line integral $\\int \\vec{B} \\cdot \\overrightarrow{d l}$ along a straight line from the point $(-\\sqrt{3} a, a, 0)$ to $(a, a, 0)$ is given by\n\n\n[ $\\mu_0$ is the magnetic permeability of free space.]",
       "subject": "Physics",
       "topic": "magnetism",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An infinitely long wire, located on the $z$-axis, carries a current $I$ along the $+z$-direction and produces the magnetic field $\\vec{B}$. The magnitude of the line integral $\\int \\vec{B} \\cdot \\overrightarrow{d l}$ along a straight line from the point $(-\\sqrt{3} a, a, 0)$ to $(a, a, 0)$ is given by\n\n\n[ $\\mu_0$ is the magnetic permeability of free space.]",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzfkrszu/df2dcf23-5c05-4144-b316-fd1915e82e86/2dc9d790-5262-11ef-ab5b-edbc6782d721/file-jaoe38c1lzfkrszv.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzfktkmw/da3a9fea-c84f-4902-9220-471272981875/5ef32380-5262-11ef-ab5b-edbc6782d721/file-jaoe38c1lzfktkmx.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{7{\\mu _0}I} \\over {24}}$$",
         "B": "$${{7{\\mu _0}I} \\over {12}}$$",
         "C": "$${{{\\mu _0}I} \\over {8}}$$",
         "D": "$${{{\\mu _0}I} \\over {6}}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "An infinitely long wire, located on the $z$-axis, carries a current $I$ along the $+z$-direction and produces the magnetic field $\\vec{B}$. The magnitude of the line integral $\\int \\vec{B} \\cdot \\overrightarrow{d l}$ along a straight line from the point $(-\\sqrt{3} a, a, 0)$ to $(a, a, 0)$ is given by \n\n[ $\\mu_0$ is the magnetic permeability of free space.]",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 37,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 37,
-      "question_text": "Two beads, each with charge $q$ and mass $m$, are on a horizontal, frictionless, non-conducting, circular hoop of radius $a$. One of the beads is glued to the hoop at some point, while the other one performs small oscillations about its equilibrium position along the hoop. The square of the angular frequency of the small oscillations is given by\n\n\n[ $\\varepsilon_0$ is the permittivity of free space.]",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two beads, each with charge $q$ and mass $m$, are on a horizontal, frictionless, non-conducting, circular hoop of radius $a$. One of the beads is glued to the hoop at some point, while the other one performs small oscillations about its equilibrium position along the hoop. The square of the angular frequency of the small oscillations is given by\n\n\n[ $\\varepsilon_0$ is the permittivity of free space.]",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m9x2kgo1/2cf59604-12ec-4c69-9e17-33d0f455e85f/42c1a420-21fb-11f0-a00f-859d2da55f29/file-jaoe38c1m9x2kgo2.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{{q^2}} \\over {4\\pi {\\varepsilon _0}{a^3}m}}$$",
         "B": "$${{{q^2}} \\over {32\\pi {\\varepsilon _0}{a^3}m}}$$",
         "C": "$${{{q^2}} \\over {8\\pi {\\varepsilon _0}{a^3}m}}$$",
         "D": "$${{{q^2}} \\over {16\\pi {\\varepsilon _0}{a^3}m}}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Two beads, each with charge $q$ and mass $m$, are on a horizontal, frictionless, non-conducting, circular hoop of radius $a$. One of the beads is glued to the hoop at some point, while the other one performs small oscillations about its equilibrium position along the hoop. The square of the angular frequency of the small oscillations is given by \n\n[ $\\varepsilon_0$ is the permittivity of free space.]",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 38,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 38,
-      "question_text": "A block of mass $5 \\mathrm{~kg}$ moves along the $x$-direction subject to the force $F=(-20 x+10) \\mathrm{N}$, with the value of $x$ in metre. At time $t=0 \\mathrm{~s}$, it is at rest at position $x=1 \\mathrm{~m}$. The position and momentum of the block at $t={\\pi  \\over 4} \\mathrm{s}$ are",
       "subject": "Physics",
       "topic": "impulse-and-momentum",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A block of mass $5 \\mathrm{~kg}$ moves along the $x$-direction subject to the force $F=(-20 x+10) \\mathrm{N}$, with the value of $x$ in metre. At time $t=0 \\mathrm{~s}$, it is at rest at position $x=1 \\mathrm{~m}$. The position and momentum of the block at $t={\\pi  \\over 4} \\mathrm{s}$ are",
+      "question_images": [],
+      "option_texts": {
         "A": "$-0.5 \\mathrm{~m}, 5 \\mathrm{~kg} \\mathrm{~m} / \\mathrm{s}$",
         "B": "$0.5 \\mathrm{~m}, 0 \\mathrm{~kg} \\mathrm{~m} / \\mathrm{s}$",
         "C": "$0.5 \\mathrm{~m},-5 \\mathrm{~kg} \\mathrm{~m} / \\mathrm{s}$",
         "D": "$-1 \\mathrm{~m}, 5 \\mathrm{~kg} \\mathrm{~m} / \\mathrm{s}$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A block of mass $5 \\mathrm{~kg}$ moves along the $x$-direction subject to the force $F=(-20 x+10) \\mathrm{N}$, with the value of $x$ in metre. At time $t=0 \\mathrm{~s}$, it is at rest at position $x=1 \\mathrm{~m}$. The position and momentum of the block at $t={\\pi  \\over 4} \\mathrm{s}$ are",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 39,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 39,
-      "question_text": "A particle of mass $m$ is moving in a circular orbit under the influence of the central force $F(r)=-k r$, corresponding to the potential energy $V(r)=k r^2 / 2$, where $k$ is a positive force constant and $r$ is the radial distance from the origin. According to the Bohr's quantization rule, the angular momentum of the particle is given by $L=n \\hbar$, where $\\hbar=h /(2 \\pi), h$ is the Planck's constant, and $n$ a positive integer. If $v$ and $E$ are the speed and total energy of the particle, respectively, then which of the following expression(s) is(are) correct?",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A particle of mass $m$ is moving in a circular orbit under the influence of the central force $F(r)=-k r$, corresponding to the potential energy $V(r)=k r^2 / 2$, where $k$ is a positive force constant and $r$ is the radial distance from the origin. According to the Bohr's quantization rule, the angular momentum of the particle is given by $L=n \\hbar$, where $\\hbar=h /(2 \\pi), h$ is the Planck's constant, and $n$ a positive integer. If $v$ and $E$ are the speed and total energy of the particle, respectively, then which of the following expression(s) is(are) correct?",
+      "question_images": [],
+      "option_texts": {
         "A": "$r^2=n \\hbar \\sqrt{\\frac{1}{m k}}$",
         "B": "$v^2=n \\hbar \\sqrt{\\frac{k}{m^3}}$",
         "C": "$\\frac{L}{m r^2}=\\sqrt{\\frac{k}{m}}$",
         "D": "$E=\\frac{n \\hbar}{2} \\sqrt{\\frac{k}{m}}$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A particle of mass $m$ is moving in a circular orbit under the influence of the central force $F(r)=-k r$, corresponding to the potential energy $V(r)=k r^2 / 2$, where $k$ is a positive force constant and $r$ is the radial distance from the origin. According to the Bohr's quantization rule, the angular momentum of the particle is given by $L=n \\hbar$, where $\\hbar=h /(2 \\pi), h$ is the Planck's constant, and $n$ a positive integer. If $v$ and $E$ are the speed and total energy of the particle, respectively, then which of the following expression(s) is(are) correct?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 40,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 40,
-      "question_text": "Two uniform strings of mass per unit length $\\mu$ and $4 \\mu$, and length $L$ and $2 L$, respectively, are joined at point $\\mathrm{O}$, and tied at two fixed ends $\\mathrm{P}$ and $\\mathrm{Q}$, as shown in the figure. The strings are under a uniform tension $T$. If we define the frequency $v_0=\\frac{1}{2 L} \\sqrt{\\frac{T}{\\mu}}$, which of the following statement(s) is(are) correct?",
       "subject": "Physics",
       "topic": "waves",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two uniform strings of mass per unit length $\\mu$ and $4 \\mu$, and length $L$ and $2 L$, respectively, are joined at point $\\mathrm{O}$, and tied at two fixed ends $\\mathrm{P}$ and $\\mathrm{Q}$, as shown in the figure. The strings are under a uniform tension $T$. If we define the frequency $v_0=\\frac{1}{2 L} \\sqrt{\\frac{T}{\\mu}}$, which of the following statement(s) is(are) correct?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpusa4j/0fb3efef-cb7d-4624-9d9a-2b5ebe7f56cd/86ab9220-1ca4-11ef-9d61-4dd39b8c772f/file-6y3zli1lwpusa4k.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzflrtqy/e103973b-49fa-4fce-bc1b-e8c5fbb52210/177ffba0-5266-11ef-b524-816b5950261e/file-jaoe38c1lzflrtqz.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzfltw4y/35bd5c66-f784-4fa2-8f62-7cc1117a50d9/50f6ad20-5266-11ef-b524-816b5950261e/file-jaoe38c1lzfltw4z.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "With a node at $\\mathrm{O}$, the minimum frequency of vibration of the composite string is $v_0$.",
         "B": "With an antinode at $\\mathrm{O}$, the minimum frequency of vibration of the composite string is $2 v_0$.",
         "C": "When the composite string vibrates at the minimum frequency with a node at $\\mathrm{O}$, it has 6 nodes, including the end nodes.",
         "D": "No vibrational mode with an antinode at $\\mathrm{O}$ is possible for the composite string."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Two uniform strings of mass per unit length $\\mu$ and $4 \\mu$, and length $L$ and $2 L$, respectively, are joined at point $\\mathrm{O}$, and tied at two fixed ends $\\mathrm{P}$ and $\\mathrm{Q}$, as shown in the figure. The strings are under a uniform tension $T$. If we define the frequency $v_0=\\frac{1}{2 L} \\sqrt{\\frac{T}{\\mu}}$, which of the following statement(s) is(are) correct?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 41,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 41,
-      "question_text": "A glass beaker has a solid, plano-convex base of refractive index 1.60, as shown in the figure. The radius of curvature of the convex surface (SPU) is $9 \\mathrm{~cm}$, while the planar surface (STU) acts as a mirror. This beaker is filled with a liquid of refractive index $n$ up to the level QPR. If the image of a point object $\\mathrm{O}$ at a height of $h$ (OT in the figure) is formed onto itself, then, which of the following option(s) is(are) correct?",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A glass beaker has a solid, plano-convex base of refractive index 1.60, as shown in the figure. The radius of curvature of the convex surface (SPU) is $9 \\mathrm{~cm}$, while the planar surface (STU) acts as a mirror. This beaker is filled with a liquid of refractive index $n$ up to the level QPR. If the image of a point object $\\mathrm{O}$ at a height of $h$ (OT in the figure) is formed onto itself, then, which of the following option(s) is(are) correct?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lxfrv966/4a8ed557-5498-4315-ba45-3dc6699dae63/7edbb4e0-2ae5-11ef-8eaf-2b19e12f0f8b/file-jaoe38c1lxfrv967.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzfnguz8/24644d66-a75e-47c7-a5a1-4b2736f1c4e2/b8cea230-526c-11ef-980e-8b15c4ac4b53/file-jaoe38c1lzfnguz9.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "For $n=1.42, h=50 \\mathrm{~cm}$.",
         "B": "For $n=1.35, h=36 \\mathrm{~cm}$.",
         "C": "For $n=1.45, h=65 \\mathrm{~cm}$.",
         "D": "For $n=1.48, h=85 \\mathrm{~cm}$."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A glass beaker has a solid, plano-convex base of refractive index 1.60, as shown in the figure. The radius of curvature of the convex surface (SPU) is $9 \\mathrm{~cm}$, while the planar surface (STU) acts as a mirror. This beaker is filled with a liquid of refractive index $n$ up to the level QPR. If the image of a point object $\\mathrm{O}$ at a height of $h$ (OT in the figure) is formed onto itself, then, which of the following option(s) is(are) correct?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 42,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 42,
-      "question_text": "The specific heat capacity of a substance is temperature dependent and is given by the formula $C=k T$, where $k$ is a constant of suitable dimensions in SI units, and $T$ is the absolute temperature. If the heat required to raise the temperature of $1 \\mathrm{~kg}$ of the substance from $-73^{\\circ} \\mathrm{C}$ to $27^{\\circ} \\mathrm{C}$ is $n k$, the value of $n$ is ________.\n\n\n[Given: $0 \\mathrm{~K}=-273{ }^{\\circ} \\mathrm{C}$.]",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The specific heat capacity of a substance is temperature dependent and is given by the formula $C=k T$, where $k$ is a constant of suitable dimensions in SI units, and $T$ is the absolute temperature. If the heat required to raise the temperature of $1 \\mathrm{~kg}$ of the substance from $-73^{\\circ} \\mathrm{C}$ to $27^{\\circ} \\mathrm{C}$ is $n k$, the value of $n$ is ________.\n\n\n[Given: $0 \\mathrm{~K}=-273{ }^{\\circ} \\mathrm{C}$.]",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The specific heat capacity of a substance is temperature dependent and is given by the formula $C=k T$, where $k$ is a constant of suitable dimensions in SI units, and $T$ is the absolute temperature. If the heat required to raise the temperature of $1 \\mathrm{~kg}$ of the substance from $-73^{\\circ} \\mathrm{C}$ to $27^{\\circ} \\mathrm{C}$ is $n k$, the value of $n$ is ________. \n\n[Given: $0 \\mathrm{~K}=-273{ }^{\\circ} \\mathrm{C}$.]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 43,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 43,
-      "question_text": "A disc of mass $M$ and radius $R$ is free to rotate about its vertical axis as shown in the figure. A battery operated motor of negligible mass is fixed to this disc at a point on its circumference. Another disc of the same mass $M$ and radius $R / 2$ is fixed to the motor's thin shaft. Initially, both the discs are at rest. The motor is switched on so that the smaller disc rotates at a uniform angular speed $\\omega$. If the angular speed at which the large disc rotates is $\\omega / n$, then the value of $n$ is ___________.",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A disc of mass $M$ and radius $R$ is free to rotate about its vertical axis as shown in the figure. A battery operated motor of negligible mass is fixed to this disc at a point on its circumference. Another disc of the same mass $M$ and radius $R / 2$ is fixed to the motor's thin shaft. Initially, both the discs are at rest. The motor is switched on so that the smaller disc rotates at a uniform angular speed $\\omega$. If the angular speed at which the large disc rotates is $\\omega / n$, then the value of $n$ is ___________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpvanw7/c14e01b2-7725-483a-85c2-07b6cdd9bbe0/85df0870-1ca6-11ef-9d61-4dd39b8c772f/file-6y3zli1lwpvanw8.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzfo9p8l/179aedfd-7abb-4d29-817e-5f2ea71304b0/dad6c350-526f-11ef-9900-f37d05596006/file-jaoe38c1lzfo9p8m.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A disc of mass $M$ and radius $R$ is free to rotate about its vertical axis as shown in the figure. A battery operated motor of negligible mass is fixed to this disc at a point on its circumference. Another disc of the same mass $M$ and radius $R / 2$ is fixed to the motor's thin shaft. Initially, both the discs are at rest. The motor is switched on so that the smaller disc rotates at a uniform angular speed $\\omega$. If the angular speed at which the large disc rotates is $\\omega / n$, then the value of $n$ is ___________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 44,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 44,
-      "question_text": "A point source $\\mathrm{S}$ emits unpolarized light uniformly in all directions. At two points $\\mathrm{A}$ and $\\mathrm{B}$, the ratio $r=I_A / I_B$ of the intensities of light is 2 . If a set of two polaroids having $45^{\\circ}$ angle between their pass-axes is placed just before point $\\mathrm{B}$, then the new value of $r$ will be __________.",
       "subject": "Physics",
       "topic": "wave-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A point source $\\mathrm{S}$ emits unpolarized light uniformly in all directions. At two points $\\mathrm{A}$ and $\\mathrm{B}$, the ratio $r=I_A / I_B$ of the intensities of light is 2 . If a set of two polaroids having $45^{\\circ}$ angle between their pass-axes is placed just before point $\\mathrm{B}$, then the new value of $r$ will be __________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A point source $\\mathrm{S}$ emits unpolarized light uniformly in all directions. At two points $\\mathrm{A}$ and $\\mathrm{B}$, the ratio $r=I_A / I_B$ of the intensities of light is 2 . If a set of two polaroids having $45^{\\circ}$ angle between their pass-axes is placed just before point $\\mathrm{B}$, then the new value of $r$ will be __________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 45,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 45,
-      "question_text": "A source (S) of sound has frequency $240 \\mathrm{~Hz}$. When the observer (O) and the source move towards each other at a speed $v$ with respect to the ground (as shown in Case 1 in the figure), the observer measures the frequency of the sound to be $288 \\mathrm{~Hz}$. However, when the observer and the source move away from each other at the same speed $v$ with respect to the ground (as shown in Case 2 in the figure), the observer measures the frequency of sound to be $n \\mathrm{~Hz}$. The value of $n$ is ___________.",
       "subject": "Physics",
       "topic": "waves",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A source (S) of sound has frequency $240 \\mathrm{~Hz}$. When the observer (O) and the source move towards each other at a speed $v$ with respect to the ground (as shown in Case 1 in the figure), the observer measures the frequency of the sound to be $288 \\mathrm{~Hz}$. However, when the observer and the source move away from each other at the same speed $v$ with respect to the ground (as shown in Case 2 in the figure), the observer measures the frequency of sound to be $n \\mathrm{~Hz}$. The value of $n$ is ___________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpvs7oa/05f54ed9-becc-4433-bd99-762c9bca5acb/6de7dc90-1ca8-11ef-a7f1-8b6b33c30c4d/file-6y3zli1lwpvs7ob.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A source (S) of sound has frequency $240 \\mathrm{~Hz}$. When the observer (O) and the source move towards each other at a speed $v$ with respect to the ground (as shown in Case 1 in the figure), the observer measures the frequency of the sound to be $288 \\mathrm{~Hz}$. However, when the observer and the source move away from each other at the same speed $v$ with respect to the ground (as shown in Case 2 in the figure), the observer measures the frequency of sound to be $n \\mathrm{~Hz}$. The value of $n$ is ___________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 46,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 46,
-      "question_text": "Two large, identical water tanks, 1 and 2 , kept on the top of a building of height $H$, are filled with water up to height $h$ in each tank. Both the tanks contain an identical hole of small radius on their sides, close to their bottom. A pipe of the same internal radius as that of the hole is connected to tank 2 , and the pipe ends at the ground level. When the water flows from the tanks 1 and 2 through the holes, the times taken to empty the tanks are $t_1$ and $t_2$, respectively. If $H=\\left(\\frac{16}{9}\\right) h$, then the ratio $t_1 / t_2$ is ___________.",
       "subject": "Physics",
       "topic": "properties-of-matter",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Two large, identical water tanks, 1 and 2 , kept on the top of a building of height $H$, are filled with water up to height $h$ in each tank. Both the tanks contain an identical hole of small radius on their sides, close to their bottom. A pipe of the same internal radius as that of the hole is connected to tank 2 , and the pipe ends at the ground level. When the water flows from the tanks 1 and 2 through the holes, the times taken to empty the tanks are $t_1$ and $t_2$, respectively. If $H=\\left(\\frac{16}{9}\\right) h$, then the ratio $t_1 / t_2$ is ___________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzfp1d88/148833ae-8294-4785-a18f-40b20ac44bbb/dc37ab80-5272-11ef-b8f6-1ffab00bd39b/file-jaoe38c1lzfp1d89.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzfp5eg3/032fbfaa-438b-4670-afaf-89b9e11ad55d/4c652b30-5273-11ef-b8f6-1ffab00bd39b/file-jaoe38c1lzfp5eg4.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Two large, identical water tanks, 1 and 2 , kept on the top of a building of height $H$, are filled with water up to height $h$ in each tank. Both the tanks contain an identical hole of small radius on their sides, close to their bottom. A pipe of the same internal radius as that of the hole is connected to tank 2 , and the pipe ends at the ground level. When the water flows from the tanks 1 and 2 through the holes, the times taken to empty the tanks are $t_1$ and $t_2$, respectively. If $H=\\left(\\frac{16}{9}\\right) h$, then the ratio $t_1 / t_2$ is ___________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 47,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 47,
-      "question_text": "A thin uniform rod of length $L$ and certain mass is kept on a frictionless horizontal table with a massless string of length $L$ fixed to one end (top view is shown in the figure). The other end of the string is pivoted to a point $\\mathrm{O}$. If a horizontal impulse $P$ is imparted to the rod at a distance $x={L \\over n}$ from the mid-point of the rod (see figure), then the rod and string revolve together around the point $\\mathrm{O}$, with the rod remaining aligned with the string. In such a case, the value of $n$ is ___________.",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A thin uniform rod of length $L$ and certain mass is kept on a frictionless horizontal table with a massless string of length $L$ fixed to one end (top view is shown in the figure). The other end of the string is pivoted to a point $\\mathrm{O}$. If a horizontal impulse $P$ is imparted to the rod at a distance $x={L \\over n}$ from the mid-point of the rod (see figure), then the rod and string revolve together around the point $\\mathrm{O}$, with the rod remaining aligned with the string. In such a case, the value of $n$ is ___________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpw4iwg/6ed26d3c-fc6f-4585-97c1-9d40785656ac/c449db00-1ca9-11ef-a7f1-8b6b33c30c4d/file-6y3zli1lwpw4iwh.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A thin uniform rod of length $L$ and certain mass is kept on a frictionless horizontal table with a massless string of length $L$ fixed to one end (top view is shown in the figure). The other end of the string is pivoted to a point $\\mathrm{O}$. If a horizontal impulse $P$ is imparted to the rod at a distance $x={L \\over n}$ from the mid-point of the rod (see figure), then the rod and string revolve together around the point $\\mathrm{O}$, with the rod remaining aligned with the string. In such a case, the value of $n$ is ___________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 48,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 48,
-      "question_text": "One mole of a monatomic ideal gas undergoes the cyclic process $\\mathrm{J} \\rightarrow \\mathrm{K} \\rightarrow \\mathrm{L} \\rightarrow \\mathrm{M} \\rightarrow \\mathrm{J}$, as shown in the P-T diagram.\n\n\n\n\nMatch the quantities mentioned in List-I with their values in List-II and choose the correct option.\n\n\n[ $\\mathcal{R}$ is the gas constant.]\n\n\n\n\n \n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        body[data-theme='dark'] th, body[data-theme='dark'] td {\n            border: 1px solid white;\n        }\n    \n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) Work done in the complete cyclic process\n            (1) $RT_0 - 4RT_0 \\ln 2$\n        \n        \n            (Q) Change in the internal energy of the gas in the process JK\n            (2) $0$\n        \n        \n            (R) Heat given to the gas in the process KL\n            (3) $3RT_0$\n        \n        \n            (S) Change in the internal energy of the gas in the process MJ\n            (4) $-2RT_0 \\ln 2$\n        \n        \n            \n            (5) $-3RT_0 \\ln 2$",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "One mole of a monatomic ideal gas undergoes the cyclic process $\\mathrm{J} \\rightarrow \\mathrm{K} \\rightarrow \\mathrm{L} \\rightarrow \\mathrm{M} \\rightarrow \\mathrm{J}$, as shown in the P-T diagram.\n\n\n\n\nMatch the quantities mentioned in List-I with their values in List-II and choose the correct option.\n\n\n[ $\\mathcal{R}$ is the gas constant.]\n\n\n\n\n \n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        body[data-theme='dark'] th, body[data-theme='dark'] td {\n            border: 1px solid white;\n        }\n    \n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) Work done in the complete cyclic process\n            (1) $RT_0 - 4RT_0 \\ln 2$\n        \n        \n            (Q) Change in the internal energy of the gas in the process JK\n            (2) $0$\n        \n        \n            (R) Heat given to the gas in the process KL\n            (3) $3RT_0$\n        \n        \n            (S) Change in the internal energy of the gas in the process MJ\n            (4) $-2RT_0 \\ln 2$\n        \n        \n            \n            (5) $-3RT_0 \\ln 2$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpwe12y/ad330026-489f-4b5e-a478-1d85650a17a0/cc9d65a0-1caa-11ef-a7f1-8b6b33c30c4d/file-6y3zli1lwpwe12z.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$\\mathrm{P} \\rightarrow 1 ; \\mathrm{Q} \\rightarrow 3 ; \\mathrm{R} \\rightarrow 5 ; \\mathrm{S} \\rightarrow 4$",
         "B": "$\\mathrm{P} \\rightarrow 4 ; \\mathrm{Q} \\rightarrow 3 ; \\mathrm{R} \\rightarrow 5 ; \\mathrm{S} \\rightarrow 2$",
         "C": "$\\mathrm{P} \\rightarrow 4 ; \\mathrm{Q} \\rightarrow 1 ; \\mathrm{R} \\rightarrow 2 ; \\mathrm{S} \\rightarrow 2$",
         "D": "$\\mathrm{P} \\rightarrow 2 ; \\mathrm{Q} \\rightarrow 5 ; \\mathrm{R} \\rightarrow 3 ; \\mathrm{S} \\rightarrow 4$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "One mole of a monatomic ideal gas undergoes the cyclic process $\\mathrm{J} \\rightarrow \\mathrm{K} \\rightarrow \\mathrm{L} \\rightarrow \\mathrm{M} \\rightarrow \\mathrm{J}$, as shown in the P-T diagram. \n\n\n\nMatch the quantities mentioned in List-I with their values in List-II and choose the correct option. \n\n[ $\\mathcal{R}$ is the gas constant.] \n\n\n\n \n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        body[data-theme='dark'] th, body[data-theme='dark'] td {\n            border: 1px solid white;\n        }\n    \n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) Work done in the complete cyclic process\n            (1) $RT_0 - 4RT_0 \\ln 2$\n        \n        \n            (Q) Change in the internal energy of the gas in the process JK\n            (2) $0$\n        \n        \n            (R) Heat given to the gas in the process KL\n            (3) $3RT_0$\n        \n        \n            (S) Change in the internal energy of the gas in the process MJ\n            (4) $-2RT_0 \\ln 2$\n        \n        \n            \n            (5) $-3RT_0 \\ln 2$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 49,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 49,
-      "question_text": "Four identical thin, square metal sheets, $S_1, S_2, S_3$ and $S_4$, each of side $a$ are kept parallel to each other with equal distance $d(\\ll a)$ between them, as shown in the figure. Let $${C_0} = {{{\\varepsilon _0}{a^2}} \\over d}$$, where $\\varepsilon_0$ is the permittivity of free space.\n\n\n\n\nMatch the quantities mentioned in List-I with their values in List-II and choose the correct option.\n\n\n\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        body[data-theme='dark'] th, body[data-theme='dark'] td {\n            border: 1px solid white;\n        }\n    \n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) The capacitance between $S_1$ and $S_4$, with $S_2$ and $S_3$ not connected, is\n            (1) $3C_0$\n        \n        \n            (Q) The capacitance between $S_1$ and $S_4$, with $S_2$ shorted to $S_3$, is\n            (2) $\\frac{C_0}{2}$\n        \n        \n            (R) The capacitance between $S_1$ and $S_3$, with $S_2$ shorted to $S_4$, is\n            (3) $\\frac{C_0}{3}$\n        \n        \n            (S) The capacitance between $S_1$ and $S_2$, with $S_3$ shorted to $S_1$, and $S_2$ shorted to $S_4$, is\n            (4) $\\frac{2C_0}{3}$\n        \n        \n            \n            (5) $2C_0$",
       "subject": "Physics",
       "topic": "capacitor",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Four identical thin, square metal sheets, $S_1, S_2, S_3$ and $S_4$, each of side $a$ are kept parallel to each other with equal distance $d(\\ll a)$ between them, as shown in the figure. Let $${C_0} = {{{\\varepsilon _0}{a^2}} \\over d}$$, where $\\varepsilon_0$ is the permittivity of free space.\n\n\n\n\nMatch the quantities mentioned in List-I with their values in List-II and choose the correct option.\n\n\n\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        body[data-theme='dark'] th, body[data-theme='dark'] td {\n            border: 1px solid white;\n        }\n    \n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) The capacitance between $S_1$ and $S_4$, with $S_2$ and $S_3$ not connected, is\n            (1) $3C_0$\n        \n        \n            (Q) The capacitance between $S_1$ and $S_4$, with $S_2$ shorted to $S_3$, is\n            (2) $\\frac{C_0}{2}$\n        \n        \n            (R) The capacitance between $S_1$ and $S_3$, with $S_2$ shorted to $S_4$, is\n            (3) $\\frac{C_0}{3}$\n        \n        \n            (S) The capacitance between $S_1$ and $S_2$, with $S_3$ shorted to $S_1$, and $S_2$ shorted to $S_4$, is\n            (4) $\\frac{2C_0}{3}$\n        \n        \n            \n            (5) $2C_0$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpwv2ta/bea0af9c-661a-474b-ba44-3b31aa43153f/a6b531e0-1cac-11ef-a7f1-8b6b33c30c4d/file-6y3zli1lwpwv2tb.webp",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lziqjl7w/0b4d8d2a-1465-4821-9816-605ec4e6ad26/1a0836c0-541f-11ef-bbf7-3b0ed6883d86/file-jaoe38c1lziqjl7x.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lziqji7b/930c4de5-398c-49cc-9744-0dd804470e6a/17b3bf70-541f-11ef-bbf7-3b0ed6883d86/file-jaoe38c1lziqji7c.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lziqjez4/a1bd995c-5449-4224-b4f6-5a033b2d279b/15357900-541f-11ef-bbf7-3b0ed6883d86/file-jaoe38c1lziqjez5.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lziqjbck/f9c42419-7d40-471a-83f6-296b52af5f39/12684f40-541f-11ef-bbf7-3b0ed6883d86/file-jaoe38c1lziqjbcl.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lziqj89c/cb351665-7bf6-474f-b438-0094a40d502f/10055900-541f-11ef-bbf7-3b0ed6883d86/file-jaoe38c1lziqj89d.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$\\mathrm{P} \\rightarrow 3 ; \\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 4 ; \\mathrm{S} \\rightarrow 5$",
         "B": "$\\mathrm{P} \\rightarrow 2 ; \\mathrm{Q} \\rightarrow 3 ; \\mathrm{R} \\rightarrow 2 ; \\mathrm{S} \\rightarrow 1$",
         "C": "$\\mathrm{P} \\rightarrow 3 ; \\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 4 ; \\mathrm{S} \\rightarrow 1$",
         "D": "$\\mathrm{P} \\rightarrow 3 ; \\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 2 ; \\mathrm{S} \\rightarrow 5$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Four identical thin, square metal sheets, $S_1, S_2, S_3$ and $S_4$, each of side $a$ are kept parallel to each other with equal distance $d(\\ll a)$ between them, as shown in the figure. Let $${C_0} = {{{\\varepsilon _0}{a^2}} \\over d}$$, where $\\varepsilon_0$ is the permittivity of free space. \n\n\n\nMatch the quantities mentioned in List-I with their values in List-II and choose the correct option. \n\n\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        body[data-theme='dark'] th, body[data-theme='dark'] td {\n            border: 1px solid white;\n        }\n    \n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) The capacitance between $S_1$ and $S_4$, with $S_2$ and $S_3$ not connected, is\n            (1) $3C_0$\n        \n        \n            (Q) The capacitance between $S_1$ and $S_4$, with $S_2$ shorted to $S_3$, is\n            (2) $\\frac{C_0}{2}$\n        \n        \n            (R) The capacitance between $S_1$ and $S_3$, with $S_2$ shorted to $S_4$, is\n            (3) $\\frac{C_0}{3}$\n        \n        \n            (S) The capacitance between $S_1$ and $S_2$, with $S_3$ shorted to $S_1$, and $S_2$ shorted to $S_4$, is\n            (4) $\\frac{2C_0}{3}$\n        \n        \n            \n            (5) $2C_0$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 50,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 50,
-      "question_text": "A light ray is incident on the surface of a sphere of refractive index $n$ at an angle of incidence $\\theta_0$. The ray partially refracts into the sphere with angle of refraction $\\phi_0$ and then partly reflects from the back surface. The reflected ray then emerges out of the sphere after a partial refraction. The total angle of deviation of the emergent ray with respect to the incident ray is $\\alpha$. Match the quantities mentioned in List-I with their values in List-II and choose the correct option.\n\n\n\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        body[data-theme='dark'] th, body[data-theme='dark'] td {\n            border: 1px solid white;\n        }\n    \n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) If $n = 2$ and $\\alpha = 180^\\circ$, then all the possible values of $\\theta_0$ will be\n            (1) $30^\\circ$ and $0^\\circ$\n        \n        \n            (Q) If $n = \\sqrt{3}$ and $\\alpha = 180^\\circ$, then all the possible values of $\\theta_0$ will be\n            (2) $60^\\circ$ and $0^\\circ$\n        \n        \n            (R) If $n = \\sqrt{3}$ and $\\alpha = 180^\\circ$, then all the possible values of $\\phi_0$ will be\n            (3) $45^\\circ$ and $0^\\circ$\n        \n        \n            (S) If $n = \\sqrt{2}$ and $\\theta_0 = 45^\\circ$, then all the possible values of $\\alpha$ will be\n            (4) $150^\\circ$\n        \n        \n            \n            (5) $0^\\circ$",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A light ray is incident on the surface of a sphere of refractive index $n$ at an angle of incidence $\\theta_0$. The ray partially refracts into the sphere with angle of refraction $\\phi_0$ and then partly reflects from the back surface. The reflected ray then emerges out of the sphere after a partial refraction. The total angle of deviation of the emergent ray with respect to the incident ray is $\\alpha$. Match the quantities mentioned in List-I with their values in List-II and choose the correct option.\n\n\n\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        body[data-theme='dark'] th, body[data-theme='dark'] td {\n            border: 1px solid white;\n        }\n    \n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) If $n = 2$ and $\\alpha = 180^\\circ$, then all the possible values of $\\theta_0$ will be\n            (1) $30^\\circ$ and $0^\\circ$\n        \n        \n            (Q) If $n = \\sqrt{3}$ and $\\alpha = 180^\\circ$, then all the possible values of $\\theta_0$ will be\n            (2) $60^\\circ$ and $0^\\circ$\n        \n        \n            (R) If $n = \\sqrt{3}$ and $\\alpha = 180^\\circ$, then all the possible values of $\\phi_0$ will be\n            (3) $45^\\circ$ and $0^\\circ$\n        \n        \n            (S) If $n = \\sqrt{2}$ and $\\theta_0 = 45^\\circ$, then all the possible values of $\\alpha$ will be\n            (4) $150^\\circ$\n        \n        \n            \n            (5) $0^\\circ$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzfs66yr/e71fb489-dfc5-4455-9fae-be4538f8e06b/1dd00130-527f-11ef-96c2-39875a992b51/file-jaoe38c1lzfs66ys.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$\\mathrm{P} \\rightarrow 5 ; \\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 1 ; \\mathrm{S} \\rightarrow 4$",
         "B": "$\\mathrm{P} \\rightarrow 5 ; \\mathrm{Q} \\rightarrow 1 ; \\mathrm{R} \\rightarrow 2 ; \\mathrm{S} \\rightarrow 4$",
         "C": "$\\mathrm{P} \\rightarrow 3 ; \\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 1 ; \\mathrm{S} \\rightarrow 4$",
         "D": "$\\mathrm{P} \\rightarrow 3 ; \\mathrm{Q} \\rightarrow 1 ; \\mathrm{R} \\rightarrow 2 ; \\mathrm{S} \\rightarrow 5$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A light ray is incident on the surface of a sphere of refractive index $n$ at an angle of incidence $\\theta_0$. The ray partially refracts into the sphere with angle of refraction $\\phi_0$ and then partly reflects from the back surface. The reflected ray then emerges out of the sphere after a partial refraction. The total angle of deviation of the emergent ray with respect to the incident ray is $\\alpha$. Match the quantities mentioned in List-I with their values in List-II and choose the correct option. \n\n\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        body[data-theme='dark'] th, body[data-theme='dark'] td {\n            border: 1px solid white;\n        }\n    \n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) If $n = 2$ and $\\alpha = 180^\\circ$, then all the possible values of $\\theta_0$ will be\n            (1) $30^\\circ$ and $0^\\circ$\n        \n        \n            (Q) If $n = \\sqrt{3}$ and $\\alpha = 180^\\circ$, then all the possible values of $\\theta_0$ will be\n            (2) $60^\\circ$ and $0^\\circ$\n        \n        \n            (R) If $n = \\sqrt{3}$ and $\\alpha = 180^\\circ$, then all the possible values of $\\phi_0$ will be\n            (3) $45^\\circ$ and $0^\\circ$\n        \n        \n            (S) If $n = \\sqrt{2}$ and $\\theta_0 = 45^\\circ$, then all the possible values of $\\alpha$ will be\n            (4) $150^\\circ$\n        \n        \n            \n            (5) $0^\\circ$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 51,
       "year": 2024,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 51,
-      "question_text": "The circuit shown in the figure contains an inductor $L$, a capacitor $C_0$, a resistor $R_0$ and an ideal battery. The circuit also contains two keys $\\mathrm{K}_1$ and $\\mathrm{K}_2$. Initially, both the keys are open and there is no charge on the capacitor. At an instant, key $\\mathrm{K}_1$ is closed and immediately after this the current in $R_0$ is found to be $I_1$. After a long time, the current attains a steady state value $I_2$. Thereafter, $\\mathrm{K}_2$ is closed and simultaneously $\\mathrm{K}_1$ is opened and the voltage across $C_0$ oscillates with amplitude $V_0$ and angular frequency $\\omega_0$.\n\n\n\n\nMatch the quantities mentioned in List-I with their values in List-II and choose the correct option.\n\n\n\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        body[data-theme='dark'] th, body[data-theme='dark'] td {\n            border: 1px solid white;\n        }\n    \n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) The value of $I_1$ in Ampere is\n            (1) $0$\n        \n        \n            (Q) The value of $I_2$ in Ampere is\n            (2) $2$\n        \n        \n            (R) The value of $\\omega_0$ in kilo-radians/s is\n            (3) $4$\n        \n        \n            (S) The value of $V_0$ in Volt is\n            (4) $20$\n        \n        \n            \n            (5) $200$",
       "subject": "Physics",
       "topic": "alternating-current",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The circuit shown in the figure contains an inductor $L$, a capacitor $C_0$, a resistor $R_0$ and an ideal battery. The circuit also contains two keys $\\mathrm{K}_1$ and $\\mathrm{K}_2$. Initially, both the keys are open and there is no charge on the capacitor. At an instant, key $\\mathrm{K}_1$ is closed and immediately after this the current in $R_0$ is found to be $I_1$. After a long time, the current attains a steady state value $I_2$. Thereafter, $\\mathrm{K}_2$ is closed and simultaneously $\\mathrm{K}_1$ is opened and the voltage across $C_0$ oscillates with amplitude $V_0$ and angular frequency $\\omega_0$.\n\n\n\n\nMatch the quantities mentioned in List-I with their values in List-II and choose the correct option.\n\n\n\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        body[data-theme='dark'] th, body[data-theme='dark'] td {\n            border: 1px solid white;\n        }\n    \n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) The value of $I_1$ in Ampere is\n            (1) $0$\n        \n        \n            (Q) The value of $I_2$ in Ampere is\n            (2) $2$\n        \n        \n            (R) The value of $\\omega_0$ in kilo-radians/s is\n            (3) $4$\n        \n        \n            (S) The value of $V_0$ in Volt is\n            (4) $20$\n        \n        \n            \n            (5) $200$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwpxxsjt/ac44cfb6-d802-4f79-ab69-7ed73d022c11/db561b90-1cb0-11ef-853e-dba8720394f1/file-6y3zli1lwpxxsju.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzgeme66/ef82b6cc-fc19-4c95-a721-109ea2fa9cb7/e92aa5e0-52d6-11ef-b36d-bd2dcc0bdc5d/file-jaoe38c1lzgeme67.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzgenicw/5a67f53e-5bce-49bb-ab3f-c1d4c1b7f50e/0835bb00-52d7-11ef-b36d-bd2dcc0bdc5d/file-jaoe38c1lzgenicx.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzgeoip3/2742fd62-1a85-47b5-bf8b-79e0b8da3991/2447db70-52d7-11ef-b36d-bd2dcc0bdc5d/file-jaoe38c1lzgeoip4.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzgevl67/6ff8919f-484c-4bd2-b3fc-ddddb016a34a/e8db57f0-52d7-11ef-b36d-bd2dcc0bdc5d/file-jaoe38c1lzgevl68.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzgews7u/4b1a95e8-e841-4a29-8edd-67ff70246bc1/0a1bc3a0-52d8-11ef-b36d-bd2dcc0bdc5d/file-jaoe38c1lzgews7v.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$\\mathrm{P} \\rightarrow 1 ; \\mathrm{Q} \\rightarrow 3 ; \\mathrm{R} \\rightarrow 2 ; \\mathrm{S} \\rightarrow 5$",
         "B": "$\\mathrm{P} \\rightarrow 1 ; \\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 3 ; \\mathrm{S} \\rightarrow 5$",
         "C": "$\\mathrm{P} \\rightarrow 1 ; \\mathrm{Q} \\rightarrow 3 ; \\mathrm{R} \\rightarrow 2 ; \\mathrm{S} \\rightarrow 4$",
         "D": "$\\mathrm{P} \\rightarrow 2 ; \\mathrm{Q} \\rightarrow 5 ; \\mathrm{R} \\rightarrow 3 ; \\mathrm{S} \\rightarrow 4$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The circuit shown in the figure contains an inductor $L$, a capacitor $C_0$, a resistor $R_0$ and an ideal battery. The circuit also contains two keys $\\mathrm{K}_1$ and $\\mathrm{K}_2$. Initially, both the keys are open and there is no charge on the capacitor. At an instant, key $\\mathrm{K}_1$ is closed and immediately after this the current in $R_0$ is found to be $I_1$. After a long time, the current attains a steady state value $I_2$. Thereafter, $\\mathrm{K}_2$ is closed and simultaneously $\\mathrm{K}_1$ is opened and the voltage across $C_0$ oscillates with amplitude $V_0$ and angular frequency $\\omega_0$. \n\n\n\nMatch the quantities mentioned in List-I with their values in List-II and choose the correct option. \n\n\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        body[data-theme='dark'] th, body[data-theme='dark'] td {\n            border: 1px solid white;\n        }\n    \n    \n        \n            List-I\n            List-II\n        \n    \n    \n        \n            (P) The value of $I_1$ in Ampere is\n            (1) $0$\n        \n        \n            (Q) The value of $I_2$ in Ampere is\n            (2) $2$\n        \n        \n            (R) The value of $\\omega_0$ in kilo-radians/s is\n            (3) $4$\n        \n        \n            (S) The value of $V_0$ in Volt is\n            (4) $20$\n        \n        \n            \n            (5) $200$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     }
   ]
 }

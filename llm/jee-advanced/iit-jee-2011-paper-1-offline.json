@@ -8,1555 +8,1875 @@
   },
   "questions": [
     {
+      "question_number": 1,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 1,
-      "question_text": "The correct statement(s) pertaining to the adsorption of a gas on a solid surface is (are)",
       "subject": "Chemistry",
       "topic": "surface-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The correct statement(s) pertaining to the adsorption of a gas on a solid surface is (are)",
+      "question_images": [],
+      "option_texts": {
         "A": "Adsorption is always exothermic",
         "B": "Physisorption may transform into chemisorption at high temperature",
         "C": "Physisorption increases with increasing temperature but chemisorption decreases with increasing temperature",
         "D": "Chemisorption is more exothermic than physisorption, however it is very slow due to higher energy of activation"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The correct statement(s) pertaining to the adsorption of a gas on a solid surface is (are)",
-      "isOutOfSyllabus": false,
       "marks": 2,
-      "negMarks": 0.5
+      "negMarks": 0.5,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 2,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 2,
-      "question_text": "Geometrical shapes of the complexes formed by the reaction of Ni2+ with Cl-, CN- and H2O respectively are",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Geometrical shapes of the complexes formed by the reaction of Ni2+ with Cl-, CN- and H2O respectively are",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwa8ndl4/136534ad-5ed1-4acf-9437-d4ecae537eb5/33b74080-140e-11ef-b832-45495dac3ddc/file-6y3zli1lwa8ndl5.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwa8pogu/53236dd3-1318-4e18-bf22-11c9957c6d10/73bd53e0-140e-11ef-b832-45495dac3ddc/file-6y3zli1lwa8pogv.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwa8pl73/f51df998-553b-4431-bcc6-6d043b35a4a0/713681f0-140e-11ef-b832-45495dac3ddc/file-6y3zli1lwa8pl74.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwa8vr2g/960782fd-8f4e-4e9f-bc6c-b76f59d109cf/1c9a6480-140f-11ef-b832-45495dac3ddc/file-6y3zli1lwa8vr2h.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwa94cbg/ab3871e0-bb1a-4a9c-99f0-da2c1e55d95e/0b7dc9c0-1410-11ef-b832-45495dac3ddc/file-6y3zli1lwa94cbh.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwa96i5z/f9a1e710-3bc7-484b-a058-c17c40925348/47a08870-1410-11ef-b832-45495dac3ddc/file-6y3zli1lwa96i60.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwa9884m/79bde9e8-a3c7-4d24-922f-c0f2adef3103/777dcc60-1410-11ef-b832-45495dac3ddc/file-6y3zli1lwa9884n.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwa9aknb/06995818-6cfc-4bbe-bb3e-b6c9a97bd691/b8c7d170-1410-11ef-b832-45495dac3ddc/file-6y3zli1lwa9aknc.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwa9d6f9/76d3a378-4391-4f33-8f7c-6119cfb96feb/01389660-1411-11ef-b832-45495dac3ddc/file-6y3zli1lwa9d6fa.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwa9hhe6/73c80c0e-8fe6-4d5f-af9c-2b93b7a12c79/78ee56e0-1411-11ef-b832-45495dac3ddc/file-6y3zli1lwa9hhe7.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwa9he9m/64ddfce2-e55e-427b-b2e9-abb60ad6ef17/768434b0-1411-11ef-b832-45495dac3ddc/file-6y3zli1lwa9he9n.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lwa9haaw/4cc4a62f-3abb-4a78-897f-29b2f49d0bfd/73740e80-1411-11ef-b832-45495dac3ddc/file-6y3zli1lwa9haax.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "octahedral, tetrahedral and square planar",
         "B": "tetrahedral, square planar and octahedral",
         "C": "square planar, tetrahedral, and octahedral",
         "D": "octahedral, square planar and octahedral"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Geometrical shapes of the complexes formed by the reaction of Ni^{2+} with Cl^{-}, CN^{-} and H_{2}O respectively are",
-      "isOutOfSyllabus": false,
       "marks": 2,
-      "negMarks": 0.5
+      "negMarks": 0.5,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 3,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 3,
-      "question_text": "According to kinetic theory of gases",
       "subject": "Chemistry",
       "topic": "gaseous-state",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "According to kinetic theory of gases",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03wblkt/99cb1cbd-d1a1-4cc3-afc8-2dbe27a1e4a9/283faad0-5fc2-11ef-9c8f-2bd8696d9aab/file-jaoe38c1m03wblku.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "collisions are always elastic",
         "B": "heavier molecules transfer more momentum to the wall of the container",
         "C": "only a small number molecules have very high velocity",
         "D": "between collisions, the molecules move in straight line with constant velocity"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "According to kinetic theory of gases",
-      "isOutOfSyllabus": false,
       "marks": 2,
-      "negMarks": 0.5
+      "negMarks": 0.5,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 4,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 4,
-      "question_text": "To an evacuated vessel with movable piston under external pressure of 1 atm, 0.1 mol of He and 1.0 mol of an unknown compound (vapour pressure 0.68 atm, at 0oC) are introduced. Considering the ideal gas behaviour, the total volume (in litre) of the gases at 0oC is close to",
       "subject": "Chemistry",
       "topic": "gaseous-state",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "To an evacuated vessel with movable piston under external pressure of 1 atm, 0.1 mol of He and 1.0 mol of an unknown compound (vapour pressure 0.68 atm, at 0oC) are introduced. Considering the ideal gas behaviour, the total volume (in litre) of the gases at 0oC is close to",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "To an evacuated vessel with movable piston under external pressure of 1 atm, 0.1 mol of He and 1.0 mol of an unknown compound (vapour pressure 0.68 atm, at 0^{o}C) are introduced. Considering the ideal gas behaviour, the total volume (in litre) of the gases at 0^{o}C is close to",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 5,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 5,
-      "question_text": "Among the following compounds, the most acidic is",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Among the following compounds, the most acidic is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m04mbpr4/19eeb5df-b1e8-4bcf-b5ad-6e99989cecd8/d8d4f200-6027-11ef-a1c9-9b299e7750eb/file-jaoe38c1m04mbpr5.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m04mbkt2/371b5d3c-346f-4248-8b82-8f28a515e3c1/d502db60-6027-11ef-a1c9-9b299e7750eb/file-jaoe38c1m04mbkt3.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m04mbgbl/92990bd4-a7e5-4779-9ed6-b50b254f8919/d18bdd10-6027-11ef-a1c9-9b299e7750eb/file-jaoe38c1m04mbgbm.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m04mbbzs/a03c8af1-2e99-4ee6-9fac-7673bd297483/ce33ff80-6027-11ef-a1c9-9b299e7750eb/file-jaoe38c1m04mbbzt.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m04mfip1/19fb6190-286b-49e4-9835-c4ec26185e4c/429dc950-6028-11ef-a1c9-9b299e7750eb/file-jaoe38c1m04mfip2.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m04mhixj/2f1b0fa4-48c5-4504-983a-95f19d93d959/7a6ac270-6028-11ef-a1c9-9b299e7750eb/file-jaoe38c1m04mhixk.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m04mk1qs/afe4afe6-3e81-4147-a647-1dd8ffcaba5f/c0914940-6028-11ef-a1c9-9b299e7750eb/file-jaoe38c1m04mk1qt.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "p-nitrophenol",
         "B": "p-hydroxybenzoic acid",
         "C": "o-hydroxybenzoic acid",
         "D": "p-toluic acid"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Among the following compounds, the most acidic is",
-      "isOutOfSyllabus": false,
       "marks": 1,
-      "negMarks": 0.25
+      "negMarks": 0.25,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 6,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 6,
-      "question_text": "Dissolving 120 g of urea (mol. wt. 60) in 1000 g of water gave a solution of density 1.15 g/mL. The molarity of the solution is",
       "subject": "Chemistry",
       "topic": "some-basic-concepts-of-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Dissolving 120 g of urea (mol. wt. 60) in 1000 g of water gave a solution of density 1.15 g/mL. The molarity of the solution is",
+      "question_images": [],
+      "option_texts": {
         "A": "1.78 M",
         "B": "2.00 M",
         "C": "2.05 M",
         "D": "2.22 M"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Dissolving 120 g of urea (mol. wt. 60) in 1000 g of water gave a solution of density 1.15 g/mL. The molarity of the solution is",
-      "isOutOfSyllabus": false,
       "marks": 1,
-      "negMarks": 0.25
+      "negMarks": 0.25,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 7,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 7,
-      "question_text": "Extraction of metal from the ore cassiterite involves",
       "subject": "Chemistry",
       "topic": "isolation-of-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Extraction of metal from the ore cassiterite involves",
+      "question_images": [],
+      "option_texts": {
         "A": "carbon reduction of an oxide ore",
         "B": "self-reduction of a sulphide ore",
         "C": "removal of copper impurity",
         "D": "removal of iron impurity"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Extraction of metal from the ore cassiterite involves",
-      "isOutOfSyllabus": false,
       "marks": 2,
-      "negMarks": 0.5
+      "negMarks": 0.5,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2011,
-      "exam_type": "IIT JEE",
-      "shift": 1,
       "question_number": 8,
+      "year": 2011,
+      "exam_type": "IIT JEE",
+      "shift": 1,
+      "subject": "Chemistry",
+      "topic": "structure-of-atom",
+      "sub_topic": "physical-chemistry",
       "question_text": "The maximum number of electrons that can have principal quantum number, n = 3, and spin quantum number, ms = − 1/2 , is",
-      "subject": "Chemistry",
-      "topic": "structure-of-atom",
-      "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The maximum number of electrons that can have principal quantum number, n = 3, and spin quantum number, m_{s} = − 1/2 , is",
-      "isOutOfSyllabus": false,
       "marks": 2,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 9,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 9,
-      "question_text": "The work function\n( φ )\nof some metals is listed below. The number of metals which will show\nphotoelectric effect when light of 300 nm wavelength falls on the metal is\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg .tg-s6z2{text-align:center}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-yw4l{vertical-align:top}\n\n\n  \n    Metal\n    Li\n    Na\n    K\n    Mg\n    Cu\n    Ag\n    Fe\n    Pt\n    W\n  \n  \n    Ф (eV)\n    2.4\n    2.3\n    2.2\n    3.7\n    4.8\n    4.3\n    4.7\n    6.3\n    4.75",
       "subject": "Chemistry",
       "topic": "structure-of-atom",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The work function\n( φ )\nof some metals is listed below. The number of metals which will show\nphotoelectric effect when light of 300 nm wavelength falls on the metal is\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg .tg-s6z2{text-align:center}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-yw4l{vertical-align:top}\n\n\n  \n    Metal\n    Li\n    Na\n    K\n    Mg\n    Cu\n    Ag\n    Fe\n    Pt\n    W\n  \n  \n    Ф (eV)\n    2.4\n    2.3\n    2.2\n    3.7\n    4.8\n    4.3\n    4.7\n    6.3\n    4.75",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The work function\n( φ )\nof some metals is listed below. The number of metals which will show\nphotoelectric effect when light of 300 nm wavelength falls on the metal is\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg .tg-s6z2{text-align:center}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-yw4l{vertical-align:top}\n\n\n  \n    Metal\n    Li\n    Na\n    K\n    Mg\n    Cu\n    Ag\n    Fe\n    Pt\n    W\n  \n  \n    Ф (eV)\n    2.4\n    2.3\n    2.2\n    3.7\n    4.8\n    4.3\n    4.7\n    6.3\n    4.75",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 10,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 10,
-      "question_text": "The difference in the oxidation numbers of the two types of sulphur atoms in Na2S4O6 is",
       "subject": "Chemistry",
       "topic": "redox-reactions",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The difference in the oxidation numbers of the two types of sulphur atoms in Na2S4O6 is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m04mqqmg/eef15739-e06e-4bae-b2cf-71fe14771757/7aa42c80-6029-11ef-a1c9-9b299e7750eb/file-jaoe38c1m04mqqmh.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The difference in the oxidation numbers of the two types of sulphur atoms in Na_{2}S_{4}O_{6} is",
-      "isOutOfSyllabus": false,
       "marks": 2,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 11,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 11,
-      "question_text": "Bombardment of aluminium by $$\\alpha$$-particle leads to its artificial disintegration in two ways : (i) and (ii) as shown. Products X, Y and Z, respectively, are",
       "subject": "Chemistry",
       "topic": "chemical-kinetics-and-nuclear-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Bombardment of aluminium by $$\\alpha$$-particle leads to its artificial disintegration in two ways : (i) and (ii) as shown. Products X, Y and Z, respectively, are",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03txpdu/f16b4d3b-832a-4f38-bb06-6a08df3f4f6f/d39a4a20-5fb8-11ef-86b4-fd90d6602aa3/file-jaoe38c1m03txpdv.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "proton, neutron, positron.",
         "B": "neutron, positron, proton.",
         "C": "proton, positron, neutron.",
         "D": "positron, proton, neutron, neutron."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Bombardment of aluminium by $$\\alpha$$-particle leads to its artificial disintegration in two ways : (i) and (ii) as shown. Products X, Y and Z, respectively, are",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 12,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 12,
-      "question_text": "AgNO3(aq.) was added to an aqueous KCl solution gradually and the conductivity of the solution was measured. The plot of conductance ($$\\Lambda $$) versus the volume of AgNO3 is",
       "subject": "Chemistry",
       "topic": "electrochemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "AgNO3(aq.) was added to an aqueous KCl solution gradually and the conductivity of the solution was measured. The plot of conductance ($$\\Lambda $$) versus the volume of AgNO3 is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03tmk82/23ae5773-0525-484f-8cf6-3b03a8939bce/9db73c20-5fb7-11ef-86b4-fd90d6602aa3/file-jaoe38c1m03tmk83.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03tsrrs/afeafcb6-3213-4791-a909-7c0d2dc1bfd9/4a66b180-5fb8-11ef-86b4-fd90d6602aa3/file-jaoe38c1m03tsrrt.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "(P)",
         "B": "(Q)",
         "C": "(R)",
         "D": "(S)"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "AgNO_{3}(aq.) was added to an aqueous KCl solution gradually and the conductivity of the solution was measured. The plot of conductance ($$\\Lambda $$) versus the volume of AgNO_{3} is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 13,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 13,
-      "question_text": "The major product of the following reaction is",
       "subject": "Chemistry",
       "topic": "compounds-containing-nitrogen",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The major product of the following reaction is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03ul4vj/74416980-8994-443b-9d98-aca9b568a5f1/5f2e07f0-5fbb-11ef-9855-9198f428b4b2/file-jaoe38c1m03ul4vk.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03up63w/9ad29459-755a-442f-862a-1c2abcce3d8d/cf5e46c0-5fbb-11ef-9855-9198f428b4b2/file-jaoe38c1m03up63x.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03up4e9/ce5dd523-f93c-4940-a222-dc0fce69956e/ce0baf10-5fbb-11ef-9855-9198f428b4b2/file-jaoe38c1m03up4ea.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03ut9em/c0ea60ba-9448-449c-87ea-64584f8dee07/4126ffe0-5fbc-11ef-9855-9198f428b4b2/file-jaoe38c1m03ut9en.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03ul29z/1a627a93-ff0f-4da1-aee8-2a77c4e9958e/5d2c1d70-5fbb-11ef-9855-9198f428b4b2/file-jaoe38c1m03ul2a0.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03ukzer/e9331c81-264b-490e-9542-56087d912c0a/5af54040-5fbb-11ef-9855-9198f428b4b2/file-jaoe38c1m03ukzes.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03ukwpo/b4a153ab-997e-44cb-ab9c-b8209236d3e8/58dfcdc0-5fbb-11ef-9855-9198f428b4b2/file-jaoe38c1m03ukwpp.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03uku2g/ad394f98-d4d3-4344-9e76-bf3c13c8c127/56d4bb80-5fbb-11ef-9855-9198f428b4b2/file-jaoe38c1m03uku2h.png",
+          "description": ""
+        }
+      },
       "correct_answer": "A",
-      "question": "The major product of the following reaction is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 14,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 14,
-      "question_text": "Extra very pure N2 can be obtained by heating",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Extra very pure N2 can be obtained by heating",
+      "question_images": [],
+      "option_texts": {
         "A": "NH_{3} with CuO",
         "B": "NH_{4}NO_{3}",
         "C": "(NH_{4})_{2}CrO_{7}",
         "D": "Ba(N_{3})_{2}"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Extra very pure N_{2} can be obtained by heating",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 15,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 15,
-      "question_text": "Among the given options, the compound(s) in which all the atoms are in one plane in all the possible conformations (if any) is(are)",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Among the given options, the compound(s) in which all the atoms are in one plane in all the possible conformations (if any) is(are)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03vyzbu/9380c763-cbf8-4064-bafc-a2ad6142e802/c95a1ba0-5fc0-11ef-9c8f-2bd8696d9aab/file-jaoe38c1m03vyzbv.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03vyx2z/2343a397-6da1-4fc2-9a9b-2ca85ece03e8/c79decb0-5fc0-11ef-9c8f-2bd8696d9aab/file-jaoe38c1m03vyx30.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "H_{2}C = C = 0",
         "D": "H_{2}C = C = CH_{2}"
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03vw8nb/cba50654-1016-455e-b919-c5a83653b26a/7d1f7d70-5fc0-11ef-9c8f-2bd8696d9aab/file-jaoe38c1m03vw8nc.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03vw63p/ab0b5c26-4c85-4f82-8653-3559f9cdb2da/7b284150-5fc0-11ef-9c8f-2bd8696d9aab/file-jaoe38c1m03vw63q.png",
+          "description": ""
+        }
+      },
       "correct_answer": "B",
-      "question": "Among the given options, the compound(s) in which all the atoms are in one plane in all the possible conformations (if any) is(are)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 16,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 16,
-      "question_text": "The structure of compound P is",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The structure of compound P is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03vhpyz/3cb913c9-15f5-4091-ae2a-5834f6fe7536/e95e48b0-5fbe-11ef-9c8f-2bd8696d9aab/file-jaoe38c1m03vhpz0.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03vhn9q/c712764f-0b8b-47f8-b66a-d315323e3919/e74812e0-5fbe-11ef-9c8f-2bd8696d9aab/file-jaoe38c1m03vhn9r.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03vr3lu/27c55477-48e6-4b41-a16c-b51747fb2b91/ee2eee20-5fbf-11ef-9c8f-2bd8696d9aab/file-jaoe38c1m03vr3lv.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03vsmmc/54746e98-3b9a-4430-8e92-6382e28a66b9/18ae2440-5fc0-11ef-9c8f-2bd8696d9aab/file-jaoe38c1m03vsmmd.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "CH_{3}CH_{2}CH_{2}CH_{2} $$-$$ C $$\\equiv$$ C $$-$$ H",
         "B": "H_{3}CH_{2}C $$-$$ C $$\\equiv$$ C $$-$$ CH_{2}CH_{3}",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03vmefp/e66f1989-227f-480d-ae5e-0dde4ebc3150/6b80cc50-5fbf-11ef-9c8f-2bd8696d9aab/file-jaoe38c1m03vmefq.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03vmcej/7c1561d3-388d-41c5-ab50-22a4377783ef/69eee1b0-5fbf-11ef-9c8f-2bd8696d9aab/file-jaoe38c1m03vmcek.png",
+          "description": ""
+        }
+      },
       "correct_answer": "D",
-      "question": "The structure of compound P is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 17,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 17,
-      "question_text": "The structure of the compound Q is",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The structure of the compound Q is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03vhpyz/3cb913c9-15f5-4091-ae2a-5834f6fe7536/e95e48b0-5fbe-11ef-9c8f-2bd8696d9aab/file-jaoe38c1m03vhpz0.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03vhn9q/c712764f-0b8b-47f8-b66a-d315323e3919/e74812e0-5fbe-11ef-9c8f-2bd8696d9aab/file-jaoe38c1m03vhn9r.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03v8s1e/3c52f827-9ad6-4db5-b70b-8c8dfa185135/f0aecd20-5fbd-11ef-9c8f-2bd8696d9aab/file-jaoe38c1m03v8s1f.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03v8ovk/02cfc701-0359-4b00-96dd-2755e1e0e0ce/ee3d7f00-5fbd-11ef-9c8f-2bd8696d9aab/file-jaoe38c1m03v8ovl.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03v8lux/b556d916-ea35-4ba5-acf8-a5f41b98c1b8/ebe8e0a0-5fbd-11ef-9c8f-2bd8696d9aab/file-jaoe38c1m03v8luy.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03v8j1c/e67bc1bc-c880-424b-b9dc-7051313915a3/e9ba8ef0-5fbd-11ef-9c8f-2bd8696d9aab/file-jaoe38c1m03v8j1d.png",
+          "description": ""
+        }
+      },
       "correct_answer": "B",
-      "question": "The structure of the compound Q is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 18,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 18,
-      "question_text": "The metal rod M is",
       "subject": "Chemistry",
       "topic": "salt-analysis",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The metal rod M is",
+      "question_images": [],
+      "option_texts": {
         "A": "Fe",
         "B": "Cu",
         "C": "Ni",
         "D": "Co"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The metal rod M is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 19,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 19,
-      "question_text": "The compound N is",
       "subject": "Chemistry",
       "topic": "salt-analysis",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The compound N is",
+      "question_images": [],
+      "option_texts": {
         "A": "AgNO_{3}",
         "B": "Zn(NO_{3})_{2}",
         "C": "Al(NO_{3})_{3}",
         "D": "Pb(NO_{3})_{2}"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The compound N is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 20,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 20,
-      "question_text": "The final solution contains :",
       "subject": "Chemistry",
       "topic": "salt-analysis",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The final solution contains :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${[Pb{(N{H_3})_4}]^{2 + }}$$ and $${[CoC{l_2}]^{2 - }}$$",
         "B": "$${[Al{(N{H_3})_4}]^{3 + }}$$ and $${[Cu{(N{H_3})_4}]^{2 + }}$$",
         "C": "$${[Ag{(N{H_3})_2}]^ + }$$ and $${[Cu{(N{H_3})_4}]^{2 + }}$$",
         "D": "$${[Ag{(N{H_3})_2}]^ + }$$ and $${[Ni{(N{H_3})_6}]^{2 + }}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The final solution contains :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 21,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 21,
-      "question_text": "Reaction of Br2 with Na2CO3 in aqueous solution gives sodium bromide and sodium bromate with evolution of CO2 gas. The number of sodium bromide molecules involved in the balanced chemical equation is ________.",
       "subject": "Chemistry",
       "topic": "s-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Reaction of Br2 with Na2CO3 in aqueous solution gives sodium bromide and sodium bromate with evolution of CO2 gas. The number of sodium bromide molecules involved in the balanced chemical equation is ________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Reaction of Br_{2} with Na_{2}CO_{3} in aqueous solution gives sodium bromide and sodium bromate with evolution of CO_{2} gas. The number of sodium bromide molecules involved in the balanced chemical equation is ________.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 22,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 22,
-      "question_text": "The total number of alkenes possible by dehydrobromination of 3-bromo-3-cyclopentylhexane using alcoholic KOH is _______.",
       "subject": "Chemistry",
       "topic": "hydrocarbons",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The total number of alkenes possible by dehydrobromination of 3-bromo-3-cyclopentylhexane using alcoholic KOH is _______.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lh4qs3bg/37084bb5-0302-4e8b-b01b-48367402ea9e/2892f0c0-e811-11ed-8e58-b75ca46f959b/file-1lh4qs3bh.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lh4qwq76/7ba176d5-e6fd-4c54-81a0-df91096373ea/a97c5820-e811-11ed-8e58-b75ca46f959b/file-1lh4qwq77.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lh4qxag3/12d885f1-5807-409f-bc6c-f2278b7a3b34/b9206730-e811-11ed-a20e-7175d6544f78/file-1lh4qxag4.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lh4r3s85/39113a58-98f9-4cce-bcf7-ba9761164699/6db72d50-e812-11ed-a20e-7175d6544f78/file-1lh4r3s86.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lh4rm8vw/f69a5079-106b-4f8b-a5e6-1ec6824c0f8e/6f2662d0-e814-11ed-a20e-7175d6544f78/file-1lh4rm8vx.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lh4rc1at/91c0d433-1dcf-43e1-ba4d-49811fe610dc/5332bc50-e813-11ed-a20e-7175d6544f78/file-1lh4rc1au.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lh4rh9o5/0dc336ac-0f3d-469f-8180-f0c95f74ed50/e4b5b650-e813-11ed-a20e-7175d6544f78/file-1lh4rh9o6.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lh4r8ect/d05f8eba-7b95-45f0-9332-ce77ba9a2e86/ee0bf5d0-e812-11ed-a20e-7175d6544f78/file-1lh4r8ecu.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The total number of alkenes possible by dehydrobromination of 3-bromo-3-cyclopentylhexane using alcoholic KOH is _______.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 23,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 23,
-      "question_text": "A decapeptide (mol. wt. 796) on complete hydrolysis gives glycine (mol. wt. 75), alanine and phenylalanine. Glycine contributes 47.0% to the total weight of the hydrolysed products. The number of glycine units present in the decapeptide is _________.",
       "subject": "Chemistry",
       "topic": "biomolecules",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A decapeptide (mol. wt. 796) on complete hydrolysis gives glycine (mol. wt. 75), alanine and phenylalanine. Glycine contributes 47.0% to the total weight of the hydrolysed products. The number of glycine units present in the decapeptide is _________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03i29tb/b5f6a201-2e6f-4c66-8607-e2feb1cdab30/651204e0-5f8a-11ef-a92c-8f15fdc0f3e6/file-jaoe38c1m03i29tc.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A decapeptide (mol. wt. 796) on complete hydrolysis gives glycine (mol. wt. 75), alanine and phenylalanine. Glycine contributes 47.0% to the total weight of the hydrolysed products. The number of glycine units present in the decapeptide is _________.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 24,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 24,
-      "question_text": "If z is any complex number satisfying $$\\,\\left| {z - 3 - 2i} \\right| \\le 2$$, then the minimum value of $$\\left| {2z - 6 + 5i} \\right|$$ is",
       "subject": "Mathematics",
       "topic": "complex-numbers",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "If z is any complex number satisfying $$\\,\\left| {z - 3 - 2i} \\right| \\le 2$$, then the minimum value of $$\\left| {2z - 6 + 5i} \\right|$$ is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l6dtinbd/fae37b1b-73e3-44b0-a634-d1151df462e0/89fe7080-1348-11ed-9cc4-f300f8094d19/file-1l6dtinbe.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "If z is any complex number satisfying $$\\,\\left| {z - 3 - 2i} \\right| \\le 2$$, then the minimum value of $$\\left| {2z - 6 + 5i} \\right|$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 25,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 25,
-      "question_text": "The positive integer value of $$n\\, > \\,3$$ satisfying the equation $${1 \\over {\\sin \\left( {{\\pi  \\over n}} \\right)}} = {1 \\over {\\sin \\left( {{{2\\pi } \\over n}} \\right)}} + {1 \\over {\\sin \\left( {{{3\\pi } \\over n}} \\right)}}$$ is",
       "subject": "Mathematics",
       "topic": "trigonometric-functions-and-equations",
       "sub_topic": "trigonometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The positive integer value of $$n\\, > \\,3$$ satisfying the equation $${1 \\over {\\sin \\left( {{\\pi  \\over n}} \\right)}} = {1 \\over {\\sin \\left( {{{2\\pi } \\over n}} \\right)}} + {1 \\over {\\sin \\left( {{{3\\pi } \\over n}} \\right)}}$$ is",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The positive integer value of $$n\\, > \\,3$$ satisfying the equation $${1 \\over {\\sin \\left( {{\\pi  \\over n}} \\right)}} = {1 \\over {\\sin \\left( {{{2\\pi } \\over n}} \\right)}} + {1 \\over {\\sin \\left( {{{3\\pi } \\over n}} \\right)}}$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2011,
-      "exam_type": "IIT JEE",
-      "shift": 1,
       "question_number": 26,
-      "question_text": "The minimum value of the sum of real numbers $${a^{ - 5}},\\,{a^{ - 4}},\\,3{a^{ - 3}},\\,1,\\,{a^8}$$ and $${a^{10}}$$ where $$a > 0$$ is",
-      "subject": "Mathematics",
-      "topic": "quadratic-equation-and-inequalities",
-      "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
-      "correct_answer": "",
-      "question": "The minimum value of the sum of real numbers $${a^{ - 5}},\\,{a^{ - 4}},\\,3{a^{ - 3}},\\,1,\\,{a^8}$$ and $${a^{10}}$$ where $$a > 0$$ is",
-      "isOutOfSyllabus": false,
-      "marks": 4,
-      "negMarks": 1
-    },
-    {
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 27,
-      "question_text": "Let $$\\alpha $$ and $$\\beta $$  be the roots of $${x^2} - 6x - 2 = 0,$$ with $$\\alpha  > \\beta .$$  If $${a_n} = {\\alpha ^n} - {\\beta ^n}$$  for $$\\,n \\ge 1$$ then the value of $${{{a_{10}} - 2{a_8}} \\over {2{a_9}}}$$  is",
       "subject": "Mathematics",
       "topic": "quadratic-equation-and-inequalities",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The minimum value of the sum of real numbers $${a^{ - 5}},\\,{a^{ - 4}},\\,3{a^{ - 3}},\\,1,\\,{a^8}$$ and $${a^{10}}$$ where $$a > 0$$ is",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
+      "correct_answer": "",
+      "marks": 4,
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
+    },
+    {
+      "question_number": 27,
+      "year": 2011,
+      "exam_type": "IIT JEE",
+      "shift": 1,
+      "subject": "Mathematics",
+      "topic": "quadratic-equation-and-inequalities",
+      "sub_topic": "algebra",
+      "question_text": "Let $$\\alpha $$ and $$\\beta $$  be the roots of $${x^2} - 6x - 2 = 0,$$ with $$\\alpha  > \\beta .$$  If $${a_n} = {\\alpha ^n} - {\\beta ^n}$$  for $$\\,n \\ge 1$$ then the value of $${{{a_{10}} - 2{a_8}} \\over {2{a_9}}}$$  is",
+      "question_images": [],
+      "option_texts": {
         "A": "1",
         "B": "2",
         "C": "3",
         "D": "4"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let $$\\alpha $$ and $$\\beta $$  be the roots of $${x^2} - 6x - 2 = 0,$$ with $$\\alpha  > \\beta .$$  If $${a_n} = {\\alpha ^n} - {\\beta ^n}$$  for $$\\,n \\ge 1$$ then the value of $${{{a_{10}} - 2{a_8}} \\over {2{a_9}}}$$  is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 28,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 28,
-      "question_text": "Let $$\\left( {{x_0},{y_0}} \\right)$$ be the solution  of the following equations \n\n$$\\matrix{\n   {{{\\left( {2x} \\right)}^{\\ell n2}}\\, = {{\\left( {3y} \\right)}^{\\ell n3}}}  \\cr \n   {{3^{\\ell nx}}\\, = {2^{\\ell ny}}}  \\cr \n\n } $$\n\nThen $${x_0}$$ is",
       "subject": "Mathematics",
       "topic": "quadratic-equation-and-inequalities",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$\\left( {{x_0},{y_0}} \\right)$$ be the solution  of the following equations \n\n$$\\matrix{\n   {{{\\left( {2x} \\right)}^{\\ell n2}}\\, = {{\\left( {3y} \\right)}^{\\ell n3}}}  \\cr \n   {{3^{\\ell nx}}\\, = {2^{\\ell ny}}}  \\cr \n\n } $$\n\nThen $${x_0}$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "$${1 \\over 6}$$",
         "B": "$${1 \\over 3}$$",
         "C": "$${1 \\over 2}$$",
         "D": "$$6$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let $$\\left( {{x_0},{y_0}} \\right)$$ be the solution  of the following equations \n$$\\matrix{\n   {{{\\left( {2x} \\right)}^{\\ell n2}}\\, = {{\\left( {3y} \\right)}^{\\ell n3}}}  \\cr \n   {{3^{\\ell nx}}\\, = {2^{\\ell ny}}}  \\cr \n\n } $$\nThen $${x_0}$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 29,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 29,
-      "question_text": "Let $${{a_1}}$$, $${{a_2}}$$, $${{a_3}}$$........ $${{a_{100}}}$$ be an arithmetic progression with $${{a_1}}$$ = 3 and $${S_p} = \\sum\\limits_{i = 1}^p {{a_i},1 \\le } \\,p\\, \\le 100$$. For any integer n with $$1\\,\\, \\le \\,n\\, \\le 20$$, let m = 5n. If $${{{S_m}} \\over {{S_n}}}$$ does not depend on n, then $${a_{2\\,}}$$ is",
       "subject": "Mathematics",
       "topic": "sequences-and-series",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $${{a_1}}$$, $${{a_2}}$$, $${{a_3}}$$........ $${{a_{100}}}$$ be an arithmetic progression with $${{a_1}}$$ = 3 and $${S_p} = \\sum\\limits_{i = 1}^p {{a_i},1 \\le } \\,p\\, \\le 100$$. For any integer n with $$1\\,\\, \\le \\,n\\, \\le 20$$, let m = 5n. If $${{{S_m}} \\over {{S_n}}}$$ does not depend on n, then $${a_{2\\,}}$$ is",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $${{a_1}}$$, $${{a_2}}$$, $${{a_3}}$$........ $${{a_{100}}}$$ be an arithmetic progression with $${{a_1}}$$ = 3 and $${S_p} = \\sum\\limits_{i = 1}^p {{a_i},1 \\le } \\,p\\, \\le 100$$. For any integer n with $$1\\,\\, \\le \\,n\\, \\le 20$$, let m = 5n. If $${{{S_m}} \\over {{S_n}}}$$ does not depend on n, then $${a_{2\\,}}$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 30,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 30,
-      "question_text": "A straight line $$L$$ through the point $$(3, -2)$$ is inclined at an angle $${60^ \\circ }$$ to the line $$\\sqrt {3x}  + y = 1.$$ If $$L$$ also intersects the x-axis, then the equation of $$L$$ is",
       "subject": "Mathematics",
       "topic": "straight-lines-and-pair-of-straight-lines",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A straight line $$L$$ through the point $$(3, -2)$$ is inclined at an angle $${60^ \\circ }$$ to the line $$\\sqrt {3x}  + y = 1.$$ If $$L$$ also intersects the x-axis, then the equation of $$L$$ is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l6dtnvpv/3b656be4-a236-48b5-9c56-15fb315aee8d/1b87fa30-1349-11ed-9cc4-f300f8094d19/file-1l6dtnvpw.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$y + \\sqrt {3x}  + 2 - 3\\sqrt 3  = 0$$",
         "B": "$$y - \\sqrt {3x}  + 2 + 3\\sqrt 3  = 0$$",
         "C": "$$\\sqrt {3y}  - x + 3 + 2\\sqrt 3  = 0$$",
         "D": "$$\\sqrt {3y}  + x - 3 + 2\\sqrt 3  = 0$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A straight line $$L$$ through the point $$(3, -2)$$ is inclined at an angle $${60^ \\circ }$$ to the line $$\\sqrt {3x}  + y = 1.$$ If $$L$$ also intersects the x-axis, then the equation of $$L$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 31,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 31,
-      "question_text": "Let the eccentricity of the hyperbola $${{{x^2}} \\over {{a^2}}} - {{{y^2}} \\over {{b^2}}} = 1$$ be reciprocal to that of the ellipse $${x^2} + 4{y^2} = 4$$. If the hyperbola passes through a focus of the ellipse, then",
       "subject": "Mathematics",
       "topic": "hyperbola",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let the eccentricity of the hyperbola $${{{x^2}} \\over {{a^2}}} - {{{y^2}} \\over {{b^2}}} = 1$$ be reciprocal to that of the ellipse $${x^2} + 4{y^2} = 4$$. If the hyperbola passes through a focus of the ellipse, then",
+      "question_images": [],
+      "option_texts": {
         "A": "the equation of the hyperbola is $${{{x^2}} \\over 3} - {{{y^2}} \\over 2} = 1$$",
         "B": "a focus of the hyperbola is $$(2, 0)$$",
         "C": "theeccentricity of the hyperbola is $$\\sqrt {{5 \\over 3}} $$",
         "D": "The equation of the hyperbola is $${x^2} - 3{y^2} = 3$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Let the eccentricity of the hyperbola $${{{x^2}} \\over {{a^2}}} - {{{y^2}} \\over {{b^2}}} = 1$$ be reciprocal to that of the ellipse $${x^2} + 4{y^2} = 4$$. If the hyperbola passes through a focus of the ellipse, then",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 32,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 32,
-      "question_text": "Consider the parabola $${y^2} = 8x$$. Let $${\\Delta _1}$$ be the area of the triangle formed by the end points of its latus rectum and the point $$P\\left( {{1 \\over 2},2} \\right)$$ on the parabola and $${\\Delta _2}$$ be the area of the triangle formed by drawing tangents at $$P$$ and at the end points of the latus rectum. Then $${{{\\Delta _1}} \\over {{\\Delta _2}}}$$ is",
       "subject": "Mathematics",
       "topic": "parabola",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Consider the parabola $${y^2} = 8x$$. Let $${\\Delta _1}$$ be the area of the triangle formed by the end points of its latus rectum and the point $$P\\left( {{1 \\over 2},2} \\right)$$ on the parabola and $${\\Delta _2}$$ be the area of the triangle formed by drawing tangents at $$P$$ and at the end points of the latus rectum. Then $${{{\\Delta _1}} \\over {{\\Delta _2}}}$$ is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l6dtl75v/bab310ad-5e87-4b37-a05f-8e906621588e/d0f1bd30-1348-11ed-9cc4-f300f8094d19/file-1l6dtl75w.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Consider the parabola $${y^2} = 8x$$. Let $${\\Delta _1}$$ be the area of the triangle formed by the end points of its latus rectum and the point $$P\\left( {{1 \\over 2},2} \\right)$$ on the parabola and $${\\Delta _2}$$ be the area of the triangle formed by drawing tangents at $$P$$ and at the end points of the latus rectum. Then $${{{\\Delta _1}} \\over {{\\Delta _2}}}$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 33,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 33,
-      "question_text": "Let $$f\\left( \\theta  \\right) = \\sin \\left( {{{\\tan }^{ - 1}}\\left( {{{\\sin \\theta } \\over {\\sqrt {\\cos 2\\theta } }}} \\right)} \\right),$$ where $$ - {\\pi  \\over 4} < \\theta  < {\\pi  \\over 4}.$$ \nThen the value of $${d \\over {d\\left( {\\tan \\theta } \\right)}}\\left( {f\\left( \\theta  \\right)} \\right)$$ is",
       "subject": "Mathematics",
       "topic": "differentiation",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $$f\\left( \\theta  \\right) = \\sin \\left( {{{\\tan }^{ - 1}}\\left( {{{\\sin \\theta } \\over {\\sqrt {\\cos 2\\theta } }}} \\right)} \\right),$$ where $$ - {\\pi  \\over 4} < \\theta  < {\\pi  \\over 4}.$$ \nThen the value of $${d \\over {d\\left( {\\tan \\theta } \\right)}}\\left( {f\\left( \\theta  \\right)} \\right)$$ is",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $$f\\left( \\theta  \\right) = \\sin \\left( {{{\\tan }^{ - 1}}\\left( {{{\\sin \\theta } \\over {\\sqrt {\\cos 2\\theta } }}} \\right)} \\right),$$ where $$ - {\\pi  \\over 4} < \\theta  < {\\pi  \\over 4}.$$ \nThen the value of $${d \\over {d\\left( {\\tan \\theta } \\right)}}\\left( {f\\left( \\theta  \\right)} \\right)$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 34,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 34,
-      "question_text": "The value of $$\\,\\int\\limits_{\\sqrt {\\ell n2} }^{\\sqrt {\\ell n3} } {{{x\\sin {x^2}} \\over {\\sin {x^2} + \\sin \\left( {\\ell n6 - {x^2}} \\right)}}\\,dx} $$  is",
       "subject": "Mathematics",
       "topic": "definite-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The value of $$\\,\\int\\limits_{\\sqrt {\\ell n2} }^{\\sqrt {\\ell n3} } {{{x\\sin {x^2}} \\over {\\sin {x^2} + \\sin \\left( {\\ell n6 - {x^2}} \\right)}}\\,dx} $$  is",
+      "question_images": [],
+      "option_texts": {
         "A": "$${1 \\over 4}\\,\\ell n{3 \\over 2}$$",
         "B": "$$\\,{1 \\over 2}\\,\\ell n{3 \\over 2}$$",
         "C": "$$\\ell n{3 \\over 2}$$",
         "D": "$$\\,\\,{1 \\over 6}\\,\\ell n{3 \\over 2}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The value of $$\\,\\int\\limits_{\\sqrt {\\ell n2} }^{\\sqrt {\\ell n3} } {{{x\\sin {x^2}} \\over {\\sin {x^2} + \\sin \\left( {\\ell n6 - {x^2}} \\right)}}\\,dx} $$  is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 35,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 35,
-      "question_text": "Let the straight line $$x=b$$ divide the area enclosed by \n\n$$y = {\\left( {1 - x} \\right)^2},y = 0,$$ and $$x=0$$ into two parts $${R_1}\\left( {0 \\le x \\le b} \\right)$$ and \n\n$${R_2}\\left( {b \\le x \\le 1} \\right)$$ such that $${R_1} - {R_2} = {1 \\over 4}.$$ Then $$b$$ equals",
       "subject": "Mathematics",
       "topic": "application-of-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let the straight line $$x=b$$ divide the area enclosed by \n\n$$y = {\\left( {1 - x} \\right)^2},y = 0,$$ and $$x=0$$ into two parts $${R_1}\\left( {0 \\le x \\le b} \\right)$$ and \n\n$${R_2}\\left( {b \\le x \\le 1} \\right)$$ such that $${R_1} - {R_2} = {1 \\over 4}.$$ Then $$b$$ equals",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l6dtq1jb/2ada1f18-5f9b-4641-9a9b-7bc737345e45/57a4c570-1349-11ed-9cc4-f300f8094d19/file-1l6dtq1jc.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${3 \\over 4}$$",
         "B": "$${ 1\\over 2}$$",
         "C": "$${1 \\over 3}$$",
         "D": "$${1 \\over 4}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let the straight line $$x=b$$ divide the area enclosed by \n$$y = {\\left( {1 - x} \\right)^2},y = 0,$$ and $$x=0$$ into two parts $${R_1}\\left( {0 \\le x \\le b} \\right)$$ and \n$${R_2}\\left( {b \\le x \\le 1} \\right)$$ such that $${R_1} - {R_2} = {1 \\over 4}.$$ Then $$b$$ equals",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 36,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 36,
-      "question_text": "The probability  of the drawn ball from $${U_2}$$ being white is",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The probability  of the drawn ball from $${U_2}$$ being white is",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{13} \\over {30}}$$",
         "B": "$${{23} \\over {30}}$$",
         "C": "$${{19} \\over {30}}$$",
         "D": "$${{11} \\over {30}}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The probability  of the drawn ball from $${U_2}$$ being white is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 37,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 37,
-      "question_text": "Given that the drawn ball from $${U_2}$$ is white, the probability that head appeared on the coin is",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Given that the drawn ball from $${U_2}$$ is white, the probability that head appeared on the coin is",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{17} \\over {23}}$$",
         "B": "$${{11} \\over {23}}$$",
         "C": "$${{15} \\over {23}}$$",
         "D": "$${{12} \\over {23}}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Given that the drawn ball from $${U_2}$$ is white, the probability that head appeared on the coin is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 38,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 38,
-      "question_text": "Let $$\\overrightarrow a  = \\widehat i + \\widehat j + \\widehat k,\\,\\overrightarrow b  = \\widehat i - \\widehat j + \\widehat k$$  and $$\\overrightarrow c  = \\widehat i - \\widehat j - \\widehat k$$ be three vectors. A vector $$\\overrightarrow v $$ in the plane of $$\\overrightarrow a $$ and $$\\overrightarrow b ,$$ whose projection on $$\\overrightarrow c $$  is $${{1 \\over {\\sqrt 3 }}}$$ , is given by",
       "subject": "Mathematics",
       "topic": "vector-algebra",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$\\overrightarrow a  = \\widehat i + \\widehat j + \\widehat k,\\,\\overrightarrow b  = \\widehat i - \\widehat j + \\widehat k$$  and $$\\overrightarrow c  = \\widehat i - \\widehat j - \\widehat k$$ be three vectors. A vector $$\\overrightarrow v $$ in the plane of $$\\overrightarrow a $$ and $$\\overrightarrow b ,$$ whose projection on $$\\overrightarrow c $$  is $${{1 \\over {\\sqrt 3 }}}$$ , is given by",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\widehat i - 3\\widehat j + 3\\widehat k$$",
         "B": "$$-3\\widehat i - 3\\widehat j - \\widehat k$$",
         "C": "$$3\\widehat i - \\widehat j + 3\\widehat k$$",
         "D": "$$\\widehat i + 3\\widehat j - 3\\widehat k$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let $$\\overrightarrow a  = \\widehat i + \\widehat j + \\widehat k,\\,\\overrightarrow b  = \\widehat i - \\widehat j + \\widehat k$$  and $$\\overrightarrow c  = \\widehat i - \\widehat j - \\widehat k$$ be three vectors. A vector $$\\overrightarrow v $$ in the plane of $$\\overrightarrow a $$ and $$\\overrightarrow b ,$$ whose projection on $$\\overrightarrow c $$  is $${{1 \\over {\\sqrt 3 }}}$$ , is given by",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 39,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 39,
-      "question_text": "The vector (s) which is/are coplanar with vectors $${\\widehat i + \\widehat j + 2\\widehat k}$$ and $${\\widehat i + 2\\widehat j + \\widehat k,}$$ and perpendicular to the vector $${\\widehat i + \\widehat j + \\widehat k}$$  is/are",
       "subject": "Mathematics",
       "topic": "vector-algebra",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The vector (s) which is/are coplanar with vectors $${\\widehat i + \\widehat j + 2\\widehat k}$$ and $${\\widehat i + 2\\widehat j + \\widehat k,}$$ and perpendicular to the vector $${\\widehat i + \\widehat j + \\widehat k}$$  is/are",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\widehat j - \\widehat k$$",
         "B": "$$-\\widehat i + \\widehat j$$",
         "C": "$$\\widehat i - \\widehat j$$",
         "D": "$$-\\widehat j + \\widehat k$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The vector (s) which is/are coplanar with vectors $${\\widehat i + \\widehat j + 2\\widehat k}$$ and $${\\widehat i + 2\\widehat j + \\widehat k,}$$ and perpendicular to the vector $${\\widehat i + \\widehat j + \\widehat k}$$  is/are",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 40,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 40,
-      "question_text": "Let $$P = \\{ \\theta :\\sin \\theta  - \\cos \\theta  = \\sqrt 2 \\cos \\theta \\} $$ and $$Q = \\{ \\theta :\\sin \\theta  + \\cos \\theta  = \\sqrt 2 \\sin \\theta \\} $$ be two sets. Then",
       "subject": "Mathematics",
       "topic": "trigonometric-functions-and-equations",
       "sub_topic": "trigonometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$P = \\{ \\theta :\\sin \\theta  - \\cos \\theta  = \\sqrt 2 \\cos \\theta \\} $$ and $$Q = \\{ \\theta :\\sin \\theta  + \\cos \\theta  = \\sqrt 2 \\sin \\theta \\} $$ be two sets. Then",
+      "question_images": [],
+      "option_texts": {
         "A": "$$P \\subset Q$$ and $$Q - P \\ne \\emptyset $$",
         "B": "$$Q \\not\\subset P$$",
         "C": "$$P \\not\\subset Q$$",
         "D": "$$P = Q$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Let $$P = \\{ \\theta :\\sin \\theta  - \\cos \\theta  = \\sqrt 2 \\cos \\theta \\} $$ and $$Q = \\{ \\theta :\\sin \\theta  + \\cos \\theta  = \\sqrt 2 \\sin \\theta \\} $$ be two sets. Then",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 41,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 41,
-      "question_text": "Let f : R $$\\to$$ R be a function such that $$f(x + y) = f(x) + f(y),\\,\\forall x,y \\in R$$. If f(x) is differentiable at x = 0, then",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let f : R $$\\to$$ R be a function such that $$f(x + y) = f(x) + f(y),\\,\\forall x,y \\in R$$. If f(x) is differentiable at x = 0, then",
+      "question_images": [],
+      "option_texts": {
         "A": "f(x) is differentiable only in a finite interval containing zero.",
         "B": "f(x) is continuous $$\\forall x \\in R$$.",
         "C": "f'(x) is constant $$\\forall x \\in R$$.",
         "D": "f(x) is differentiable except at finitely many points."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let f : R $$\\to$$ R be a function such that $$f(x + y) = f(x) + f(y),\\,\\forall x,y \\in R$$. If f(x) is differentiable at x = 0, then",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 42,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 42,
-      "question_text": "Let M and N be two 3 $$\\times$$ 3 non-singular skew symmetric matrices such that MN = NM. If PT denotes the transpose of P, then M2N2(MTN)$$-$$1(MN$$-$$1)T is equal to",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let M and N be two 3 $$\\times$$ 3 non-singular skew symmetric matrices such that MN = NM. If PT denotes the transpose of P, then M2N2(MTN)$$-$$1(MN$$-$$1)T is equal to",
+      "question_images": [],
+      "option_texts": {
         "A": "M^{2}",
         "B": "$$-$$N^{2}",
         "C": "$$-$$M^{2}",
         "D": "MN"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let M and N be two 3 $$\\times$$ 3 non-singular skew symmetric matrices such that MN = NM. If P^{T} denotes the transpose of P, then M^{2}N^{2}(M^{T}N)^{$$-$$1}(MN^{$$-$$1})^{T} is equal to",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 43,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 43,
-      "question_text": "If the point P(a, b, c), with reference to (E), lies on the plane 2x + y + z = 1, then the value of 7a + b + c is",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the point P(a, b, c), with reference to (E), lies on the plane 2x + y + z = 1, then the value of 7a + b + c is",
+      "question_images": [],
+      "option_texts": {
         "A": "0",
         "B": "12",
         "C": "7",
         "D": "6"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "If the point P(a, b, c), with reference to (E), lies on the plane 2x + y + z = 1, then the value of 7a + b + c is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 44,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 44,
-      "question_text": "Let $$\\omega$$ be a solution of $${x^3} - 1 = 0$$ with $${\\mathop{\\rm Im}\\nolimits} (\\omega ) > 0$$. If a = 2 with b and c satisfying (E), then the value of $${3 \\over {{\\omega ^a}}} + {1 \\over {{\\omega ^b}}} + {3 \\over {{\\omega ^c}}}$$ is equal to",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$\\omega$$ be a solution of $${x^3} - 1 = 0$$ with $${\\mathop{\\rm Im}\\nolimits} (\\omega ) > 0$$. If a = 2 with b and c satisfying (E), then the value of $${3 \\over {{\\omega ^a}}} + {1 \\over {{\\omega ^b}}} + {3 \\over {{\\omega ^c}}}$$ is equal to",
+      "question_images": [],
+      "option_texts": {
         "A": "$$-$$2",
         "B": "2",
         "C": "3",
         "D": "$$-$$3"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $$\\omega$$ be a solution of $${x^3} - 1 = 0$$ with $${\\mathop{\\rm Im}\\nolimits} (\\omega ) > 0$$. If a = 2 with b and c satisfying (E), then the value of $${3 \\over {{\\omega ^a}}} + {1 \\over {{\\omega ^b}}} + {3 \\over {{\\omega ^c}}}$$ is equal to",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 45,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 45,
-      "question_text": "Let b = 6, with a and c satisfying (E). If $$\\alpha$$ and $$\\beta$$ are the roots of the quadratic equation ax2 + bx + c = 0, then $$\\sum\\limits_{n = 0}^\\infty  {{{\\left( {{1 \\over \\alpha } + {1 \\over \\beta }} \\right)}^n}} $$ is",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let b = 6, with a and c satisfying (E). If $$\\alpha$$ and $$\\beta$$ are the roots of the quadratic equation ax2 + bx + c = 0, then $$\\sum\\limits_{n = 0}^\\infty  {{{\\left( {{1 \\over \\alpha } + {1 \\over \\beta }} \\right)}^n}} $$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "6",
         "B": "7",
         "C": "$${6 \\over 7}$$",
         "D": "$$\\infty$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let b = 6, with a and c satisfying (E). If $$\\alpha$$ and $$\\beta$$ are the roots of the quadratic equation ax^{2} + bx + c = 0, then $$\\sum\\limits_{n = 0}^\\infty  {{{\\left( {{1 \\over \\alpha } + {1 \\over \\beta }} \\right)}^n}} $$ is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 46,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 46,
-      "question_text": "Let $$f:[1,\\infty ) \\to [2,\\infty )$$ be a differentiable function such that $$f(1) = 2$$. If $$6\\int\\limits_1^x {f(t)dt = 3xf(x) - {x^3} - 5} $$ for all $$x \\ge 1$$, then the value of f(2) is ___________.",
       "subject": "Mathematics",
       "topic": "differential-equations",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $$f:[1,\\infty ) \\to [2,\\infty )$$ be a differentiable function such that $$f(1) = 2$$. If $$6\\int\\limits_1^x {f(t)dt = 3xf(x) - {x^3} - 5} $$ for all $$x \\ge 1$$, then the value of f(2) is ___________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $$f:[1,\\infty ) \\to [2,\\infty )$$ be a differentiable function such that $$f(1) = 2$$. If $$6\\int\\limits_1^x {f(t)dt = 3xf(x) - {x^3} - 5} $$ for all $$x \\ge 1$$, then the value of f(2) is ___________.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 47,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 47,
-      "question_text": "A dense collection of equal number of electrons and positive ions is called neutral plasma. Certain solids containing\nfixed positive ions surrounded by free electrons can be treated as neutral plasma. Let 'N' be the number density of\nfree electrons, each of mass 'm'. When the electrons are subjected to an electric field, they are displaced relatively\naway from the heavy positive ions. If the electric field becomes zero, the electrons begin to oscillate about the\npositive ions with a natural angular frequency '$${\\omega _p}$$' which is called the plasma frequency. To sustain the oscillations,\na time varying electric field needs to be applied that has an angular frequency $$\\omega $$, where a part of the energy is\nabsorbed and a part of it is reflected. As $$\\omega $$ approaches $${\\omega _p}$$ all the free electrons are set to resonance together and all\nthe energy is reflected. This is the explanation of high reflectivity of metals.\nTaking the electronic charge as 'e' and the permittivity as $$'{\\varepsilon _0}'$$. Use dimensional analysis to determine the\ncorrect expression for $${\\omega _p}$$.",
       "subject": "Physics",
       "topic": "units-and-measurements",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A dense collection of equal number of electrons and positive ions is called neutral plasma. Certain solids containing\nfixed positive ions surrounded by free electrons can be treated as neutral plasma. Let 'N' be the number density of\nfree electrons, each of mass 'm'. When the electrons are subjected to an electric field, they are displaced relatively\naway from the heavy positive ions. If the electric field becomes zero, the electrons begin to oscillate about the\npositive ions with a natural angular frequency '$${\\omega _p}$$' which is called the plasma frequency. To sustain the oscillations,\na time varying electric field needs to be applied that has an angular frequency $$\\omega $$, where a part of the energy is\nabsorbed and a part of it is reflected. As $$\\omega $$ approaches $${\\omega _p}$$ all the free electrons are set to resonance together and all\nthe energy is reflected. This is the explanation of high reflectivity of metals.\nTaking the electronic charge as 'e' and the permittivity as $$'{\\varepsilon _0}'$$. Use dimensional analysis to determine the\ncorrect expression for $${\\omega _p}$$.",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\sqrt {{{Ne} \\over {m{\\varepsilon _0}}}} $$",
         "B": "$$\\sqrt {{{m{\\varepsilon _0}} \\over {Ne}}} $$",
         "C": "$$\\sqrt {{{N{e^2}} \\over {m{\\varepsilon _0}}}} $$",
         "D": "$$\\sqrt {{{m{\\varepsilon _0}} \\over {N{e^2}}}} $$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A dense collection of equal number of electrons and positive ions is called neutral plasma. Certain solids containing\nfixed positive ions surrounded by free electrons can be treated as neutral plasma. Let 'N' be the number density of\nfree electrons, each of mass 'm'. When the electrons are subjected to an electric field, they are displaced relatively\naway from the heavy positive ions. If the electric field becomes zero, the electrons begin to oscillate about the\npositive ions with a natural angular frequency '$${\\omega _p}$$' which is called the plasma frequency. To sustain the oscillations,\na time varying electric field needs to be applied that has an angular frequency $$\\omega $$, where a part of the energy is\nabsorbed and a part of it is reflected. As $$\\omega $$ approaches $${\\omega _p}$$ all the free electrons are set to resonance together and all\nthe energy is reflected. This is the explanation of high reflectivity of metals.\nTaking the electronic charge as 'e' and the permittivity as $$'{\\varepsilon _0}'$$. Use dimensional analysis to determine the\ncorrect expression for $${\\omega _p}$$.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 0.75
+      "negMarks": 0.75,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 48,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 48,
-      "question_text": "A dense collection of equal number of electrons and positive ions is called neutral plasma. Certain solids containing\nfixed positive ions surrounded by free electrons can be treated as neutral plasma. Let 'N' be the number density of\nfree electrons, each of mass 'm'. When the electrons are subjected to an electric field, they are displaced relatively\naway from the heavy positive ions. If the electric field becomes zero, the electrons begin to oscillate about the\npositive ions with a natural angular frequency '$${\\omega _p}$$' which is called the plasma frequency. To sustain the oscillations,\na time varying electric field needs to be applied that has an angular frequency $$\\omega $$, where a part of the energy is\nabsorbed and a part of it is reflected. As $$\\omega $$ approaches $${\\omega _p}$$ all the free electrons are set to resonance together and all\nthe energy is reflected. This is the explanation of high reflectivity of metals.\nEstimate the wavelength at which plasma reflection will occur for a metal having the density of electrons\nN $$ \\approx $$ 4 $$ \\times $$ 1027 m-3. Taking $${{\\varepsilon _0}}$$ = 10- 11 and m $$ \\approx $$ 10- 30, where these quantities are in proper SI units.",
       "subject": "Physics",
       "topic": "magnetism",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A dense collection of equal number of electrons and positive ions is called neutral plasma. Certain solids containing\nfixed positive ions surrounded by free electrons can be treated as neutral plasma. Let 'N' be the number density of\nfree electrons, each of mass 'm'. When the electrons are subjected to an electric field, they are displaced relatively\naway from the heavy positive ions. If the electric field becomes zero, the electrons begin to oscillate about the\npositive ions with a natural angular frequency '$${\\omega _p}$$' which is called the plasma frequency. To sustain the oscillations,\na time varying electric field needs to be applied that has an angular frequency $$\\omega $$, where a part of the energy is\nabsorbed and a part of it is reflected. As $$\\omega $$ approaches $${\\omega _p}$$ all the free electrons are set to resonance together and all\nthe energy is reflected. This is the explanation of high reflectivity of metals.\nEstimate the wavelength at which plasma reflection will occur for a metal having the density of electrons\nN $$ \\approx $$ 4 $$ \\times $$ 1027 m-3. Taking $${{\\varepsilon _0}}$$ = 10- 11 and m $$ \\approx $$ 10- 30, where these quantities are in proper SI units.",
+      "question_images": [],
+      "option_texts": {
         "A": "800 nm",
         "B": "600 nm",
         "C": "300 nm",
         "D": "200 nm"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A dense collection of equal number of electrons and positive ions is called neutral plasma. Certain solids containing\nfixed positive ions surrounded by free electrons can be treated as neutral plasma. Let 'N' be the number density of\nfree electrons, each of mass 'm'. When the electrons are subjected to an electric field, they are displaced relatively\naway from the heavy positive ions. If the electric field becomes zero, the electrons begin to oscillate about the\npositive ions with a natural angular frequency '$${\\omega _p}$$' which is called the plasma frequency. To sustain the oscillations,\na time varying electric field needs to be applied that has an angular frequency $$\\omega $$, where a part of the energy is\nabsorbed and a part of it is reflected. As $$\\omega $$ approaches $${\\omega _p}$$ all the free electrons are set to resonance together and all\nthe energy is reflected. This is the explanation of high reflectivity of metals.\nEstimate the wavelength at which plasma reflection will occur for a metal having the density of electrons\nN $$ \\approx $$ 4 $$ \\times $$ 10^{27} m^{-3}. Taking $${{\\varepsilon _0}}$$ = 10^{- 11} and m $$ \\approx $$ 10^{- 30}, where these quantities are in proper SI units.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 0.75
+      "negMarks": 0.75,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 49,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 49,
-      "question_text": "A ball of mass (m) 0.5 kg is attached to the end of a string having length (L) 0.5 m. The ball is rotated on a horizontal circular path about vertical axis. The maximum tension that the string can bear is 324 N. The\nmaximum possible value of angular velocity of ball (in radian/s) is",
       "subject": "Physics",
       "topic": "laws-of-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A ball of mass (m) 0.5 kg is attached to the end of a string having length (L) 0.5 m. The ball is rotated on a horizontal circular path about vertical axis. The maximum tension that the string can bear is 324 N. The\nmaximum possible value of angular velocity of ball (in radian/s) is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2jfavhj/ba33dbb3-8900-4ecf-a0c1-a084f658d040/c867d860-c72c-11ec-9e4a-bf17a41218c9/file-1l2jfavhk.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l4i9sawh/452d3673-01d7-4f8b-a2a3-2e46c9ab49a3/dc672a10-ee22-11ec-a735-e70f40715860/file-1l4i9sawi.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "9",
         "B": "18",
         "C": "27",
         "D": "36"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "A ball of mass (m) 0.5 kg is attached to the end of a string having length (L) 0.5 m. The ball is rotated on a horizontal circular path about vertical axis. The maximum tension that the string can bear is 324 N. The\nmaximum possible value of angular velocity of ball (in radian/s) is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 0.75
+      "negMarks": 0.75,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 50,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 50,
-      "question_text": "A block is moving on an inclined plane making an angle $$45^\\circ $$ with the horizontal and the coefficient of friction is $$\\mu $$. The force required to just push it up the inclined plane is 3 times the force required to just\nprevent it from sliding down. If we define N = 10 $$\\mu $$, then N is",
       "subject": "Physics",
       "topic": "laws-of-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A block is moving on an inclined plane making an angle $$45^\\circ $$ with the horizontal and the coefficient of friction is $$\\mu $$. The force required to just push it up the inclined plane is 3 times the force required to just\nprevent it from sliding down. If we define N = 10 $$\\mu $$, then N is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l4i9qhdw/f8504293-2b64-4755-9c67-6f4ffff7eb09/a9cb1440-ee22-11ec-a735-e70f40715860/file-1l4i9qhdx.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A block is moving on an inclined plane making an angle $$45^\\circ $$ with the horizontal and the coefficient of friction is $$\\mu $$. The force required to just push it up the inclined plane is 3 times the force required to just\nprevent it from sliding down. If we define N = 10 $$\\mu $$, then N is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 51,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 51,
-      "question_text": "Four solid spheres each of diameter $$\\sqrt 5 $$ cm and mass 0.5 kg are placed with their centers at the corners of\na square of side 4 cm. The moment of inertia of the system about the diagonal of the square is N $$ \\times $$ 10−4\n kg-m2, then N is",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Four solid spheres each of diameter $$\\sqrt 5 $$ cm and mass 0.5 kg are placed with their centers at the corners of\na square of side 4 cm. The moment of inertia of the system about the diagonal of the square is N $$ \\times $$ 10−4\n kg-m2, then N is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2jmnfog/8094121c-b091-4804-8cba-c8d29a7506da/859e0af0-c749-11ec-a2bf-852b719f1924/file-1l2jmnfoh.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l4i9um2i/2edff618-e4a6-470a-8044-f09979480e7c/1ca5d9a0-ee23-11ec-a735-e70f40715860/file-1l4i9um2j.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Four solid spheres each of diameter $$\\sqrt 5 $$ cm and mass 0.5 kg are placed with their centers at the corners of\na square of side 4 cm. The moment of inertia of the system about the diagonal of the square is N $$ \\times $$ 10^{−4}\n kg-m^{2}, then N is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 52,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 52,
-      "question_text": "5.6 liter of helium gas at STP is adiabatically compressed to 0.7 liter. Taking the initial temperature to be\nT1, the work done in the process is",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "5.6 liter of helium gas at STP is adiabatically compressed to 0.7 liter. Taking the initial temperature to be\nT1, the work done in the process is",
+      "question_images": [],
+      "option_texts": {
         "A": "$${9 \\over 8}R{T_1}$$",
         "B": "$${3 \\over 2}R{T_1}$$",
         "C": "$${15 \\over 8}R{T_1}$$",
         "D": "$${9 \\over 2}R{T_1}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "5.6 liter of helium gas at STP is adiabatically compressed to 0.7 liter. Taking the initial temperature to be\nT_{1}, the work done in the process is",
-      "isOutOfSyllabus": false,
       "marks": 2,
-      "negMarks": 0.5
+      "negMarks": 0.5,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 53,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 53,
-      "question_text": "Steel wire of lenght ‘L’ at 40oC is suspended from the ceiling and then a mass ‘m’ is hung from its free\nend. The wire is cooled down from 40oC to 30oC to regain its original length ‘L’. The coefficient of linear\nthermal expansion of the steel is 10−5 /oC, Young’s modulus of steel is 1011 N/m2 and radius of the wire is 1 mm. Assume that L >> diameter of the wire. Then the value of ‘m’ in kg is nearly",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Steel wire of lenght ‘L’ at 40oC is suspended from the ceiling and then a mass ‘m’ is hung from its free\nend. The wire is cooled down from 40oC to 30oC to regain its original length ‘L’. The coefficient of linear\nthermal expansion of the steel is 10−5 /oC, Young’s modulus of steel is 1011 N/m2 and radius of the wire is 1 mm. Assume that L >> diameter of the wire. Then the value of ‘m’ in kg is nearly",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Steel wire of lenght ‘L’ at 40^{o}C is suspended from the ceiling and then a mass ‘m’ is hung from its free\nend. The wire is cooled down from 40^{o}C to 30^{o}C to regain its original length ‘L’. The coefficient of linear\nthermal expansion of the steel is 10^{−5} /^{o}C, Young’s modulus of steel is 10^{11} N/m^{2} and radius of the wire is 1 mm. Assume that L >> diameter of the wire. Then the value of ‘m’ in kg is nearly",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 54,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 54,
-      "question_text": "A police car with a siren of frequency 8 kHz is moving with uniform velocity 36 km/hr towards a tall\nbuilding which reflects the sound waves. The speed of sound in air is 320 m/s. The frequency of the siren\nheard by the car driver is",
       "subject": "Physics",
       "topic": "waves",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A police car with a siren of frequency 8 kHz is moving with uniform velocity 36 km/hr towards a tall\nbuilding which reflects the sound waves. The speed of sound in air is 320 m/s. The frequency of the siren\nheard by the car driver is",
+      "question_images": [],
+      "option_texts": {
         "A": "8.50 kHz",
         "B": "8.25 kHz",
         "C": "7.75 kHz",
         "D": "7.50 kHz"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A police car with a siren of frequency 8 kHz is moving with uniform velocity 36 km/hr towards a tall\nbuilding which reflects the sound waves. The speed of sound in air is 320 m/s. The frequency of the siren\nheard by the car driver is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 0.75
+      "negMarks": 0.75,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 55,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 55,
-      "question_text": "Consider an electric field $$\\overrightarrow E  = {E_0}\\widehat x$$ where $${E_0}$$ is a constant. The flux through the shaded area (as shown in the figure)  due to this field is",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider an electric field $$\\overrightarrow E  = {E_0}\\widehat x$$ where $${E_0}$$ is a constant. The flux through the shaded area (as shown in the figure)  due to this field is",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/DiTmcQs29rJGXqnyn/eDRZPSX6CjFzYWbfYB5m09qoKMN0f/JAAn1KJqdFQhF2VgKk0vkA/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$2{E_0}{a_2}$$",
         "B": "$$\\sqrt 2 {E_0}{a^2}$$",
         "C": "$${E_0}\\,{a^2}$$",
         "D": "$${{{E_0}{a^2}} \\over {\\sqrt 2 }}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Consider an electric field $$\\overrightarrow E  = {E_0}\\widehat x$$ where $${E_0}$$ is a constant. The flux through the shaded area (as shown in the figure)  due to this field is",
-      "isOutOfSyllabus": false,
       "marks": 2,
-      "negMarks": 0.5
+      "negMarks": 0.5,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 56,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 56,
-      "question_text": "A $$2$$  $$\\mu F$$ capacitor is charged as shown in the figure. The percentage of its stored energy dissipated after the switch $$S$$ is turned to position $$2$$ is",
       "subject": "Physics",
       "topic": "capacitor",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A $$2$$  $$\\mu F$$ capacitor is charged as shown in the figure. The percentage of its stored energy dissipated after the switch $$S$$ is turned to position $$2$$ is",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/Cs8ha5wRWdNm3uCUh/SVD4qABrer6Hy21U16aBtDpH0AfN8/BOV3o1FXL9AniF19PNNlg2/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$0\\% $$",
         "B": "$$20\\% $$",
         "C": "$$75\\% $$",
         "D": "$$80\\% $$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "A $$2$$  $$\\mu F$$ capacitor is charged as shown in the figure. The percentage of its stored energy dissipated after the switch $$S$$ is turned to position $$2$$ is",
-      "isOutOfSyllabus": false,
       "marks": 2,
-      "negMarks": 0.5
+      "negMarks": 0.5,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 57,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 57,
-      "question_text": "A spherical metal shell A of radius $${R_A}$$ and a solid metal sphere $$B$$ of radius $${R_B}\\left( { < {R_A}} \\right)$$ are kept far apart and each is given charge $$' + Q'.$$ Now they are connected by a thin metal wire. Then",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A spherical metal shell A of radius $${R_A}$$ and a solid metal sphere $$B$$ of radius $${R_B}\\left( { < {R_A}} \\right)$$ are kept far apart and each is given charge $$' + Q'.$$ Now they are connected by a thin metal wire. Then",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l4k39xk7/051c6a39-3597-4a18-a55e-a40d65bff0bd/f80eaa80-ef22-11ec-af85-e5c347851f91/file-1l4k39xk8.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$E_A^{inside} = 0$$",
         "B": "$${Q_A} > {Q_B}$$",
         "C": "$${{{\\sigma _A}} \\over {{\\sigma _B}}} = {{{R_B}} \\over {{R_A}}}$$",
         "D": "$$E_A^{on\\,\\,surface} < \\,E_B^{on\\,\\,surface}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A spherical metal shell A of radius $${R_A}$$ and a solid metal sphere $$B$$ of radius $${R_B}\\left( { < {R_A}} \\right)$$ are kept far apart and each is given charge $$' + Q'.$$ Now they are connected by a thin metal wire. Then",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 58,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 58,
-      "question_text": "The wavelength of the first spectral line in the Balmer series of hydrogen atom is 6561 $$\\mathop A\\limits^o $$. The wavelength of the second spectral line in the Balmer series of singly-ionized helium atom is",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The wavelength of the first spectral line in the Balmer series of hydrogen atom is 6561 $$\\mathop A\\limits^o $$. The wavelength of the second spectral line in the Balmer series of singly-ionized helium atom is",
+      "question_images": [],
+      "option_texts": {
         "A": "1215 $$\\mathop A\\limits^o $$",
         "B": "1640 $$\\mathop A\\limits^o $$",
         "C": "2430 $$\\mathop A\\limits^o $$",
         "D": "4687 $$\\mathop A\\limits^o $$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The wavelength of the first spectral line in the Balmer series of hydrogen atom is 6561 $$\\mathop A\\limits^o $$. The wavelength of the second spectral line in the Balmer series of singly-ionized helium atom is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 59,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 59,
-      "question_text": "A meter bridge is set up as shown, to determine an unknown resistance X using a standard 10 $$\\Omega$$ resistor. The galvanometer shows null point when tapping-key is at 52 cm mark. The end-corrections are 1 cm and 2 cm, respectively, for the ends A and B. The determined value of X is",
       "subject": "Physics",
       "topic": "current-electricity",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A meter bridge is set up as shown, to determine an unknown resistance X using a standard 10 $$\\Omega$$ resistor. The galvanometer shows null point when tapping-key is at 52 cm mark. The end-corrections are 1 cm and 2 cm, respectively, for the ends A and B. The determined value of X is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2lx84nb/d545d9dc-251f-4391-a904-5d41578e6d2d/71adb970-c88c-11ec-9050-c7c5cf4de110/file-1l2lx84nc.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "10.2 $$\\Omega$$",
         "B": "10.6 $$\\Omega$$",
         "C": "10.8 $$\\Omega$$",
         "D": "11.1 $$\\Omega$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A meter bridge is set up as shown, to determine an unknown resistance X using a standard 10 $$\\Omega$$ resistor. The galvanometer shows null point when tapping-key is at 52 cm mark. The end-corrections are 1 cm and 2 cm, respectively, for the ends A and B. The determined value of X is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 60,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 60,
-      "question_text": "A metal rod of length L and mass m is pivoted at one end. A thin disk of mass M and radius R ( < L) is attached at its centre to the free end of the rod. Consider two ways the disc is attached : (case A). The disc is not free to rotate about its centre and (case B) the disc is free to rotate about its centre. The rod-disc system performs SHM in vertical plane after being released from the same displaced position. Which of the following statement(s) is(are) true?",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A metal rod of length L and mass m is pivoted at one end. A thin disk of mass M and radius R ( < L) is attached at its centre to the free end of the rod. Consider two ways the disc is attached : (case A). The disc is not free to rotate about its centre and (case B) the disc is free to rotate about its centre. The rod-disc system performs SHM in vertical plane after being released from the same displaced position. Which of the following statement(s) is(are) true?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2lyk7cz/fe58dca4-7769-4cc5-bce7-8ca117e610fc/aa9cf930-c891-11ec-9a3d-695daad02a0a/file-1l2lyk7d0.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "Restoring torque in case A = Restoring torque in case B.",
         "B": "Restoring torque in case A < Restoring torque in case B.",
         "C": "Angular frequency for case A > Angular frequency for case B.",
         "D": "Angular frequency for case A < Angular frequency for case B."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A metal rod of length L and mass m is pivoted at one end. A thin disk of mass M and radius R ( < L) is attached at its centre to the free end of the rod. Consider two ways the disc is attached : (case A). The disc is not free to rotate about its centre and (case B) the disc is free to rotate about its centre. The rod-disc system performs SHM in vertical plane after being released from the same displaced position. Which of the following statement(s) is(are) true?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 61,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 61,
-      "question_text": "A composite block is made of slabs A, B, C, D and E of different thermal conductivities (given in terms of a constant K) and sizes (given in terms of length, L) as shown in the figure. All slabs are of same width. Heat Q flows only from left to right through the blocks. Then, in steady-state",
       "subject": "Physics",
       "topic": "properties-of-matter",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A composite block is made of slabs A, B, C, D and E of different thermal conductivities (given in terms of a constant K) and sizes (given in terms of length, L) as shown in the figure. All slabs are of same width. Heat Q flows only from left to right through the blocks. Then, in steady-state",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2lyrgjp/708c7f62-2033-4280-8758-989f4eb69cc8/745fab50-c892-11ec-9a3d-695daad02a0a/file-1l2lyrgjq.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2lyte3b/1e6a9b78-ec13-4e56-bbf6-f7f6076f3cc2/aa186a70-c892-11ec-9a3d-695daad02a0a/file-1l2lyte3c.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "heat flow through A and E slabs are same.",
         "B": "heat flow through slab E is maximum.",
         "C": "temperature difference across slab E is smallest.",
         "D": "heat flow through C = heat flow through B + heat flow through D."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A composite block is made of slabs A, B, C, D and E of different thermal conductivities (given in terms of a constant K) and sizes (given in terms of length, L) as shown in the figure. All slabs are of same width. Heat Q flows only from left to right through the blocks. Then, in steady-state",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 62,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 62,
-      "question_text": "An electron and a proton are moving on straight parallel paths with same velocity. They enter a semi-infinite region of uniform magnetic field perpendicular to the velocity. Which of the following statement(s) is/are true?",
       "subject": "Physics",
       "topic": "magnetism",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An electron and a proton are moving on straight parallel paths with same velocity. They enter a semi-infinite region of uniform magnetic field perpendicular to the velocity. Which of the following statement(s) is/are true?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2ln1ptp/f84fddb8-40c1-4883-99b7-380093f05f0e/a4150ad0-c864-11ec-ab2f-2fe4df0c222a/file-1l2ln1ptq.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "They will never come out of the magnetic field region.",
         "B": "They will come out travelling along parallel paths.",
         "C": "They will come out at the same time.",
         "D": "They will come out at different times."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "An electron and a proton are moving on straight parallel paths with same velocity. They enter a semi-infinite region of uniform magnetic field perpendicular to the velocity. Which of the following statement(s) is/are true?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 63,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 63,
-      "question_text": "The phase space diagram for a ball thrown vertically up from ground is",
       "subject": "Physics",
       "topic": "simple-harmonic-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The phase space diagram for a ball thrown vertically up from ground is",
+      "question_images": [],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2loccoj/ee93337f-eda4-4b79-9794-b71ea528d149/b4f59f40-c869-11ec-830c-7163a5cc8dc8/file-1l2loccok.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2loflrg/72a7db19-5fd9-4031-b48f-9b9764883daa/0f66b2c0-c86a-11ec-89fd-bbbe9a45bfc7/file-1l2loflrh.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2log2r4/d79735dd-81c2-4f73-b77f-b89adc3f12f1/1c86af00-c86a-11ec-89fd-bbbe9a45bfc7/file-1l2log2r5.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2logivt/696ea8f8-e24c-4b31-8757-fa500d7971bd/28fc8890-c86a-11ec-89fd-bbbe9a45bfc7/file-1l2logivu.png",
+          "description": ""
+        }
+      },
       "correct_answer": "D",
-      "question": "The phase space diagram for a ball thrown vertically up from ground is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 64,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 64,
-      "question_text": "The phase space diagram for simple harmonic motion is a circle centred at the origin. In the figure, the two circles represent the same oscillator but for different initial conditions, and E1 and E2 are the total mechanical energies respectively. Then",
       "subject": "Physics",
       "topic": "simple-harmonic-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The phase space diagram for simple harmonic motion is a circle centred at the origin. In the figure, the two circles represent the same oscillator but for different initial conditions, and E1 and E2 are the total mechanical energies respectively. Then",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2lo8kea/d482c3f9-f9f4-40f3-9672-ce23350bc7d9/4baea220-c869-11ec-830c-7163a5cc8dc8/file-1l2lo8keb.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "E_{1} = $$\\sqrt2$$E_{2}",
         "B": "E_{1} = 2E_{2}",
         "C": "E_{1} = 4E_{2}",
         "D": "E_{1} = 16E_{2}"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The phase space diagram for simple harmonic motion is a circle centred at the origin. In the figure, the two circles represent the same oscillator but for different initial conditions, and E_{1} and E_{2} are the total mechanical energies respectively. Then",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 65,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 65,
-      "question_text": "Consider the spring-mass system, with the mass submerged in water, as shown in the figure. The phase space diagram for one cycle of this system is",
       "subject": "Physics",
       "topic": "simple-harmonic-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider the spring-mass system, with the mass submerged in water, as shown in the figure. The phase space diagram for one cycle of this system is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2ly4tct/94c6ed92-13eb-4fb1-a8a3-aed02ae9445c/fea864d0-c88f-11ec-8a2d-d3d567fb7bd2/file-1l2ly4tcu.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2ly9a8k/329c1307-4702-4b65-8864-891a49d68ec9/7aef9450-c890-11ec-8a2d-d3d567fb7bd2/file-1l2ly9a8l.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2ly9vzr/7f37c23f-3134-422d-ba41-89d831d131bc/8bbda470-c890-11ec-9a3d-695daad02a0a/file-1l2ly9vzs.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2lyal3n/0529dea5-c44b-49ab-9de6-d27ee5689648/9f22da30-c890-11ec-9a3d-695daad02a0a/file-1l2lyal3o.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2lyb18s/a81e3729-b230-4a38-b175-9939ac4f52fa/ab9b24c0-c890-11ec-9a3d-695daad02a0a/file-1l2lyb18t.png",
+          "description": ""
+        }
+      },
       "correct_answer": "B",
-      "question": "Consider the spring-mass system, with the mass submerged in water, as shown in the figure. The phase space diagram for one cycle of this system is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 66,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 66,
-      "question_text": "A boy is pushing a ring of mass 2 kg and radius 0.5 m with a stick as shown in the figure. The stick applies a force of 2 N on the ring and rolls it without slipping with an acceleration of 0.2 m/s2. The coefficient of friction between the ground and the ring is large enough that rolling always occurs and the coefficient of friction between the stick and the ring is (P/10). The value of P is _________.",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A boy is pushing a ring of mass 2 kg and radius 0.5 m with a stick as shown in the figure. The stick applies a force of 2 N on the ring and rolls it without slipping with an acceleration of 0.2 m/s2. The coefficient of friction between the ground and the ring is large enough that rolling always occurs and the coefficient of friction between the stick and the ring is (P/10). The value of P is _________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2lywlh4/577995e3-2fcf-4238-8311-71e522b91f0e/033a1a90-c893-11ec-9a3d-695daad02a0a/file-1l2lywlh5.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2lyzrn9/cacbe13f-8870-439b-a28c-f21c928f5f07/5b6b9e50-c893-11ec-9a3d-695daad02a0a/file-1l2lyzrna.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A boy is pushing a ring of mass 2 kg and radius 0.5 m with a stick as shown in the figure. The stick applies a force of 2 N on the ring and rolls it without slipping with an acceleration of 0.2 m/s^{2}. The coefficient of friction between the ground and the ring is large enough that rolling always occurs and the coefficient of friction between the stick and the ring is (P/10). The value of P is _________.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 67,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 67,
-      "question_text": "Four point charges, each of +q, are rigidly fixed at the four corners of a square planar soap film of side a. The surface tension of the soap film is $$\\gamma$$. The system of charges and planar film are in equilibrium, and $$a = k{\\left[ {{{{q^2}} \\over \\gamma }} \\right]^{1/N}}$$, where k is a constant. Then N is __________.",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Four point charges, each of +q, are rigidly fixed at the four corners of a square planar soap film of side a. The surface tension of the soap film is $$\\gamma$$. The system of charges and planar film are in equilibrium, and $$a = k{\\left[ {{{{q^2}} \\over \\gamma }} \\right]^{1/N}}$$, where k is a constant. Then N is __________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2lyo07v/f9ede441-6671-4654-96c7-b4c6a07baa0c/145555c0-c892-11ec-9a3d-695daad02a0a/file-1l2lyo07w.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Four point charges, each of +q, are rigidly fixed at the four corners of a square planar soap film of side a. The surface tension of the soap film is $$\\gamma$$. The system of charges and planar film are in equilibrium, and $$a = k{\\left[ {{{{q^2}} \\over \\gamma }} \\right]^{1/N}}$$, where k is a constant. Then N is __________.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 68,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 68,
-      "question_text": "The activity of a freshly prepared radioactive sample is 1010 disintegrations per second, whose mean life is 109 s. The mass of an atom of this radioisotope is 10$$-$$25 kg. The mass (in mg) of the radioactive sample is _________.",
       "subject": "Physics",
       "topic": "dual-nature-of-radiation",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The activity of a freshly prepared radioactive sample is 1010 disintegrations per second, whose mean life is 109 s. The mass of an atom of this radioisotope is 10$$-$$25 kg. The mass (in mg) of the radioactive sample is _________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The activity of a freshly prepared radioactive sample is 10^{10} disintegrations per second, whose mean life is 10^{9} s. The mass of an atom of this radioisotope is 10^{$$-$$25} kg. The mass (in mg) of the radioactive sample is _________.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 69,
       "year": 2011,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 69,
-      "question_text": "A long circular tube of length 10 m and radius 0.3 m carries a current I along its curved surface as shown. A wire-loop of resistance 0.005 $$\\Omega$$ and of radius 0.1 m is placed inside the tube with its axis coinciding with the axis of the tube. The current varies as $$I = {I_0}\\cos (300t)$$, where I0 is constant. If the magnetic moment of the loop is $$N{\\mu _0}{I_0}\\sin (300t)$$, then N is ___________.",
       "subject": "Physics",
       "topic": "magnetism",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A long circular tube of length 10 m and radius 0.3 m carries a current I along its curved surface as shown. A wire-loop of resistance 0.005 $$\\Omega$$ and of radius 0.1 m is placed inside the tube with its axis coinciding with the axis of the tube. The current varies as $$I = {I_0}\\cos (300t)$$, where I0 is constant. If the magnetic moment of the loop is $$N{\\mu _0}{I_0}\\sin (300t)$$, then N is ___________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2lygj4l/f54a9e6e-57d3-4ffb-9025-7b859d2e7403/4477d580-c891-11ec-9a3d-695daad02a0a/file-1l2lygj4o.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A long circular tube of length 10 m and radius 0.3 m carries a current I along its curved surface as shown. A wire-loop of resistance 0.005 $$\\Omega$$ and of radius 0.1 m is placed inside the tube with its axis coinciding with the axis of the tube. The current varies as $$I = {I_0}\\cos (300t)$$, where I_{0} is constant. If the magnetic moment of the loop is $$N{\\mu _0}{I_0}\\sin (300t)$$, then N is ___________.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     }
   ]
 }

@@ -8,1138 +8,1403 @@
   },
   "questions": [
     {
+      "question_number": 1,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 1,
-      "question_text": "The correct statement(s) related to processes involved in the extraction of metals is(are) :",
       "subject": "Chemistry",
       "topic": "isolation-of-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The correct statement(s) related to processes involved in the extraction of metals is(are) :",
+      "question_images": [],
+      "option_texts": {
         "A": "Roasting of Malachite produces Cuprite.",
         "B": "Calcination of Calamine produces Zincite.",
         "C": "Copper pyrites is heated with silica in a reverberatory furnace to remove iron.",
         "D": "Impure silver is treated with aqueous $\\mathrm{KCN}$ in the presence of oxygen followed by reduction with zinc metal."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The correct statement(s) related to processes involved in the extraction of metals is(are) :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 2,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 2,
-      "question_text": "In the following reactions, $\\mathbf{P}, \\mathbf{Q}, \\mathbf{R}$, and $\\mathbf{S}$ are the major products.\n\n\n\n\nThe correct statement(s) about $\\mathbf{P}, \\mathbf{Q}, \\mathbf{R}$, and $\\mathbf{S}$ is(are) :",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In the following reactions, $\\mathbf{P}, \\mathbf{Q}, \\mathbf{R}$, and $\\mathbf{S}$ are the major products.\n\n\n\n\nThe correct statement(s) about $\\mathbf{P}, \\mathbf{Q}, \\mathbf{R}$, and $\\mathbf{S}$ is(are) :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1liiqk4mm/282d2262-d242-477c-bd62-6de7139c68dd/7b9568e0-038f-11ee-add3-0f52d4fe427d/file-1liiqk4mn.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1liiqkjz9/0fe14439-2da2-4c5f-a94b-eeb41a9096cb/87712550-038f-11ee-add3-0f52d4fe427d/file-1liiqkjza.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lyka02ei/58a2ca38-65c0-44d5-aea8-5ea9898fea3c/c2fa08a0-412b-11ef-a233-fb73fe2996dd/file-jaoe38c1lyka02ej.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lyk9zy39/e10565c8-e052-484a-9077-55e01b1a6a60/bfa53850-412b-11ef-a233-fb73fe2996dd/file-jaoe38c1lyk9zy3a.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lyk9ztrb/b74a5d31-c7a0-4fb2-85ff-ae2fb19af166/bc4c9770-412b-11ef-a233-fb73fe2996dd/file-jaoe38c1lyk9ztrc.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lyk9zpg7/3f5c2407-9c94-4794-a05c-520a9401baf5/b8f8b180-412b-11ef-a233-fb73fe2996dd/file-jaoe38c1lyk9zpg9.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "Both $\\mathbf{P}$ and $\\mathbf{Q}$ have asymmetric carbon(s).",
         "B": "Both $\\mathbf{Q}$ and $\\mathbf{R}$ have asymmetric carbon(s).",
         "C": "Both $\\mathbf{P}$ and $\\mathbf{R}$ have asymmetric carbon(s).",
         "D": "$\\mathbf{P}$ has asymmetric carbon(s), $\\mathbf{S}$ does not have any asymmetric carbon."
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "In the following reactions, $\\mathbf{P}, \\mathbf{Q}, \\mathbf{R}$, and $\\mathbf{S}$ are the major products.\n\nThe correct statement(s) about $\\mathbf{P}, \\mathbf{Q}, \\mathbf{R}$, and $\\mathbf{S}$ is(are) :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 3,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 3,
-      "question_text": "Consider the following reaction scheme and choose the correct option(s) for the major products $\\mathbf{Q}$, $\\mathbf{R}$ and $\\mathbf{S}$.",
       "subject": "Chemistry",
       "topic": "alcohols-phenols-and-ethers",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider the following reaction scheme and choose the correct option(s) for the major products $\\mathbf{Q}$, $\\mathbf{R}$ and $\\mathbf{S}$.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1liiqmjct/a6961da2-9a99-4ced-ad5c-0ea17fcdd284/be9422d0-038f-11ee-add3-0f52d4fe427d/file-1liiqmjcu.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lp0y9wps/6937971e-a0f3-4ea2-bca4-6f3a52693e87/10605e00-845d-11ee-b2e8-bb5e839d650b/file-6y3zli1lp0y9wpt.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1liiqneu9/08fa46cf-ee36-4fdc-b72c-30cb118069ec/d6e65510-038f-11ee-add3-0f52d4fe427d/file-1liiqneua.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1liiqnrvs/6d94d5a9-6790-424b-a4c0-0e8fbbe04ae0/e0f98680-038f-11ee-add3-0f52d4fe427d/file-1liiqnrvt.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1liiqo62q/ef5c2143-347b-4a0b-a215-676b3c612e7f/ebf03a20-038f-11ee-add3-0f52d4fe427d/file-1liiqo62r.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1liiqopi9/ae3d79a9-48d5-428e-b39d-9664b621063d/faf30020-038f-11ee-94c1-c5ddbb3cc6a9/file-1liiqopia.png",
+          "description": ""
+        }
+      },
       "correct_answer": "B",
-      "question": "Consider the following reaction scheme and choose the correct option(s) for the major products $\\mathbf{Q}$, $\\mathbf{R}$ and $\\mathbf{S}$.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 4,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 4,
-      "question_text": "In the scheme given below, $\\mathbf{X}$ and $\\mathbf{Y}$, respectively, are",
       "subject": "Chemistry",
       "topic": "d-and-f-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In the scheme given below, $\\mathbf{X}$ and $\\mathbf{Y}$, respectively, are",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1liiqrcsx/7c383ac2-cee8-4ac8-a3df-b1b98ce23df1/44901010-0390-11ee-94c1-c5ddbb3cc6a9/file-1liiqrcsy.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$\\mathrm{CrO}_4{ }^{2-}$ and $\\mathrm{Br}_2$",
         "B": "$\\mathrm{MnO}_4{ }^{2-}$ and $\\mathrm{Cl}_2$",
         "C": "$\\mathrm{MnO}_4{ }^{-}$and $\\mathrm{Cl}_2$",
         "D": "$\\mathrm{MnSO}_4$ and $\\mathrm{HOCl}$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "In the scheme given below, $\\mathbf{X}$ and $\\mathbf{Y}$, respectively, are",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 5,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 5,
-      "question_text": "Plotting $1 / \\Lambda_{\\mathrm{m}}$ against $\\mathrm{c} \\Lambda_{\\mathrm{m}}$ for aqueous solutions of a monobasic weak acid $(\\mathrm{HX})$ resulted in a straight line with $\\mathrm{y}$-axis intercept of $\\mathrm{P}$ and slope of $\\mathrm{S}$. The ratio $\\mathrm{P} / \\mathrm{S}$ is\n\n\n$$\n\\begin{aligned}\n& {\\left[\\Lambda_{\\mathrm{m}}=\\right.\\text { molar conductivity }} \\\\\\\\\n& \\Lambda_{\\mathrm{m}}^{\\mathrm{o}}=\\text { limiting molar conductivity } \\\\\\\\\n& \\mathrm{c}=\\text { molar concentration } \\\\\\\\\n& \\left.\\mathrm{K}_{\\mathrm{a}}=\\text { dissociation constant of } \\mathrm{HX}\\right]\n\\end{aligned}\n$$",
       "subject": "Chemistry",
       "topic": "electrochemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Plotting $1 / \\Lambda_{\\mathrm{m}}$ against $\\mathrm{c} \\Lambda_{\\mathrm{m}}$ for aqueous solutions of a monobasic weak acid $(\\mathrm{HX})$ resulted in a straight line with $\\mathrm{y}$-axis intercept of $\\mathrm{P}$ and slope of $\\mathrm{S}$. The ratio $\\mathrm{P} / \\mathrm{S}$ is\n\n\n$$\n\\begin{aligned}\n& {\\left[\\Lambda_{\\mathrm{m}}=\\right.\\text { molar conductivity }} \\\\\\\\\n& \\Lambda_{\\mathrm{m}}^{\\mathrm{o}}=\\text { limiting molar conductivity } \\\\\\\\\n& \\mathrm{c}=\\text { molar concentration } \\\\\\\\\n& \\left.\\mathrm{K}_{\\mathrm{a}}=\\text { dissociation constant of } \\mathrm{HX}\\right]\n\\end{aligned}\n$$",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\mathrm{K}_{\\mathrm{a}} \\Lambda_{\\mathrm{m}}^{\\mathrm{o}}$",
         "B": "$\\mathrm{K}_{\\mathrm{a}} \\Lambda_{\\mathrm{m}}^{\\mathrm{o}} / 2$",
         "C": "$2 \\mathrm{~K}_{\\mathrm{a}} \\Lambda_{\\mathrm{m}}^{\\mathrm{o}}$",
         "D": "$1 /\\left(\\mathrm{K}_{\\mathrm{a}} \\Lambda_{\\mathrm{m}}^{\\mathrm{o}}\\right)$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Plotting $1 / \\Lambda_{\\mathrm{m}}$ against $\\mathrm{c} \\Lambda_{\\mathrm{m}}$ for aqueous solutions of a monobasic weak acid $(\\mathrm{HX})$ resulted in a straight line with $\\mathrm{y}$-axis intercept of $\\mathrm{P}$ and slope of $\\mathrm{S}$. The ratio $\\mathrm{P} / \\mathrm{S}$ is\n$$\n\\begin{aligned}\n& {\\left[\\Lambda_{\\mathrm{m}}=\\right.\\text { molar conductivity }} \\\\\\\\\n& \\Lambda_{\\mathrm{m}}^{\\mathrm{o}}=\\text { limiting molar conductivity } \\\\\\\\\n& \\mathrm{c}=\\text { molar concentration } \\\\\\\\\n& \\left.\\mathrm{K}_{\\mathrm{a}}=\\text { dissociation constant of } \\mathrm{HX}\\right]\n\\end{aligned}\n$$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 6,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 6,
-      "question_text": "On decreasing the $p \\mathrm{H}$ from 7 to 2 , the solubility of a sparingly soluble salt (MX) of a weak acid (HX) increased from $10^{-4} \\mathrm{~mol} \\mathrm{~L}^{-1}$ to $10^{-3} \\mathrm{~mol} \\mathrm{~L}^{-1}$. The $p \\mathrm{~K}_{\\mathrm{a}}$ of $\\mathrm{HX}$ is",
       "subject": "Chemistry",
       "topic": "ionic-equilibrium",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "On decreasing the $p \\mathrm{H}$ from 7 to 2 , the solubility of a sparingly soluble salt (MX) of a weak acid (HX) increased from $10^{-4} \\mathrm{~mol} \\mathrm{~L}^{-1}$ to $10^{-3} \\mathrm{~mol} \\mathrm{~L}^{-1}$. The $p \\mathrm{~K}_{\\mathrm{a}}$ of $\\mathrm{HX}$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "3",
         "B": "4",
         "C": "5",
         "D": "2"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "On decreasing the $p \\mathrm{H}$ from 7 to 2 , the solubility of a sparingly soluble salt (MX) of a weak acid (HX) increased from $10^{-4} \\mathrm{~mol} \\mathrm{~L}^{-1}$ to $10^{-3} \\mathrm{~mol} \\mathrm{~L}^{-1}$. The $p \\mathrm{~K}_{\\mathrm{a}}$ of $\\mathrm{HX}$ is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 7,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 7,
-      "question_text": "In the given reaction scheme, $\\mathbf{P}$ is a phenyl alkyl ether, $\\mathbf{Q}$ is an aromatic compound; $\\mathbf{R}$ and $\\mathbf{S}$ are the major products.\n\n\n\nThe correct statement about $\\mathbf{S}$ is :",
       "subject": "Chemistry",
       "topic": "alcohols-phenols-and-ethers",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In the given reaction scheme, $\\mathbf{P}$ is a phenyl alkyl ether, $\\mathbf{Q}$ is an aromatic compound; $\\mathbf{R}$ and $\\mathbf{S}$ are the major products.\n\n\n\nThe correct statement about $\\mathbf{S}$ is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1liiqwk7t/f9b789d5-a70e-4305-affb-50e6eb6f2ec3/d555d490-0390-11ee-94c1-c5ddbb3cc6a9/file-1liiqwk7u.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lyk6nowl/bef1bfd6-523d-477e-846b-ce7c65207c20/af7501c0-411e-11ef-b09a-69810cf13517/file-jaoe38c1lyk6nows.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "It primarily inhibits noradrenaline degrading enzymes.",
         "B": "It inhibits the synthesis of prostaglandin.",
         "C": "It is a narcotic drug.",
         "D": "It is ortho-acetylbenzoic acid."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "In the given reaction scheme, $\\mathbf{P}$ is a phenyl alkyl ether, $\\mathbf{Q}$ is an aromatic compound; $\\mathbf{R}$ and $\\mathbf{S}$ are the major products.\nThe correct statement about $\\mathbf{S}$ is :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 8,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 8,
-      "question_text": "The stoichiometric reaction of $516 \\mathrm{~g}$ of dimethyldichlorosilane with water results in a tetrameric cyclic product $\\mathbf{X}$ in $75 \\%$ yield. The weight (in g) of $\\mathbf{X}$ obtained is _______.\n\n\n\n[Use, molar mass $\\left(\\mathrm{g} ~\\mathrm{mol}^{-1}\\right): \\mathrm{H}=1, \\mathrm{C}=12, \\mathrm{O}=16, \\mathrm{Si}=28, \\mathrm{Cl}=35.5$ ]",
       "subject": "Chemistry",
       "topic": "some-basic-concepts-of-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The stoichiometric reaction of $516 \\mathrm{~g}$ of dimethyldichlorosilane with water results in a tetrameric cyclic product $\\mathbf{X}$ in $75 \\%$ yield. The weight (in g) of $\\mathbf{X}$ obtained is _______.\n\n\n\n[Use, molar mass $\\left(\\mathrm{g} ~\\mathrm{mol}^{-1}\\right): \\mathrm{H}=1, \\mathrm{C}=12, \\mathrm{O}=16, \\mathrm{Si}=28, \\mathrm{Cl}=35.5$ ]",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lp26q2d2/1cf034f0-5881-415e-b13b-6651b048010b/e35e0160-850a-11ee-8515-41487559b944/file-6y3zli1lp26q2d3.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lp26skw1/d37d91d6-f212-4c1f-9780-a53c4ec1941c/294c1310-850b-11ee-8515-41487559b944/file-6y3zli1lp26skw2.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The stoichiometric reaction of $516 \\mathrm{~g}$ of dimethyldichlorosilane with water results in a tetrameric cyclic product $\\mathbf{X}$ in $75 \\%$ yield. The weight (in g) of $\\mathbf{X}$ obtained is _______.\n\n[Use, molar mass $\\left(\\mathrm{g} ~\\mathrm{mol}^{-1}\\right): \\mathrm{H}=1, \\mathrm{C}=12, \\mathrm{O}=16, \\mathrm{Si}=28, \\mathrm{Cl}=35.5$ ]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 9,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 9,
-      "question_text": "A gas has a compressibility factor of 0.5 and a molar volume of $0.4 ~\\mathrm{dm}^3 \\mathrm{~mol}^{-1}$ at a temperature of $800 \\mathrm{~K}$ and pressure $\\mathbf{x}$ atm. If it shows ideal gas behaviour at the same temperature and pressure, the molar volume will be $\\mathbf{y} ~\\mathrm{dm}^3 \\mathrm{~mol}^{-1}$. The value of $\\mathbf{x} / \\mathbf{y}$ is __________.\n\n\n[Use: Gas constant, $\\mathrm{R}=8 \\times 10^{-2} \\mathrm{~L}$ atm $\\mathrm{K}^{-1} \\mathrm{~mol}^{-1}$ ]",
       "subject": "Chemistry",
       "topic": "gaseous-state",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A gas has a compressibility factor of 0.5 and a molar volume of $0.4 ~\\mathrm{dm}^3 \\mathrm{~mol}^{-1}$ at a temperature of $800 \\mathrm{~K}$ and pressure $\\mathbf{x}$ atm. If it shows ideal gas behaviour at the same temperature and pressure, the molar volume will be $\\mathbf{y} ~\\mathrm{dm}^3 \\mathrm{~mol}^{-1}$. The value of $\\mathbf{x} / \\mathbf{y}$ is __________.\n\n\n[Use: Gas constant, $\\mathrm{R}=8 \\times 10^{-2} \\mathrm{~L}$ atm $\\mathrm{K}^{-1} \\mathrm{~mol}^{-1}$ ]",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A gas has a compressibility factor of 0.5 and a molar volume of $0.4 ~\\mathrm{dm}^3 \\mathrm{~mol}^{-1}$ at a temperature of $800 \\mathrm{~K}$ and pressure $\\mathbf{x}$ atm. If it shows ideal gas behaviour at the same temperature and pressure, the molar volume will be $\\mathbf{y} ~\\mathrm{dm}^3 \\mathrm{~mol}^{-1}$. The value of $\\mathbf{x} / \\mathbf{y}$ is __________.\n[Use: Gas constant, $\\mathrm{R}=8 \\times 10^{-2} \\mathrm{~L}$ atm $\\mathrm{K}^{-1} \\mathrm{~mol}^{-1}$ ]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 10,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 10,
-      "question_text": "The plot of $\\log k_f$ versus $1 / T$ for a reversible reaction $\\mathrm{A}(\\mathrm{g}) \\rightleftharpoons \\mathrm{P}(\\mathrm{g})$ is shown.\n\n\n\nPre-exponential factors for the forward and backward reactions are $10^{15} \\mathrm{~s}^{-1}$ and $10^{11} \\mathrm{~s}^{-1}$, respectively. If the value of $\\log K$ for the reaction at $500 \\mathrm{~K}$ is 6 , the value of $\\left|\\log k_b\\right|$ at $250 \\mathrm{~K}$ is ______.\n\n\n$$\n\\begin{aligned}\n& {[K=\\text { equilibrium constant of the reaction }} \\\\\\\\\n& k_f=\\text { rate constant of forward reaction } \\\\\\\\\n& \\left.k_b=\\text { rate constant of backward reaction }\\right]\n\\end{aligned}\n$$",
       "subject": "Chemistry",
       "topic": "chemical-equilibrium",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The plot of $\\log k_f$ versus $1 / T$ for a reversible reaction $\\mathrm{A}(\\mathrm{g}) \\rightleftharpoons \\mathrm{P}(\\mathrm{g})$ is shown.\n\n\n\nPre-exponential factors for the forward and backward reactions are $10^{15} \\mathrm{~s}^{-1}$ and $10^{11} \\mathrm{~s}^{-1}$, respectively. If the value of $\\log K$ for the reaction at $500 \\mathrm{~K}$ is 6 , the value of $\\left|\\log k_b\\right|$ at $250 \\mathrm{~K}$ is ______.\n\n\n$$\n\\begin{aligned}\n& {[K=\\text { equilibrium constant of the reaction }} \\\\\\\\\n& k_f=\\text { rate constant of forward reaction } \\\\\\\\\n& \\left.k_b=\\text { rate constant of backward reaction }\\right]\n\\end{aligned}\n$$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1liir07s6/dab28081-bff3-4a0b-b1a3-06d4b0a17ba1/3af77060-0391-11ee-94c1-c5ddbb3cc6a9/file-1liir07s7.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The plot of $\\log k_f$ versus $1 / T$ for a reversible reaction $\\mathrm{A}(\\mathrm{g}) \\rightleftharpoons \\mathrm{P}(\\mathrm{g})$ is shown.\nPre-exponential factors for the forward and backward reactions are $10^{15} \\mathrm{~s}^{-1}$ and $10^{11} \\mathrm{~s}^{-1}$, respectively. If the value of $\\log K$ for the reaction at $500 \\mathrm{~K}$ is 6 , the value of $\\left|\\log k_b\\right|$ at $250 \\mathrm{~K}$ is ______.\n$$\n\\begin{aligned}\n& {[K=\\text { equilibrium constant of the reaction }} \\\\\\\\\n& k_f=\\text { rate constant of forward reaction } \\\\\\\\\n& \\left.k_b=\\text { rate constant of backward reaction }\\right]\n\\end{aligned}\n$$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2023,
-      "exam_type": "JEE Advanced",
-      "shift": 1,
       "question_number": 11,
+      "year": 2023,
+      "exam_type": "JEE Advanced",
+      "shift": 1,
+      "subject": "Chemistry",
+      "topic": "thermodynamics",
+      "sub_topic": "physical-chemistry",
       "question_text": "One mole of an ideal monoatomic gas undergoes two reversible processes $(\\mathrm{A} \\rightarrow \\mathrm{B}$ and $\\mathrm{B} \\rightarrow \\mathrm{C})$ as shown in the given figure:\n\n\n\n\n$\\mathrm{A} \\rightarrow \\mathrm{B}$ is an adiabatic process. If the total heat absorbed in the entire process $(\\mathrm{A} \\rightarrow \\mathrm{B}$ and $\\mathrm{B} \\rightarrow \\mathrm{C})$ is $\\mathrm{R} T_2 \\ln 10$, the value of $2 \\log V_3$ is _______.\n\n\n[Use, molar heat capacity of the gas at constant pressure, $C_{\\mathrm{p}, \\mathrm{m}}=\\frac{5}{2} \\mathrm{R}$ ]",
-      "subject": "Chemistry",
-      "topic": "thermodynamics",
-      "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1liir2zt6/a8b797ca-107b-46e9-b338-62dc5a2b21ba/883c52a0-0391-11ee-94c1-c5ddbb3cc6a9/file-1liir2zt7.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "One mole of an ideal monoatomic gas undergoes two reversible processes $(\\mathrm{A} \\rightarrow \\mathrm{B}$ and $\\mathrm{B} \\rightarrow \\mathrm{C})$ as shown in the given figure:\n\n$\\mathrm{A} \\rightarrow \\mathrm{B}$ is an adiabatic process. If the total heat absorbed in the entire process $(\\mathrm{A} \\rightarrow \\mathrm{B}$ and $\\mathrm{B} \\rightarrow \\mathrm{C})$ is $\\mathrm{R} T_2 \\ln 10$, the value of $2 \\log V_3$ is _______.\n[Use, molar heat capacity of the gas at constant pressure, $C_{\\mathrm{p}, \\mathrm{m}}=\\frac{5}{2} \\mathrm{R}$ ]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2023,
-      "exam_type": "JEE Advanced",
-      "shift": 1,
       "question_number": 12,
-      "question_text": "In a one-litre flask, 6 moles of $A$ undergoes the reaction $A(\\mathrm{~g}) \\rightleftharpoons P(\\mathrm{~g})$. The progress of product formation at two temperatures (in Kelvin), $\\mathrm{T}_1$ and $\\mathrm{T}_2$, is shown in the figure:\n\n\n\nIf $\\mathrm{T}_1=2 \\mathrm{~T}_2$ and $\\left(\\Delta \\mathrm{G}_2^{\\Theta}-\\Delta \\mathrm{G}_1^{\\Theta}\\right)=\\mathrm{RT}_2 \\ln \\mathrm{x}$, then the value of $\\mathrm{x}$ is _______.\n\n\n$\\left[\\Delta \\mathrm{G}_1^{\\Theta}\\right.$ and $\\Delta \\mathrm{G}_2^{\\Theta}$ are standard Gibb's free energy change for the reaction at temperatures $\\mathrm{T}_1$ and $\\mathrm{T}_2$, respectively.]",
-      "subject": "Chemistry",
-      "topic": "thermodynamics",
-      "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
-      "correct_answer": "",
-      "question": "In a one-litre flask, 6 moles of $A$ undergoes the reaction $A(\\mathrm{~g}) \\rightleftharpoons P(\\mathrm{~g})$. The progress of product formation at two temperatures (in Kelvin), $\\mathrm{T}_1$ and $\\mathrm{T}_2$, is shown in the figure:\nIf $\\mathrm{T}_1=2 \\mathrm{~T}_2$ and $\\left(\\Delta \\mathrm{G}_2^{\\Theta}-\\Delta \\mathrm{G}_1^{\\Theta}\\right)=\\mathrm{RT}_2 \\ln \\mathrm{x}$, then the value of $\\mathrm{x}$ is _______.\n$\\left[\\Delta \\mathrm{G}_1^{\\Theta}\\right.$ and $\\Delta \\mathrm{G}_2^{\\Theta}$ are standard Gibb's free energy change for the reaction at temperatures $\\mathrm{T}_1$ and $\\mathrm{T}_2$, respectively.]",
-      "isOutOfSyllabus": false,
-      "marks": 4,
-      "negMarks": 1
-    },
-    {
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
+      "subject": "Chemistry",
+      "topic": "thermodynamics",
+      "sub_topic": "physical-chemistry",
+      "question_text": "In a one-litre flask, 6 moles of $A$ undergoes the reaction $A(\\mathrm{~g}) \\rightleftharpoons P(\\mathrm{~g})$. The progress of product formation at two temperatures (in Kelvin), $\\mathrm{T}_1$ and $\\mathrm{T}_2$, is shown in the figure:\n\n\n\nIf $\\mathrm{T}_1=2 \\mathrm{~T}_2$ and $\\left(\\Delta \\mathrm{G}_2^{\\Theta}-\\Delta \\mathrm{G}_1^{\\Theta}\\right)=\\mathrm{RT}_2 \\ln \\mathrm{x}$, then the value of $\\mathrm{x}$ is _______.\n\n\n$\\left[\\Delta \\mathrm{G}_1^{\\Theta}\\right.$ and $\\Delta \\mathrm{G}_2^{\\Theta}$ are standard Gibb's free energy change for the reaction at temperatures $\\mathrm{T}_1$ and $\\mathrm{T}_2$, respectively.]",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1liir5v9n/f4c584fd-8bcf-4b25-8d69-bb3bc8e34369/d82775b0-0391-11ee-94c1-c5ddbb3cc6a9/file-1liir5v9o.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
+      "correct_answer": "",
+      "marks": 4,
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
+    },
+    {
       "question_number": 13,
-      "question_text": "The total number of $s p^2$ hybridised carbon atoms in the major product $\\mathbf{P}$ (a non-heterocyclic compound) of the following reaction is ______.",
+      "year": 2023,
+      "exam_type": "JEE Advanced",
+      "shift": 1,
       "subject": "Chemistry",
       "topic": "compounds-containing-nitrogen",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The total number of $s p^2$ hybridised carbon atoms in the major product $\\mathbf{P}$ (a non-heterocyclic compound) of the following reaction is ______.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1liir8yr3/6d90e04d-a449-4929-b052-35dd8dfd442f/2e45f7f0-0392-11ee-94c1-c5ddbb3cc6a9/file-1liir8yr4.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lruwf1p1/17d3d44a-4cd6-411a-af3e-f90a01aa6ef8/bf3ff140-bc6d-11ee-8918-8d43f6f0913d/file-6y3zli1lruwf1p2.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lruwh7ya/f44a37ab-f078-4630-953d-3d6d06a9e0f4/fbb3b620-bc6d-11ee-8918-8d43f6f0913d/file-6y3zli1lruwh7yb.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The total number of $s p^2$ hybridised carbon atoms in the major product $\\mathbf{P}$ (a non-heterocyclic compound) of the following reaction is ______.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 14,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 14,
-      "question_text": "Match the reactions (in the given stoichiometry of the reactants) in List-I with one of their products given in List-II and choose the correct option.\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) $\\mathrm{P}_2 \\mathrm{O}_3+3 \\mathrm{H}_2 \\mathrm{O} \\rightarrow$\n    (1) $\\mathrm{P}(\\mathrm{O})\\left(\\mathrm{OCH}_3\\right) \\mathrm{Cl}_2$\n  \n  \n    (Q) $\\mathrm{P}_4+3 \\mathrm{NaOH}+3 \\mathrm{H}_2 \\mathrm{O} \\rightarrow$\n    (2) $\\mathrm{H}_3 \\mathrm{PO}_3$\n  \n  \n    (R) $\\mathrm{PCl}_5+\\mathrm{CH}_3 \\mathrm{COOH} \\rightarrow$\n    (3) $\\mathrm{PH}_3$\n  \n  \n    (S) $\\mathrm{H}_3 \\mathrm{PO}_2+2 \\mathrm{H}_2 \\mathrm{O}+4 \\mathrm{AgNO}_3 \\rightarrow$\n    (4) $\\mathrm{POCl}_3$\n  \n  \n    \n    (5) $\\mathrm{H}_3 \\mathrm{PO}_4$",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Match the reactions (in the given stoichiometry of the reactants) in List-I with one of their products given in List-II and choose the correct option.\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) $\\mathrm{P}_2 \\mathrm{O}_3+3 \\mathrm{H}_2 \\mathrm{O} \\rightarrow$\n    (1) $\\mathrm{P}(\\mathrm{O})\\left(\\mathrm{OCH}_3\\right) \\mathrm{Cl}_2$\n  \n  \n    (Q) $\\mathrm{P}_4+3 \\mathrm{NaOH}+3 \\mathrm{H}_2 \\mathrm{O} \\rightarrow$\n    (2) $\\mathrm{H}_3 \\mathrm{PO}_3$\n  \n  \n    (R) $\\mathrm{PCl}_5+\\mathrm{CH}_3 \\mathrm{COOH} \\rightarrow$\n    (3) $\\mathrm{PH}_3$\n  \n  \n    (S) $\\mathrm{H}_3 \\mathrm{PO}_2+2 \\mathrm{H}_2 \\mathrm{O}+4 \\mathrm{AgNO}_3 \\rightarrow$\n    (4) $\\mathrm{POCl}_3$\n  \n  \n    \n    (5) $\\mathrm{H}_3 \\mathrm{PO}_4$",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\mathrm{P} \\rightarrow 2 ; \\mathrm{Q} \\rightarrow 3 ; \\mathrm{R} \\rightarrow 1 ; \\mathrm{S} \\rightarrow 5$",
         "B": "$\\mathrm{P} \\rightarrow 3 ; \\mathrm{Q} \\rightarrow 5 ; \\mathrm{R} \\rightarrow 4 ; \\mathrm{S} \\rightarrow 2$",
         "C": "$\\mathrm{P} \\rightarrow 5 ; \\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 1 ; \\mathrm{S} \\rightarrow 3$",
         "D": "$\\mathrm{P} \\rightarrow 2 ; \\mathrm{Q} \\rightarrow 3 ; \\mathrm{R} \\rightarrow 4 ; \\mathrm{S} \\rightarrow 5$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Match the reactions (in the given stoichiometry of the reactants) in List-I with one of their products given in List-II and choose the correct option.\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) $\\mathrm{P}_2 \\mathrm{O}_3+3 \\mathrm{H}_2 \\mathrm{O} \\rightarrow$\n    (1) $\\mathrm{P}(\\mathrm{O})\\left(\\mathrm{OCH}_3\\right) \\mathrm{Cl}_2$\n  \n  \n    (Q) $\\mathrm{P}_4+3 \\mathrm{NaOH}+3 \\mathrm{H}_2 \\mathrm{O} \\rightarrow$\n    (2) $\\mathrm{H}_3 \\mathrm{PO}_3$\n  \n  \n    (R) $\\mathrm{PCl}_5+\\mathrm{CH}_3 \\mathrm{COOH} \\rightarrow$\n    (3) $\\mathrm{PH}_3$\n  \n  \n    (S) $\\mathrm{H}_3 \\mathrm{PO}_2+2 \\mathrm{H}_2 \\mathrm{O}+4 \\mathrm{AgNO}_3 \\rightarrow$\n    (4) $\\mathrm{POCl}_3$\n  \n  \n    \n    (5) $\\mathrm{H}_3 \\mathrm{PO}_4$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 15,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 15,
-      "question_text": "Match the electronic configurations in List-I with appropriate metal complex ions in List-II and choose the correct option.\n\n\n[Atomic Number: $\\mathrm{Fe}=26, \\mathrm{Mn}=25, \\mathrm{Co}=27$ ]\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) $t_{2 g}^6 e_g^0$\n    (1) $\\left[\\mathrm{Fe}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_6\\right]^{2+}$\n  \n  \n    (Q) $t_{2 g}^3 e_g^2$\n    (2) $\\left[\\mathrm{Mn}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_6\\right]^{2+}$\n  \n  \n    (R) $\\mathrm{e}^2 \\mathrm{t}_2^3$\n    (3) $\\left[\\mathrm{Co}\\left(\\mathrm{NH}_3\\right)_6\\right]^{3+}$\n  \n  \n    (S) $t_{2 g}^4 e_g^2$\n    (4) $\\left[\\mathrm{FeCl}_4\\right]^{-}$\n  \n  \n    \n    (5) $\\left[\\mathrm{CoCl}_4\\right]^{2-}$",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Match the electronic configurations in List-I with appropriate metal complex ions in List-II and choose the correct option.\n\n\n[Atomic Number: $\\mathrm{Fe}=26, \\mathrm{Mn}=25, \\mathrm{Co}=27$ ]\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) $t_{2 g}^6 e_g^0$\n    (1) $\\left[\\mathrm{Fe}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_6\\right]^{2+}$\n  \n  \n    (Q) $t_{2 g}^3 e_g^2$\n    (2) $\\left[\\mathrm{Mn}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_6\\right]^{2+}$\n  \n  \n    (R) $\\mathrm{e}^2 \\mathrm{t}_2^3$\n    (3) $\\left[\\mathrm{Co}\\left(\\mathrm{NH}_3\\right)_6\\right]^{3+}$\n  \n  \n    (S) $t_{2 g}^4 e_g^2$\n    (4) $\\left[\\mathrm{FeCl}_4\\right]^{-}$\n  \n  \n    \n    (5) $\\left[\\mathrm{CoCl}_4\\right]^{2-}$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lrux66zc/1113b875-ba42-42f3-997e-5d2755e0cb34/b22e6c90-bc70-11ee-8918-8d43f6f0913d/file-6y3zli1lrux66zd.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lrux91yg/afd8bfc1-8e9f-453f-a493-7c2914ca4df8/01ba0a80-bc71-11ee-8918-8d43f6f0913d/file-6y3zli1lrux91yh.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lruxc8rw/acf999e3-9324-4b91-b61d-36cc06b10582/5a6bbac0-bc71-11ee-8918-8d43f6f0913d/file-6y3zli1lruxc8rx.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lruxfr2y/53ec8a95-5ccd-47d1-857b-8db7af5d306d/bbfd73a0-bc71-11ee-a300-8b07bc985ba5/file-6y3zli1lruxfr2z.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lruxl60t/74affa81-545a-4129-bdcd-50c9e38e740c/5293b6d0-bc72-11ee-a300-8b07bc985ba5/file-6y3zli1lruxl60u.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$\\mathrm{P} \\rightarrow 1 ; \\mathrm{Q} \\rightarrow 4 ; \\mathrm{R} \\rightarrow 2 ; \\mathrm{S} \\rightarrow 3$",
         "B": "$P \\rightarrow 1 ; \\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 4 ; \\mathrm{S} \\rightarrow 5$",
         "C": "$\\mathrm{P} \\rightarrow 3 ; \\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 5 ; \\mathrm{S} \\rightarrow 1$",
         "D": "$\\mathrm{P} \\rightarrow 3 ; \\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 4 ; \\mathrm{S} \\rightarrow 1$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Match the electronic configurations in List-I with appropriate metal complex ions in List-II and choose the correct option.\n[Atomic Number: $\\mathrm{Fe}=26, \\mathrm{Mn}=25, \\mathrm{Co}=27$ ]\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) $t_{2 g}^6 e_g^0$\n    (1) $\\left[\\mathrm{Fe}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_6\\right]^{2+}$\n  \n  \n    (Q) $t_{2 g}^3 e_g^2$\n    (2) $\\left[\\mathrm{Mn}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_6\\right]^{2+}$\n  \n  \n    (R) $\\mathrm{e}^2 \\mathrm{t}_2^3$\n    (3) $\\left[\\mathrm{Co}\\left(\\mathrm{NH}_3\\right)_6\\right]^{3+}$\n  \n  \n    (S) $t_{2 g}^4 e_g^2$\n    (4) $\\left[\\mathrm{FeCl}_4\\right]^{-}$\n  \n  \n    \n    (5) $\\left[\\mathrm{CoCl}_4\\right]^{2-}$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 16,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 16,
-      "question_text": "Match the reactions in List-I with the features of their products in List-II and choose the correct option.\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) \n    (1) Inversion of configuration\n  \n  \n    (Q) \n    (2) Retention of configuration\n  \n  \n    (R) \n    (3) Mixture of enantiomers\n  \n  \n    (S) \n    (4) Mixture of structural isomers\n  \n  \n    \n    (5) Mixture of diastereomers",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Match the reactions in List-I with the features of their products in List-II and choose the correct option.\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) \n    (1) Inversion of configuration\n  \n  \n    (Q) \n    (2) Retention of configuration\n  \n  \n    (R) \n    (3) Mixture of enantiomers\n  \n  \n    (S) \n    (4) Mixture of structural isomers\n  \n  \n    \n    (5) Mixture of diastereomers",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1liirjnmw/ee598ece-bd0e-4acd-9074-89c35e731cd7/57962e80-0393-11ee-94c1-c5ddbb3cc6a9/file-1liirjnmx.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1liirkgcc/c470332e-d68a-47ae-af84-8595a1d79eda/6dc30fc0-0393-11ee-94c1-c5ddbb3cc6a9/file-1liirkgcd.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1liirlz1f/94189d50-998c-40a8-99aa-778fce8479ad/98038f30-0393-11ee-94c1-c5ddbb3cc6a9/file-1liirlz1g.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1liirmnvq/e5cd7587-9f5d-459f-99f0-81a779e6b772/ab342060-0393-11ee-94c1-c5ddbb3cc6a9/file-1liirmnvr.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lruxtb15/a4cfc414-1359-4fa9-b82c-6ee3747d9783/34eb7090-bc73-11ee-a300-8b07bc985ba5/file-6y3zli1lruxtb16.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lruxt8jf/a6e6f6fb-a026-4a1f-b554-85dd025d0e35/32fe94b0-bc73-11ee-a300-8b07bc985ba5/file-6y3zli1lruxt8jg.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lruxw043/5a17b280-8e42-4906-8302-7b2acdc217fe/7fe9be30-bc73-11ee-a300-8b07bc985ba5/file-6y3zli1lruxw044.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lruxvxyg/dc64e1b3-dd38-40da-97d4-d135b53b3909/7e3f4280-bc73-11ee-a300-8b07bc985ba5/file-6y3zli1lruxvxyh.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$\\mathrm{P} \\rightarrow 1 ; \\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 5 ; \\mathrm{S} \\rightarrow 3$",
         "B": "$\\mathrm{P} \\rightarrow 2 ; \\mathrm{Q} \\rightarrow 1 ; \\mathrm{R} \\rightarrow 3 ; \\mathrm{S} \\rightarrow 5$",
         "C": "$P \\rightarrow 1 ; Q \\rightarrow 2 ; R \\rightarrow 5 ; S \\rightarrow 4$",
         "D": "$\\mathrm{P} \\rightarrow 2 ; \\mathrm{Q} \\rightarrow 4 ; \\mathrm{R} \\rightarrow 3 ; \\mathrm{S} \\rightarrow 5$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Match the reactions in List-I with the features of their products in List-II and choose the correct option.\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) \n    (1) Inversion of configuration\n  \n  \n    (Q) \n    (2) Retention of configuration\n  \n  \n    (R) \n    (3) Mixture of enantiomers\n  \n  \n    (S) \n    (4) Mixture of structural isomers\n  \n  \n    \n    (5) Mixture of diastereomers",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 17,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 17,
-      "question_text": "The major products obtained from the reactions in List-II are the reactants for the named reactions mentioned in List-I. Match List-I with List-II and choose the correct option.\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) Etard reaction\n    (1) Acetophenone $\\stackrel{\\mathrm{Zn}-\\mathrm{Hg}, \\mathrm{HCl}}{\\longrightarrow}$\n  \n  \n    (Q) Gattermann reaction\n    (2) $$\n\\text { Toluene } \\underset{\\text { (ii) } \\mathrm{SOCl}_2}{\\stackrel{\\text { (i) } \\mathrm{KMnO}_4, \\mathrm{KOH}, \\Delta}{\\longrightarrow}}\n$$\n  \n  \n    (R) Gattermann-Koch reaction\n    (3) $$\n\\text { Benzene } \\underset{\\text { anhyd. } \\mathrm{AlCl}_3}{\\stackrel{\\mathrm{CH}_3 \\mathrm{Cl}}{\\longrightarrow}}\n$$\n  \n  \n    (S) Rosenmund reduction\n    (4) $$\n\\text { Aniline } \\underset{273-278 \\mathrm{~K}}{\\stackrel{\\mathrm{NaNO}_2 / \\mathrm{HCl}}{\\longrightarrow}}\n$$\n  \n  \n    \n    (5) $$\n\\text { Phenol } \\stackrel{\\mathrm{Zn}, \\Delta}{\\longrightarrow}\n$$",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The major products obtained from the reactions in List-II are the reactants for the named reactions mentioned in List-I. Match List-I with List-II and choose the correct option.\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) Etard reaction\n    (1) Acetophenone $\\stackrel{\\mathrm{Zn}-\\mathrm{Hg}, \\mathrm{HCl}}{\\longrightarrow}$\n  \n  \n    (Q) Gattermann reaction\n    (2) $$\n\\text { Toluene } \\underset{\\text { (ii) } \\mathrm{SOCl}_2}{\\stackrel{\\text { (i) } \\mathrm{KMnO}_4, \\mathrm{KOH}, \\Delta}{\\longrightarrow}}\n$$\n  \n  \n    (R) Gattermann-Koch reaction\n    (3) $$\n\\text { Benzene } \\underset{\\text { anhyd. } \\mathrm{AlCl}_3}{\\stackrel{\\mathrm{CH}_3 \\mathrm{Cl}}{\\longrightarrow}}\n$$\n  \n  \n    (S) Rosenmund reduction\n    (4) $$\n\\text { Aniline } \\underset{273-278 \\mathrm{~K}}{\\stackrel{\\mathrm{NaNO}_2 / \\mathrm{HCl}}{\\longrightarrow}}\n$$\n  \n  \n    \n    (5) $$\n\\text { Phenol } \\stackrel{\\mathrm{Zn}, \\Delta}{\\longrightarrow}\n$$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lruwpqhc/0eac0cb0-600c-43c7-9773-685fc1b35f93/e87d1500-bc6e-11ee-8918-8d43f6f0913d/file-6y3zli1lruwpqhd.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lruwtsz4/54ba0c61-075f-42d6-97a9-766a868d8e56/59a6f610-bc6f-11ee-8918-8d43f6f0913d/file-6y3zli1lruwtsz5.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lruwxic1/56f39d6e-f421-4840-a98b-bbd41eb0badc/c0ab2f20-bc6f-11ee-8918-8d43f6f0913d/file-6y3zli1lruwxic2.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lruwzlxk/d5d24239-d385-414e-b006-a62dc1be839f/fb10d480-bc6f-11ee-8918-8d43f6f0913d/file-6y3zli1lruwzlxl.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$\n\\mathrm{P} \\rightarrow 2 ; \\mathrm{Q} \\rightarrow 4 ; \\mathrm{R} \\rightarrow 1 ; \\mathrm{S} \\rightarrow 3\n$$",
         "B": "$$\n\\mathrm{P} \\rightarrow 1 ; \\mathrm{Q} \\rightarrow 3 ; \\mathrm{R} \\rightarrow 5 ; \\mathrm{S} \\rightarrow 2\n$$",
         "C": "$$\n\\mathrm{P} \\rightarrow 3 ; \\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 1 ; \\mathrm{S} \\rightarrow 4\n$$",
         "D": "$$\n\\mathrm{P} \\rightarrow 3 ; \\mathrm{Q} \\rightarrow 4 ; \\mathrm{R} \\rightarrow 5 ; \\mathrm{S} \\rightarrow 2\n$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The major products obtained from the reactions in List-II are the reactants for the named reactions mentioned in List-I. Match List-I with List-II and choose the correct option.\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) Etard reaction\n    (1) Acetophenone $\\stackrel{\\mathrm{Zn}-\\mathrm{Hg}, \\mathrm{HCl}}{\\longrightarrow}$\n  \n  \n    (Q) Gattermann reaction\n    (2) $$\n\\text { Toluene } \\underset{\\text { (ii) } \\mathrm{SOCl}_2}{\\stackrel{\\text { (i) } \\mathrm{KMnO}_4, \\mathrm{KOH}, \\Delta}{\\longrightarrow}}\n$$\n  \n  \n    (R) Gattermann-Koch reaction\n    (3) $$\n\\text { Benzene } \\underset{\\text { anhyd. } \\mathrm{AlCl}_3}{\\stackrel{\\mathrm{CH}_3 \\mathrm{Cl}}{\\longrightarrow}}\n$$\n  \n  \n    (S) Rosenmund reduction\n    (4) $$\n\\text { Aniline } \\underset{273-278 \\mathrm{~K}}{\\stackrel{\\mathrm{NaNO}_2 / \\mathrm{HCl}}{\\longrightarrow}}\n$$\n  \n  \n    \n    (5) $$\n\\text { Phenol } \\stackrel{\\mathrm{Zn}, \\Delta}{\\longrightarrow}\n$$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 18,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 18,
-      "question_text": "Let $S=(0,1) \\cup(1,2) \\cup(3,4)$ and $T=\\{0,1,2,3\\}$. Then which of the following statements is(are) true?",
       "subject": "Mathematics",
       "topic": "functions",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $S=(0,1) \\cup(1,2) \\cup(3,4)$ and $T=\\{0,1,2,3\\}$. Then which of the following statements is(are) true?",
+      "question_images": [],
+      "option_texts": {
         "A": "There are infinitely many functions from $S$ to $T$",
         "B": "There are infinitely many strictly increasing functions from $S$ to $T$",
         "C": "The number of continuous functions from $S$ to $T$ is at most 120",
         "D": "Every continuous function from $S$ to $T$ is differentiable"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $S=(0,1) \\cup(1,2) \\cup(3,4)$ and $T=\\{0,1,2,3\\}$. Then which of the following statements is(are) true?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 19,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 19,
-      "question_text": "Let $T_1$ and $T_2$ be two distinct common tangents to the ellipse $E: \\frac{x^2}{6}+\\frac{y^2}{3}=1$ and the parabola $P: y^2=12 x$. Suppose that the tangent $T_1$ touches $P$ and $E$ at the points $A_1$ and $A_2$, respectively and the tangent $T_2$ touches $P$ and $E$ at the points $A_4$ and $A_3$, respectively. Then which of the following statements is(are) true?",
       "subject": "Mathematics",
       "topic": "ellipse",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $T_1$ and $T_2$ be two distinct common tangents to the ellipse $E: \\frac{x^2}{6}+\\frac{y^2}{3}=1$ and the parabola $P: y^2=12 x$. Suppose that the tangent $T_1$ touches $P$ and $E$ at the points $A_1$ and $A_2$, respectively and the tangent $T_2$ touches $P$ and $E$ at the points $A_4$ and $A_3$, respectively. Then which of the following statements is(are) true?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lrv17k8v/36cdea38-3996-45b9-84dd-d9db5a0fc939/7cc0ccf0-bc80-11ee-8bcb-35b04a6ab76c/file-6y3zli1lrv17k8w.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "The area of the quadrilateral $A_1 A_2 A_3 A_4$ is 35 square units",
         "B": "The area of the quadrilateral $A_1 A_2 A_3 A_4$ is 36 square units",
         "C": "The tangents $T_1$ and $T_2$ meet the $x$-axis at the point $(-3,0)$",
         "D": "The tangents $T_1$ and $T_2$ meet the $x$-axis at the point $(-6,0)$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $T_1$ and $T_2$ be two distinct common tangents to the ellipse $E: \\frac{x^2}{6}+\\frac{y^2}{3}=1$ and the parabola $P: y^2=12 x$. Suppose that the tangent $T_1$ touches $P$ and $E$ at the points $A_1$ and $A_2$, respectively and the tangent $T_2$ touches $P$ and $E$ at the points $A_4$ and $A_3$, respectively. Then which of the following statements is(are) true?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 20,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 20,
-      "question_text": "Let $f:[0,1] \\rightarrow[0,1]$ be the function defined by $f(x)=\\frac{x^3}{3}-x^2+\\frac{5}{9} x+\\frac{17}{36}$. Consider the square region $S=[0,1] \\times[0,1]$. Let $G=\\{(x, y) \\in S: y>f(x)\\}$ be called the green region and $R=\\{(x, y) \\in S: y < f(x)\\}$ be called the red region. Let $L_h=\\{(x, h) \\in S: x \\in[0,1]\\}$ be the horizontal line drawn at a height $h \\in[0,1]$. Then which of the following statements is(are) true?",
       "subject": "Mathematics",
       "topic": "functions",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $f:[0,1] \\rightarrow[0,1]$ be the function defined by $f(x)=\\frac{x^3}{3}-x^2+\\frac{5}{9} x+\\frac{17}{36}$. Consider the square region $S=[0,1] \\times[0,1]$. Let $G=\\{(x, y) \\in S: y>f(x)\\}$ be called the green region and $R=\\{(x, y) \\in S: y < f(x)\\}$ be called the red region. Let $L_h=\\{(x, h) \\in S: x \\in[0,1]\\}$ be the horizontal line drawn at a height $h \\in[0,1]$. Then which of the following statements is(are) true?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lrv25ety/8e2587a7-f07c-48d9-a4d6-0a07f84e84e8/2a14b850-bc84-11ee-ade3-e55b42dd57e0/file-6y3zli1lrv25etz.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "There exists an $h \\in\\left[\\frac{1}{4}, \\frac{2}{3}\\right]$ such that the area of the green region above the line $L_h$ equals the area of the green region below the line $L_h$",
         "B": "There exists an $h \\in\\left[\\frac{1}{4}, \\frac{2}{3}\\right]$ such that the area of the red region above the line $L_h$ equals the area of the red region below the line $L_h$",
         "C": "There exists an $h \\in\\left[\\frac{1}{4}, \\frac{2}{3}\\right]$ such that the area of the green region above the line $L_h$ equals the area of the red region below the line $L_h$",
         "D": "There exists an $h \\in\\left[\\frac{1}{4}, \\frac{2}{3}\\right]$ such that the area of the red region above the line $L_h$ equals the area of the green region below the line $L_k$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $f:[0,1] \\rightarrow[0,1]$ be the function defined by $f(x)=\\frac{x^3}{3}-x^2+\\frac{5}{9} x+\\frac{17}{36}$. Consider the square region $S=[0,1] \\times[0,1]$. Let $G=\\{(x, y) \\in S: y>f(x)\\}$ be called the green region and $R=\\{(x, y) \\in S: y < f(x)\\}$ be called the red region. Let $L_h=\\{(x, h) \\in S: x \\in[0,1]\\}$ be the horizontal line drawn at a height $h \\in[0,1]$. Then which of the following statements is(are) true?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 21,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 21,
-      "question_text": "Let $f:(0,1) \\rightarrow \\mathbb{R}$ be the function defined as $f(x)=\\sqrt{n}$ if $x \\in\\left[\\frac{1}{n+1}, \\frac{1}{n}\\right)$ where $n \\in \\mathbb{N}$. Let $g:(0,1) \\rightarrow \\mathbb{R}$ be a function such that $\\int\\limits_{x^2}^x \\sqrt{\\frac{1-t}{t}} d t < g(x) < 2 \\sqrt{x}$ for all $x \\in(0,1)$. \nThen $\\lim\\limits_{x \\rightarrow 0} f(x) g(x)$",
       "subject": "Mathematics",
       "topic": "definite-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $f:(0,1) \\rightarrow \\mathbb{R}$ be the function defined as $f(x)=\\sqrt{n}$ if $x \\in\\left[\\frac{1}{n+1}, \\frac{1}{n}\\right)$ where $n \\in \\mathbb{N}$. Let $g:(0,1) \\rightarrow \\mathbb{R}$ be a function such that $\\int\\limits_{x^2}^x \\sqrt{\\frac{1-t}{t}} d t < g(x) < 2 \\sqrt{x}$ for all $x \\in(0,1)$. \nThen $\\lim\\limits_{x \\rightarrow 0} f(x) g(x)$",
+      "question_images": [],
+      "option_texts": {
         "A": "does NOT exist",
         "B": "is equal to 1",
         "C": "is equal to 2",
         "D": "is equal to 3"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let $f:(0,1) \\rightarrow \\mathbb{R}$ be the function defined as $f(x)=\\sqrt{n}$ if $x \\in\\left[\\frac{1}{n+1}, \\frac{1}{n}\\right)$ where $n \\in \\mathbb{N}$. Let $g:(0,1) \\rightarrow \\mathbb{R}$ be a function such that $\\int\\limits_{x^2}^x \\sqrt{\\frac{1-t}{t}} d t < g(x) < 2 \\sqrt{x}$ for all $x \\in(0,1)$. \nThen $\\lim\\limits_{x \\rightarrow 0} f(x) g(x)$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 22,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 22,
-      "question_text": "Let $Q$ be the cube with the set of vertices $\\left\\{\\left(x_1, x_2, x_3\\right) \\in \\mathbb{R}^3: x_1, x_2, x_3 \\in\\{0,1\\}\\right\\}$. Let $F$ be the set of all twelve lines containing the diagonals of the six faces of the cube $Q$. Let $S$ be the set of all four lines containing the main diagonals of the cube $Q$; for instance, the line passing through the vertices $(0,0,0)$ and $(1,1,1)$ is in $S$. For lines $\\ell_1$ and $\\ell_2$, let $d\\left(\\ell_1, \\ell_2\\right)$ denote the shortest distance between them. Then the maximum value of $d\\left(\\ell_1, \\ell_2\\right)$, as $\\ell_1$ varies over $F$ and $\\ell_2$ varies over $S$, is :",
       "subject": "Mathematics",
       "topic": "application-of-derivatives",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $Q$ be the cube with the set of vertices $\\left\\{\\left(x_1, x_2, x_3\\right) \\in \\mathbb{R}^3: x_1, x_2, x_3 \\in\\{0,1\\}\\right\\}$. Let $F$ be the set of all twelve lines containing the diagonals of the six faces of the cube $Q$. Let $S$ be the set of all four lines containing the main diagonals of the cube $Q$; for instance, the line passing through the vertices $(0,0,0)$ and $(1,1,1)$ is in $S$. For lines $\\ell_1$ and $\\ell_2$, let $d\\left(\\ell_1, \\ell_2\\right)$ denote the shortest distance between them. Then the maximum value of $d\\left(\\ell_1, \\ell_2\\right)$, as $\\ell_1$ varies over $F$ and $\\ell_2$ varies over $S$, is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lrwd7map/8057ea51-717c-4732-b5d9-f51f4d086fc3/34896110-bd3c-11ee-aee6-afcaab65cfd7/file-6y3zli1lrwd7maq.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$\\frac{1}{\\sqrt{6}}$",
         "B": "$\\frac{1}{\\sqrt{8}}$",
         "C": "$\\frac{1}{\\sqrt{3}}$",
         "D": "$\\frac{1}{\\sqrt{12}}$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $Q$ be the cube with the set of vertices $\\left\\{\\left(x_1, x_2, x_3\\right) \\in \\mathbb{R}^3: x_1, x_2, x_3 \\in\\{0,1\\}\\right\\}$. Let $F$ be the set of all twelve lines containing the diagonals of the six faces of the cube $Q$. Let $S$ be the set of all four lines containing the main diagonals of the cube $Q$; for instance, the line passing through the vertices $(0,0,0)$ and $(1,1,1)$ is in $S$. For lines $\\ell_1$ and $\\ell_2$, let $d\\left(\\ell_1, \\ell_2\\right)$ denote the shortest distance between them. Then the maximum value of $d\\left(\\ell_1, \\ell_2\\right)$, as $\\ell_1$ varies over $F$ and $\\ell_2$ varies over $S$, is :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 23,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 23,
-      "question_text": "Let $X=\\left\\{(x, y) \\in \\mathbb{Z} \\times \\mathbb{Z}: \\frac{x^2}{8}+\\frac{y^2}{20}<1\\right.$ and $\\left.y^2<5 x\\right\\}$. Three distinct points $P, Q$ and $R$ are randomly chosen from $X$. Then the probability that $P, Q$ and $R$ form a triangle whose area is a positive integer, is :",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $X=\\left\\{(x, y) \\in \\mathbb{Z} \\times \\mathbb{Z}: \\frac{x^2}{8}+\\frac{y^2}{20}<1\\right.$ and $\\left.y^2<5 x\\right\\}$. Three distinct points $P, Q$ and $R$ are randomly chosen from $X$. Then the probability that $P, Q$ and $R$ form a triangle whose area is a positive integer, is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lrzc8tq0/f5861873-ce80-49cc-8723-4650654db073/c6e66870-bede-11ee-a481-bbee97356f8c/file-6y3zli1lrzc8tq1.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$\\frac{71}{220}$",
         "B": "$\\frac{73}{220}$",
         "C": "$\\frac{79}{220}$",
         "D": "$\\frac{83}{220}$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $X=\\left\\{(x, y) \\in \\mathbb{Z} \\times \\mathbb{Z}: \\frac{x^2}{8}+\\frac{y^2}{20}<1\\right.$ and $\\left.y^2<5 x\\right\\}$. Three distinct points $P, Q$ and $R$ are randomly chosen from $X$. Then the probability that $P, Q$ and $R$ form a triangle whose area is a positive integer, is :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 24,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 24,
-      "question_text": "Let $P$ be a point on the parabola $y^2=4 a x$, where $a>0$. The normal to the parabola at $P$ meets the $x$-axis at a point $Q$. The area of the triangle $P F Q$, where $F$ is the focus of the parabola, is 120 . If the slope $m$ of the normal and $a$ are both positive integers, then the pair $(a, m)$ is",
       "subject": "Mathematics",
       "topic": "parabola",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $P$ be a point on the parabola $y^2=4 a x$, where $a>0$. The normal to the parabola at $P$ meets the $x$-axis at a point $Q$. The area of the triangle $P F Q$, where $F$ is the focus of the parabola, is 120 . If the slope $m$ of the normal and $a$ are both positive integers, then the pair $(a, m)$ is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lrzciyku/4ae5f1f6-6e3f-4ae4-a834-1716d92aca60/e0be5ae0-bedf-11ee-a481-bbee97356f8c/file-6y3zli1lrzciykv.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$(2,3)$",
         "B": "$(1,3)$",
         "C": "$(2,4)$",
         "D": "$(3,4)$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $P$ be a point on the parabola $y^2=4 a x$, where $a>0$. The normal to the parabola at $P$ meets the $x$-axis at a point $Q$. The area of the triangle $P F Q$, where $F$ is the focus of the parabola, is 120 . If the slope $m$ of the normal and $a$ are both positive integers, then the pair $(a, m)$ is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 25,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 25,
-      "question_text": "Let $\\tan ^{-1}(x) \\in\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right)$, for $x \\in \\mathbb{R}$. Then the number of real solutions of the equation $\\sqrt{1+\\cos (2 x)}=\\sqrt{2} \\tan ^{-1}(\\tan x)$ in the set $\\left(-\\frac{3 \\pi}{2},-\\frac{\\pi}{2}\\right) \\cup\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right) \\cup\\left(\\frac{\\pi}{2}, \\frac{3 \\pi}{2}\\right)$ is equal to :",
       "subject": "Mathematics",
       "topic": "inverse-trigonometric-functions",
       "sub_topic": "trigonometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $\\tan ^{-1}(x) \\in\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right)$, for $x \\in \\mathbb{R}$. Then the number of real solutions of the equation $\\sqrt{1+\\cos (2 x)}=\\sqrt{2} \\tan ^{-1}(\\tan x)$ in the set $\\left(-\\frac{3 \\pi}{2},-\\frac{\\pi}{2}\\right) \\cup\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right) \\cup\\left(\\frac{\\pi}{2}, \\frac{3 \\pi}{2}\\right)$ is equal to :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1ls7zio9s/9a0db0a9-5a88-413b-a59b-06bc109ef74c/0ff28600-c3a0-11ee-b20f-23a91f58f239/file-6y3zli1ls7zio9t.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $\\tan ^{-1}(x) \\in\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right)$, for $x \\in \\mathbb{R}$. Then the number of real solutions of the equation $\\sqrt{1+\\cos (2 x)}=\\sqrt{2} \\tan ^{-1}(\\tan x)$ in the set $\\left(-\\frac{3 \\pi}{2},-\\frac{\\pi}{2}\\right) \\cup\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right) \\cup\\left(\\frac{\\pi}{2}, \\frac{3 \\pi}{2}\\right)$ is equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 26,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 26,
-      "question_text": "Let $n \\geq 2$ be a natural number and $f:[0,1] \\rightarrow \\mathbb{R}$ be the function defined by\n\n\n$$\nf(x)= \\begin{cases}n(1-2 n x) & \\text { if } 0 \\leq x \\leq \\frac{1}{2 n} \\\\\\\\ 2 n(2 n x-1) & \\text { if } \\frac{1}{2 n} \\leq x \\leq \\frac{3}{4 n} \\\\\\\\ 4 n(1-n x) & \\text { if } \\frac{3}{4 n} \\leq x \\leq \\frac{1}{n} \\\\\\\\ \\frac{n}{n-1}(n x-1) & \\text { if } \\frac{1}{n} \\leq x \\leq 1\\end{cases}\n$$\n\n\nIf $n$ is such that the area of the region bounded by the curves $x=0, x=1, y=0$ and $y=f(x)$ is 4 , then the maximum value of the function $f$ is :",
       "subject": "Mathematics",
       "topic": "application-of-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $n \\geq 2$ be a natural number and $f:[0,1] \\rightarrow \\mathbb{R}$ be the function defined by\n\n\n$$\nf(x)= \\begin{cases}n(1-2 n x) & \\text { if } 0 \\leq x \\leq \\frac{1}{2 n} \\\\\\\\ 2 n(2 n x-1) & \\text { if } \\frac{1}{2 n} \\leq x \\leq \\frac{3}{4 n} \\\\\\\\ 4 n(1-n x) & \\text { if } \\frac{3}{4 n} \\leq x \\leq \\frac{1}{n} \\\\\\\\ \\frac{n}{n-1}(n x-1) & \\text { if } \\frac{1}{n} \\leq x \\leq 1\\end{cases}\n$$\n\n\nIf $n$ is such that the area of the region bounded by the curves $x=0, x=1, y=0$ and $y=f(x)$ is 4 , then the maximum value of the function $f$ is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1ls7zcv3y/a2cb4151-0e25-4489-89a1-ea633cb68fa4/6e5fe9e0-c39f-11ee-b20f-23a91f58f239/file-6y3zli1ls7zcv3z.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $n \\geq 2$ be a natural number and $f:[0,1] \\rightarrow \\mathbb{R}$ be the function defined by\n$$\nf(x)= \\begin{cases}n(1-2 n x) & \\text { if } 0 \\leq x \\leq \\frac{1}{2 n} \\\\\\\\ 2 n(2 n x-1) & \\text { if } \\frac{1}{2 n} \\leq x \\leq \\frac{3}{4 n} \\\\\\\\ 4 n(1-n x) & \\text { if } \\frac{3}{4 n} \\leq x \\leq \\frac{1}{n} \\\\\\\\ \\frac{n}{n-1}(n x-1) & \\text { if } \\frac{1}{n} \\leq x \\leq 1\\end{cases}\n$$\nIf $n$ is such that the area of the region bounded by the curves $x=0, x=1, y=0$ and $y=f(x)$ is 4 , then the maximum value of the function $f$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 27,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 27,
-      "question_text": "Let $7 \\overbrace{5 \\cdots 5}^r 7$ denote the $(r+2)$ digit number where the first and the last digits are 7 and the remaining $r$ digits are 5 . Consider the sum $S=77+757+7557+\\cdots+7 \\overbrace{5 \\cdots 5}^{98}7$. If $S=\\frac{7 \\overbrace{5 \\cdots 5}^{99}7+m}{n}$, where $m$ and $n$ are natural numbers less than 3000 , then the value of $m+n$ is",
       "subject": "Mathematics",
       "topic": "sequences-and-series",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $7 \\overbrace{5 \\cdots 5}^r 7$ denote the $(r+2)$ digit number where the first and the last digits are 7 and the remaining $r$ digits are 5 . Consider the sum $S=77+757+7557+\\cdots+7 \\overbrace{5 \\cdots 5}^{98}7$. If $S=\\frac{7 \\overbrace{5 \\cdots 5}^{99}7+m}{n}$, where $m$ and $n$ are natural numbers less than 3000 , then the value of $m+n$ is",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $7 \\overbrace{5 \\cdots 5}^r 7$ denote the $(r+2)$ digit number where the first and the last digits are 7 and the remaining $r$ digits are 5 . Consider the sum $S=77+757+7557+\\cdots+7 \\overbrace{5 \\cdots 5}^{98}7$. If $S=\\frac{7 \\overbrace{5 \\cdots 5}^{99}7+m}{n}$, where $m$ and $n$ are natural numbers less than 3000 , then the value of $m+n$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 28,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 28,
-      "question_text": "Let $A=\\left\\{\\frac{1967+1686 i \\sin \\theta}{7-3 i \\cos \\theta}: \\theta \\in \\mathbb{R}\\right\\}$. If $A$ contains exactly one positive integer $n$, then the value of $n$ is",
       "subject": "Mathematics",
       "topic": "complex-numbers",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $A=\\left\\{\\frac{1967+1686 i \\sin \\theta}{7-3 i \\cos \\theta}: \\theta \\in \\mathbb{R}\\right\\}$. If $A$ contains exactly one positive integer $n$, then the value of $n$ is",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $A=\\left\\{\\frac{1967+1686 i \\sin \\theta}{7-3 i \\cos \\theta}: \\theta \\in \\mathbb{R}\\right\\}$. If $A$ contains exactly one positive integer $n$, then the value of $n$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 29,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 29,
-      "question_text": "Let $P$ be the plane $\\sqrt{3} x+2 y+3 z=16$ and let\n$S=\\left\\{\\alpha \\hat{i}+\\beta \\hat{j}+\\gamma \\hat{k}: \\alpha^2+\\beta^2+\\gamma^2=1\\right.$ and the distance of $(\\alpha, \\beta, \\gamma)$ from the plane $P$ is $\\left.\\frac{7}{2}\\right\\}$.\nLet $\\vec{u}, \\vec{v}$ and $\\vec{w}$ be three distinct vectors in $S$ such that $|\\vec{u}-\\vec{v}|=|\\vec{v}-\\vec{w}|=|\\vec{w}-\\vec{u}|$. Let $V$ be the volume of the parallelepiped determined by vectors $\\vec{u}, \\vec{v}$ and $\\vec{w}$. Then the value of $\\frac{80}{\\sqrt{3}} V$ is :",
       "subject": "Mathematics",
       "topic": "vector-algebra",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $P$ be the plane $\\sqrt{3} x+2 y+3 z=16$ and let\n$S=\\left\\{\\alpha \\hat{i}+\\beta \\hat{j}+\\gamma \\hat{k}: \\alpha^2+\\beta^2+\\gamma^2=1\\right.$ and the distance of $(\\alpha, \\beta, \\gamma)$ from the plane $P$ is $\\left.\\frac{7}{2}\\right\\}$.\nLet $\\vec{u}, \\vec{v}$ and $\\vec{w}$ be three distinct vectors in $S$ such that $|\\vec{u}-\\vec{v}|=|\\vec{v}-\\vec{w}|=|\\vec{w}-\\vec{u}|$. Let $V$ be the volume of the parallelepiped determined by vectors $\\vec{u}, \\vec{v}$ and $\\vec{w}$. Then the value of $\\frac{80}{\\sqrt{3}} V$ is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1ls7xgbn0/46800ae9-35f7-4b54-96f2-6b79786b742d/fc4ff2c0-c397-11ee-88e7-6d5a221ccd7c/file-6y3zli1ls7xgbn1.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1ls7xjbom/4943d8cb-681e-40e7-bee0-25fca6ec7e8e/4fc63860-c398-11ee-88e7-6d5a221ccd7c/file-6y3zli1ls7xjbon.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $P$ be the plane $\\sqrt{3} x+2 y+3 z=16$ and let\n$S=\\left\\{\\alpha \\hat{i}+\\beta \\hat{j}+\\gamma \\hat{k}: \\alpha^2+\\beta^2+\\gamma^2=1\\right.$ and the distance of $(\\alpha, \\beta, \\gamma)$ from the plane $P$ is $\\left.\\frac{7}{2}\\right\\}$.\nLet $\\vec{u}, \\vec{v}$ and $\\vec{w}$ be three distinct vectors in $S$ such that $|\\vec{u}-\\vec{v}|=|\\vec{v}-\\vec{w}|=|\\vec{w}-\\vec{u}|$. Let $V$ be the volume of the parallelepiped determined by vectors $\\vec{u}, \\vec{v}$ and $\\vec{w}$. Then the value of $\\frac{80}{\\sqrt{3}} V$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 30,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 30,
-      "question_text": "Let $a$ and $b$ be two nonzero real numbers. If the coefficient of $x^5$ in the expansion of $\\left(a x^2+\\frac{70}{27 b x}\\right)^4$ is equal to the coefficient of $x^{-5}$ in the expansion of $\\left(a x-\\frac{1}{b x^2}\\right)^7$, then the value of $2 b$ is :",
       "subject": "Mathematics",
       "topic": "mathematical-induction-and-binomial-theorem",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $a$ and $b$ be two nonzero real numbers. If the coefficient of $x^5$ in the expansion of $\\left(a x^2+\\frac{70}{27 b x}\\right)^4$ is equal to the coefficient of $x^{-5}$ in the expansion of $\\left(a x-\\frac{1}{b x^2}\\right)^7$, then the value of $2 b$ is :",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $a$ and $b$ be two nonzero real numbers. If the coefficient of $x^5$ in the expansion of $\\left(a x^2+\\frac{70}{27 b x}\\right)^4$ is equal to the coefficient of $x^{-5}$ in the expansion of $\\left(a x-\\frac{1}{b x^2}\\right)^7$, then the value of $2 b$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 31,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 31,
-      "question_text": "Let $\\alpha, \\beta$ and $\\gamma$ be real numbers. Consider the following system of linear equations\n\n\n$$\n\\begin{aligned}\n& x+2 y+z=7 \\\\\\\\\n& x+\\alpha z=11 \\\\\\\\\n& 2 x-3 y+\\beta z=\\gamma\n\\end{aligned}\n$$\n\n\nMatch each entry in List-I to the correct entries in List-II.\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) If $\\beta=\\frac{1}{2}(7 \\alpha-3)$ and $\\gamma=28$, then the system has\n    (1) a unique solution\n  \n  \n    (Q) If $\\beta=\\frac{1}{2}(7 \\alpha-3)$ and $\\gamma \\neq 28$, then the system has\n    (2) no solution \n  \n  \n    (R) If $\\beta \\neq \\frac{1}{2}(7 \\alpha-3)$ where $\\alpha=1$ and $\\gamma \\neq 28$, then the system has\n    (3) infinitely many solutions \n  \n  \n    (S) If $\\beta \\neq \\frac{1}{2}(7 \\alpha-3)$ where $\\alpha=1$ and $\\gamma=28$, then the system has\n    (4) $x=11, y=-2$ and $z=0$ as a solution \n  \n  \n    \n    (5) $x=-15, y=4$ and $z=0$ as a solution\n  \n\n\n\nThe correct option is:",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $\\alpha, \\beta$ and $\\gamma$ be real numbers. Consider the following system of linear equations\n\n\n$$\n\\begin{aligned}\n& x+2 y+z=7 \\\\\\\\\n& x+\\alpha z=11 \\\\\\\\\n& 2 x-3 y+\\beta z=\\gamma\n\\end{aligned}\n$$\n\n\nMatch each entry in List-I to the correct entries in List-II.\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) If $\\beta=\\frac{1}{2}(7 \\alpha-3)$ and $\\gamma=28$, then the system has\n    (1) a unique solution\n  \n  \n    (Q) If $\\beta=\\frac{1}{2}(7 \\alpha-3)$ and $\\gamma \\neq 28$, then the system has\n    (2) no solution \n  \n  \n    (R) If $\\beta \\neq \\frac{1}{2}(7 \\alpha-3)$ where $\\alpha=1$ and $\\gamma \\neq 28$, then the system has\n    (3) infinitely many solutions \n  \n  \n    (S) If $\\beta \\neq \\frac{1}{2}(7 \\alpha-3)$ where $\\alpha=1$ and $\\gamma=28$, then the system has\n    (4) $x=11, y=-2$ and $z=0$ as a solution \n  \n  \n    \n    (5) $x=-15, y=4$ and $z=0$ as a solution\n  \n\n\n\nThe correct option is:",
+      "question_images": [],
+      "option_texts": {
         "A": "$(P) \\rightarrow(3) ~~ (Q) \\rightarrow(2) ~~(R) \\rightarrow(1)~~ (S) \\rightarrow(4)$",
         "B": "$(P) \\rightarrow(3) ~~(Q) \\rightarrow(2) ~~(R) \\rightarrow(5)~~ (S) \\rightarrow(4)$",
         "C": "$(P) \\rightarrow(2)~~  (Q) \\rightarrow(1) ~~ (R) \\rightarrow(4) ~~ (S) \\rightarrow(5)$",
         "D": "$(P) \\rightarrow(2) ~~ (Q) \\rightarrow(1) ~~  (R) \\rightarrow(1) ~~ (S) \\rightarrow(3)$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $\\alpha, \\beta$ and $\\gamma$ be real numbers. Consider the following system of linear equations\n$$\n\\begin{aligned}\n& x+2 y+z=7 \\\\\\\\\n& x+\\alpha z=11 \\\\\\\\\n& 2 x-3 y+\\beta z=\\gamma\n\\end{aligned}\n$$\nMatch each entry in List-I to the correct entries in List-II.\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) If $\\beta=\\frac{1}{2}(7 \\alpha-3)$ and $\\gamma=28$, then the system has\n    (1) a unique solution\n  \n  \n    (Q) If $\\beta=\\frac{1}{2}(7 \\alpha-3)$ and $\\gamma \\neq 28$, then the system has\n    (2) no solution \n  \n  \n    (R) If $\\beta \\neq \\frac{1}{2}(7 \\alpha-3)$ where $\\alpha=1$ and $\\gamma \\neq 28$, then the system has\n    (3) infinitely many solutions \n  \n  \n    (S) If $\\beta \\neq \\frac{1}{2}(7 \\alpha-3)$ where $\\alpha=1$ and $\\gamma=28$, then the system has\n    (4) $x=11, y=-2$ and $z=0$ as a solution \n  \n  \n    \n    (5) $x=-15, y=4$ and $z=0$ as a solution\n  \n\n\nThe correct option is:",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 32,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 32,
-      "question_text": "Consider the given data with frequency distribution\n\n\n$$\n\\begin{array}{ccccccc}\nx_i & 3 & 8 & 11 & 10 & 5 & 4 \\\\\nf_i & 5 & 2 & 3 & 2 & 4 & 4\n\\end{array}\n$$\n\n\nMatch each entry in List-I to the correct entries in List-II.\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) The mean of the above data is\n    (1) 2.5\n  \n  \n    (Q) The median of the above data is\n    (2) 5\n  \n  \n    (R) The mean deviation about the mean of the above data is\n    (3) 6\n  \n  \n    (S) The mean deviation about the median of the above data is\n    (4) 2.7\n  \n  \n    \n    (5) 2.4\n  \n\n\n\nThe correct option is:",
       "subject": "Mathematics",
       "topic": "statistics",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider the given data with frequency distribution\n\n\n$$\n\\begin{array}{ccccccc}\nx_i & 3 & 8 & 11 & 10 & 5 & 4 \\\\\nf_i & 5 & 2 & 3 & 2 & 4 & 4\n\\end{array}\n$$\n\n\nMatch each entry in List-I to the correct entries in List-II.\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) The mean of the above data is\n    (1) 2.5\n  \n  \n    (Q) The median of the above data is\n    (2) 5\n  \n  \n    (R) The mean deviation about the mean of the above data is\n    (3) 6\n  \n  \n    (S) The mean deviation about the median of the above data is\n    (4) 2.7\n  \n  \n    \n    (5) 2.4\n  \n\n\n\nThe correct option is:",
+      "question_images": [],
+      "option_texts": {
         "A": "$(P) \\rightarrow(3) ~~ (Q) \\rightarrow(2) ~~ (R) \\rightarrow(4) ~~ (S) \\rightarrow(5)$",
         "B": "$(P) \\rightarrow(3) ~~ (Q) \\rightarrow(2) ~~ (R) \\rightarrow(1) ~~ (S) \\rightarrow(5)$",
         "C": "$(P) \\rightarrow(2) ~~ (Q) \\rightarrow(3) ~~ (R) \\rightarrow(4) ~~ (S) \\rightarrow(1) $",
         "D": "$(P) \\rightarrow(3) ~~ (Q) \\rightarrow(3) ~~ (R) \\rightarrow(5) ~~ (S) \\rightarrow(5)$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Consider the given data with frequency distribution\n$$\n\\begin{array}{ccccccc}\nx_i & 3 & 8 & 11 & 10 & 5 & 4 \\\\\nf_i & 5 & 2 & 3 & 2 & 4 & 4\n\\end{array}\n$$\nMatch each entry in List-I to the correct entries in List-II.\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) The mean of the above data is\n    (1) 2.5\n  \n  \n    (Q) The median of the above data is\n    (2) 5\n  \n  \n    (R) The mean deviation about the mean of the above data is\n    (3) 6\n  \n  \n    (S) The mean deviation about the median of the above data is\n    (4) 2.7\n  \n  \n    \n    (5) 2.4\n  \n\n\nThe correct option is:",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 33,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 33,
-      "question_text": "Let $\\ell_1$ and $\\ell_2$ be the lines $\\vec{r}_1=\\lambda(\\hat{i}+\\hat{j}+\\hat{k})$ and $\\vec{r}_2=(\\hat{j}-\\hat{k})+\\mu(\\hat{i}+\\hat{k})$, respectively. Let $X$ be the set of all the planes $H$ that contain the line $\\ell_1$. For a plane $H$, let $d(H)$ denote the smallest possible distance between the points of $\\ell_2$ and $H$. Let $H_0$ be a plane in $X$ for which $d\\left(H_0\\right)$ is the maximum value of $d(H)$ as $H$ varies over all planes in $X$.\n\n\nMatch each entry in List-I to the correct entries in List-II.\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) The value of $d\\left(H_0\\right)$ is\n    (1) $\\sqrt{3}$\n  \n  \n    (Q) The distance of the point $(0,1,2)$ from $H_0$ is\n    (2) $\\frac{1}{\\sqrt{3}}$\n  \n  \n    (R) The distance of origin from $H_0$ is\n    (3) 0\n  \n  \n    (S) The distance of origin from the point of intersection of planes $y=z, x=1$ and $H_0$ is\n    (4) $\\sqrt{2}$\n  \n  \n    \n    (5) $\\frac{1}{\\sqrt{2}}$\n  \n\n\n\nThe correct option is:",
       "subject": "Mathematics",
       "topic": "3d-geometry",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $\\ell_1$ and $\\ell_2$ be the lines $\\vec{r}_1=\\lambda(\\hat{i}+\\hat{j}+\\hat{k})$ and $\\vec{r}_2=(\\hat{j}-\\hat{k})+\\mu(\\hat{i}+\\hat{k})$, respectively. Let $X$ be the set of all the planes $H$ that contain the line $\\ell_1$. For a plane $H$, let $d(H)$ denote the smallest possible distance between the points of $\\ell_2$ and $H$. Let $H_0$ be a plane in $X$ for which $d\\left(H_0\\right)$ is the maximum value of $d(H)$ as $H$ varies over all planes in $X$.\n\n\nMatch each entry in List-I to the correct entries in List-II.\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) The value of $d\\left(H_0\\right)$ is\n    (1) $\\sqrt{3}$\n  \n  \n    (Q) The distance of the point $(0,1,2)$ from $H_0$ is\n    (2) $\\frac{1}{\\sqrt{3}}$\n  \n  \n    (R) The distance of origin from $H_0$ is\n    (3) 0\n  \n  \n    (S) The distance of origin from the point of intersection of planes $y=z, x=1$ and $H_0$ is\n    (4) $\\sqrt{2}$\n  \n  \n    \n    (5) $\\frac{1}{\\sqrt{2}}$\n  \n\n\n\nThe correct option is:",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1ls7s8n6g/dd569083-4353-46fa-ae82-2f13c8787b6a/991b9d80-c383-11ee-abd5-33912c53cccd/file-6y3zli1ls7s8n6h.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$\n(P) \\rightarrow(2) \\quad(Q) \\rightarrow(4) \\quad(R) \\rightarrow(5) \\quad(S) \\rightarrow(1)\n$$",
         "B": "$$\n(P) \\rightarrow(5) \\quad(Q) \\rightarrow(4) \\quad(R) \\rightarrow(3) \\quad(S) \\rightarrow(1)\n$$",
         "C": "$$\n(P) \\rightarrow(2) \\quad(Q) \\rightarrow(1) \\quad(R) \\rightarrow(3) \\quad(S) \\rightarrow(2)\n$$",
         "D": "$$\n(P) \\rightarrow(5) \\quad(Q) \\rightarrow(1) \\quad(R) \\rightarrow(4) \\quad(S) \\rightarrow(2)\n$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $\\ell_1$ and $\\ell_2$ be the lines $\\vec{r}_1=\\lambda(\\hat{i}+\\hat{j}+\\hat{k})$ and $\\vec{r}_2=(\\hat{j}-\\hat{k})+\\mu(\\hat{i}+\\hat{k})$, respectively. Let $X$ be the set of all the planes $H$ that contain the line $\\ell_1$. For a plane $H$, let $d(H)$ denote the smallest possible distance between the points of $\\ell_2$ and $H$. Let $H_0$ be a plane in $X$ for which $d\\left(H_0\\right)$ is the maximum value of $d(H)$ as $H$ varies over all planes in $X$.\nMatch each entry in List-I to the correct entries in List-II.\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) The value of $d\\left(H_0\\right)$ is\n    (1) $\\sqrt{3}$\n  \n  \n    (Q) The distance of the point $(0,1,2)$ from $H_0$ is\n    (2) $\\frac{1}{\\sqrt{3}}$\n  \n  \n    (R) The distance of origin from $H_0$ is\n    (3) 0\n  \n  \n    (S) The distance of origin from the point of intersection of planes $y=z, x=1$ and $H_0$ is\n    (4) $\\sqrt{2}$\n  \n  \n    \n    (5) $\\frac{1}{\\sqrt{2}}$\n  \n\n\nThe correct option is:",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 34,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 34,
-      "question_text": "Let $z$ be a complex number satisfying $|z|^3+2 z^2+4 \\bar{z}-8=0$, where $\\bar{z}$ denotes the complex conjugate of $z$. Let the imaginary part of $z$ be nonzero.\n\n\nMatch each entry in List-I to the correct entries in List-II.\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) $|z|^2$ is equal to\n    (1) 12\n  \n  \n    (Q) $|z-\\bar{z}|^2$ is equal to\n    (2) 4\n  \n  \n    (R) $|z|^2+|z+\\bar{z}|^2$ is equal to\n    (3) 8\n  \n  \n    (S) $|z+1|^2$ is equal to\n    (4) 10\n  \n  \n    \n    (5) 7\n  \n\n\n\nThe correct option is:",
       "subject": "Mathematics",
       "topic": "complex-numbers",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $z$ be a complex number satisfying $|z|^3+2 z^2+4 \\bar{z}-8=0$, where $\\bar{z}$ denotes the complex conjugate of $z$. Let the imaginary part of $z$ be nonzero.\n\n\nMatch each entry in List-I to the correct entries in List-II.\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) $|z|^2$ is equal to\n    (1) 12\n  \n  \n    (Q) $|z-\\bar{z}|^2$ is equal to\n    (2) 4\n  \n  \n    (R) $|z|^2+|z+\\bar{z}|^2$ is equal to\n    (3) 8\n  \n  \n    (S) $|z+1|^2$ is equal to\n    (4) 10\n  \n  \n    \n    (5) 7\n  \n\n\n\nThe correct option is:",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\n(P) \\rightarrow(1) \\quad(Q) \\rightarrow(3) \\quad(R) \\rightarrow(5) \\quad(S) \\rightarrow(4)\n$$",
         "B": "$$\n(P) \\rightarrow(2) \\quad(Q) \\rightarrow(1) \\quad(R) \\rightarrow(3) \\quad(S) \\rightarrow(5)\n$$",
         "C": "$$\n(P) \\rightarrow(2) \\quad(Q) \\rightarrow(4) \\quad(R) \\rightarrow(5) \\quad(S) \\rightarrow(1)\n$$",
         "D": "$$\n(P) \\rightarrow(2) \\quad(Q) \\rightarrow(3) \\quad(R) \\rightarrow(5) \\quad(S) \\rightarrow(4)\n$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $z$ be a complex number satisfying $|z|^3+2 z^2+4 \\bar{z}-8=0$, where $\\bar{z}$ denotes the complex conjugate of $z$. Let the imaginary part of $z$ be nonzero.\nMatch each entry in List-I to the correct entries in List-II.\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) $|z|^2$ is equal to\n    (1) 12\n  \n  \n    (Q) $|z-\\bar{z}|^2$ is equal to\n    (2) 4\n  \n  \n    (R) $|z|^2+|z+\\bar{z}|^2$ is equal to\n    (3) 8\n  \n  \n    (S) $|z+1|^2$ is equal to\n    (4) 10\n  \n  \n    \n    (5) 7\n  \n\n\nThe correct option is:",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 35,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 35,
-      "question_text": "A slide with a frictionless curved surface, which becomes horizontal at its lower end, is fixed on the terrace of a building of height $3 h$ from the ground, as shown in the figure. A spherical ball of mass $m$ is released on the slide from rest at a height $h$ from the top of the terrace. The ball leaves the slide with a velocity $\\vec{u}_0=u_0 \\hat{x}$ and falls on the ground at a distance $d$ from the building making an angle $\\theta$ with the horizontal. It bounces off with a velocity $\\vec{v}$ and reaches a maximum height $h_1$. The acceleration due to gravity is $g$ and the coefficient of restitution of the ground is $1 / \\sqrt{3}$. Which of the following statement(s) is(are) correct?",
       "subject": "Physics",
       "topic": "impulse-and-momentum",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A slide with a frictionless curved surface, which becomes horizontal at its lower end, is fixed on the terrace of a building of height $3 h$ from the ground, as shown in the figure. A spherical ball of mass $m$ is released on the slide from rest at a height $h$ from the top of the terrace. The ball leaves the slide with a velocity $\\vec{u}_0=u_0 \\hat{x}$ and falls on the ground at a distance $d$ from the building making an angle $\\theta$ with the horizontal. It bounces off with a velocity $\\vec{v}$ and reaches a maximum height $h_1$. The acceleration due to gravity is $g$ and the coefficient of restitution of the ground is $1 / \\sqrt{3}$. Which of the following statement(s) is(are) correct?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1liip5c28/52af7e88-1b06-4b2b-a4bf-bc382693f2e1/f70f6c10-0389-11ee-add3-0f52d4fe427d/file-1liip5c29.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lrjrem5c/7432b552-c127-42c6-a874-d5f9720b4097/86738a00-b64d-11ee-85e5-715d20747ec3/file-6y3zli1lrjrem5d.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$\\overrightarrow{\\mathrm{u}}_0=\\sqrt{2 g h} \\hat{x}$",
         "B": "$\\vec{v}=\\sqrt{2 g h}(\\hat{x}-\\hat{z})$",
         "C": "$\\theta=60^{\\circ}$",
         "D": "$d / h_1=2 \\sqrt{3}$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A slide with a frictionless curved surface, which becomes horizontal at its lower end, is fixed on the terrace of a building of height $3 h$ from the ground, as shown in the figure. A spherical ball of mass $m$ is released on the slide from rest at a height $h$ from the top of the terrace. The ball leaves the slide with a velocity $\\vec{u}_0=u_0 \\hat{x}$ and falls on the ground at a distance $d$ from the building making an angle $\\theta$ with the horizontal. It bounces off with a velocity $\\vec{v}$ and reaches a maximum height $h_1$. The acceleration due to gravity is $g$ and the coefficient of restitution of the ground is $1 / \\sqrt{3}$. Which of the following statement(s) is(are) correct?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 36,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 36,
-      "question_text": "A plane polarized blue light ray is incident on a prism such that there is no reflection from the surface of the prism. The angle of deviation of the emergent ray is $\\delta=60^{\\circ}$ (see Figure-1). The angle of minimum deviation for red light from the same prism is $\\delta_{\\min }=30^{\\circ}$ (see Figure-2). The refractive index of the prism material for blue light is $\\sqrt{3}$. Which of the following statement(s) is(are) correct?",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A plane polarized blue light ray is incident on a prism such that there is no reflection from the surface of the prism. The angle of deviation of the emergent ray is $\\delta=60^{\\circ}$ (see Figure-1). The angle of minimum deviation for red light from the same prism is $\\delta_{\\min }=30^{\\circ}$ (see Figure-2). The refractive index of the prism material for blue light is $\\sqrt{3}$. Which of the following statement(s) is(are) correct?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1liip7ya2/2d96594b-e54f-4ebc-b99a-33821d69cacc/3fd751b0-038a-11ee-add3-0f52d4fe427d/file-1liip7ya3.webp",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lrnqnguz/23de1f9a-4563-4e76-8131-d5c6aa14c5f0/b61e0eb0-b87d-11ee-a3f2-bbef0b8d82be/file-6y3zli1lrnqngv0.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "The blue light is polarized in the plane of incidence.",
         "B": "The angle of the prism is $45^{\\circ}$.",
         "C": "The refractive index of the material of the prism for red light is $\\sqrt{2}$.",
         "D": "The angle of refraction for blue light in air at the exit plane of the prism is $60^{\\circ}$."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A plane polarized blue light ray is incident on a prism such that there is no reflection from the surface of the prism. The angle of deviation of the emergent ray is $\\delta=60^{\\circ}$ (see Figure-1). The angle of minimum deviation for red light from the same prism is $\\delta_{\\min }=30^{\\circ}$ (see Figure-2). The refractive index of the prism material for blue light is $\\sqrt{3}$. Which of the following statement(s) is(are) correct?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 37,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 37,
-      "question_text": "In a circuit shown in the figure, the capacitor $C$ is initially uncharged and the key $K$ is open. In this condition, a current of $1 \\mathrm{~A}$ flows through the $1 \\Omega$ resistor. The key is closed at time $t=t_0$. Which of the following statement(s) is(are) correct?\n\n\n[Given: $e^{-1}=0.36$ ]",
       "subject": "Physics",
       "topic": "capacitor",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In a circuit shown in the figure, the capacitor $C$ is initially uncharged and the key $K$ is open. In this condition, a current of $1 \\mathrm{~A}$ flows through the $1 \\Omega$ resistor. The key is closed at time $t=t_0$. Which of the following statement(s) is(are) correct?\n\n\n[Given: $e^{-1}=0.36$ ]",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1liipba4r/de8ff26a-d4d6-4d98-a870-c88e8f463783/9c6c7db0-038a-11ee-add3-0f52d4fe427d/file-1liipba4s.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lrnptmz6/f8af71be-57ff-41f5-9aa8-45a7f33f0061/78916720-b87a-11ee-a3f2-bbef0b8d82be/file-6y3zli1lrnptmz7.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lrnpthbx/a2bd5e99-cdb1-48c7-8e5c-b8616c891804/7434ead0-b87a-11ee-a3f2-bbef0b8d82be/file-6y3zli1lrnpthby.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lrnptcoe/7f9911e6-7c28-4e58-b85b-730f784cfc0c/709ca8e0-b87a-11ee-a3f2-bbef0b8d82be/file-6y3zli1lrnptcof.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lrnq4j81/e5f9d568-3b6f-4f13-a2bc-38f44d571bbd/a7919c10-b87b-11ee-a3f2-bbef0b8d82be/file-6y3zli1lrnq4j82.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "The value of the resistance $R$ is $3 \\Omega$.",
         "B": "For $t < t_0 $, the value of current $I_1$ is $2 \\mathrm{~A}$.",
         "C": "At $t=t_0+7.2 \\mu \\mathrm{s}$, the current in the capacitor is $0.6 \\mathrm{~A}$.",
         "D": "For $t \\rightarrow \\infty$, the charge on the capacitor is $12 \\mu \\mathrm{C}$."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "In a circuit shown in the figure, the capacitor $C$ is initially uncharged and the key $K$ is open. In this condition, a current of $1 \\mathrm{~A}$ flows through the $1 \\Omega$ resistor. The key is closed at time $t=t_0$. Which of the following statement(s) is(are) correct?\n[Given: $e^{-1}=0.36$ ]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 38,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 38,
-      "question_text": "A bar of mass $M=1.00 \\mathrm{~kg}$ and length $L=0.20 \\mathrm{~m}$ is lying on a horizontal frictionless surface. One end of the bar is pivoted at a point about which it is free to rotate. A small mass $m=0.10 \\mathrm{~kg}$ is moving on the same horizontal surface with $5.00 \\mathrm{~m} \\mathrm{~s}^{-1}$ speed on a path perpendicular to the bar. It hits the bar at a distance $L / 2$ from the pivoted end and returns back on the same path with speed v. After this elastic collision, the bar rotates with an angular velocity $\\omega$. \n\nWhich of the following statement is correct?",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A bar of mass $M=1.00 \\mathrm{~kg}$ and length $L=0.20 \\mathrm{~m}$ is lying on a horizontal frictionless surface. One end of the bar is pivoted at a point about which it is free to rotate. A small mass $m=0.10 \\mathrm{~kg}$ is moving on the same horizontal surface with $5.00 \\mathrm{~m} \\mathrm{~s}^{-1}$ speed on a path perpendicular to the bar. It hits the bar at a distance $L / 2$ from the pivoted end and returns back on the same path with speed v. After this elastic collision, the bar rotates with an angular velocity $\\omega$. \n\nWhich of the following statement is correct?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lq3g7hsb/dea389e9-3e8d-42dc-b19a-27e4a40fb9fd/fa3a49b0-9988-11ee-b263-85b00cb400d6/file-6y3zli1lq3g7hsc.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$\\omega=6.98 ~\\mathrm{rad}~ \\mathrm{s}^{-1}$ and $\\mathrm{v}=4.30 \\mathrm{~m} \\mathrm{~s}^{-1}$",
         "B": "$\\omega=3.75 ~\\mathrm{rad} ~\\mathrm{s}^{-1}$ and $\\mathrm{v}=4.30 \\mathrm{~m} \\mathrm{~s}^{-1}$",
         "C": "$\\omega=3.75 ~\\mathrm{rad}~ \\mathrm{s}^{-1}$ and $\\mathrm{v}=10.0 \\mathrm{~m} \\mathrm{~s}^{-1}$",
         "D": "$\\omega=6.80 ~\\mathrm{rad} ~\\mathrm{s}^{-1}$ and $\\mathrm{v}=4.10 \\mathrm{~m} \\mathrm{~s}^{-1}$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A bar of mass $M=1.00 \\mathrm{~kg}$ and length $L=0.20 \\mathrm{~m}$ is lying on a horizontal frictionless surface. One end of the bar is pivoted at a point about which it is free to rotate. A small mass $m=0.10 \\mathrm{~kg}$ is moving on the same horizontal surface with $5.00 \\mathrm{~m} \\mathrm{~s}^{-1}$ speed on a path perpendicular to the bar. It hits the bar at a distance $L / 2$ from the pivoted end and returns back on the same path with speed v. After this elastic collision, the bar rotates with an angular velocity $\\omega$. Which of the following statement is correct?",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 39,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 39,
-      "question_text": "A container has a base of $50 \\mathrm{~cm} \\times 5 \\mathrm{~cm}$ and height $50 \\mathrm{~cm}$, as shown in the figure. It has two parallel electrically conducting walls each of area $50 \\mathrm{~cm} \\times 50 \\mathrm{~cm}$. The remaining walls of the container are thin and non-conducting. The container is being filled with a liquid of dielectric constant 3 at a uniform rate of $250 \\mathrm{~cm}^3 \\mathrm{~s}^{-1}$. What is the value of the capacitance of the container after 10 seconds?\n\n\n[Given: Permittivity of free space $\\epsilon_0=9 \\times 10^{-12} \\mathrm{C}^2 \\mathrm{~N}^{-1} \\mathrm{~m}^{-2}$, the effects of the non-conducting walls on the capacitance are negligible]",
       "subject": "Physics",
       "topic": "capacitor",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A container has a base of $50 \\mathrm{~cm} \\times 5 \\mathrm{~cm}$ and height $50 \\mathrm{~cm}$, as shown in the figure. It has two parallel electrically conducting walls each of area $50 \\mathrm{~cm} \\times 50 \\mathrm{~cm}$. The remaining walls of the container are thin and non-conducting. The container is being filled with a liquid of dielectric constant 3 at a uniform rate of $250 \\mathrm{~cm}^3 \\mathrm{~s}^{-1}$. What is the value of the capacitance of the container after 10 seconds?\n\n\n[Given: Permittivity of free space $\\epsilon_0=9 \\times 10^{-12} \\mathrm{C}^2 \\mathrm{~N}^{-1} \\mathrm{~m}^{-2}$, the effects of the non-conducting walls on the capacitance are negligible]",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1liiph78l/b5c36518-959a-47b9-861f-1941ffb23299/410b2150-038b-11ee-add3-0f52d4fe427d/file-1liiph78m.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lrnqctoj/1c3c6a06-888c-48d9-833f-e9933f01e195/8e1ee930-b87c-11ee-a3f2-bbef0b8d82be/file-6y3zli1lrnqctok.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lrnqgjpz/a935293a-985f-46c0-84ce-9b1ab3f76bf1/f5a9de70-b87c-11ee-a3f2-bbef0b8d82be/file-6y3zli1lrnqgjq0.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$27 ~\\mathrm{pF}$",
         "B": "$63 ~\\mathrm{pF}$",
         "C": "$81 ~\\mathrm{pF}$",
         "D": "$135 ~\\mathrm{pF}$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A container has a base of $50 \\mathrm{~cm} \\times 5 \\mathrm{~cm}$ and height $50 \\mathrm{~cm}$, as shown in the figure. It has two parallel electrically conducting walls each of area $50 \\mathrm{~cm} \\times 50 \\mathrm{~cm}$. The remaining walls of the container are thin and non-conducting. The container is being filled with a liquid of dielectric constant 3 at a uniform rate of $250 \\mathrm{~cm}^3 \\mathrm{~s}^{-1}$. What is the value of the capacitance of the container after 10 seconds?\n[Given: Permittivity of free space $\\epsilon_0=9 \\times 10^{-12} \\mathrm{C}^2 \\mathrm{~N}^{-1} \\mathrm{~m}^{-2}$, the effects of the non-conducting walls on the capacitance are negligible]",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 40,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 40,
-      "question_text": "One mole of an ideal gas expands adiabatically from an initial state $\\left(T_{\\mathrm{A}}, V_0\\right)$ to final state $\\left(T_{\\mathrm{f}}, 5 V_0\\right)$. Another mole of the same gas expands isothermally from a different initial state $\\left(T_{\\mathrm{B}}, V_0\\right)$ to the same final state $\\left(T_{\\mathrm{f}}, 5 V_0\\right)$. The ratio of the specific heats at constant pressure and constant volume of this ideal gas is $\\gamma$. What is the ratio $T_{\\mathrm{A}} / T_{\\mathrm{B}}$ ?",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "One mole of an ideal gas expands adiabatically from an initial state $\\left(T_{\\mathrm{A}}, V_0\\right)$ to final state $\\left(T_{\\mathrm{f}}, 5 V_0\\right)$. Another mole of the same gas expands isothermally from a different initial state $\\left(T_{\\mathrm{B}}, V_0\\right)$ to the same final state $\\left(T_{\\mathrm{f}}, 5 V_0\\right)$. The ratio of the specific heats at constant pressure and constant volume of this ideal gas is $\\gamma$. What is the ratio $T_{\\mathrm{A}} / T_{\\mathrm{B}}$ ?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lrnph20n/d4bf53d6-8402-46ba-a04e-fe867ae21253/1aaad160-b879-11ee-a3f2-bbef0b8d82be/file-6y3zli1lrnph20o.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$5^{\\gamma-1}$",
         "B": "$5^{1-\\gamma}$",
         "C": "$5^\\gamma$",
         "D": "$5^{1+\\gamma}$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "One mole of an ideal gas expands adiabatically from an initial state $\\left(T_{\\mathrm{A}}, V_0\\right)$ to final state $\\left(T_{\\mathrm{f}}, 5 V_0\\right)$. Another mole of the same gas expands isothermally from a different initial state $\\left(T_{\\mathrm{B}}, V_0\\right)$ to the same final state $\\left(T_{\\mathrm{f}}, 5 V_0\\right)$. The ratio of the specific heats at constant pressure and constant volume of this ideal gas is $\\gamma$. What is the ratio $T_{\\mathrm{A}} / T_{\\mathrm{B}}$ ?",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 41,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 41,
-      "question_text": "Two satellites $\\mathrm{P}$ and $\\mathrm{Q}$ are moving in different circular orbits around the Earth (radius $R$ ). The heights of $\\mathrm{P}$ and $\\mathrm{Q}$ from the Earth surface are $h_{\\mathrm{P}}$ and $h_{\\mathrm{Q}}$, respectively, where $h_{\\mathrm{P}}=R / 3$. The accelerations of $\\mathrm{P}$ and $\\mathrm{Q}$ due to Earth's gravity are $g_{\\mathrm{P}}$ and $g_{\\mathrm{Q}}$, respectively. If $g_{\\mathrm{P}} / g_{\\mathrm{Q}}=36 / 25$, what is the value of $h_{\\mathrm{Q}}$ ?",
       "subject": "Physics",
       "topic": "gravitation",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two satellites $\\mathrm{P}$ and $\\mathrm{Q}$ are moving in different circular orbits around the Earth (radius $R$ ). The heights of $\\mathrm{P}$ and $\\mathrm{Q}$ from the Earth surface are $h_{\\mathrm{P}}$ and $h_{\\mathrm{Q}}$, respectively, where $h_{\\mathrm{P}}=R / 3$. The accelerations of $\\mathrm{P}$ and $\\mathrm{Q}$ due to Earth's gravity are $g_{\\mathrm{P}}$ and $g_{\\mathrm{Q}}$, respectively. If $g_{\\mathrm{P}} / g_{\\mathrm{Q}}=36 / 25$, what is the value of $h_{\\mathrm{Q}}$ ?",
+      "question_images": [],
+      "option_texts": {
         "A": "$\\frac{3 R}{5}$",
         "B": "$\\frac{R}{6}$",
         "C": "$\\frac{6 R}{5}$",
         "D": "$\\frac{5 R}{5}$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Two satellites $\\mathrm{P}$ and $\\mathrm{Q}$ are moving in different circular orbits around the Earth (radius $R$ ). The heights of $\\mathrm{P}$ and $\\mathrm{Q}$ from the Earth surface are $h_{\\mathrm{P}}$ and $h_{\\mathrm{Q}}$, respectively, where $h_{\\mathrm{P}}=R / 3$. The accelerations of $\\mathrm{P}$ and $\\mathrm{Q}$ due to Earth's gravity are $g_{\\mathrm{P}}$ and $g_{\\mathrm{Q}}$, respectively. If $g_{\\mathrm{P}} / g_{\\mathrm{Q}}=36 / 25$, what is the value of $h_{\\mathrm{Q}}$ ?",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 42,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 42,
-      "question_text": "A Hydrogen-like atom has atomic number $Z$. Photons emitted in the electronic transitions from level $n=4$ to level $n=3$ in these atoms are used to perform photoelectric effect experiment on a target metal. The maximum kinetic energy of the photoelectrons generated is $1.95 \\mathrm{eV}$. If the photoelectric threshold wavelength for the target metal is $310 \\mathrm{~nm}$, the value of $Z$ is _________.\n\n\n[Given: $h c=1240 \\mathrm{eV}-\\mathrm{nm}$ and $R h c=13.6 \\mathrm{eV}$, where $R$ is the Rydberg constant, $h$ is the Planck's constant and $c$ is the speed of light in vacuum]",
       "subject": "Physics",
       "topic": "dual-nature-of-radiation",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A Hydrogen-like atom has atomic number $Z$. Photons emitted in the electronic transitions from level $n=4$ to level $n=3$ in these atoms are used to perform photoelectric effect experiment on a target metal. The maximum kinetic energy of the photoelectrons generated is $1.95 \\mathrm{eV}$. If the photoelectric threshold wavelength for the target metal is $310 \\mathrm{~nm}$, the value of $Z$ is _________.\n\n\n[Given: $h c=1240 \\mathrm{eV}-\\mathrm{nm}$ and $R h c=13.6 \\mathrm{eV}$, where $R$ is the Rydberg constant, $h$ is the Planck's constant and $c$ is the speed of light in vacuum]",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A Hydrogen-like atom has atomic number $Z$. Photons emitted in the electronic transitions from level $n=4$ to level $n=3$ in these atoms are used to perform photoelectric effect experiment on a target metal. The maximum kinetic energy of the photoelectrons generated is $1.95 \\mathrm{eV}$. If the photoelectric threshold wavelength for the target metal is $310 \\mathrm{~nm}$, the value of $Z$ is _________.\n[Given: $h c=1240 \\mathrm{eV}-\\mathrm{nm}$ and $R h c=13.6 \\mathrm{eV}$, where $R$ is the Rydberg constant, $h$ is the Planck's constant and $c$ is the speed of light in vacuum]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 43,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 43,
-      "question_text": "An optical arrangement consists of two concave mirrors $M_1$ and $M_2$, and a convex lens $L$ with a common principal axis, as shown in the figure. The focal length of $\\mathrm{L}$ is $10 \\mathrm{~cm}$. The radii of curvature of $M_1$ and $M_2$ are $20 \\mathrm{~cm}$ and $24 \\mathrm{~cm}$, respectively. The distance between $L$ and $M_2$ is $20 \\mathrm{~cm}$. A point object $S$ is placed at the mid-point between $\\mathrm{L}$ and $M_2$ on the axis. When the distance between $\\mathrm{L}$ and $\\mathrm{M}_1$ is $n / 7 \\mathrm{~cm}$, one of the images coincides with $\\mathrm{S}$. The value of $n$ is _______.",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "An optical arrangement consists of two concave mirrors $M_1$ and $M_2$, and a convex lens $L$ with a common principal axis, as shown in the figure. The focal length of $\\mathrm{L}$ is $10 \\mathrm{~cm}$. The radii of curvature of $M_1$ and $M_2$ are $20 \\mathrm{~cm}$ and $24 \\mathrm{~cm}$, respectively. The distance between $L$ and $M_2$ is $20 \\mathrm{~cm}$. A point object $S$ is placed at the mid-point between $\\mathrm{L}$ and $M_2$ on the axis. When the distance between $\\mathrm{L}$ and $\\mathrm{M}_1$ is $n / 7 \\mathrm{~cm}$, one of the images coincides with $\\mathrm{S}$. The value of $n$ is _______.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1liipn5l8/e6b1eb3d-3d7e-42a2-b8b2-a01a927058b7/e6a00bd0-038b-11ee-add3-0f52d4fe427d/file-1liipn5l9.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lrntnlcg/7fcd30d1-5224-405c-ad99-189a6bbff728/74f86410-b889-11ee-aaab-b97e4cc8ac46/file-6y3zli1lrntnlch.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lrntu07g/db858201-8932-40bd-8a6c-42f9f860145f/274decc0-b88a-11ee-aaab-b97e4cc8ac46/file-6y3zli1lrntu07h.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "An optical arrangement consists of two concave mirrors $M_1$ and $M_2$, and a convex lens $L$ with a common principal axis, as shown in the figure. The focal length of $\\mathrm{L}$ is $10 \\mathrm{~cm}$. The radii of curvature of $M_1$ and $M_2$ are $20 \\mathrm{~cm}$ and $24 \\mathrm{~cm}$, respectively. The distance between $L$ and $M_2$ is $20 \\mathrm{~cm}$. A point object $S$ is placed at the mid-point between $\\mathrm{L}$ and $M_2$ on the axis. When the distance between $\\mathrm{L}$ and $\\mathrm{M}_1$ is $n / 7 \\mathrm{~cm}$, one of the images coincides with $\\mathrm{S}$. The value of $n$ is _______.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 44,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 44,
-      "question_text": "In an experiment for determination of the focal length of a thin convex lens, the distance of the object from the lens is $10 \\pm 0.1 \\mathrm{~cm}$ and the distance of its real image from the lens is $20 \\pm 0.2 \\mathrm{~cm}$. The error in the determination of focal length of the lens is $n \\%$. The value of $n$ is ______.",
       "subject": "Physics",
       "topic": "units-and-measurements",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "In an experiment for determination of the focal length of a thin convex lens, the distance of the object from the lens is $10 \\pm 0.1 \\mathrm{~cm}$ and the distance of its real image from the lens is $20 \\pm 0.2 \\mathrm{~cm}$. The error in the determination of focal length of the lens is $n \\%$. The value of $n$ is ______.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "In an experiment for determination of the focal length of a thin convex lens, the distance of the object from the lens is $10 \\pm 0.1 \\mathrm{~cm}$ and the distance of its real image from the lens is $20 \\pm 0.2 \\mathrm{~cm}$. The error in the determination of focal length of the lens is $n \\%$. The value of $n$ is ______.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 45,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 45,
-      "question_text": "A closed container contains a homogeneous mixture of two moles of an ideal monatomic gas $(\\gamma=5 / 3)$ and one mole of an ideal diatomic gas $(\\gamma=7 / 5)$. Here, $\\gamma$ is the ratio of the specific heats at constant pressure and constant volume of an ideal gas. The gas mixture does a work of 66 Joule when heated at constant pressure. The change in its internal energy is _______ Joule.",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A closed container contains a homogeneous mixture of two moles of an ideal monatomic gas $(\\gamma=5 / 3)$ and one mole of an ideal diatomic gas $(\\gamma=7 / 5)$. Here, $\\gamma$ is the ratio of the specific heats at constant pressure and constant volume of an ideal gas. The gas mixture does a work of 66 Joule when heated at constant pressure. The change in its internal energy is _______ Joule.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A closed container contains a homogeneous mixture of two moles of an ideal monatomic gas $(\\gamma=5 / 3)$ and one mole of an ideal diatomic gas $(\\gamma=7 / 5)$. Here, $\\gamma$ is the ratio of the specific heats at constant pressure and constant volume of an ideal gas. The gas mixture does a work of 66 Joule when heated at constant pressure. The change in its internal energy is _______ Joule.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 46,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 46,
-      "question_text": "A person of height $1.6 \\mathrm{~m}$ is walking away from a lamp post of height $4 \\mathrm{~m}$ along a straight path on the flat ground. The lamp post and the person are always perpendicular to the ground. If the speed of the person is $60 \\mathrm{~cm} \\mathrm{~s}^{-1}$, the speed of the tip of the person's shadow on the ground with respect to the person is ____________ $\\mathrm{cm}~ \\mathrm{s}^{-1}$.",
       "subject": "Physics",
       "topic": "motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A person of height $1.6 \\mathrm{~m}$ is walking away from a lamp post of height $4 \\mathrm{~m}$ along a straight path on the flat ground. The lamp post and the person are always perpendicular to the ground. If the speed of the person is $60 \\mathrm{~cm} \\mathrm{~s}^{-1}$, the speed of the tip of the person's shadow on the ground with respect to the person is ____________ $\\mathrm{cm}~ \\mathrm{s}^{-1}$.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1liki0odp/06207c61-e5ef-4431-8296-b085251b8efe/a6ec8ac0-0487-11ee-b238-a7ee1f05f690/file-1liki0odq.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A person of height $1.6 \\mathrm{~m}$ is walking away from a lamp post of height $4 \\mathrm{~m}$ along a straight path on the flat ground. The lamp post and the person are always perpendicular to the ground. If the speed of the person is $60 \\mathrm{~cm} \\mathrm{~s}^{-1}$, the speed of the tip of the person's shadow on the ground with respect to the person is ____________ $\\mathrm{cm}~ \\mathrm{s}^{-1}$.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 47,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 47,
-      "question_text": "Two point-like objects of masses $20 ~\\mathrm{gm}$ and $30 ~\\mathrm{gm}$ are fixed at the two ends of a rigid massless rod of length $10 \\mathrm{~cm}$. This system is suspended vertically from a rigid ceiling using a thin wire attached to its center of mass, as shown in the figure. The resulting torsional pendulum undergoes small oscillations. The torsional constant of the wire is $1.2 \\times 10^{-8} \\mathrm{~N} \\mathrm{~m}  ~\\mathrm{rad}^{-1}$. The angular frequency of the oscillations in $n \\times 10^{-3} ~\\mathrm{rad} ~\\mathrm{s}^{-1}$. The value of $n$ is _________ .",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Two point-like objects of masses $20 ~\\mathrm{gm}$ and $30 ~\\mathrm{gm}$ are fixed at the two ends of a rigid massless rod of length $10 \\mathrm{~cm}$. This system is suspended vertically from a rigid ceiling using a thin wire attached to its center of mass, as shown in the figure. The resulting torsional pendulum undergoes small oscillations. The torsional constant of the wire is $1.2 \\times 10^{-8} \\mathrm{~N} \\mathrm{~m}  ~\\mathrm{rad}^{-1}$. The angular frequency of the oscillations in $n \\times 10^{-3} ~\\mathrm{rad} ~\\mathrm{s}^{-1}$. The value of $n$ is _________ .",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1liipqvuq/86cd9850-fadf-45c5-9672-39027c75df3b/4e571a20-038c-11ee-add3-0f52d4fe427d/file-1liipqvur.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/6y3zli1lrnzudfo/262bf6aa-d951-4d7c-b372-1807760893e0/a84c4440-b8a1-11ee-b451-753a57d842a1/file-6y3zli1lrnzudfp.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Two point-like objects of masses $20 ~\\mathrm{gm}$ and $30 ~\\mathrm{gm}$ are fixed at the two ends of a rigid massless rod of length $10 \\mathrm{~cm}$. This system is suspended vertically from a rigid ceiling using a thin wire attached to its center of mass, as shown in the figure. The resulting torsional pendulum undergoes small oscillations. The torsional constant of the wire is $1.2 \\times 10^{-8} \\mathrm{~N} \\mathrm{~m}  ~\\mathrm{rad}^{-1}$. The angular frequency of the oscillations in $n \\times 10^{-3} ~\\mathrm{rad} ~\\mathrm{s}^{-1}$. The value of $n$ is _________ .",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 48,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 48,
-      "question_text": "List-I shows different radioactive decay processes and List-II provides possible emitted particles. Match each entry in List-I with an appropriate entry from List-II, and choose the correct option.\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) ${ }_{92}^{238} U \\rightarrow{ }_{91}^{234} \\mathrm{~Pa}$\n    (1) one $\\alpha$ particle and one $\\beta^{+}$particle\n  \n  \n    (Q) ${ }_{82}^{214} \\mathrm{~Pb} \\rightarrow{ }_{82}^{210} \\mathrm{~Pb}$\n    (2) three $\\beta^{-}$particles and one $\\alpha$ particle\n  \n  \n    (R) ${ }_{81}^{210} \\mathrm{Tl} \\rightarrow{ }_{82}^{206} \\mathrm{~Pb}$\n    (3) two $\\beta^{-}$particles and one $\\alpha$ particle\n  \n  \n    (S) ${ }_{91}^{228} \\mathrm{~Pa} \\rightarrow{ }_{88}^{224} \\mathrm{Ra}$\n    (4) one $\\alpha$ particle and one $\\beta^{-}$particle\n  \n  \n    \n    (5) one $\\alpha$ particle and two $\\beta^{+}$particles",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "List-I shows different radioactive decay processes and List-II provides possible emitted particles. Match each entry in List-I with an appropriate entry from List-II, and choose the correct option.\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) ${ }_{92}^{238} U \\rightarrow{ }_{91}^{234} \\mathrm{~Pa}$\n    (1) one $\\alpha$ particle and one $\\beta^{+}$particle\n  \n  \n    (Q) ${ }_{82}^{214} \\mathrm{~Pb} \\rightarrow{ }_{82}^{210} \\mathrm{~Pb}$\n    (2) three $\\beta^{-}$particles and one $\\alpha$ particle\n  \n  \n    (R) ${ }_{81}^{210} \\mathrm{Tl} \\rightarrow{ }_{82}^{206} \\mathrm{~Pb}$\n    (3) two $\\beta^{-}$particles and one $\\alpha$ particle\n  \n  \n    (S) ${ }_{91}^{228} \\mathrm{~Pa} \\rightarrow{ }_{88}^{224} \\mathrm{Ra}$\n    (4) one $\\alpha$ particle and one $\\beta^{-}$particle\n  \n  \n    \n    (5) one $\\alpha$ particle and two $\\beta^{+}$particles",
+      "question_images": [],
+      "option_texts": {
         "A": "$P \\rightarrow 4, Q \\rightarrow 3, R \\rightarrow 2, S \\rightarrow 1$",
         "B": "$P \\rightarrow 4, Q \\rightarrow 1, R \\rightarrow 2, S \\rightarrow 5$",
         "C": "$P \\rightarrow 5, Q \\rightarrow 3, R \\rightarrow 1, S \\rightarrow 4$",
         "D": "$P \\rightarrow 5, Q \\rightarrow 1, R \\rightarrow 3, S \\rightarrow 2$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "List-I shows different radioactive decay processes and List-II provides possible emitted particles. Match each entry in List-I with an appropriate entry from List-II, and choose the correct option.\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) ${ }_{92}^{238} U \\rightarrow{ }_{91}^{234} \\mathrm{~Pa}$\n    (1) one $\\alpha$ particle and one $\\beta^{+}$particle\n  \n  \n    (Q) ${ }_{82}^{214} \\mathrm{~Pb} \\rightarrow{ }_{82}^{210} \\mathrm{~Pb}$\n    (2) three $\\beta^{-}$particles and one $\\alpha$ particle\n  \n  \n    (R) ${ }_{81}^{210} \\mathrm{Tl} \\rightarrow{ }_{82}^{206} \\mathrm{~Pb}$\n    (3) two $\\beta^{-}$particles and one $\\alpha$ particle\n  \n  \n    (S) ${ }_{91}^{228} \\mathrm{~Pa} \\rightarrow{ }_{88}^{224} \\mathrm{Ra}$\n    (4) one $\\alpha$ particle and one $\\beta^{-}$particle\n  \n  \n    \n    (5) one $\\alpha$ particle and two $\\beta^{+}$particles",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 49,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 49,
-      "question_text": "Match the temperature of a black body given in List-I with an appropriate statement in List-II, and choose the correct option.\n\n\n[Given: Wien's constant as $2.9 \\times 10^{-3} \\mathrm{~m}-\\mathrm{K}$ and $\\frac{h c}{e}=1.24 \\times 10^{-6} \\mathrm{~V}-\\mathrm{m}$ ]\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) $2000 \\mathrm{~K}$\n    (1) The radiation at peak wavelength can lead to emission of photoelectrons from a metal of work function $4 \\mathrm{eV}$.\n  \n  \n    (Q) $3000 \\mathrm{~K}$\n    (2) The radiation at peak wavelength is visible to human eye.\n  \n  \n    (R) $5000 \\mathrm{~K}$\n    (3) The radiation at peak emission wavelength will result in the widest central maximum of a single slit diffraction.\n  \n  \n    (S) $10000 \\mathrm{~K}$\n    (4) The power emitted per unit area is $1 / 16$ of that emitted by a blackbody at temperature $6000 \\mathrm{~K}$.\n  \n  \n    \n    (5) The radiation at peak emission wavelength can be used to image human bones.",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Match the temperature of a black body given in List-I with an appropriate statement in List-II, and choose the correct option.\n\n\n[Given: Wien's constant as $2.9 \\times 10^{-3} \\mathrm{~m}-\\mathrm{K}$ and $\\frac{h c}{e}=1.24 \\times 10^{-6} \\mathrm{~V}-\\mathrm{m}$ ]\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) $2000 \\mathrm{~K}$\n    (1) The radiation at peak wavelength can lead to emission of photoelectrons from a metal of work function $4 \\mathrm{eV}$.\n  \n  \n    (Q) $3000 \\mathrm{~K}$\n    (2) The radiation at peak wavelength is visible to human eye.\n  \n  \n    (R) $5000 \\mathrm{~K}$\n    (3) The radiation at peak emission wavelength will result in the widest central maximum of a single slit diffraction.\n  \n  \n    (S) $10000 \\mathrm{~K}$\n    (4) The power emitted per unit area is $1 / 16$ of that emitted by a blackbody at temperature $6000 \\mathrm{~K}$.\n  \n  \n    \n    (5) The radiation at peak emission wavelength can be used to image human bones.",
+      "question_images": [],
+      "option_texts": {
         "A": "$P \\rightarrow 3, Q \\rightarrow 5, R \\rightarrow 2, S \\rightarrow 3$",
         "B": "$P \\rightarrow 3, Q \\rightarrow 2, R \\rightarrow 4, S \\rightarrow 1$",
         "C": "$P \\rightarrow 3, Q \\rightarrow 4, R \\rightarrow 2, S \\rightarrow 1$",
         "D": "$P \\rightarrow 1, Q \\rightarrow 2, R \\rightarrow 5, S \\rightarrow 3$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Match the temperature of a black body given in List-I with an appropriate statement in List-II, and choose the correct option.\n[Given: Wien's constant as $2.9 \\times 10^{-3} \\mathrm{~m}-\\mathrm{K}$ and $\\frac{h c}{e}=1.24 \\times 10^{-6} \\mathrm{~V}-\\mathrm{m}$ ]\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) $2000 \\mathrm{~K}$\n    (1) The radiation at peak wavelength can lead to emission of photoelectrons from a metal of work function $4 \\mathrm{eV}$.\n  \n  \n    (Q) $3000 \\mathrm{~K}$\n    (2) The radiation at peak wavelength is visible to human eye.\n  \n  \n    (R) $5000 \\mathrm{~K}$\n    (3) The radiation at peak emission wavelength will result in the widest central maximum of a single slit diffraction.\n  \n  \n    (S) $10000 \\mathrm{~K}$\n    (4) The power emitted per unit area is $1 / 16$ of that emitted by a blackbody at temperature $6000 \\mathrm{~K}$.\n  \n  \n    \n    (5) The radiation at peak emission wavelength can be used to image human bones.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 50,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 50,
-      "question_text": "A series LCR circuit is connected to a $45 \\sin (\\omega t)$ Volt source. The resonant angular frequency of the circuit is $10^5 ~\\mathrm{rad}~ \\mathrm{s}^{-1}$ and current amplitude at resonance is $I_0$. When the angular frequency of the source is $\\omega=8 \\times 10^4 ~\\mathrm{rad} ~\\mathrm{s}^{-1}$, the current amplitude in the circuit is $0.05 I_0$. If $L=50 ~\\mathrm{mH}$, match each entry in List-I with an appropriate value from List-II and choose the correct option.\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) $I_0$ in $\\mathrm{mA}$\n    (1) 44.4\n  \n  \n    (Q) The quality factor of the circuit\n    (2) 18\n  \n  \n    (R) The bandwidth of the circuit in $\\mathrm{rad}~ \\mathrm{s}^{-1}$\n    (3) 400\n  \n  \n    (S) The peak power dissipated at resonance in Watt\n    (4) 2250\n  \n  \n    \n    (5) 500",
       "subject": "Physics",
       "topic": "alternating-current",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A series LCR circuit is connected to a $45 \\sin (\\omega t)$ Volt source. The resonant angular frequency of the circuit is $10^5 ~\\mathrm{rad}~ \\mathrm{s}^{-1}$ and current amplitude at resonance is $I_0$. When the angular frequency of the source is $\\omega=8 \\times 10^4 ~\\mathrm{rad} ~\\mathrm{s}^{-1}$, the current amplitude in the circuit is $0.05 I_0$. If $L=50 ~\\mathrm{mH}$, match each entry in List-I with an appropriate value from List-II and choose the correct option.\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) $I_0$ in $\\mathrm{mA}$\n    (1) 44.4\n  \n  \n    (Q) The quality factor of the circuit\n    (2) 18\n  \n  \n    (R) The bandwidth of the circuit in $\\mathrm{rad}~ \\mathrm{s}^{-1}$\n    (3) 400\n  \n  \n    (S) The peak power dissipated at resonance in Watt\n    (4) 2250\n  \n  \n    \n    (5) 500",
+      "question_images": [],
+      "option_texts": {
         "A": "$P \\rightarrow 2, Q \\rightarrow 3, R \\rightarrow 5, S \\rightarrow 1$",
         "B": "$P \\rightarrow 3, Q \\rightarrow 1, R \\rightarrow 4, S \\rightarrow 2$",
         "C": "$P \\rightarrow 4, Q \\rightarrow 5, R \\rightarrow 3, S \\rightarrow 1$",
         "D": "$P \\rightarrow 4, Q \\rightarrow 2, R \\rightarrow 1, S \\rightarrow 5$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A series LCR circuit is connected to a $45 \\sin (\\omega t)$ Volt source. The resonant angular frequency of the circuit is $10^5 ~\\mathrm{rad}~ \\mathrm{s}^{-1}$ and current amplitude at resonance is $I_0$. When the angular frequency of the source is $\\omega=8 \\times 10^4 ~\\mathrm{rad} ~\\mathrm{s}^{-1}$, the current amplitude in the circuit is $0.05 I_0$. If $L=50 ~\\mathrm{mH}$, match each entry in List-I with an appropriate value from List-II and choose the correct option.\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) $I_0$ in $\\mathrm{mA}$\n    (1) 44.4\n  \n  \n    (Q) The quality factor of the circuit\n    (2) 18\n  \n  \n    (R) The bandwidth of the circuit in $\\mathrm{rad}~ \\mathrm{s}^{-1}$\n    (3) 400\n  \n  \n    (S) The peak power dissipated at resonance in Watt\n    (4) 2250\n  \n  \n    \n    (5) 500",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 51,
       "year": 2023,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 51,
-      "question_text": "A thin conducting rod $M N$ of mass $20 ~\\mathrm{gm}$, length $25 \\mathrm{~cm}$ and resistance $10 ~\\Omega$ is held on frictionless, long, perfectly conducting vertical rails as shown in the figure. There is a uniform magnetic field $B_0=4 \\mathrm{~T}$ directed perpendicular to the plane of the rod-rail arrangement. The rod is released from rest at time $t=0$ and it moves down along the rails. Assume air drag is negligible. Match each quantity in List-I with an appropriate value from List-II, and choose the correct option.\n\n\n[Given: The acceleration due to gravity $g=10 \\mathrm{~m} \\mathrm{~s}^{-2}$ and $e^{-1}=0.4$ ]\n\n\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) At $t=0.2 \\mathrm{~s}$, the magnitude of the induced emf in Volt\n    (1) 0.07\n  \n  \n    (Q) At $t=0.2 \\mathrm{~s}$, the magnitude of the magnetic force in Newton\n    (2) 0.14\n  \n  \n    (R) At $t=0.2 \\mathrm{~s}$, the power dissipated as heat in Watt\n    (3) 1.20\n  \n  \n    (S) The magnitude of terminal velocity of the rod in $\\mathrm{m} \\mathrm{s}^{-1}$\n    (4) 0.12\n  \n  \n    \n    (5) 2.00",
       "subject": "Physics",
       "topic": "electromagnetic-induction",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A thin conducting rod $M N$ of mass $20 ~\\mathrm{gm}$, length $25 \\mathrm{~cm}$ and resistance $10 ~\\Omega$ is held on frictionless, long, perfectly conducting vertical rails as shown in the figure. There is a uniform magnetic field $B_0=4 \\mathrm{~T}$ directed perpendicular to the plane of the rod-rail arrangement. The rod is released from rest at time $t=0$ and it moves down along the rails. Assume air drag is negligible. Match each quantity in List-I with an appropriate value from List-II, and choose the correct option.\n\n\n[Given: The acceleration due to gravity $g=10 \\mathrm{~m} \\mathrm{~s}^{-2}$ and $e^{-1}=0.4$ ]\n\n\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) At $t=0.2 \\mathrm{~s}$, the magnitude of the induced emf in Volt\n    (1) 0.07\n  \n  \n    (Q) At $t=0.2 \\mathrm{~s}$, the magnitude of the magnetic force in Newton\n    (2) 0.14\n  \n  \n    (R) At $t=0.2 \\mathrm{~s}$, the power dissipated as heat in Watt\n    (3) 1.20\n  \n  \n    (S) The magnitude of terminal velocity of the rod in $\\mathrm{m} \\mathrm{s}^{-1}$\n    (4) 0.12\n  \n  \n    \n    (5) 2.00",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1liiq7b1e/fd093007-a7aa-4d4a-9e65-383d50218340/17044820-038e-11ee-add3-0f52d4fe427d/file-1liiq7b1f.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$P \\rightarrow 5, Q \\rightarrow 2, R \\rightarrow 3, S \\rightarrow 1$",
         "B": "$P \\rightarrow 3, Q \\rightarrow 1, R \\rightarrow 4, S \\rightarrow 5$",
         "C": "$P \\rightarrow 4, Q \\rightarrow 3, R \\rightarrow 1, S \\rightarrow 2$",
         "D": "$P \\rightarrow 3, Q \\rightarrow 4, R \\rightarrow 2, S \\rightarrow 5$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "A thin conducting rod $M N$ of mass $20 ~\\mathrm{gm}$, length $25 \\mathrm{~cm}$ and resistance $10 ~\\Omega$ is held on frictionless, long, perfectly conducting vertical rails as shown in the figure. There is a uniform magnetic field $B_0=4 \\mathrm{~T}$ directed perpendicular to the plane of the rod-rail arrangement. The rod is released from rest at time $t=0$ and it moves down along the rails. Assume air drag is negligible. Match each quantity in List-I with an appropriate value from List-II, and choose the correct option.\n[Given: The acceleration due to gravity $g=10 \\mathrm{~m} \\mathrm{~s}^{-2}$ and $e^{-1}=0.4$ ]\n\n\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List - I\n    List - II\n  \n\n\n  \n    (P) At $t=0.2 \\mathrm{~s}$, the magnitude of the induced emf in Volt\n    (1) 0.07\n  \n  \n    (Q) At $t=0.2 \\mathrm{~s}$, the magnitude of the magnetic force in Newton\n    (2) 0.14\n  \n  \n    (R) At $t=0.2 \\mathrm{~s}$, the power dissipated as heat in Watt\n    (3) 1.20\n  \n  \n    (S) The magnitude of terminal velocity of the rod in $\\mathrm{m} \\mathrm{s}^{-1}$\n    (4) 0.12\n  \n  \n    \n    (5) 2.00",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     }
   ]
 }

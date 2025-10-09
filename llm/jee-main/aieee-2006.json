@@ -8,3148 +8,3320 @@
   },
   "questions": [
     {
+      "question_number": 1,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 1,
-      "question_text": "The standard enthalpy of formation $$\\Delta _fH^o$$ at 298 K for methane, CH4(g), is –74.8 kJ mol–1. The additional information required to determine the average energy for C – H bond formation would be :",
       "subject": "Chemistry",
       "topic": "thermodynamics",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The standard enthalpy of formation $$\\Delta _fH^o$$ at 298 K for methane, CH4(g), is –74.8 kJ mol–1. The additional information required to determine the average energy for C – H bond formation would be :",
+      "question_images": [],
+      "option_texts": {
         "A": "the dissociation energy of H_{2} and enthalpy of sublimation of carbon",
         "B": "latent heat of vapourization of methane",
         "C": "the first four ionization energies of carbon and electron gain enthalpy of hydrogen",
         "D": "the dissociation energy of hydrogen molecule, H_{2}"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The standard enthalpy of formation $$\\Delta _fH^o$$ at 298 K for methane, CH_{4}(g), is –74.8 kJ mol^{–1}. The additional information required to determine the average energy for C – H bond formation would be :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 2,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 2,
-      "question_text": "An ideal gas is allowed to expand both reversibly and irreversibly in an isolated system. If Ti is the\ninitial temperature and Tf is the final temperature, which of the following statements is correct?",
       "subject": "Chemistry",
       "topic": "thermodynamics",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An ideal gas is allowed to expand both reversibly and irreversibly in an isolated system. If Ti is the\ninitial temperature and Tf is the final temperature, which of the following statements is correct?",
+      "question_images": [],
+      "option_texts": {
         "A": "(T_{f})_{irrev} > (T_{f})_{rev}",
         "B": "(T_{f})_{rev} = (T_{f})_{irrev}",
         "C": "T_{f} > T_{i}\n for reversible process but T_{f} = T_{i}\n for irreversible process",
         "D": "T_{f} = T_{i} for both reversible and irreversible processes"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "An ideal gas is allowed to expand both reversibly and irreversibly in an isolated system. If T_{i} is the\ninitial temperature and T_{f} is the final temperature, which of the following statements is correct?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 3,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 3,
-      "question_text": "($$\\Delta H - \\Delta U$$) for the formation of carbon monoxide (CO) from its elements at 298 K is : (R = 8.314 J K–1 mol–1)",
       "subject": "Chemistry",
       "topic": "thermodynamics",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "($$\\Delta H - \\Delta U$$) for the formation of carbon monoxide (CO) from its elements at 298 K is : (R = 8.314 J K–1 mol–1)",
+      "question_images": [],
+      "option_texts": {
         "A": "–1238.78 J mol^{–1}",
         "B": "1238.78 J mol^{–1}",
         "C": "–2477.57 J mol^{–1}",
         "D": "2477.57 J mol^{–1}"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "($$\\Delta H - \\Delta U$$) for the formation of carbon monoxide (CO) from its elements at 298 K is : (R = 8.314 J K^{–1} mol^{–1})",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 4,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 4,
-      "question_text": "The enthalpy changes for the following processes are listed below : \n\n\nCl2(g) = 2Cl(g),  242.3 kJ mol–1\n\nI2(g) = 2I(g), 151.0 kJ mol–1 \n\nICl(g) = I(g) + Cl(g), 211.3 kJ mol–1\n\nI2(s) = I2(g), 62.76 kJ mol–1 \n\n\nGiven that the standard states for iodine and chlorine are I2(s) and Cl2(g), the standard enthalpy of\nformation for ICl(g) is :",
       "subject": "Chemistry",
       "topic": "thermodynamics",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The enthalpy changes for the following processes are listed below : \n\n\nCl2(g) = 2Cl(g),  242.3 kJ mol–1\n\nI2(g) = 2I(g), 151.0 kJ mol–1 \n\nICl(g) = I(g) + Cl(g), 211.3 kJ mol–1\n\nI2(s) = I2(g), 62.76 kJ mol–1 \n\n\nGiven that the standard states for iodine and chlorine are I2(s) and Cl2(g), the standard enthalpy of\nformation for ICl(g) is :",
+      "question_images": [],
+      "option_texts": {
         "A": "–14.6 kJ mol^{–1}",
         "B": "–16.8 kJ mol^{–1}",
         "C": "+16.8 kJ mol^{–1}",
         "D": "+244.8 kJ mol^{–1}"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The enthalpy changes for the following processes are listed below : \nCl_{2}(g) = 2Cl(g),  242.3 kJ mol^{–1}\nI_{2}(g) = 2I(g), 151.0 kJ mol^{–1} \nICl(g) = I(g) + Cl(g), 211.3 kJ mol^{–1}\nI_{2}(s) = I_{2}(g), 62.76 kJ mol^{–1} \nGiven that the standard states for iodine and chlorine are I_{2}(s) and Cl_{2}(g), the standard enthalpy of\nformation for ICl(g) is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 5,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 5,
-      "question_text": "Phosphorus pentachloride dissociates as follows, in a closed reaction vessel\n\nPCl5 (g) $$\\leftrightharpoons$$ PCl3 (g) + Cl2 (g) \n\nIf total pressure at equilibrium of the reaction mixture is P and degree of dissociation of PCl5 is x, the\npartial pressure of PCl3 will be",
       "subject": "Chemistry",
       "topic": "chemical-equilibrium",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Phosphorus pentachloride dissociates as follows, in a closed reaction vessel\n\nPCl5 (g) $$\\leftrightharpoons$$ PCl3 (g) + Cl2 (g) \n\nIf total pressure at equilibrium of the reaction mixture is P and degree of dissociation of PCl5 is x, the\npartial pressure of PCl3 will be",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\left( {{x \\over {x + 1}}} \\right)P$$",
         "B": "$$\\left( {{2x \\over {1 - x}}} \\right)P$$",
         "C": "$$\\left( {{x \\over {x - 1}}} \\right)P$$",
         "D": "$$\\left( {{x \\over {1 - x}}} \\right)P$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Phosphorus pentachloride dissociates as follows, in a closed reaction vessel\nPCl_{5} (g) $$\\leftrightharpoons$$ PCl_{3} (g) + Cl_{2} (g) \nIf total pressure at equilibrium of the reaction mixture is P and degree of dissociation of PCl_{5} is x, the\npartial pressure of PCl_{3} will be",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 6,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 6,
-      "question_text": "The equilibrium constant for the reaction \n\nSO3 (g) $$\\leftrightharpoons$$ SO2 (g) + $$1 \\over 2$$ O2 (g)\n \nis Kc = 4.9 $$\\times$$ 10–2. The value of Kc for the reaction\n\n2SO2 (g) + O2 (g) $$\\leftrightharpoons$$ 2SO3 (g) will be :",
       "subject": "Chemistry",
       "topic": "chemical-equilibrium",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The equilibrium constant for the reaction \n\nSO3 (g) $$\\leftrightharpoons$$ SO2 (g) + $$1 \\over 2$$ O2 (g)\n \nis Kc = 4.9 $$\\times$$ 10–2. The value of Kc for the reaction\n\n2SO2 (g) + O2 (g) $$\\leftrightharpoons$$ 2SO3 (g) will be :",
+      "question_images": [],
+      "option_texts": {
         "A": "416",
         "B": "9.8 $$\\times$$ 10^{-2}",
         "C": "4.9 $$\\times$$ 10^{-2}",
         "D": "2.40 $$\\times$$ 10^{-3}"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The equilibrium constant for the reaction \nSO_{3} (g) $$\\leftrightharpoons$$ SO_{2} (g) + $$1 \\over 2$$ O_{2} (g) \nis K_{c} = 4.9 $$\\times$$ 10^{–2}. The value of K_{c} for the reaction\n2SO_{2} (g) + O_{2} (g) $$\\leftrightharpoons$$ 2SO_{3} (g) will be :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 7,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 7,
-      "question_text": "Given the data at 25oC, \n\nAg + I- $$\\to$$ AgI + e- , Eo = 0.152 V\n\nAg $$\\to$$ Ag+ + e-, Eo = -0.800 V\n\nWhat is the value of log Ksp for AgI? (2.303 RT/F = 0.059 V)",
       "subject": "Chemistry",
       "topic": "electrochemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Given the data at 25oC, \n\nAg + I- $$\\to$$ AgI + e- , Eo = 0.152 V\n\nAg $$\\to$$ Ag+ + e-, Eo = -0.800 V\n\nWhat is the value of log Ksp for AgI? (2.303 RT/F = 0.059 V)",
+      "question_images": [],
+      "option_texts": {
         "A": "–8.12",
         "B": "+8.612",
         "C": "–37.83",
         "D": "–16.13"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Given the data at 25^{o}C, \nAg + I^{-} $$\\to$$ AgI + e^{-} , E^{o} = 0.152 V\nAg $$\\to$$ Ag^{+} + e^{-}, E^{o} = -0.800 V\nWhat is the value of log K_{sp} for AgI? (2.303 RT/F = 0.059 V)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 8,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 8,
-      "question_text": "The increasing order of stability of the following free radicals is",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The increasing order of stability of the following free radicals is",
+      "question_images": [],
+      "option_texts": {
         "A": "$${({C_6}{H_5})_2}\\mathop C\\limits^ \\bullet  H$$ < $${({C_6}{H_5})_3}\\mathop C\\limits^ \\bullet$$ < $${(C{H_3})_3}\\mathop C\\limits^ \\bullet  $$  < $${(C{H_3})_2}\\mathop C\\limits^ \\bullet H$$",
         "B": "$${(C{H_3})_2}\\mathop C\\limits^ \\bullet H$$ < $${(C{H_3})_3}\\mathop C\\limits^ \\bullet  $$ < $${({C_6}{H_5})_2}\\mathop C\\limits^ \\bullet  H$$ < $${({C_6}{H_5})_3}\\mathop C\\limits^ \\bullet$$",
         "C": "$${(C{H_3})_2}\\mathop C\\limits^ \\bullet H$$ < $${(C{H_3})_3}\\mathop C\\limits^ \\bullet  $$  <  $${({C_6}{H_5})_3}\\mathop C\\limits^ \\bullet$$  < $${({C_6}{H_5})_2}\\mathop C\\limits^ \\bullet  H$$",
         "D": "$${({C_6}{H_5})_3}\\mathop C\\limits^ \\bullet$$ < $${({C_6}{H_5})_2}\\mathop C\\limits^ \\bullet  H$$ < $${(C{H_3})_3}\\mathop C\\limits^ \\bullet  $$ < $${(C{H_3})_2}\\mathop C\\limits^ \\bullet H$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The increasing order of stability of the following free radicals is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 9,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 9,
-      "question_text": "Increasing order of stability among the three main conformations (i.e. Eclipse, Anti, Gauche) of\n2-fluoroethanol is",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Increasing order of stability among the three main conformations (i.e. Eclipse, Anti, Gauche) of\n2-fluoroethanol is",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/7LNiiQN8buXCO25x6/30EjeBEUf3w0ZuvIjXNcyaFd3o94a/YirhBETjILTorJIfAGbmZP/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "Eclipse, Gauche, Anti",
         "B": "Gauche, Eclipse, Anti",
         "C": "Eclipse, Anti, Gauche",
         "D": "Anti, Gauche, Eclipse"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Increasing order of stability among the three main conformations (i.e. Eclipse, Anti, Gauche) of\n2-fluoroethanol is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 10,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 10,
-      "question_text": "CH3Br + Nu- $$\\to$$ CH3 - Nu + Br- The decreasing order of the rate of the above reaction with nucleophiles (Nu–) A to D is\n\n[Nu– = (A) PhO–, (B) AcO–, (C) HO–, (D) CH3O–]",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "CH3Br + Nu- $$\\to$$ CH3 - Nu + Br- The decreasing order of the rate of the above reaction with nucleophiles (Nu–) A to D is\n\n[Nu– = (A) PhO–, (B) AcO–, (C) HO–, (D) CH3O–]",
+      "question_images": [],
+      "option_texts": {
         "A": "A > B > C > D",
         "B": "B > D > C > A",
         "C": "D > C > A > B",
         "D": "D > C > B > A"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "CH_{3}Br + Nu^{-} $$\\to$$ CH_{3} - Nu + Br^{-} The decreasing order of the rate of the above reaction with nucleophiles (Nu^{–}) A to D is\n[Nu^{–} = (A) PhO^{–}, (B) AcO^{–}, (C) HO–, (D) CH_{3}O^{–}]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 11,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 11,
-      "question_text": "How many EDTA (ethylenediaminetetraacetic acid) molecules are required to make an octahedral\ncomplex with a Ca2+ ion?",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "How many EDTA (ethylenediaminetetraacetic acid) molecules are required to make an octahedral\ncomplex with a Ca2+ ion?",
+      "question_images": [],
+      "option_texts": {
         "A": "Six",
         "B": "Three",
         "C": "One",
         "D": "Two"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "How many EDTA (ethylenediaminetetraacetic acid) molecules are required to make an octahedral\ncomplex with a Ca^{2+} ion?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 12,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 12,
-      "question_text": "Phenyl magnesium bromide reacts with methanol to give",
       "subject": "Chemistry",
       "topic": "alcohols-phenols-and-ethers",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Phenyl magnesium bromide reacts with methanol to give",
+      "question_images": [],
+      "option_texts": {
         "A": "a mixture of anisole and Mg(OH)Br",
         "B": "a mixture of benzene and Mg(OMe)Br",
         "C": "a mixture of toluene and Mg(OH)Br",
         "D": "a mixture of phenol and Mg(Me)Br"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Phenyl magnesium bromide reacts with methanol to give",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 13,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 13,
-      "question_text": "Fluorobenzene (C6H5F) can be synthesized in the laboratory",
       "subject": "Chemistry",
       "topic": "haloalkanes-and-haloarenes",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Fluorobenzene (C6H5F) can be synthesized in the laboratory",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/fepVFGHP9egqeGs6q/LP29f5kxKQfrnGwRgqshojQM1BHQp/DolQMTgwjNOCF7bZoYJnK2/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "by heating phenol with HF and KF",
         "B": "from aniline by diazotisation followed by heating the diazonium salt with HBF_{4}",
         "C": "by direct fluorination of benzene with F_{2} gas",
         "D": "by reacting bromobenzene with NaF solution"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Fluorobenzene (C_{6}H_{5}F) can be synthesized in the laboratory",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 14,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 14,
-      "question_text": "Reaction of trans-2-phenyl-1-bromocyclopentane on reaction with alcoholic KOH produces",
       "subject": "Chemistry",
       "topic": "haloalkanes-and-haloarenes",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Reaction of trans-2-phenyl-1-bromocyclopentane on reaction with alcoholic KOH produces",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/FED6bFkr2eRuRfnSe/sryEU56Xgi8GNckeNOyrfhtrYuccm/HUAOIfj3OcFoQ1IUFeF2ei/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "4-phenylcyclopentene",
         "B": "2-phenylcyclopentene",
         "C": "1-phenylcyclopentene",
         "D": "3-phenylcyclopentene"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Reaction of trans-2-phenyl-1-bromocyclopentane on reaction with alcoholic KOH produces",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 15,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 15,
-      "question_text": "HBr reacts with CH2 = CH – OCH3 under anhydrous conditions at room temperature to give",
       "subject": "Chemistry",
       "topic": "alcohols-phenols-and-ethers",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "HBr reacts with CH2 = CH – OCH3 under anhydrous conditions at room temperature to give",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/EPgjw22SxIdrfIinr/5TpZlSgfH5MfFprPWyBqVsYdzMxxk/rDW6k0c6UD613V5hGvN6e3/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "CH_{3}CHO and CH_{3}Br",
         "B": "BrCH_{2}CHO and CH_{3}OH",
         "C": "BrCH_{2} – CH_{2} – OCH_{3}",
         "D": "H_{3}C – CHBr – OCH_{3}"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "HBr reacts with CH_{2} = CH – OCH_{3} under anhydrous conditions at room temperature to give",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 16,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 16,
-      "question_text": "The increasing order of the rate of HCN addition to compounds A – D is\n\n (A) HCHO\n (B) CH3COCH3\n\n (C) PhCOCH3\n (D) PhCOPh",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The increasing order of the rate of HCN addition to compounds A – D is\n\n (A) HCHO\n (B) CH3COCH3\n\n (C) PhCOCH3\n (D) PhCOPh",
+      "question_images": [],
+      "option_texts": {
         "A": "A < B < C < D",
         "B": "D < B < C < A",
         "C": "D < C < B < A",
         "D": "C < D < B < A"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The increasing order of the rate of HCN addition to compounds A – D is\n (A) HCHO (B) CH_{3}COCH_{3}\n (C) PhCOCH_{3} (D) PhCOPh",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 17,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 17,
-      "question_text": "The term anomers of glucose refers to",
       "subject": "Chemistry",
       "topic": "biomolecules",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The term anomers of glucose refers to",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/wzG8WG3tkWtKaz8Gq/4eotUI6iGPeflKaJ8ZLECKqNw4EoC/c9fzYCF6SbkQ1IJhpss0qW/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "isomers of glucose that differ in configurations at carbons one and four (C-1 and C-4)",
         "B": "a mixture of (D)-glucose and (L)-glucose",
         "C": "enantiomers of glucose",
         "D": "isomers of glucose that differ in configuration at carbon one (C-1)"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The term anomers of glucose refers to",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 18,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 18,
-      "question_text": "The pyrimidine bases present in DNA are",
       "subject": "Chemistry",
       "topic": "biomolecules",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The pyrimidine bases present in DNA are",
+      "question_images": [],
+      "option_texts": {
         "A": "cytosine and adenine",
         "B": "cytosine and guanine",
         "C": "cytosine and thymine",
         "D": "cytosine and uracil"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The pyrimidine bases present in DNA are",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 19,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 19,
-      "question_text": "In Fe(CO)5, the Fe – C bond possesses :",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In Fe(CO)5, the Fe – C bond possesses :",
+      "question_images": [],
+      "option_texts": {
         "A": "π-character only",
         "B": "both $$\\sigma$$ and π characters",
         "C": "ionic character",
         "D": "$$\\sigma$$-character"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "In Fe(CO)_{5}, the Fe – C bond possesses :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 20,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 20,
-      "question_text": "The $$IUPAC$$ name of the compound shown below is :",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The $$IUPAC$$ name of the compound shown below is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/5tOY3Ag15AJpRlfTl/gvJ0EIiYjeGpeRKz8rAtmznXXkqVC/yM1p8QQdr0gI3A9ALUmtRP/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/BAmiGtlN6DkEyvNtg/ylHobvA6GWV4JkIfXXkW2d5Eaxnda/z8t4i8qxh3icejUZzkG69g/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$3$$-bromo - $$1$$-chlorocyclohexene",
         "B": "$$1$$-bromo - $$3$$-chlorocyclohexene",
         "C": "$$2$$-bromo - $$6$$-chlorocyclohex - $$1$$ -ene",
         "D": "$$6$$-bromo - $$2$$ - chlorocyclohexene"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The $$IUPAC$$ name of the compound shown below is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 21,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 21,
-      "question_text": "The alkene formed as a major product in the above elimination reaction is",
       "subject": "Chemistry",
       "topic": "hydrocarbons",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The alkene formed as a major product in the above elimination reaction is",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/fbFiulJN910wXkgND/zjwKFBceOUb0UaMPHhlcbjaeGNeMm/jpoEpGroRrG2rE4MwjrTen/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/2WPEEsD9GCEGmkG7U/VXRMqBYlWok4RRsfkmSfxiXgCsCdS/kWYYeBwl1zcZz7KXXVqknM/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/0bqYxrqAmR95gZBsq/zqVbeekBcxFIvrQ0OIVDoBzJpUI7s/HiaakxufuXaSptRalZLwuV/image.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/imagex_cdn_examgoal_net/FHcjcZ2Tv50LUMGD5/hsgsmcw5ET7vcrUoS3D8FaVAstNpr/NzEkQjYcQjJJcfODppPpve/image.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/UFKLUD2G5hchHYmcr/puQxRRNVuKC419XJBdcUu8I2qk21I/NTqfkvZAjaypDgUF8cPDST/image.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/rDcQZIglGXDh8HzBj/AwtglVLwDyjFuo1D40OjKf6DxjGfW/XFiaX5iztrtX4KtG2f1s5R/image.png",
+          "description": ""
+        }
+      },
       "correct_answer": "B",
-      "question": "The alkene formed as a major product in the above elimination reaction is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 22,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 22,
-      "question_text": "The structure of the major product formed in the following reaction\n\n\n \n\nis",
       "subject": "Chemistry",
       "topic": "haloalkanes-and-haloarenes",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The structure of the major product formed in the following reaction\n\n\n \n\nis",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/SFzslSUcRPqJpsPkC/ZBoEzabnGyfW6txdyudzeuWSNW5nL/NNegKG7TmaMpZnJva8Y87s/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/QMSFwzM5D6G1QIXxa/xgCM2XtSLMzSGLU6v8LdymEnQexGL/TlwFr83KJLJCnrRdsjAjMT/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
+      },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/NuDghIOHRLmfAFodR/PWlDYTWKk28q9CfFPKz03wr9FChKy/8uEPifljizKEIY4zehuq5e/image.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/imagex_cdn_examgoal_net/eDCjC2LhbScVINaIK/PwoJRnpVKn6PJV151dCGhPoKLo0SZ/7JTMGXOnND4oF7Gyt0T0KY/image.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/7yteDQbURWynYM9yE/m3fkc734UZp7CmfrH6VFQkHmnaNnJ/NH2hlsYjQ5kSQt6fk0LPTj/image.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/rMecya5GvecSq3M5d/Rar5pJbyEurmeGTx9BcushOOWcvj3/TB93omhAuM9sIp33wE6zPe/image.png",
+          "description": ""
+        }
       },
       "correct_answer": "B",
-      "question": "The structure of the major product formed in the following reaction\n \nis",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 23,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 23,
-      "question_text": "The structure of the compound that gives a tribromo derivative on treatment with bromine water is",
       "subject": "Chemistry",
       "topic": "alcohols-phenols-and-ethers",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The structure of the compound that gives a tribromo derivative on treatment with bromine water is",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/tYkfFbEFXlA6qRoVc/jdXsb5Crpr9Cbe4zcAZ7tZ15kzeob/PpHhix2OzOYZQbttJwYdxX/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
+      },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/CvcI0LmwTtl8IQ3YU/q20FsBV6l947qhMmUxAskdN35WvWx/1N1V6KxSXrTeUCQ94VKBim/image.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/imagex_cdn_examgoal_net/S21opZkhhnMIRLFbK/QpvrVc1N1cHjQfe6YN0xvUAjmTrUK/WI5UPa1Keq7TScvLilDNnM/image.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/oevSjAbFUc23eOleJ/Mdu77nze9mGuNbdi5dg9zRcvbCn7S/AVwP8m7HHxfLLQfPmV6goq/image.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/wrabjFXnOdbdlPKDb/JtS8EuMJR6zeitkBmw6FpSS5I6T98/b4dpDCl9Xi91U6rEvKr8ck/image.png",
+          "description": ""
+        }
       },
       "correct_answer": "C",
-      "question": "The structure of the compound that gives a tribromo derivative on treatment with bromine water is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 24,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 24,
-      "question_text": "The electrophile involved in the above reaction  is",
       "subject": "Chemistry",
       "topic": "alcohols-phenols-and-ethers",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The electrophile involved in the above reaction  is",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/IZg8KqCorYvhihgIX/El5gmsNBDdP47tI2kck2hAxsDONXj/RATRPW5ET1BAzehiW8bI1l/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/Lxhfuw6Vw8S8gi2vQ/8UtZlWOThlBF2rcFQkOb5UbE6Edrw/TBKe5aHehr1GpL1bkQpUsz/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/rFy7B7q6qmRDXE3Cy/cPwZysnGcir8GHtQK6MT6bDlCIjsh/qXu8UzChZIm3XcuZG2lIs9/image.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/imagex_cdn_examgoal_net/rB8Fcdfhg9NMXGKBG/YVOuq8GKeBuU8Gc9buxTUZ4oVOIEI/7gIqMyWPpIfa6xeEpJOLH5/image.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/tVkQHSDXVh2rEQouK/0VRId71Gr9d6sCGCowrnzooCty5iq/jigmhXg0EzXGkCdKWvWFTG/image.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/RlzBRBiEogOWUeQhY/PRJYPw9t6c9AwnvSEgzCjS6UKXpTv/QSaHNOk457NX03FQBDXqg1/image.png",
+          "description": ""
+        }
+      },
       "correct_answer": "D",
-      "question": "The electrophile involved in the above reaction  is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 25,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 25,
-      "question_text": "Among the following the one that gives positives iodoform test upon reaction with $${I_2}$$ and $$NaOH$$ is",
       "subject": "Chemistry",
       "topic": "alcohols-phenols-and-ethers",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Among the following the one that gives positives iodoform test upon reaction with $${I_2}$$ and $$NaOH$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "",
         "B": "$$PhCHOHC{H_3}$$",
         "C": "$$C{H_3}C{H_2}CH\\left( {OH} \\right)C{H_2}C{H_3}$$",
         "D": "$${C_6}{H_5}C{H_2}C{H_2}OH$$"
       },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/wA1mhIq0kn4WXz8uE/P9EqrJeDryxXSltr32vjUQjSHnJ15/MlgysJZwwq0mtx0ZRqRmY5/image.png",
+          "description": ""
+        }
+      },
       "correct_answer": "B",
-      "question": "Among the following the one that gives positives iodoform test upon reaction with $${I_2}$$ and $$NaOH$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 26,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 26,
-      "question_text": "The correct order of increasing acid strength of the compounds",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The correct order of increasing acid strength of the compounds",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/9XaWm14pzv9s3CSQa/YnsEA5BoU0yEPVDpkVxlFVYEfpG5v/bDtvebqIIK9uFsPRrJcRRW/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$D < A < B < C$$",
         "B": "$$A < D < B < C$$",
         "C": "$$B < D < A < C$$",
         "D": "$$D < A < C < B$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The correct order of increasing acid strength of the compounds",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 27,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 27,
-      "question_text": "A metal, $$M$$ forms chlorides in its $$+2$$ and $$+4$$ oxidation states. Which of the following statements about these chlorides is correct?",
       "subject": "Chemistry",
       "topic": "d-and-f-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A metal, $$M$$ forms chlorides in its $$+2$$ and $$+4$$ oxidation states. Which of the following statements about these chlorides is correct?",
+      "question_images": [],
+      "option_texts": {
         "A": "$$MC{l_2}$$  is more ionic than $$MC{l_4}$$",
         "B": "$$MC{l_2}$$ is more easily hydrolysed than $$MC{l_4}$$",
         "C": "$$MC{l_2}$$ is more volatile than $$MC{l_4}$$",
         "D": "$$MC{l_2}$$ is  more soluble in anhydrous ethanol than $$MC{l_4}$$."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A metal, $$M$$ forms chlorides in its $$+2$$ and $$+4$$ oxidation states. Which of the following statements about these chlorides is correct?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 28,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 28,
-      "question_text": "Rate of a reaction can be expressed by Arrhenius equation as: \n\n$$$k = A\\,{e^{ - E/RT}}$$$\nIn this equation, E represents",
       "subject": "Chemistry",
       "topic": "chemical-kinetics-and-nuclear-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Rate of a reaction can be expressed by Arrhenius equation as: \n\n$$$k = A\\,{e^{ - E/RT}}$$$\nIn this equation, E represents",
+      "question_images": [],
+      "option_texts": {
         "A": "the energy above which all the colliding molecules will react",
         "B": "the energy below which colliding molecules will not react",
         "C": "the total energy of the reacting molecules at a temperature, T",
         "D": "the fraction of molecules with energy greater than the activation energy of the reaction"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Rate of a reaction can be expressed by Arrhenius equation as: \n$$$k = A\\,{e^{ - E/RT}}$$$\nIn this equation, E represents",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 29,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 29,
-      "question_text": "Among the following mixtures, dipole-dipole as the major interaction, is present in",
       "subject": "Chemistry",
       "topic": "solutions",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Among the following mixtures, dipole-dipole as the major interaction, is present in",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/fTc8cFeiv6tVH21o7/mMQH1a4DCRwfDTSmJUaWClaUaizpB/HPkqjN8vZz4rXVTu9cWPPD/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "benzene and ethanol",
         "B": "acetonitrile and acetone",
         "C": "KCl and water",
         "D": "benzene and carbon tetrachloride"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Among the following mixtures, dipole-dipole as the major interaction, is present in",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 30,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 30,
-      "question_text": "18 g of glucose (C6H12O6) is added to 178.2 g of water. The vapour pressure of water for this aqueous solution at 100oC is",
       "subject": "Chemistry",
       "topic": "solutions",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "18 g of glucose (C6H12O6) is added to 178.2 g of water. The vapour pressure of water for this aqueous solution at 100oC is",
+      "question_images": [],
+      "option_texts": {
         "A": "759.00 Torr",
         "B": "7.60 Torr",
         "C": "76.00 Torr",
         "D": "752.40 Torr"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "18 g of glucose (C_{6}H_{12}O_{6}) is added to 178.2 g of water. The vapour pressure of water for this aqueous solution at 100^{o}C is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 31,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 31,
-      "question_text": "The molar conductivities $$ \\wedge _{NaOAc}^o$$ and  $$ \\wedge _{HCl}^o$$ and at infinite dilution in water at 25oC are 91.0 and 426.2 Scm2/mol respectively. To calculate $$ \\wedge _{HOAc}^o$$  , the additional value required is",
       "subject": "Chemistry",
       "topic": "electrochemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The molar conductivities $$ \\wedge _{NaOAc}^o$$ and  $$ \\wedge _{HCl}^o$$ and at infinite dilution in water at 25oC are 91.0 and 426.2 Scm2/mol respectively. To calculate $$ \\wedge _{HOAc}^o$$  , the additional value required is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$ \\wedge _{{H_2}O}^o$$",
         "B": "$$ \\wedge _{KCl}^o$$",
         "C": "$$ \\wedge _{NaOH}^o$$",
         "D": "$$ \\wedge _{NaCl}^o$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The molar conductivities $$ \\wedge _{NaOAc}^o$$ and  $$ \\wedge _{HCl}^o$$ and at infinite dilution in water at 25^{o}C are 91.0 and 426.2 Scm^{2}/mol respectively. To calculate $$ \\wedge _{HOAc}^o$$  , the additional value required is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 32,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 32,
-      "question_text": "Which of the following chemical reactions depicts the oxidizing behaviour of H2SO4?",
       "subject": "Chemistry",
       "topic": "redox-reactions",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the following chemical reactions depicts the oxidizing behaviour of H2SO4?",
+      "question_images": [],
+      "option_texts": {
         "A": "NaCl + H_{2}SO_{4} $$\\to$$ NaHSO_{4} + HCl",
         "B": "2PCl_{5} + H_{2}SO_{4} $$\\to$$ 2POCl_{3} + 2HCl + SO_{2}Cl_{2}",
         "C": "2HI + H_{2}SO_{4} $$\\to$$ I_{2} + SO_{2} + 2H_{2}O",
         "D": "Ca(OH)_{2} + H_{2}SO_{4} $$\\to$$ CaSO_{4} + 2H_{2}O"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Which of the following chemical reactions depicts the oxidizing behaviour of H_{2}SO_{4}?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 33,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 33,
-      "question_text": "Resistance of a conductivity cell filled with a solution of an electrolyte of concentration 0.1 M is 100$$\\Omega $$.\nThe conductivity of this solution is 1.29 S m–1. Resistance of the same cell when filled with 0.2 M of\nthe same solution is 520 $$\\Omega $$, The molar conductivity of 0.02 M solution of the electrolyte will be",
       "subject": "Chemistry",
       "topic": "electrochemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Resistance of a conductivity cell filled with a solution of an electrolyte of concentration 0.1 M is 100$$\\Omega $$.\nThe conductivity of this solution is 1.29 S m–1. Resistance of the same cell when filled with 0.2 M of\nthe same solution is 520 $$\\Omega $$, The molar conductivity of 0.02 M solution of the electrolyte will be",
+      "question_images": [],
+      "option_texts": {
         "A": "124 $$\\times$$ 10^{–4 } S m^{2 } mol^{–1}",
         "B": "1240 $$\\times$$ 10^{–4 } S m^{2 } mol^{–1}",
         "C": "1.24 $$\\times$$ 10^{–4 } S m^{2 } mol^{–1}",
         "D": "12.4 $$\\times$$ 10^{–4 } S m^{2 } mol^{–1}"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Resistance of a conductivity cell filled with a solution of an electrolyte of concentration 0.1 M is 100$$\\Omega $$.\nThe conductivity of this solution is 1.29 S m^{–1}. Resistance of the same cell when filled with 0.2 M of\nthe same solution is 520 $$\\Omega $$, The molar conductivity of 0.02 M solution of the electrolyte will be",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 34,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 34,
-      "question_text": "A reaction was found to be second order with respect to the concentration of carbon monoxide. If the\nconcentration of carbon monoxide is doubled, with everything else kept the same, the rate of reaction\nwill",
       "subject": "Chemistry",
       "topic": "chemical-kinetics-and-nuclear-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A reaction was found to be second order with respect to the concentration of carbon monoxide. If the\nconcentration of carbon monoxide is doubled, with everything else kept the same, the rate of reaction\nwill",
+      "question_images": [],
+      "option_texts": {
         "A": "remain unchanged",
         "B": "triple",
         "C": "increase by a factor of 4",
         "D": "double"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A reaction was found to be second order with respect to the concentration of carbon monoxide. If the\nconcentration of carbon monoxide is doubled, with everything else kept the same, the rate of reaction\nwill",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 35,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 35,
-      "question_text": "In the transformation of $${}_{92}^{238}U$$ to $${}_{92}^{234}U$$, if one emission is an α-particle, what should be the other\nemission(s)?",
       "subject": "Chemistry",
       "topic": "chemical-kinetics-and-nuclear-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In the transformation of $${}_{92}^{238}U$$ to $${}_{92}^{234}U$$, if one emission is an α-particle, what should be the other\nemission(s)?",
+      "question_images": [],
+      "option_texts": {
         "A": "Two $$\\beta^-$$",
         "B": "Two $$\\beta^-$$ and one $$\\beta^+$$",
         "C": "One $$\\beta^-$$ and one $$\\gamma$$",
         "D": "One $$\\beta^+$$ and One $$\\beta^-$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "In the transformation of $${}_{92}^{238}U$$ to $${}_{92}^{234}U$$, if one emission is an α-particle, what should be the other\nemission(s)?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 36,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 36,
-      "question_text": "The following mechanism has been proposed for the reaction of NO with Br2 to form NOBr: \n\nNO(g) + Br2 (g) $$\\leftrightharpoons$$ NOBr2 (g) \n\nNOBr2 (g)  + NO (g) $$\\to$$ 2NOBr (g)\n\nIf the second step is the rate determining step, the order of the reaction with respect to NO(g) is",
       "subject": "Chemistry",
       "topic": "chemical-kinetics-and-nuclear-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The following mechanism has been proposed for the reaction of NO with Br2 to form NOBr: \n\nNO(g) + Br2 (g) $$\\leftrightharpoons$$ NOBr2 (g) \n\nNOBr2 (g)  + NO (g) $$\\to$$ 2NOBr (g)\n\nIf the second step is the rate determining step, the order of the reaction with respect to NO(g) is",
+      "question_images": [],
+      "option_texts": {
         "A": "1",
         "B": "0",
         "C": "3",
         "D": "2"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The following mechanism has been proposed for the reaction of NO with Br_{2} to form NOBr: \nNO(g) + Br_{2} (g) $$\\leftrightharpoons$$ NOBr_{2} (g) \nNOBr_{2} (g)  + NO (g) $$\\to$$ 2NOBr (g)\nIf the second step is the rate determining step, the order of the reaction with respect to NO(g) is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 37,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 37,
-      "question_text": "The increasing order of the first ionization enthalpies of the elements B, P, S and F (lowest first) is :",
       "subject": "Chemistry",
       "topic": "periodic-table-and-periodicity",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The increasing order of the first ionization enthalpies of the elements B, P, S and F (lowest first) is :",
+      "question_images": [],
+      "option_texts": {
         "A": "F < S < P < B",
         "B": "P < S < B < F",
         "C": "B < P < S < F",
         "D": "B < S < P < F"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The increasing order of the first ionization enthalpies of the elements B, P, S and F (lowest first) is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 38,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 38,
-      "question_text": "Which of the following statements is true?",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the following statements is true?",
+      "question_images": [],
+      "option_texts": {
         "A": "H_{3}PO_{3} is a stronger acid than H_{2}SO_{3}",
         "B": "In aqueous medium HF is a stronger acid than HCl",
         "C": "HClO_{4} is a weaker acid than HClO_{3}",
         "D": "HNO_{3} is a stronger acid than HNO_{2}"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Which of the following statements is true?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 39,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 39,
-      "question_text": "The “spin-only” magnetic moment [in units of Bohr magneton, (µB)]  of Ni2+ in aqueous solution would\nbe : (Atomic number of Ni = 28)",
       "subject": "Chemistry",
       "topic": "d-and-f-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The “spin-only” magnetic moment [in units of Bohr magneton, (µB)]  of Ni2+ in aqueous solution would\nbe : (Atomic number of Ni = 28)",
+      "question_images": [],
+      "option_texts": {
         "A": "2.84",
         "B": "4.90",
         "C": "0",
         "D": "1.73"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The “spin-only” magnetic moment [in units of Bohr magneton, (µ_{B})]  of Ni^{2+} in aqueous solution would\nbe : (Atomic number of Ni = 28)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 40,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 40,
-      "question_text": "Lanthanoid contraction is caused due to :",
       "subject": "Chemistry",
       "topic": "d-and-f-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Lanthanoid contraction is caused due to :",
+      "question_images": [],
+      "option_texts": {
         "A": "the appreciable shielding on outer electrons by 4f electrons from the nuclear charge",
         "B": "the appreciable shielding on outer electrons by 5d electrons from the nuclear charge",
         "C": "the same effective nuclear charge from Ce to Lu",
         "D": "the imperfect shielding on outer electrons by 4f electrons from the nuclear charge"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Lanthanoid contraction is caused due to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 41,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 41,
-      "question_text": "The IUPAC name for the complex [Co(NO2)(NH3)5]Cl2 is",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The IUPAC name for the complex [Co(NO2)(NH3)5]Cl2 is",
+      "question_images": [],
+      "option_texts": {
         "A": "nitrito-N-pentaamminecobalt (III) chloride",
         "B": "nitrito-N-pentaamminecobalt (II) chloride",
         "C": "pentaammine nitrito-N-cobalt (II) chloride",
         "D": "pentaammine nitrito-N-cobalt (III) chloride"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The IUPAC name for the complex [Co(NO_{2})(NH_{3})_{5}]Cl_{2} is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 42,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 42,
-      "question_text": "Nickel (Z = 28) combines with a uninegative monodentate ligand X– to form a paramagnetic complex [NiX4]2− . The number of unpaired electron(s) in the nickel and geometry of this complex ion are,\nrespectively",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Nickel (Z = 28) combines with a uninegative monodentate ligand X– to form a paramagnetic complex [NiX4]2− . The number of unpaired electron(s) in the nickel and geometry of this complex ion are,\nrespectively",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/Zf6je0HQslBQNuTRM/2IhKyfn22AkT8K7Qv6jsPgRwRUezR/h5puP66mZSZhYEkJpHRDDU/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "one, tetrahedral",
         "B": "two, tetrahedral",
         "C": "one, square planar",
         "D": "two, square planar"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Nickel (Z = 28) combines with a uninegative monodentate ligand X^{–} to form a paramagnetic complex [NiX_{4}]^{2−} . The number of unpaired electron(s) in the nickel and geometry of this complex ion are,\nrespectively",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 43,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 43,
-      "question_text": "How many moles of magnesium phosphate Mg3(PO4)2 will contain 0.25 mole of oxygen atoms?",
       "subject": "Chemistry",
       "topic": "some-basic-concepts-of-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "How many moles of magnesium phosphate Mg3(PO4)2 will contain 0.25 mole of oxygen atoms?",
+      "question_images": [],
+      "option_texts": {
         "A": "1.25 $$\\times$$ 10^{-2}",
         "B": "2.5 $$\\times$$ 10^{-2}",
         "C": "0.02",
         "D": "3.125 $$\\times$$ 10^{-2}"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "How many moles of magnesium phosphate Mg_{3}(PO_{4})_{2} will contain 0.25 mole of oxygen atoms?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 44,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 44,
-      "question_text": "Density of a 2.05M solution of acetic acid in water is 1.02 g/mL The molality of the solution is",
       "subject": "Chemistry",
       "topic": "some-basic-concepts-of-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Density of a 2.05M solution of acetic acid in water is 1.02 g/mL The molality of the solution is",
+      "question_images": [],
+      "option_texts": {
         "A": "2.28 mol kg^{-1}",
         "B": "0.44 mol kg^{-1}",
         "C": "1.14 mol kg^{-1}",
         "D": "3.28 mol kg^{-1}"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Density of a 2.05M solution of acetic acid in water is 1.02 g/mL The molality of the solution is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 45,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 45,
-      "question_text": "Uncertainty in the position of an electron (mass = 9.1 $$\\times$$ 10-31 kg) moving with a velocity 300 ms-1, accurate upto 0.001% will be (h = 6.63 $$\\times$$ 10-34 Js)",
       "subject": "Chemistry",
       "topic": "structure-of-atom",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Uncertainty in the position of an electron (mass = 9.1 $$\\times$$ 10-31 kg) moving with a velocity 300 ms-1, accurate upto 0.001% will be (h = 6.63 $$\\times$$ 10-34 Js)",
+      "question_images": [],
+      "option_texts": {
         "A": "1.92 $$\\times$$ 10^{-2} m",
         "B": "3.84 $$\\times$$ 10^{-2} m",
         "C": "19.2 $$\\times$$ 10^{-2} m",
         "D": "5.76 $$\\times$$ 10^{-2} m"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Uncertainty in the position of an electron (mass = 9.1 $$\\times$$ 10^{-31} kg) moving with a velocity 300 ms^{-1}, accurate upto 0.001% will be (h = 6.63 $$\\times$$ 10^{-34} Js)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 46,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 46,
-      "question_text": "According to Bohr's theory, the angular momentum of an electron in 5th orbit is",
       "subject": "Chemistry",
       "topic": "structure-of-atom",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "According to Bohr's theory, the angular momentum of an electron in 5th orbit is",
+      "question_images": [],
+      "option_texts": {
         "A": "10 $$h/\\pi$$",
         "B": "2.5 $$h/\\pi$$",
         "C": "25 $$h/\\pi$$",
         "D": "1.0 $$h/\\pi$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "According to Bohr's theory, the angular momentum of an electron in 5^{th} orbit is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 47,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 47,
-      "question_text": "Which of the following sets of ions represents a collection of isoelectronic species?",
       "subject": "Chemistry",
       "topic": "structure-of-atom",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the following sets of ions represents a collection of isoelectronic species?",
+      "question_images": [],
+      "option_texts": {
         "A": "N^{3-}, O^{2-}, F^{-}, S^{2-}",
         "B": "Li^{+}, Na^{+}, Mg^{2+}, Ca^{2+}",
         "C": "K^{+}, Cl^{-}, Ca^{2+}, Sc^{3+}",
         "D": "Ba^{2+}, Sr^{2+}, K^{+}, Ca^{2+}"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Which of the following sets of ions represents a collection of isoelectronic species?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 48,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 48,
-      "question_text": "Following statements regarding the periodic trends of chemical reactivity of the alkali metals and the\nhalogens are given. Which of these statements gives the correct picture?",
       "subject": "Chemistry",
       "topic": "periodic-table-and-periodicity",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Following statements regarding the periodic trends of chemical reactivity of the alkali metals and the\nhalogens are given. Which of these statements gives the correct picture?",
+      "question_images": [],
+      "option_texts": {
         "A": "The reactivity decreases in the alkali metals but increases in the halogens with increase in atomic\nnumber down the group",
         "B": "In both the alkali metals and the halogens the chemical reactivity decreases with increase in\natomic number down the group",
         "C": "Chemical reactivity increases with increase in atomic number down the group in both the alkali\nmetals and halogens",
         "D": "In alkali metals the reactivity increases but in the halogens it decreases with increase in atomic\nnumber down the group"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Following statements regarding the periodic trends of chemical reactivity of the alkali metals and the\nhalogens are given. Which of these statements gives the correct picture?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 49,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 49,
-      "question_text": "Which of the following molecules/ions does not contain unpaired electrons?",
       "subject": "Chemistry",
       "topic": "chemical-bonding-and-molecular-structure",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the following molecules/ions does not contain unpaired electrons?",
+      "question_images": [],
+      "option_texts": {
         "A": "$$O_2^{2−} $$",
         "B": "B_{2}",
         "C": "$$N_2^+$$",
         "D": "O_{2}"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Which of the following molecules/ions does not contain unpaired electrons?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 50,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 50,
-      "question_text": "In which of the following molecules/ions are all the bonds not equal?",
       "subject": "Chemistry",
       "topic": "chemical-bonding-and-molecular-structure",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In which of the following molecules/ions are all the bonds not equal?",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/yCYzjWm1BbDJweRNh/nLQlDvxoOOeu04IjbnCTHFHShaMBc/BLQODeVT8TdK7EuTiJa5zU/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/cSH8ohR2lpBHQKDAE/i0QcsYhcoqZkW3Gy6Pwqtyt4n6FLb/gHbLsODqAP31gaL9WAura2/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/a5XQH5opv8YSzognp/YvymIZGBuBz4gsj9qPyRlAdwh4teU/UsvHEhTmbRnd0ERrbYqXOu/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/3xmhtm2xjkbbwoel1/d2d0b2f8-96b4-41c3-86a2-1918d5623749/9f727050-ac80-11ea-9207-bfdf7589d371/file-3xmhtm2xjkbbwoel2-680w.jpg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "XeF_{4}",
         "B": "$$BF_4^−$$",
         "C": "SF_{4}",
         "D": "SiF_{4}"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "In which of the following molecules/ions are all the bonds not equal?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 51,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 51,
-      "question_text": "The decreasing values of bond angles from NH3 (106o) to SbH3 (91o\n) down group-15 of the periodic table is due to",
       "subject": "Chemistry",
       "topic": "chemical-bonding-and-molecular-structure",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The decreasing values of bond angles from NH3 (106o) to SbH3 (91o\n) down group-15 of the periodic table is due to",
+      "question_images": [],
+      "option_texts": {
         "A": "increasing bp-bp repulsion",
         "B": "increasing p-orbital character in sp^{3}",
         "C": "decreasing lp-bp repulsion",
         "D": "decreasing electronegativity"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The decreasing values of bond angles from NH_{3} (106^{o}) to SbH_{3} (91^{o}\n) down group-15 of the periodic table is due to",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 52,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 52,
-      "question_text": "Suppose a population A has 100 observations 101, 102,........, 200, and another\npopulation B has 100 observations 151, 152,......., 250. If VA and VB represent the\nvariances of the two populations, respectively, then $${{{V_A}} \\over {{V_B}}}$$ is",
       "subject": "Mathematics",
       "topic": "statistics",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Suppose a population A has 100 observations 101, 102,........, 200, and another\npopulation B has 100 observations 151, 152,......., 250. If VA and VB represent the\nvariances of the two populations, respectively, then $${{{V_A}} \\over {{V_B}}}$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "1",
         "B": "$${9 \\over 4}$$",
         "C": "$${4 \\over 9}$$",
         "D": "$${2 \\over 3}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Suppose a population A has 100 observations 101, 102,........, 200, and another\npopulation B has 100 observations 151, 152,......., 250. If V_{A} and V_{B} represent the\nvariances of the two populations, respectively, then $${{{V_A}} \\over {{V_B}}}$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 53,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 53,
-      "question_text": "If $$0 < x < \\pi $$ and $$\\cos x + \\sin x = {1 \\over 2},$$ then $$\\tan x$$ is :",
       "subject": "Mathematics",
       "topic": "trigonometric-ratio-and-identites",
       "sub_topic": "trigonometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If $$0 < x < \\pi $$ and $$\\cos x + \\sin x = {1 \\over 2},$$ then $$\\tan x$$ is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{\\left( {1 - \\sqrt 7 } \\right)} \\over 4}$$",
         "B": "$${{\\left( {4 - \\sqrt 7 } \\right)} \\over 3}$$",
         "C": "$$ - {{\\left( {4 + \\sqrt 7 } \\right)} \\over 3}$$",
         "D": "$${{\\left( {1 + \\sqrt 7 } \\right)} \\over 4}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "If $$0 < x < \\pi $$ and $$\\cos x + \\sin x = {1 \\over 2},$$ then $$\\tan x$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 54,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 54,
-      "question_text": "The value of $$\\int\\limits_1^a {\\left[ x \\right]} f'\\left( x \\right)dx,a > 1$$ where $${\\left[ x \\right]}$$ denotes the greatest integer not exceeding $$x$$ is",
       "subject": "Mathematics",
       "topic": "definite-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The value of $$\\int\\limits_1^a {\\left[ x \\right]} f'\\left( x \\right)dx,a > 1$$ where $${\\left[ x \\right]}$$ denotes the greatest integer not exceeding $$x$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$af\\left( a \\right) - \\left\\{ {f\\left( 1 \\right) + f\\left( 2 \\right) + .............f\\left( {\\left[ a \\right]} \\right)} \\right\\}$$",
         "B": "$$\\left[ a \\right]f\\left( a \\right) - \\left\\{ {f\\left( 1 \\right) + f\\left( 2 \\right) + ...........f\\left( {\\left[ a \\right]} \\right)} \\right\\}$$",
         "C": "$$\\left[ a \\right]f\\left( {\\left[ a \\right]} \\right) - \\left\\{ {f\\left( 1 \\right) + f\\left( 2 \\right) + ...........f\\left( a \\right)} \\right\\}$$",
         "D": "$$af\\left( {\\left[ a \\right]} \\right) - \\left\\{ {f\\left( 1 \\right) + f\\left( 2 \\right) + .............f\\left( a \\right)} \\right\\}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The value of $$\\int\\limits_1^a {\\left[ x \\right]} f'\\left( x \\right)dx,a > 1$$ where $${\\left[ x \\right]}$$ denotes the greatest integer not exceeding $$x$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 55,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 55,
-      "question_text": "The set of points where $$f\\left( x \\right) = {x \\over {1 + \\left| x \\right|}}$$ is differentiable is",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The set of points where $$f\\left( x \\right) = {x \\over {1 + \\left| x \\right|}}$$ is differentiable is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\left( { - \\infty ,0} \\right) \\cup \\left( {0,\\infty } \\right)$$",
         "B": "$$\\left( { - \\infty ,1} \\right) \\cup \\left( { - 1,\\infty } \\right)$$",
         "C": "$$\\left( { - \\infty ,\\infty } \\right)$$",
         "D": "$$\\left( {0,\\infty } \\right)$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The set of points where $$f\\left( x \\right) = {x \\over {1 + \\left| x \\right|}}$$ is differentiable is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 56,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 56,
-      "question_text": "If  $${x^m}.{y^n} = {\\left( {x + y} \\right)^{m + n}},$$ then $${{{dy} \\over {dx}}}$$ is",
       "subject": "Mathematics",
       "topic": "differentiation",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If  $${x^m}.{y^n} = {\\left( {x + y} \\right)^{m + n}},$$ then $${{{dy} \\over {dx}}}$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "$${y \\over x}$$",
         "B": "$${{x + y} \\over {xy}}$$",
         "C": "$$xy$$",
         "D": "$${x \\over y}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "If  $${x^m}.{y^n} = {\\left( {x + y} \\right)^{m + n}},$$ then $${{{dy} \\over {dx}}}$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 57,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 57,
-      "question_text": "The function $$f\\left( x \\right) = {x \\over 2} + {2 \\over x}$$ has a local minimum at",
       "subject": "Mathematics",
       "topic": "application-of-derivatives",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The function $$f\\left( x \\right) = {x \\over 2} + {2 \\over x}$$ has a local minimum at",
+      "question_images": [],
+      "option_texts": {
         "A": "$$x=2$$",
         "B": "$$x=-2$$",
         "C": "$$x=0$$",
         "D": "$$x=1$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The function $$f\\left( x \\right) = {x \\over 2} + {2 \\over x}$$ has a local minimum at",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 58,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 58,
-      "question_text": "A triangular park is enclosed on two sides by a fence and on the third side by a straight river bank. The two sides having fence are of same length $$x$$. The maximum area enclosed by the park is",
       "subject": "Mathematics",
       "topic": "application-of-derivatives",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A triangular park is enclosed on two sides by a fence and on the third side by a straight river bank. The two sides having fence are of same length $$x$$. The maximum area enclosed by the park is",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/AkGzSBMXPDNzRngUd/MjjVwUThrBkHyN21zppolrNNDnitr/Gal4s2TEIPG1quQEFXunyN/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${3 \\over 2}{x^2}$$",
         "B": "$$\\sqrt {{{{x^3}} \\over 8}} $$",
         "C": "$${1 \\over 2}{x^2}$$",
         "D": "$$\\pi {x^2}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A triangular park is enclosed on two sides by a fence and on the third side by a straight river bank. The two sides having fence are of same length $$x$$. The maximum area enclosed by the park is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 59,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 59,
-      "question_text": "If $$A$$ and $$B$$ are square matrices of size $$n\\, \\times \\,n$$ such that \n\n$${A^2} - {B^2} = \\left( {A - B} \\right)\\left( {A + B} \\right),$$ then which of the following will be always true?",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If $$A$$ and $$B$$ are square matrices of size $$n\\, \\times \\,n$$ such that \n\n$${A^2} - {B^2} = \\left( {A - B} \\right)\\left( {A + B} \\right),$$ then which of the following will be always true?",
+      "question_images": [],
+      "option_texts": {
         "A": "$$A=B$$",
         "B": "$$AB=BA$$",
         "C": "either of $$A$$ or $$B$$ is a zero matrix",
         "D": "either of $$A$$ or $$B$$ is identity matrix"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "If $$A$$ and $$B$$ are square matrices of size $$n\\, \\times \\,n$$ such that \n$${A^2} - {B^2} = \\left( {A - B} \\right)\\left( {A + B} \\right),$$ then which of the following will be always true?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 60,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 60,
-      "question_text": "Let $$A = \\left( {\\matrix{\n   1 & 2  \\cr \n   3 & 4  \\cr \n\n } } \\right)$$ and $$B = \\left( {\\matrix{\n   a & 0  \\cr \n   0 & b  \\cr \n\n } } \\right),a,b \\in N.$$ Then",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$A = \\left( {\\matrix{\n   1 & 2  \\cr \n   3 & 4  \\cr \n\n } } \\right)$$ and $$B = \\left( {\\matrix{\n   a & 0  \\cr \n   0 & b  \\cr \n\n } } \\right),a,b \\in N.$$ Then",
+      "question_images": [],
+      "option_texts": {
         "A": "there cannot exist any $$B$$ such that $$AB=BA$$",
         "B": "there exist more then one but finite number of $$B'$$s such that $$AB=BA$$",
         "C": "there exists exactly one $$B$$ such that $$AB=BA$$",
         "D": "there exist infinitely many $$B'$$s such that $$AB=BA$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Let $$A = \\left( {\\matrix{\n   1 & 2  \\cr \n   3 & 4  \\cr \n\n } } \\right)$$ and $$B = \\left( {\\matrix{\n   a & 0  \\cr \n   0 & b  \\cr \n\n } } \\right),a,b \\in N.$$ Then",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 61,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 61,
-      "question_text": "$$\\int\\limits_0^\\pi  {xf\\left( {\\sin x} \\right)dx} $$   is equal to",
       "subject": "Mathematics",
       "topic": "definite-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "$$\\int\\limits_0^\\pi  {xf\\left( {\\sin x} \\right)dx} $$   is equal to",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\pi \\int\\limits_0^\\pi  {f\\left( {\\cos x} \\right)dx} $$",
         "B": "$$\\,\\pi \\int\\limits_0^\\pi  {f\\left( {sinx} \\right)dx} $$",
         "C": "$${\\pi  \\over 2}\\int\\limits_0^{\\pi /2} {f\\left( {sinx} \\right)dx} $$",
         "D": "$$\\pi \\int\\limits_0^{\\pi /2} {f\\left( {\\cos x} \\right)dx} $$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "$$\\int\\limits_0^\\pi  {xf\\left( {\\sin x} \\right)dx} $$   is equal to",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 62,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 62,
-      "question_text": "$$\\int\\limits_{ - {{3\\pi } \\over 2}}^{ - {\\pi  \\over 2}} {\\left[ {{{\\left( {x + \\pi } \\right)}^3} + {{\\cos }^2}\\left( {x + 3\\pi } \\right)} \\right]} dx$$  is equal to",
       "subject": "Mathematics",
       "topic": "definite-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "$$\\int\\limits_{ - {{3\\pi } \\over 2}}^{ - {\\pi  \\over 2}} {\\left[ {{{\\left( {x + \\pi } \\right)}^3} + {{\\cos }^2}\\left( {x + 3\\pi } \\right)} \\right]} dx$$  is equal to",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{{\\pi ^4}} \\over {32}}$$",
         "B": "$${{{\\pi ^4}} \\over {32}} + {\\pi  \\over 2}$$",
         "C": "$${\\pi  \\over 2}$$",
         "D": "$${\\pi  \\over 4} - 1$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "$$\\int\\limits_{ - {{3\\pi } \\over 2}}^{ - {\\pi  \\over 2}} {\\left[ {{{\\left( {x + \\pi } \\right)}^3} + {{\\cos }^2}\\left( {x + 3\\pi } \\right)} \\right]} dx$$  is equal to",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 63,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 63,
-      "question_text": "The differential equation whose solution is $$A{x^2} + B{y^2} = 1$$ \n\nwhere $$A$$ and $$B$$ are arbitrary constants is of",
       "subject": "Mathematics",
       "topic": "differential-equations",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The differential equation whose solution is $$A{x^2} + B{y^2} = 1$$ \n\nwhere $$A$$ and $$B$$ are arbitrary constants is of",
+      "question_images": [],
+      "option_texts": {
         "A": "second order and second degree",
         "B": "first  order and second degree",
         "C": "first order and first degree",
         "D": "second order and first degree"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The differential equation whose solution is $$A{x^2} + B{y^2} = 1$$ \nwhere $$A$$ and $$B$$ are arbitrary constants is of",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 64,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 64,
-      "question_text": "At a telephone enquiry system the number of phone cells regarding relevant enquiry follow Poisson distribution with an average of $$5$$ phone calls during $$10$$ minute time intervals. The probability that there is at the most one phone call during a $$10$$-minute time period is :",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "At a telephone enquiry system the number of phone cells regarding relevant enquiry follow Poisson distribution with an average of $$5$$ phone calls during $$10$$ minute time intervals. The probability that there is at the most one phone call during a $$10$$-minute time period is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${6 \\over {{5^e}}}$$",
         "B": "$${5 \\over 6}$$",
         "C": "$${6 \\over 55}$$",
         "D": "$${6 \\over {{e^5}}}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "At a telephone enquiry system the number of phone cells regarding relevant enquiry follow Poisson distribution with an average of $$5$$ phone calls during $$10$$ minute time intervals. The probability that there is at the most one phone call during a $$10$$-minute time period is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 65,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 65,
-      "question_text": "The  values of a, for which the points $$A, B, C$$ with position vectors $$2\\widehat i - \\widehat j + \\widehat k,\\,\\,\\widehat i - 3\\widehat j - 5\\widehat k$$ and $$a\\widehat i - 3\\widehat j + \\widehat k$$ respectively are the vertices of a right angled triangle  with $$C = {\\pi  \\over 2}$$ are :",
       "subject": "Mathematics",
       "topic": "vector-algebra",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The  values of a, for which the points $$A, B, C$$ with position vectors $$2\\widehat i - \\widehat j + \\widehat k,\\,\\,\\widehat i - 3\\widehat j - 5\\widehat k$$ and $$a\\widehat i - 3\\widehat j + \\widehat k$$ respectively are the vertices of a right angled triangle  with $$C = {\\pi  \\over 2}$$ are :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$2$$ and $$1$$",
         "B": "$$-2$$ and $$-1$$",
         "C": "$$-2$$ and $$1$$",
         "D": "$$2$$ and $$-1$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The  values of a, for which the points $$A, B, C$$ with position vectors $$2\\widehat i - \\widehat j + \\widehat k,\\,\\,\\widehat i - 3\\widehat j - 5\\widehat k$$ and $$a\\widehat i - 3\\widehat j + \\widehat k$$ respectively are the vertices of a right angled triangle  with $$C = {\\pi  \\over 2}$$ are :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 66,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 66,
-      "question_text": "The two lines $$x=ay+b, z=cy+d;$$ and $$x=a'y+b' ,$$ $$z=c'y+d'$$ are perpendicular to each other if :",
       "subject": "Mathematics",
       "topic": "3d-geometry",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The two lines $$x=ay+b, z=cy+d;$$ and $$x=a'y+b' ,$$ $$z=c'y+d'$$ are perpendicular to each other if :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$aa'+cc'=-1$$",
         "B": "$$aa'+cc'=1$$",
         "C": "$${a \\over {a'}} + {c \\over {c'}} =  - 1$$",
         "D": "$${a \\over {a'}} + {c \\over {c'}} =   1$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The two lines $$x=ay+b, z=cy+d;$$ and $$x=a'y+b' ,$$ $$z=c'y+d'$$ are perpendicular to each other if :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 67,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 67,
-      "question_text": "If $${z^2} + z + 1 = 0$$, where z is complex number, then value of $${\\left( {z + {1 \\over z}} \\right)^2} + {\\left( {{z^2} + {1 \\over {{z^2}}}} \\right)^2} + {\\left( {{z^3} + {1 \\over {{z^3}}}} \\right)^2} + .......... + {\\left( {{z^6} + {1 \\over {{z^6}}}} \\right)^2}$$ is :",
       "subject": "Mathematics",
       "topic": "complex-numbers",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If $${z^2} + z + 1 = 0$$, where z is complex number, then value of $${\\left( {z + {1 \\over z}} \\right)^2} + {\\left( {{z^2} + {1 \\over {{z^2}}}} \\right)^2} + {\\left( {{z^3} + {1 \\over {{z^3}}}} \\right)^2} + .......... + {\\left( {{z^6} + {1 \\over {{z^6}}}} \\right)^2}$$ is :",
+      "question_images": [],
+      "option_texts": {
         "A": "18",
         "B": "54",
         "C": "6",
         "D": "12"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "If $${z^2} + z + 1 = 0$$, where z is complex number, then value of $${\\left( {z + {1 \\over z}} \\right)^2} + {\\left( {{z^2} + {1 \\over {{z^2}}}} \\right)^2} + {\\left( {{z^3} + {1 \\over {{z^3}}}} \\right)^2} + .......... + {\\left( {{z^6} + {1 \\over {{z^6}}}} \\right)^2}$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 68,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 68,
-      "question_text": "The value of $$\\sum\\limits_{k = 1}^{10} {\\left( {\\sin {{2k\\pi } \\over {11}} + i\\,\\,\\cos {{2k\\pi } \\over {11}}} \\right)} $$ is :",
       "subject": "Mathematics",
       "topic": "complex-numbers",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The value of $$\\sum\\limits_{k = 1}^{10} {\\left( {\\sin {{2k\\pi } \\over {11}} + i\\,\\,\\cos {{2k\\pi } \\over {11}}} \\right)} $$ is :",
+      "question_images": [],
+      "option_texts": {
         "A": "i",
         "B": "1",
         "C": "- 1",
         "D": "- i"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The value of $$\\sum\\limits_{k = 1}^{10} {\\left( {\\sin {{2k\\pi } \\over {11}} + i\\,\\,\\cos {{2k\\pi } \\over {11}}} \\right)} $$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 69,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 69,
-      "question_text": "If the roots of the quadratic equation $${x^2} + px + q = 0$$ are $$\\tan {30^ \\circ }$$ and $$\\tan {15^ \\circ }$$, respectively, then the value of $$2 + q - p$$  is",
       "subject": "Mathematics",
       "topic": "quadratic-equation-and-inequalities",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the roots of the quadratic equation $${x^2} + px + q = 0$$ are $$\\tan {30^ \\circ }$$ and $$\\tan {15^ \\circ }$$, respectively, then the value of $$2 + q - p$$  is",
+      "question_images": [],
+      "option_texts": {
         "A": "2",
         "B": "3",
         "C": "0",
         "D": "1"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "If the roots of the quadratic equation $${x^2} + px + q = 0$$ are $$\\tan {30^ \\circ }$$ and $$\\tan {15^ \\circ }$$, respectively, then the value of $$2 + q - p$$  is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 70,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 70,
-      "question_text": "All the values of $$m$$ for which both roots of the equation $${x^2} - 2mx + {m^2} - 1 = 0$$ are greater than $$ - 2$$ but less then 4, lie in the interval",
       "subject": "Mathematics",
       "topic": "quadratic-equation-and-inequalities",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "All the values of $$m$$ for which both roots of the equation $${x^2} - 2mx + {m^2} - 1 = 0$$ are greater than $$ - 2$$ but less then 4, lie in the interval",
+      "question_images": [],
+      "option_texts": {
         "A": "$$ - 2 < m < 0$$",
         "B": "$$m > 3$$",
         "C": "$$ - 1 < m < 3$$",
         "D": "$$1 < m < 4$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "All the values of $$m$$ for which both roots of the equation $${x^2} - 2mx + {m^2} - 1 = 0$$ are greater than $$ - 2$$ but less then 4, lie in the interval",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 71,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 71,
-      "question_text": "If $$x$$ is real, the maximum value of $${{3{x^2} + 9x + 17} \\over {3{x^2} + 9x + 7}}$$ is",
       "subject": "Mathematics",
       "topic": "quadratic-equation-and-inequalities",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If $$x$$ is real, the maximum value of $${{3{x^2} + 9x + 17} \\over {3{x^2} + 9x + 7}}$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "$${1 \\over 4}$$",
         "B": "$$41$$",
         "C": "$$1$$",
         "D": "$${17 \\over 7}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "If $$x$$ is real, the maximum value of $${{3{x^2} + 9x + 17} \\over {3{x^2} + 9x + 7}}$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 72,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 72,
-      "question_text": "At an election, a voter may vote for any number of candidates, not greater than the number to be elected. There are 10 candidates and 4 are of be selected, if a voter votes for at least one candidate, then the number of ways in which he can vote is",
       "subject": "Mathematics",
       "topic": "permutations-and-combinations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "At an election, a voter may vote for any number of candidates, not greater than the number to be elected. There are 10 candidates and 4 are of be selected, if a voter votes for at least one candidate, then the number of ways in which he can vote is",
+      "question_images": [],
+      "option_texts": {
         "A": "5040",
         "B": "6210",
         "C": "385",
         "D": "1110"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "At an election, a voter may vote for any number of candidates, not greater than the number to be elected. There are 10 candidates and 4 are of be selected, if a voter votes for at least one candidate, then the number of ways in which he can vote is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 73,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 73,
-      "question_text": "If the expansion in powers of $$x$$ of the function $${1 \\over {\\left( {1 - ax} \\right)\\left( {1 - bx} \\right)}}$$ is $${a_0} + {a_1}x + {a_2}{x^2} + {a_3}{x^3}.....$$ then $${a_n}$$ is",
       "subject": "Mathematics",
       "topic": "binomial-theorem",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the expansion in powers of $$x$$ of the function $${1 \\over {\\left( {1 - ax} \\right)\\left( {1 - bx} \\right)}}$$ is $${a_0} + {a_1}x + {a_2}{x^2} + {a_3}{x^3}.....$$ then $${a_n}$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{{b^n} - {a^n}} \\over {b - a}}$$",
         "B": "$${{{a^n} - {b^n}} \\over {b - a}}$$",
         "C": "$${{{a^{n + 1}} - {b^{n + 1}}} \\over {b - a}}$$",
         "D": "$${{{b^{n + 1}} - {a^{n + 1}}} \\over {b - a}}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "If the expansion in powers of $$x$$ of the function $${1 \\over {\\left( {1 - ax} \\right)\\left( {1 - bx} \\right)}}$$ is $${a_0} + {a_1}x + {a_2}{x^2} + {a_3}{x^3}.....$$ then $${a_n}$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 74,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 74,
-      "question_text": "If $${{a_1},{a_2},....{a_n}}$$ are in H.P., then the expression $${{a_1}\\,{a_2} + \\,{a_2}\\,{a_3}\\, + .... + {a_{n - 1}}\\,{a_n}}$$ is equal to",
       "subject": "Mathematics",
       "topic": "sequences-and-series",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If $${{a_1},{a_2},....{a_n}}$$ are in H.P., then the expression $${{a_1}\\,{a_2} + \\,{a_2}\\,{a_3}\\, + .... + {a_{n - 1}}\\,{a_n}}$$ is equal to",
+      "question_images": [],
+      "option_texts": {
         "A": "$$n({a_1}\\, - {a_n})$$",
         "B": "$$(n - 1)({a_1}\\, - {a_n})$$",
         "C": "$$n{a_1}{a_n}$$",
         "D": "$$(n - 1)\\,\\,{a_1}{a_n}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "If $${{a_1},{a_2},....{a_n}}$$ are in H.P., then the expression $${{a_1}\\,{a_2} + \\,{a_2}\\,{a_3}\\, + .... + {a_{n - 1}}\\,{a_n}}$$ is equal to",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 75,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 75,
-      "question_text": "Let $${a_1}$$, $${a_2}$$, $${a_3}$$.....be terms on A.P. If $${{{a_1} + {a_2} + .....{a_p}} \\over {{a_1} + {a_2} + .....{a_q}}} = {{{p^2}} \\over {{q^2}}},\\,p \\ne q,\\,then\\,{{{a_6}} \\over {{a_{21}}}}\\,$$ equals",
       "subject": "Mathematics",
       "topic": "sequences-and-series",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $${a_1}$$, $${a_2}$$, $${a_3}$$.....be terms on A.P. If $${{{a_1} + {a_2} + .....{a_p}} \\over {{a_1} + {a_2} + .....{a_q}}} = {{{p^2}} \\over {{q^2}}},\\,p \\ne q,\\,then\\,{{{a_6}} \\over {{a_{21}}}}\\,$$ equals",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{41} \\over {11}}$$",
         "B": "$${7 \\over 2}$$",
         "C": "$${2 \\over 7}$$",
         "D": "$${{11} \\over {41}}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Let $${a_1}$$, $${a_2}$$, $${a_3}$$.....be terms on A.P. If $${{{a_1} + {a_2} + .....{a_p}} \\over {{a_1} + {a_2} + .....{a_q}}} = {{{p^2}} \\over {{q^2}}},\\,p \\ne q,\\,then\\,{{{a_6}} \\over {{a_{21}}}}\\,$$ equals",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 76,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 76,
-      "question_text": "A straight line through the point $$A (3, 4)$$ is such that its intercept between the axes is bisected at $$A$$. Its equation is :",
       "subject": "Mathematics",
       "topic": "straight-lines-and-pair-of-straight-lines",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A straight line through the point $$A (3, 4)$$ is such that its intercept between the axes is bisected at $$A$$. Its equation is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/jrfkmDiY6CsQfGmz8/nB4tX8XQGUPGa6vxfPrheIJz7ftL9/akT0NuPUUhuPtapbGMoVQJ/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$x + y = 7$$",
         "B": "$$3x - 4y + 7 = 0$$",
         "C": "$$4x + 3y = 24$$",
         "D": "$$3x + 4y = 25$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A straight line through the point $$A (3, 4)$$ is such that its intercept between the axes is bisected at $$A$$. Its equation is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 77,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 77,
-      "question_text": "If $$\\left( {a,{a^2}} \\right)$$ falls inside the angle made by the lines $$y = {x \\over 2},$$ $$x > 0$$ and $$y = 3x,$$ $$x > 0,$$ then a belong to :",
       "subject": "Mathematics",
       "topic": "straight-lines-and-pair-of-straight-lines",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If $$\\left( {a,{a^2}} \\right)$$ falls inside the angle made by the lines $$y = {x \\over 2},$$ $$x > 0$$ and $$y = 3x,$$ $$x > 0,$$ then a belong to :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/MTvIdLtTjM5nYSx07/VWsoGolmNcZDFse7dUyNIBh3pyfk6/7zyRNWXDEcYdqA2Sljds1d/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$\\left( {0,{1 \\over 2}} \\right)$$",
         "B": "$$\\left( {3,\\infty } \\right)$$",
         "C": "$$\\left( {{1 \\over 2},3} \\right)$$",
         "D": "$$\\left( {-3,-{1 \\over 2}} \\right)$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "If $$\\left( {a,{a^2}} \\right)$$ falls inside the angle made by the lines $$y = {x \\over 2},$$ $$x > 0$$ and $$y = 3x,$$ $$x > 0,$$ then a belong to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 78,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 78,
-      "question_text": "If the lines $$3x - 4y - 7 = 0$$  and $$2x - 3y - 5 = 0$$ are two diameters of a circle of area $$49\\pi $$ square units, the equation of the circle is :",
       "subject": "Mathematics",
       "topic": "circle",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the lines $$3x - 4y - 7 = 0$$  and $$2x - 3y - 5 = 0$$ are two diameters of a circle of area $$49\\pi $$ square units, the equation of the circle is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\,{x^2} + {y^2} + 2x\\, - 2y - 47 = 0\\,$$",
         "B": "$$\\,{x^2} + {y^2} + 2x\\, - 2y - 62 = 0\\,$$",
         "C": "$${x^2} + {y^2} - 2x\\, + 2y - 62 = 0$$",
         "D": "$${x^2} + {y^2} - 2x\\, + 2y - 47 = 0$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "If the lines $$3x - 4y - 7 = 0$$  and $$2x - 3y - 5 = 0$$ are two diameters of a circle of area $$49\\pi $$ square units, the equation of the circle is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 79,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 79,
-      "question_text": "Let $$C$$ be the circle with centre $$(0, 0)$$ and radius $$3$$ units. The equation of the locus of the mid points of the chords of the circle $$C$$ that subtend an angle of $${{2\\pi } \\over 3}$$ at its center is :",
       "subject": "Mathematics",
       "topic": "circle",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$C$$ be the circle with centre $$(0, 0)$$ and radius $$3$$ units. The equation of the locus of the mid points of the chords of the circle $$C$$ that subtend an angle of $${{2\\pi } \\over 3}$$ at its center is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/emGrH6bDF46SyY65W/UTiAjMtsTtZJ2mn7mBsFUofKIYI5u/Yc1xi5x69hUfkz3qNe8PwU/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${x^2} + {y^2} = {3 \\over 2}$$",
         "B": "$${x^2} + {y^2} = 1$$",
         "C": "$${x^2} + {y^2} = {{27} \\over 4}$$",
         "D": "$${x^2} + {y^2} = {{9} \\over 4}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Let $$C$$ be the circle with centre $$(0, 0)$$ and radius $$3$$ units. The equation of the locus of the mid points of the chords of the circle $$C$$ that subtend an angle of $${{2\\pi } \\over 3}$$ at its center is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 80,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 80,
-      "question_text": "The locus of the vertices of the family of parabolas \n\n$$y = {{{a^3}{x^2}} \\over 3} + {{{a^2}x} \\over 2} - 2a$$ is :",
       "subject": "Mathematics",
       "topic": "parabola",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The locus of the vertices of the family of parabolas \n\n$$y = {{{a^3}{x^2}} \\over 3} + {{{a^2}x} \\over 2} - 2a$$ is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$$xy = {{105} \\over {64}}$$",
         "B": "$$xy = {{3} \\over {4}}$$",
         "C": "$$xy = {{35} \\over {16}}$$",
         "D": "$$xy = {{64} \\over {105}}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The locus of the vertices of the family of parabolas \n$$y = {{{a^3}{x^2}} \\over 3} + {{{a^2}x} \\over 2} - 2a$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 81,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 81,
-      "question_text": "In the ellipse, the distance between its foci is $$6$$ and minor axis is $$8$$. Then its eccentricity is :",
       "subject": "Mathematics",
       "topic": "ellipse",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In the ellipse, the distance between its foci is $$6$$ and minor axis is $$8$$. Then its eccentricity is :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${3 \\over 5}$$",
         "B": "$${1 \\over 2}$$",
         "C": "$${4 \\over 5}$$",
         "D": "$${1 \\over {\\sqrt 5 }}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "In the ellipse, the distance between its foci is $$6$$ and minor axis is $$8$$. Then its eccentricity is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 82,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 82,
-      "question_text": "Let $W$ denote the words in the English dictionary. Define the relation $R$ by \n\n\n$R=\\{(x, y) \\in W \\times W \\mid$ the words $x$ and $y$ have at least one letter in common}. Then, $R$ is",
       "subject": "Mathematics",
       "topic": "sets-and-relations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $W$ denote the words in the English dictionary. Define the relation $R$ by \n\n\n$R=\\{(x, y) \\in W \\times W \\mid$ the words $x$ and $y$ have at least one letter in common}. Then, $R$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "reflexive, symmetric and not transitive",
         "B": "reflexive, symmetric and transitive",
         "C": "reflexive, not symmetric and transitive",
         "D": "not reflexive, symmetric and transitive"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $W$ denote the words in the English dictionary. Define the relation $R$ by \n$R=\\{(x, y) \\in W \\times W \\mid$ the words $x$ and $y$ have at least one letter in common}. Then, $R$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 83,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 83,
-      "question_text": "The $$rms$$ value of the electric field of the light coming from the Sun is $$720$$ $$N/C.$$ The average total energy density of the electromagnetic wave is",
       "subject": "Physics",
       "topic": "electromagnetic-waves",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The $$rms$$ value of the electric field of the light coming from the Sun is $$720$$ $$N/C.$$ The average total energy density of the electromagnetic wave is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$4.58 \\times {10^{ - 6}}\\,J/{m^3}$$",
         "B": "$$6.37 \\times {10^{ - 9}}\\,J/{m^3}$$",
         "C": "$$81.35 \\times {10^{ - 12}}\\,J/{m^3}$$",
         "D": "$$3.3 \\times {10^{ - 3}}\\,J/{m^3}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The $$rms$$ value of the electric field of the light coming from the Sun is $$720$$ $$N/C.$$ The average total energy density of the electromagnetic wave is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 84,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 84,
-      "question_text": "The circuit has two oppositively connected ideal diodes in parallel. What is the current following in the circuit?",
       "subject": "Physics",
       "topic": "electronic-devices",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The circuit has two oppositively connected ideal diodes in parallel. What is the current following in the circuit?",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/EH8m3UTq7pjOMIxHe/yIt3QQPagXqHYv6kF5R1EZ50nWwRH/m6LyxooLjNTN0bBkgAWaD2/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$1.71$$ $$A$$",
         "B": "$$2.00$$ $$A$$",
         "C": "$$2.31$$ $$A$$",
         "D": "$$1.33$$ $$A$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The circuit has two oppositively connected ideal diodes in parallel. What is the current following in the circuit?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 85,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 85,
-      "question_text": "In the following, which one of the diodes is reverse biased?",
       "subject": "Physics",
       "topic": "electronic-devices",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In the following, which one of the diodes is reverse biased?",
+      "question_images": [],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/eDyB3lXGfpmy4lELL/JPj4pjLUbSLZxyjyXN3BVGf86i9tN/lfT2GLq5JFyGHShKXC3n4v/image.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/imagex_cdn_examgoal_net/o7tgdyKN82ivrisiU/DjnZmP6HikPuJ5iNi9VHLiBIbeilZ/9vtHAXJTIq9d89hwwV12lD/image.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/PBvNt5rPyHJHcwctC/scQREM0cF3KVwrF4GV5JOnwjTzpRC/1wojG5GogBAamBE5NYyUNE/image.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/gg2XPPMLVIOz6QsCr/Q4oTe1YWdwkTZOq4mxiOAOveKNAkW/iKHJcepd1OZDrkKYEuauGb/image.png",
+          "description": ""
+        }
+      },
       "correct_answer": "D",
-      "question": "In the following, which one of the diodes is reverse biased?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 86,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 86,
-      "question_text": "The anode voltage of a photocell is kept fixed. The wavelength $$\\lambda $$ of the light falling on the cathode is gradually changed. The plate current $${\\rm I}$$ of the photocell varies as follows",
       "subject": "Physics",
       "topic": "dual-nature-of-radiation",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The anode voltage of a photocell is kept fixed. The wavelength $$\\lambda $$ of the light falling on the cathode is gradually changed. The plate current $${\\rm I}$$ of the photocell varies as follows",
+      "question_images": [],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/EFBAodQ9CdX9eUPNH/YP9vgDcOZsj1WUyMyUNlpkpp1CDxK/ea1uMtSs4RUE3SmdNnZgpP/image.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/imagex_cdn_examgoal_net/BrPdphRfGFDiJ8Bje/LV6YeVLum9JmrzDVUzya9skfKJFs3/wa1eRZlU0jXdOrNqy19Blo/image.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/oU3E6AQH7guWtXkvu/XBAcGolZjC5zy38vM436N5IHCGSar/MAuemHjOgyLG2yWmtj3KYb/image.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/CL6zl7esmRBnIT26F/L3kjaFJALfa7nqT3RYZwDR08rkMm7/gODe1ucI5mdyLkpykJpvIX/image.png",
+          "description": ""
+        }
+      },
       "correct_answer": "B",
-      "question": "The anode voltage of a photocell is kept fixed. The wavelength $$\\lambda $$ of the light falling on the cathode is gradually changed. The plate current $${\\rm I}$$ of the photocell varies as follows",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 87,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 87,
-      "question_text": "If the lattice constant of this semiconductor is decreased, then which of the following is correct?",
       "subject": "Physics",
       "topic": "electronic-devices",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the lattice constant of this semiconductor is decreased, then which of the following is correct?",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/P2lnhRV0ZlseWdZmn/njlEqm5WI3SG2DIKpC5Ir0NZxPDwz/nW8dHOX6sSGrc5VHIhAknm/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "All $${E_c},{E_g},{E_v}$$ increase",
         "B": "$${E_c}$$ and $${E_v}$$ increase, but $${E_g}$$ decreases",
         "C": "$${E_c}$$ and $${E_v}$$ decrease, but $${E_g}$$ increases",
         "D": "All $${E_c},{E_g},{E_v}$$ decrease"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "If the lattice constant of this semiconductor is decreased, then which of the following is correct?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 88,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 88,
-      "question_text": "An inductor $$(L=100$$ $$mH)$$, a resistor $$\\left( {R = 100\\,\\Omega } \\right)$$ and a battery $$\\left( {E = 100V} \\right)$$ are initially connected in series as shown in the figure. After a long time the battery is disconnected after short circuiting the points $$A$$ and $$B$$. The current in the circuit $$1$$ $$ms$$ after the short circuit is",
       "subject": "Physics",
       "topic": "electromagnetic-induction",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An inductor $$(L=100$$ $$mH)$$, a resistor $$\\left( {R = 100\\,\\Omega } \\right)$$ and a battery $$\\left( {E = 100V} \\right)$$ are initially connected in series as shown in the figure. After a long time the battery is disconnected after short circuiting the points $$A$$ and $$B$$. The current in the circuit $$1$$ $$ms$$ after the short circuit is",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/X5lCeOpC0jft29Or8/mt5rBVChcLeKNEML1EeiLEKNMs4zR/zsw70XlJZ76bZTe8IIOmFi/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$1/eA$$",
         "B": "$$eA$$",
         "C": "$$0.1$$ $$A$$",
         "D": "$$1$$ $$A$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "An inductor $$(L=100$$ $$mH)$$, a resistor $$\\left( {R = 100\\,\\Omega } \\right)$$ and a battery $$\\left( {E = 100V} \\right)$$ are initially connected in series as shown in the figure. After a long time the battery is disconnected after short circuiting the points $$A$$ and $$B$$. The current in the circuit $$1$$ $$ms$$ after the short circuit is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 89,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 89,
-      "question_text": "Needles $${N_1}$$, $${N_2}$$ and $${N_3}$$ are made of ferromagnetic, a paramagnetic and a diamagnetic substance respectively. A magnet when brought close to them will",
       "subject": "Physics",
       "topic": "magnetic-properties-of-matter",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Needles $${N_1}$$, $${N_2}$$ and $${N_3}$$ are made of ferromagnetic, a paramagnetic and a diamagnetic substance respectively. A magnet when brought close to them will",
+      "question_images": [],
+      "option_texts": {
         "A": "attract $${N_1}$$ and $${N_2}$$ strongly but repel $${N_3}$$",
         "B": "attract $${N_1}$$ strongly, $${N_2}$$ weakly and repel $${N_3}$$ weakly",
         "C": "attract $${N_1}$$ strongly, but repel $${N_2}$$ and $${N_3}$$ weakly",
         "D": "attract all three of them"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Needles $${N_1}$$, $${N_2}$$ and $${N_3}$$ are made of ferromagnetic, a paramagnetic and a diamagnetic substance respectively. A magnet when brought close to them will",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 90,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 90,
-      "question_text": "In a region, steady and uniform electric and magnetic fields are present. These two fields are parallel to each other. A charged particle is released from rest in this region. The path of the particle will be a",
       "subject": "Physics",
       "topic": "magnetics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In a region, steady and uniform electric and magnetic fields are present. These two fields are parallel to each other. A charged particle is released from rest in this region. The path of the particle will be a",
+      "question_images": [],
+      "option_texts": {
         "A": "helix",
         "B": "straight line",
         "C": "ellipse",
         "D": "circle"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "In a region, steady and uniform electric and magnetic fields are present. These two fields are parallel to each other. A charged particle is released from rest in this region. The path of the particle will be a",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 91,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 91,
-      "question_text": "A long solenoid has $$200$$ turns per $$cm$$ and carries a current $$i.$$ The magnetic field at its center is $$6.28 \\times {10^{ - 2}}\\,\\,\\,Weber/{m^2}.$$ Another long solenoid has $$100$$ turns per $$cm$$ and it carries a current $${i \\over 3}$$. The value of the magnetic field at its center is",
       "subject": "Physics",
       "topic": "magnetics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A long solenoid has $$200$$ turns per $$cm$$ and carries a current $$i.$$ The magnetic field at its center is $$6.28 \\times {10^{ - 2}}\\,\\,\\,Weber/{m^2}.$$ Another long solenoid has $$100$$ turns per $$cm$$ and it carries a current $${i \\over 3}$$. The value of the magnetic field at its center is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$1.05 \\times {10^{ - 2}}\\,\\,Weber/{m^2}$$",
         "B": "$$1.05 \\times {10^{ - 5}}\\,\\,Weber/{m^2}$$",
         "C": "$$1.05 \\times {10^{ - 3}}\\,\\,Weber/{m^2}$$",
         "D": "$$1.05 \\times {10^{ - 4}}\\,\\,Weber/{m^2}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A long solenoid has $$200$$ turns per $$cm$$ and carries a current $$i.$$ The magnetic field at its center is $$6.28 \\times {10^{ - 2}}\\,\\,\\,Weber/{m^2}.$$ Another long solenoid has $$100$$ turns per $$cm$$ and it carries a current $${i \\over 3}$$. The value of the magnetic field at its center is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 92,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 92,
-      "question_text": "Which of the following units denotes the dimension $${{M{L^2}} \\over {{Q^2}}}$$, where $$Q$$ denotes the electric charge?",
       "subject": "Physics",
       "topic": "electromagnetic-induction",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the following units denotes the dimension $${{M{L^2}} \\over {{Q^2}}}$$, where $$Q$$ denotes the electric charge?",
+      "question_images": [],
+      "option_texts": {
         "A": "$$Wb/{m^2}$$",
         "B": "Henry $$(H)$$",
         "C": "$$H/{m^2}$$",
         "D": "Weber $$(Wb)$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Which of the following units denotes the dimension $${{M{L^2}} \\over {{Q^2}}}$$, where $$Q$$ denotes the electric charge?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 93,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 93,
-      "question_text": "In an $$AC$$ generator, a coil with $$N$$ turns, all of the same area $$A$$ and total resistance $$R,$$ rotates with frequency $$\\omega $$ in a magnetic field $$B.$$ The maximum value of $$emf$$ generated in the coil is",
       "subject": "Physics",
       "topic": "alternating-current",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In an $$AC$$ generator, a coil with $$N$$ turns, all of the same area $$A$$ and total resistance $$R,$$ rotates with frequency $$\\omega $$ in a magnetic field $$B.$$ The maximum value of $$emf$$ generated in the coil is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$N.A.B.R.$$$$\\omega $$",
         "B": "$$N.A.B$$",
         "C": "$$N.A.B.R.$$",
         "D": "$$N.A.B.$$$$\\omega $$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "In an $$AC$$ generator, a coil with $$N$$ turns, all of the same area $$A$$ and total resistance $$R,$$ rotates with frequency $$\\omega $$ in a magnetic field $$B.$$ The maximum value of $$emf$$ generated in the coil is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 94,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 94,
-      "question_text": "In a series resonant $$LCR$$ circuit, the voltage across $$R$$ is $$100$$ volts and $$R = 1\\,k\\Omega $$ with $$C = 2\\mu F.$$ The resonant frequency $$\\omega $$ is $$200$$ $$rad/s$$. At resonance the voltage across $$L$$ is",
       "subject": "Physics",
       "topic": "alternating-current",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In a series resonant $$LCR$$ circuit, the voltage across $$R$$ is $$100$$ volts and $$R = 1\\,k\\Omega $$ with $$C = 2\\mu F.$$ The resonant frequency $$\\omega $$ is $$200$$ $$rad/s$$. At resonance the voltage across $$L$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$2.5 \\times {10^{ - 2}}V$$",
         "B": "$$40$$ $$V$$",
         "C": "$$250$$ $$V$$",
         "D": "$$4 \\times {10^{ - 3}}V$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "In a series resonant $$LCR$$ circuit, the voltage across $$R$$ is $$100$$ volts and $$R = 1\\,k\\Omega $$ with $$C = 2\\mu F.$$ The resonant frequency $$\\omega $$ is $$200$$ $$rad/s$$. At resonance the voltage across $$L$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 95,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 95,
-      "question_text": "The flux linked with a coil at any instant $$'t'$$ is given by \n\n$$\\phi  = 10{t^2} - 50t + 250$$ \n\nThe induced $$emf$$ at $$t=3s$$ is",
       "subject": "Physics",
       "topic": "electromagnetic-induction",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The flux linked with a coil at any instant $$'t'$$ is given by \n\n$$\\phi  = 10{t^2} - 50t + 250$$ \n\nThe induced $$emf$$ at $$t=3s$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$-190$$ $$V$$",
         "B": "$$-10$$ $$V$$",
         "C": "$$10$$ $$V$$",
         "D": "$$190$$ $$V$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The flux linked with a coil at any instant $$'t'$$ is given by \n$$\\phi  = 10{t^2} - 50t + 250$$ \nThe induced $$emf$$ at $$t=3s$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 96,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 96,
-      "question_text": "The refractive index of a glass is $$1.520$$ for red light and $$1.525$$ for blue light. Let $${D_1}$$ and $${D_2}$$ be angles of minimum deviation for red and blue light respectively in a prism of this glass. Then,",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The refractive index of a glass is $$1.520$$ for red light and $$1.525$$ for blue light. Let $${D_1}$$ and $${D_2}$$ be angles of minimum deviation for red and blue light respectively in a prism of this glass. Then,",
+      "question_images": [],
+      "option_texts": {
         "A": "$${D_1} < {D_2}$$",
         "B": "$${D_1} = {D_2}$$",
         "C": "$${D_1}$$ can be less than or greater than $${D_2}$$ depending upon the angle of prism",
         "D": "$${D_1} > {D_2}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The refractive index of a glass is $$1.520$$ for red light and $$1.525$$ for blue light. Let $${D_1}$$ and $${D_2}$$ be angles of minimum deviation for red and blue light respectively in a prism of this glass. Then,",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 97,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 97,
-      "question_text": "The threshold frequency for a metallic surface corresponds to an energy of $$6.2$$ $$eV$$ and the stopping potential for a radiation incident on this surface is $$5V.$$ The incident radiation lies in",
       "subject": "Physics",
       "topic": "dual-nature-of-radiation",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The threshold frequency for a metallic surface corresponds to an energy of $$6.2$$ $$eV$$ and the stopping potential for a radiation incident on this surface is $$5V.$$ The incident radiation lies in",
+      "question_images": [],
+      "option_texts": {
         "A": "ultra-violet region",
         "B": "infra-red region",
         "C": "visible region",
         "D": "$$x$$-ray region"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The threshold frequency for a metallic surface corresponds to an energy of $$6.2$$ $$eV$$ and the stopping potential for a radiation incident on this surface is $$5V.$$ The incident radiation lies in",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 98,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 98,
-      "question_text": "An alpha nucleus of energy $${1 \\over 2}m{v^2}$$ bombards a heavy nuclear target of charge $$Ze$$. Then the distance of closest approach for the alpha nucleus will be proportional to",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An alpha nucleus of energy $${1 \\over 2}m{v^2}$$ bombards a heavy nuclear target of charge $$Ze$$. Then the distance of closest approach for the alpha nucleus will be proportional to",
+      "question_images": [],
+      "option_texts": {
         "A": "$${v^2}$$",
         "B": "$${1 \\over m}$$",
         "C": "$${1 \\over {{v^2}}}$$",
         "D": "$${1 \\over {Ze}}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "An alpha nucleus of energy $${1 \\over 2}m{v^2}$$ bombards a heavy nuclear target of charge $$Ze$$. Then the distance of closest approach for the alpha nucleus will be proportional to",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 99,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 99,
-      "question_text": "The time taken by a photoelectron to come out after the photon strikes is approximately",
       "subject": "Physics",
       "topic": "dual-nature-of-radiation",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The time taken by a photoelectron to come out after the photon strikes is approximately",
+      "question_images": [],
+      "option_texts": {
         "A": "$${10^{ - 4}}\\,s$$",
         "B": "$${10^{ - 10}}\\,s$$",
         "C": "$${10^{ - 16}}\\,s$$",
         "D": "$${10^{ - 1}}\\,s$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The time taken by a photoelectron to come out after the photon strikes is approximately",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 100,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 100,
-      "question_text": "If the ratio of the concentration of electrons to that of holes in a semiconductor is $${7 \\over 5}$$ and the ratio of currents is $${7 \\over 4},$$ then what is the ratio of their drift velocities?",
       "subject": "Physics",
       "topic": "electronic-devices",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the ratio of the concentration of electrons to that of holes in a semiconductor is $${7 \\over 5}$$ and the ratio of currents is $${7 \\over 4},$$ then what is the ratio of their drift velocities?",
+      "question_images": [],
+      "option_texts": {
         "A": "$${5 \\over 8}$$",
         "B": "$${4 \\over 5}$$",
         "C": "$${5 \\over 4}$$",
         "D": "$${4 \\over 7}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "If the ratio of the concentration of electrons to that of holes in a semiconductor is $${7 \\over 5}$$ and the ratio of currents is $${7 \\over 4},$$ then what is the ratio of their drift velocities?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 101,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 101,
-      "question_text": "When $${}_3L{i^7}$$ nuclei are bombarded by protons, and the resultant nuclei are $${}_4B{e^8}$$, the emitted particles will be",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "When $${}_3L{i^7}$$ nuclei are bombarded by protons, and the resultant nuclei are $${}_4B{e^8}$$, the emitted particles will be",
+      "question_images": [],
+      "option_texts": {
         "A": "alpha particles",
         "B": "beta particles",
         "C": "gamma photons",
         "D": "neutrons"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "When $${}_3L{i^7}$$ nuclei are bombarded by protons, and the resultant nuclei are $${}_4B{e^8}$$, the emitted particles will be",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 102,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 102,
-      "question_text": "A solid which is not transparent to visible light and whose conductivity increases with temperature is formed by",
       "subject": "Physics",
       "topic": "electronic-devices",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A solid which is not transparent to visible light and whose conductivity increases with temperature is formed by",
+      "question_images": [],
+      "option_texts": {
         "A": "Ionic bonding",
         "B": "Covalent bonding",
         "C": "Vander Waals bonding",
         "D": "Metallic bonding"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A solid which is not transparent to visible light and whose conductivity increases with temperature is formed by",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 103,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 103,
-      "question_text": "If the binding energy per nucleon in $${}_3^7Li$$ and $${}_2^4He$$ nuclei are $$5.60$$ $$MeV$$ and $$7.06$$ $$MeV$$ respectively, then in the reaction \n$$$p + {}_3^7Li \\to 2\\,{}_2^4He$$$\n\nenergy of proton must be",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the binding energy per nucleon in $${}_3^7Li$$ and $${}_2^4He$$ nuclei are $$5.60$$ $$MeV$$ and $$7.06$$ $$MeV$$ respectively, then in the reaction \n$$$p + {}_3^7Li \\to 2\\,{}_2^4He$$$\n\nenergy of proton must be",
+      "question_images": [],
+      "option_texts": {
         "A": "$$28.24$$ $$MeV$$",
         "B": "$$17.28$$ $$MeV$$",
         "C": "$$1.46$$ $$MeV$$",
         "D": "$$39.2$$ $$MeV$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "If the binding energy per nucleon in $${}_3^7Li$$ and $${}_2^4He$$ nuclei are $$5.60$$ $$MeV$$ and $$7.06$$ $$MeV$$ respectively, then in the reaction \n$$$p + {}_3^7Li \\to 2\\,{}_2^4He$$$\nenergy of proton must be",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 104,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 104,
-      "question_text": "The resistance of bulb filmanet is $$100\\Omega $$ at a temperature of $${100^ \\circ }C.$$ If its temperature coefficient of resistance be $$0.005$$ per $$^ \\circ C$$, its resistance will become $$200\\,\\Omega $$ at a temperature of",
       "subject": "Physics",
       "topic": "current-electricity",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The resistance of bulb filmanet is $$100\\Omega $$ at a temperature of $${100^ \\circ }C.$$ If its temperature coefficient of resistance be $$0.005$$ per $$^ \\circ C$$, its resistance will become $$200\\,\\Omega $$ at a temperature of",
+      "question_images": [],
+      "option_texts": {
         "A": "$${300^ \\circ }C$$",
         "B": "$${400^ \\circ }C$$",
         "C": "$${500^ \\circ }C$$",
         "D": "$${200^ \\circ }C$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The resistance of bulb filmanet is $$100\\Omega $$ at a temperature of $${100^ \\circ }C.$$ If its temperature coefficient of resistance be $$0.005$$ per $$^ \\circ C$$, its resistance will become $$200\\,\\Omega $$ at a temperature of",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 105,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 105,
-      "question_text": "If the terminal speed of a sphere of gold (density $$ = 19.5\\,\\,kg/{m^3}$$) is $$0.2$$ $$m/s$$ in a viscous liquid (density $$ = 1.5\\,\\,kg/{m^3}$$, find the terminal speed of a sphere of silver (density $$ = 10.5\\,\\,kg/{m^3}$$) of the same size in the same liquid",
       "subject": "Physics",
       "topic": "properties-of-matter",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the terminal speed of a sphere of gold (density $$ = 19.5\\,\\,kg/{m^3}$$) is $$0.2$$ $$m/s$$ in a viscous liquid (density $$ = 1.5\\,\\,kg/{m^3}$$, find the terminal speed of a sphere of silver (density $$ = 10.5\\,\\,kg/{m^3}$$) of the same size in the same liquid",
+      "question_images": [],
+      "option_texts": {
         "A": "$$0.4$$ $$m/s$$",
         "B": "$$0.133$$ $$m/s$$",
         "C": "$$0.1$$ $$m/s$$",
         "D": "$$0.2$$ $$m/s$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "If the terminal speed of a sphere of gold (density $$ = 19.5\\,\\,kg/{m^3}$$) is $$0.2$$ $$m/s$$ in a viscous liquid (density $$ = 1.5\\,\\,kg/{m^3}$$, find the terminal speed of a sphere of silver (density $$ = 10.5\\,\\,kg/{m^3}$$) of the same size in the same liquid",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 106,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 106,
-      "question_text": "A wire elongates by $$l$$ $$mm$$ when a LOAD $$W$$ is hanged from it. If the wire goes over a pulley and two weights $$W$$ each are hung at the two ends, the elongation of the wire will be (in $$mm$$)",
       "subject": "Physics",
       "topic": "properties-of-matter",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A wire elongates by $$l$$ $$mm$$ when a LOAD $$W$$ is hanged from it. If the wire goes over a pulley and two weights $$W$$ each are hung at the two ends, the elongation of the wire will be (in $$mm$$)",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/VziGeT1LnBSiMcIo3/Qf3l58WRI6PIxnzyG1XLssQb5QbCP/SONBvy8aDyvZpp5uY4Wj2Z/image.svg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$l$$",
         "B": "$$2l$$",
         "C": "zero",
         "D": "$$l/2$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A wire elongates by $$l$$ $$mm$$ when a LOAD $$W$$ is hanged from it. If the wire goes over a pulley and two weights $$W$$ each are hung at the two ends, the elongation of the wire will be (in $$mm$$)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 107,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 107,
-      "question_text": "The work of $$146$$ $$kJ$$ is performed in order to compress one kilo mole of gas adiabatically and in this process the temperature of the gas increases by $${7^ \\circ }C.$$ The gas is $$\\left( {R = 8.3J\\,\\,mo{l^{ - 1}}\\,{K^{ - 1}}} \\right)$$",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The work of $$146$$ $$kJ$$ is performed in order to compress one kilo mole of gas adiabatically and in this process the temperature of the gas increases by $${7^ \\circ }C.$$ The gas is $$\\left( {R = 8.3J\\,\\,mo{l^{ - 1}}\\,{K^{ - 1}}} \\right)$$",
+      "question_images": [],
+      "option_texts": {
         "A": "diatomic",
         "B": "triatomic",
         "C": "a mixture of monoatomic and diatomic",
         "D": "monoatomic"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The work of $$146$$ $$kJ$$ is performed in order to compress one kilo mole of gas adiabatically and in this process the temperature of the gas increases by $${7^ \\circ }C.$$ The gas is $$\\left( {R = 8.3J\\,\\,mo{l^{ - 1}}\\,{K^{ - 1}}} \\right)$$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 108,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 108,
-      "question_text": "Assuming the Sun to be a spherical body of radius $$R$$ at a temperature of $$TK$$, evaluate the total radiant powered incident of Earth at a distance $$r$$ from the Sun\nWhere r0 is the radius of the Earth and $$\\sigma $$ is Stefan's constant.",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Assuming the Sun to be a spherical body of radius $$R$$ at a temperature of $$TK$$, evaluate the total radiant powered incident of Earth at a distance $$r$$ from the Sun\nWhere r0 is the radius of the Earth and $$\\sigma $$ is Stefan's constant.",
+      "question_images": [],
+      "option_texts": {
         "A": "$$4\\pi r_0^2{R^2}\\sigma {{{T^4}} \\over {{r^2}}}$$",
         "B": "$$\\pi r_0^2{R^2}\\sigma {{{T^4}} \\over {{r^2}}}$$",
         "C": "$$r_0^2{R^2}\\sigma {{{T^4}} \\over {4\\pi {r^2}}}$$",
         "D": "$${R^2}\\sigma {{{T^4}} \\over {{r^2}}}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Assuming the Sun to be a spherical body of radius $$R$$ at a temperature of $$TK$$, evaluate the total radiant powered incident of Earth at a distance $$r$$ from the Sun\nWhere r_{0} is the radius of the Earth and $$\\sigma $$ is Stefan's constant.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 109,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 109,
-      "question_text": "Two rigid boxes containing different ideal gases are placed on a table. Box A contains one mole of nitrogen at temperature $${T_0},$$ while Box contains one mole of helium at temperature $$\\left( {{7 \\over 3}} \\right){T_0}.$$ The boxes are then put into thermal contact with each other, and heat flows between them until the gases reach a common final temperature (ignore the heat capacity of boxes). Then, the final temperature of the gases, $${T_f}$$ in terms of $${T_0}$$ is",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two rigid boxes containing different ideal gases are placed on a table. Box A contains one mole of nitrogen at temperature $${T_0},$$ while Box contains one mole of helium at temperature $$\\left( {{7 \\over 3}} \\right){T_0}.$$ The boxes are then put into thermal contact with each other, and heat flows between them until the gases reach a common final temperature (ignore the heat capacity of boxes). Then, the final temperature of the gases, $${T_f}$$ in terms of $${T_0}$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "$${T_f} = {3 \\over 7}{T_0}$$",
         "B": "$${T_f} = {7 \\over 3}{T_0}$$",
         "C": "$${T_f} = {3 \\over 2}{T_0}$$",
         "D": "$${T_f} = {5 \\over 2}{T_0}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Two rigid boxes containing different ideal gases are placed on a table. Box A contains one mole of nitrogen at temperature $${T_0},$$ while Box contains one mole of helium at temperature $$\\left( {{7 \\over 3}} \\right){T_0}.$$ The boxes are then put into thermal contact with each other, and heat flows between them until the gases reach a common final temperature (ignore the heat capacity of boxes). Then, the final temperature of the gases, $${T_f}$$ in terms of $${T_0}$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 110,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 110,
-      "question_text": "A force of $$ - F\\widehat k$$ acts on $$O,$$ the  origin of the coordinate system. The torque about the point $$(1, -1)$$ is",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A force of $$ - F\\widehat k$$ acts on $$O,$$ the  origin of the coordinate system. The torque about the point $$(1, -1)$$ is",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/XmqO0bn20YEAjdSDJ/iEfBTpR5yGD60Zd8eC1FgwxNxhOOT/4gzFOcD81ru5PdYxtDV18Y/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$F\\left( {\\widehat i - \\widehat j} \\right)$$",
         "B": "$$ - F\\left( {\\widehat i + \\widehat j} \\right)$$",
         "C": "$$F\\left( {\\widehat i + \\widehat j} \\right)$$",
         "D": "$$ - F\\left( {\\widehat i - \\widehat j} \\right)$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A force of $$ - F\\widehat k$$ acts on $$O,$$ the  origin of the coordinate system. The torque about the point $$(1, -1)$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 111,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 111,
-      "question_text": "Starting from the origin a body oscillates simple harmonically with a period of $$2$$ $$s.$$ After what time will its kinetic energy be $$75\\% $$ of the total energy?",
       "subject": "Physics",
       "topic": "simple-harmonic-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Starting from the origin a body oscillates simple harmonically with a period of $$2$$ $$s.$$ After what time will its kinetic energy be $$75\\% $$ of the total energy?",
+      "question_images": [],
+      "option_texts": {
         "A": "$${1 \\over 6}s$$",
         "B": "$${1 \\over 4}s$$",
         "C": "$${1 \\over 3}s$$",
         "D": "$${1 \\over 12}s$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Starting from the origin a body oscillates simple harmonically with a period of $$2$$ $$s.$$ After what time will its kinetic energy be $$75\\% $$ of the total energy?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 112,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 112,
-      "question_text": "The maximum velocity of a particle, executing simple harmonic motion with an amplitude $$7$$ $$mm,$$ is $$4.4$$ $$m/s.$$ The period of oscillation is",
       "subject": "Physics",
       "topic": "simple-harmonic-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The maximum velocity of a particle, executing simple harmonic motion with an amplitude $$7$$ $$mm,$$ is $$4.4$$ $$m/s.$$ The period of oscillation is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$0.01$$ $$s$$",
         "B": "$$10$$ $$s$$",
         "C": "$$0.1$$ $$s$$",
         "D": "$$100$$ $$s$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The maximum velocity of a particle, executing simple harmonic motion with an amplitude $$7$$ $$mm,$$ is $$4.4$$ $$m/s.$$ The period of oscillation is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 113,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 113,
-      "question_text": "A string is stretched between fixed points separated by $$75.0$$ $$cm.$$ It is observed to have resonant frequencies of $$420$$ $$Hz$$ and $$315$$ $$Hz$$. There are no other resonant frequencies between these two. Then, the lowest resonant frequency for this string is",
       "subject": "Physics",
       "topic": "waves",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A string is stretched between fixed points separated by $$75.0$$ $$cm.$$ It is observed to have resonant frequencies of $$420$$ $$Hz$$ and $$315$$ $$Hz$$. There are no other resonant frequencies between these two. Then, the lowest resonant frequency for this string is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$105$$ $$Hz$$",
         "B": "$$1.05$$ $$Hz$$",
         "C": "$$1050$$ $$Hz$$",
         "D": "$$10.5$$ $$Hz$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A string is stretched between fixed points separated by $$75.0$$ $$cm.$$ It is observed to have resonant frequencies of $$420$$ $$Hz$$ and $$315$$ $$Hz$$. There are no other resonant frequencies between these two. Then, the lowest resonant frequency for this string is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 114,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 114,
-      "question_text": "An electric dipole is placed at an angle of $${30^ \\circ }$$ to a non-uniform electric field. The dipole will experience",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An electric dipole is placed at an angle of $${30^ \\circ }$$ to a non-uniform electric field. The dipole will experience",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/lSSuraUDM0v2yQv6N/vxj8MNbpFMfDbgUclOxathUPNYfpg/PFyUvUiYaSVEWiGxY485K2/image.svg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "a translation force only in the direction of the field",
         "B": "a translation force only in a direction normal to the direction of the field",
         "C": "a torque as well as a translational force",
         "D": "a torque only"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "An electric dipole is placed at an angle of $${30^ \\circ }$$ to a non-uniform electric field. The dipole will experience",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 115,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 115,
-      "question_text": "Two spherical conductors $$A$$ and $$B$$ of radii $$1$$ $$mm$$ and $$2$$ $$mm$$ are separated by a distance of $$5$$ $$cm$$ and are uniformly charged. If the spheres are connected by a conducting wire then in equilibrium condition, the ratio of the magnitude of the electric fields at the surfaces of spheres $$A$$ and $$B$$ is",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two spherical conductors $$A$$ and $$B$$ of radii $$1$$ $$mm$$ and $$2$$ $$mm$$ are separated by a distance of $$5$$ $$cm$$ and are uniformly charged. If the spheres are connected by a conducting wire then in equilibrium condition, the ratio of the magnitude of the electric fields at the surfaces of spheres $$A$$ and $$B$$ is",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/2qqwh79Y5h5q9NopZ/1vI8hKGGYyCiulbpOnRC08WUqHPpq/fZdPzlNUDsRJgcOxBYvLjq/image.svg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$4:1$$",
         "B": "$$1:2$$",
         "C": "$$2:1$$",
         "D": "$$1:4$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Two spherical conductors $$A$$ and $$B$$ of radii $$1$$ $$mm$$ and $$2$$ $$mm$$ are separated by a distance of $$5$$ $$cm$$ and are uniformly charged. If the spheres are connected by a conducting wire then in equilibrium condition, the ratio of the magnitude of the electric fields at the surfaces of spheres $$A$$ and $$B$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 116,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 116,
-      "question_text": "Two insulating plates are both uniformly charged in such a way that the potential difference between them is $${V_2} - {V_1} = 20\\,V.$$ (i.e., plate $$2$$ is at a higher potential). The plates are separated by $$d=0.1$$ $$m$$ and can be treated as infinitely large. An electron is released from rest on the inner surface of plate $$1.$$ What is its speed when it hits plate $$2$$? \n\n$$\\left( {e = 1.6 \\times {{10}^{ - 19}}\\,C,\\,\\,{m_e} = 9.11 \\times {{10}^{ - 31}}\\,kg} \\right)$$",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two insulating plates are both uniformly charged in such a way that the potential difference between them is $${V_2} - {V_1} = 20\\,V.$$ (i.e., plate $$2$$ is at a higher potential). The plates are separated by $$d=0.1$$ $$m$$ and can be treated as infinitely large. An electron is released from rest on the inner surface of plate $$1.$$ What is its speed when it hits plate $$2$$? \n\n$$\\left( {e = 1.6 \\times {{10}^{ - 19}}\\,C,\\,\\,{m_e} = 9.11 \\times {{10}^{ - 31}}\\,kg} \\right)$$",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/zdfoYIgzm6lKEuPaI/AHFTiIdVmQVRHWZx8cPxCPyBAfxUg/LNOnyfCiz6XQe7eUAQtRBS/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$2.65 \\times {10^6}\\,m/s$$",
         "B": "$$7.02 \\times {10^{12}}\\,m/s$$",
         "C": "$$1.87 \\times {10^6}\\,m/s$$",
         "D": "$$32 \\times {10^{ - 19}}\\,m/s$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Two insulating plates are both uniformly charged in such a way that the potential difference between them is $${V_2} - {V_1} = 20\\,V.$$ (i.e., plate $$2$$ is at a higher potential). The plates are separated by $$d=0.1$$ $$m$$ and can be treated as infinitely large. An electron is released from rest on the inner surface of plate $$1.$$ What is its speed when it hits plate $$2$$? \n$$\\left( {e = 1.6 \\times {{10}^{ - 19}}\\,C,\\,\\,{m_e} = 9.11 \\times {{10}^{ - 31}}\\,kg} \\right)$$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 117,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 117,
-      "question_text": "A thermocouple is made from two metals, Antimony and Bismuth. If one junction of the couple is kept hot and the other is kept cold, then, an electric current will",
       "subject": "Physics",
       "topic": "current-electricity",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A thermocouple is made from two metals, Antimony and Bismuth. If one junction of the couple is kept hot and the other is kept cold, then, an electric current will",
+      "question_images": [],
+      "option_texts": {
         "A": "flow from Antimony to Bismuth at the hot junction",
         "B": "flow from Bismuth to Antimony at the cold junction",
         "C": "now flow through the thermocouple",
         "D": "flow from Antimony to Bismuth at the cold junction"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "A thermocouple is made from two metals, Antimony and Bismuth. If one junction of the couple is kept hot and the other is kept cold, then, an electric current will",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 118,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 118,
-      "question_text": "An electric bulb is rated $$220$$ volt - $$100$$ watt. The power consumed by it when operated on $$110$$ volt will be",
       "subject": "Physics",
       "topic": "current-electricity",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An electric bulb is rated $$220$$ volt - $$100$$ watt. The power consumed by it when operated on $$110$$ volt will be",
+      "question_images": [],
+      "option_texts": {
         "A": "$$75$$ watt",
         "B": "$$40$$ watt",
         "C": "$$25$$ Watt",
         "D": "$$50$$ Watt"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "An electric bulb is rated $$220$$ volt - $$100$$ watt. The power consumed by it when operated on $$110$$ volt will be",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 119,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 119,
-      "question_text": "In a Wheatstone's bridge, three resistance $$P, Q$$ and $$R$$ connected in the three arms and the fourth arm is formed by two resistances $${S_1}$$ and $${S_2}$$ connected in parallel. The condition for the bridge to be balanced will be",
       "subject": "Physics",
       "topic": "current-electricity",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In a Wheatstone's bridge, three resistance $$P, Q$$ and $$R$$ connected in the three arms and the fourth arm is formed by two resistances $${S_1}$$ and $${S_2}$$ connected in parallel. The condition for the bridge to be balanced will be",
+      "question_images": [],
+      "option_texts": {
         "A": "$${P \\over Q} = {{2R} \\over {{S_1} + {S_2}}}$$",
         "B": "$${P \\over Q} = {{R\\left( {{S_1} + {S_2}} \\right)} \\over {{S_1}{S_2}}}$$",
         "C": "$${P \\over Q} = {{R\\left( {{S_1} + {S_2}} \\right)} \\over {2{S_1}{S_2}}}$$",
         "D": "$${P \\over Q} = {R \\over {{S_1} + {S_2}}}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "In a Wheatstone's bridge, three resistance $$P, Q$$ and $$R$$ connected in the three arms and the fourth arm is formed by two resistances $${S_1}$$ and $${S_2}$$ connected in parallel. The condition for the bridge to be balanced will be",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 120,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 120,
-      "question_text": "The current $${\\rm I}$$ drawn from the $$5$$ volt source will be",
       "subject": "Physics",
       "topic": "current-electricity",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The current $${\\rm I}$$ drawn from the $$5$$ volt source will be",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/EKIhdFmLvN7kf9UMJ/vzln6Z7pFMIQfzffgNs8HEULPphZZ/8eBRckqleEdkegp8k4uu8n/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/u0grPX1JblmtziFul/zO02ieOHwrqVvktIOF5I7UvzdhDu0/dOIrz8ZY9JjmNZNTdEO9xm/image.svg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$0.33$$ $$A$$",
         "B": "$$0.5$$ $$A$$",
         "C": "$$0.67$$ $$A$$",
         "D": "$$0.17$$ $$A$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The current $${\\rm I}$$ drawn from the $$5$$ volt source will be",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 121,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 121,
-      "question_text": "A thin circular ring of mass $$m$$ and radius $$R$$ is rotating about its axis with a constant angular velocity $$\\omega $$. Two objects each of mass $$M$$ are attached gently to the opposite ends of a diameter of the ring. The ring now rotates with an angular velocity $$\\omega ' = $$",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A thin circular ring of mass $$m$$ and radius $$R$$ is rotating about its axis with a constant angular velocity $$\\omega $$. Two objects each of mass $$M$$ are attached gently to the opposite ends of a diameter of the ring. The ring now rotates with an angular velocity $$\\omega ' = $$",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{\\omega \\left( {m + 2M} \\right)} \\over m}$$",
         "B": "$${{\\omega \\left( {m - 2M} \\right)} \\over {\\left( {m + 2M} \\right)}}$$",
         "C": "$${{\\omega m} \\over {\\left( {m + M} \\right)}}$$",
         "D": "$${{\\omega m} \\over {\\left( {m + 2M} \\right)}}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "A thin circular ring of mass $$m$$ and radius $$R$$ is rotating about its axis with a constant angular velocity $$\\omega $$. Two objects each of mass $$M$$ are attached gently to the opposite ends of a diameter of the ring. The ring now rotates with an angular velocity $$\\omega ' = $$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 122,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 122,
-      "question_text": "A particle located at x = 0 at time t = 0, starts moving along the positive x-direction with a velocity\n'v' that varies as $$v = \\alpha \\sqrt x $$. The displacement of the particle varies with time as",
       "subject": "Physics",
       "topic": "motion-in-a-straight-line",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A particle located at x = 0 at time t = 0, starts moving along the positive x-direction with a velocity\n'v' that varies as $$v = \\alpha \\sqrt x $$. The displacement of the particle varies with time as",
+      "question_images": [],
+      "option_texts": {
         "A": "t^{2}",
         "B": "t",
         "C": "t^{1/2}",
         "D": "t^{3}"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A particle located at x = 0 at time t = 0, starts moving along the positive x-direction with a velocity\n'v' that varies as $$v = \\alpha \\sqrt x $$. The displacement of the particle varies with time as",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 123,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 123,
-      "question_text": "A mass of $$M$$ $$kg$$ is suspended by a weightless string. The horizontal force that is required to displace it until the string makes an angle of $${45^ \\circ }$$ with the initial vertical direction is",
       "subject": "Physics",
       "topic": "work-power-and-energy",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A mass of $$M$$ $$kg$$ is suspended by a weightless string. The horizontal force that is required to displace it until the string makes an angle of $${45^ \\circ }$$ with the initial vertical direction is",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/GJE1bpFt8OqeL1wYR/655wofzO7pEdvBG3YMIR9IsXvSstW/q5xzKVLPJ2RkcDAdixoSFo/image.svg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$Mg\\left( {\\sqrt 2  + 1} \\right)$$",
         "B": "$$Mg\\sqrt 2 $$",
         "C": "$${{Mg} \\over {\\sqrt 2 }}$$",
         "D": "$$Mg\\left( {\\sqrt 2  - 1} \\right)$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "A mass of $$M$$ $$kg$$ is suspended by a weightless string. The horizontal force that is required to displace it until the string makes an angle of $${45^ \\circ }$$ with the initial vertical direction is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 124,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 124,
-      "question_text": "A ball of mass $$0.2$$ $$kg$$ is thrown vertically upwards by applying a force by hand. If the hand moves $$0.2$$ $$m$$ while applying the force and the ball goes upto $$2$$ $$m$$ height further, find the magnitude of the force. (consider $$g = 10\\,m/{s^2}$$).",
       "subject": "Physics",
       "topic": "work-power-and-energy",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A ball of mass $$0.2$$ $$kg$$ is thrown vertically upwards by applying a force by hand. If the hand moves $$0.2$$ $$m$$ while applying the force and the ball goes upto $$2$$ $$m$$ height further, find the magnitude of the force. (consider $$g = 10\\,m/{s^2}$$).",
+      "question_images": [],
+      "option_texts": {
         "A": "$$4N$$",
         "B": "$$16$$ $$N$$",
         "C": "$$20$$ $$N$$",
         "D": "$$22$$ $$N$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "A ball of mass $$0.2$$ $$kg$$ is thrown vertically upwards by applying a force by hand. If the hand moves $$0.2$$ $$m$$ while applying the force and the ball goes upto $$2$$ $$m$$ height further, find the magnitude of the force. (consider $$g = 10\\,m/{s^2}$$).",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 125,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 125,
-      "question_text": "A coin is placed on a horizontal platform which undergoes vertical simple harmonic motoin of angular frequency $$\\omega .$$ The amplitude of oscillation is gradually increased. The coin will leave contact with the platform for the first time",
       "subject": "Physics",
       "topic": "simple-harmonic-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A coin is placed on a horizontal platform which undergoes vertical simple harmonic motoin of angular frequency $$\\omega .$$ The amplitude of oscillation is gradually increased. The coin will leave contact with the platform for the first time",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/Zb4ajf7bKuWUrM5hu/qptedzBVPpk02TsuAEokb6WBDmF4D/VLPnPxMehKFmQhcJfCMZoN/image.svg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "at the mean position of the platform",
         "B": "for an amplitude of $${g \\over {{\\omega ^2}}}$$",
         "C": "For an amplitude of $${{{g^2}} \\over {{\\omega ^2}}}$$",
         "D": "at the height position of the platform"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A coin is placed on a horizontal platform which undergoes vertical simple harmonic motoin of angular frequency $$\\omega .$$ The amplitude of oscillation is gradually increased. The coin will leave contact with the platform for the first time",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 126,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 126,
-      "question_text": "A player caught a cricket ball of mass $$150$$ $$g$$ moving at a rate of $$20$$ $$m/s.$$  If the catching process is completed in $$0.1s,$$ the force of the blow exerted by the ball on the hand of the player is equal to",
       "subject": "Physics",
       "topic": "center-of-mass",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A player caught a cricket ball of mass $$150$$ $$g$$ moving at a rate of $$20$$ $$m/s.$$  If the catching process is completed in $$0.1s,$$ the force of the blow exerted by the ball on the hand of the player is equal to",
+      "question_images": [],
+      "option_texts": {
         "A": "$$150$$ $$N$$",
         "B": "$$3$$ $$N$$",
         "C": "$$30$$ $$N$$",
         "D": "$$300$$ $$N$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A player caught a cricket ball of mass $$150$$ $$g$$ moving at a rate of $$20$$ $$m/s.$$  If the catching process is completed in $$0.1s,$$ the force of the blow exerted by the ball on the hand of the player is equal to",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 127,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 127,
-      "question_text": "A particle of mass $$100g$$ is thrown vertically upwards with a speed of $$5$$ $$m/s$$. The work done by the force of gravity during the time the particle goes up is",
       "subject": "Physics",
       "topic": "work-power-and-energy",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A particle of mass $$100g$$ is thrown vertically upwards with a speed of $$5$$ $$m/s$$. The work done by the force of gravity during the time the particle goes up is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$-0.5J$$",
         "B": "$$-1.25J$$",
         "C": "$$1.25J$$",
         "D": "$$0.5J$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A particle of mass $$100g$$ is thrown vertically upwards with a speed of $$5$$ $$m/s$$. The work done by the force of gravity during the time the particle goes up is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 128,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 128,
-      "question_text": "The potential energy of a $$1$$ $$kg$$ particle free to move along the $$x$$-axis is given by $$V\\left( x \\right) = \\left( {{{{x^4}} \\over 4} - {{{x^2}} \\over 2}} \\right)J$$.\nThe total mechanical energy of the particle is $$2J.$$ Then, the maximum speed (in $$m/s$$) is",
       "subject": "Physics",
       "topic": "work-power-and-energy",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The potential energy of a $$1$$ $$kg$$ particle free to move along the $$x$$-axis is given by $$V\\left( x \\right) = \\left( {{{{x^4}} \\over 4} - {{{x^2}} \\over 2}} \\right)J$$.\nThe total mechanical energy of the particle is $$2J.$$ Then, the maximum speed (in $$m/s$$) is",
+      "question_images": [],
+      "option_texts": {
         "A": "$${3 \\over {\\sqrt 2 }}$$",
         "B": "$${\\sqrt 2 }$$",
         "C": "$${1 \\over {\\sqrt 2 }}$$",
         "D": "$$2$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The potential energy of a $$1$$ $$kg$$ particle free to move along the $$x$$-axis is given by $$V\\left( x \\right) = \\left( {{{{x^4}} \\over 4} - {{{x^2}} \\over 2}} \\right)J$$.\nThe total mechanical energy of the particle is $$2J.$$ Then, the maximum speed (in $$m/s$$) is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 129,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 129,
-      "question_text": "A bomb of mass $$16kg$$ at rest explodes into two pieces of masses $$4$$ $$kg$$ and $$12$$ $$kg.$$ The velocity of the $$12$$ $$kg$$ mass is $$4\\,\\,m{s^{ - 1}}.$$ The kinetic energy of the other mass is",
       "subject": "Physics",
       "topic": "center-of-mass",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A bomb of mass $$16kg$$ at rest explodes into two pieces of masses $$4$$ $$kg$$ and $$12$$ $$kg.$$ The velocity of the $$12$$ $$kg$$ mass is $$4\\,\\,m{s^{ - 1}}.$$ The kinetic energy of the other mass is",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/3T7YjPhEZDsqaIC1J/y2vNdG9oZcJCnYzyzEJWNr8riMB2X/v3D5rnZX3TA0kk8ruDjhrU/image.svg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$144$$ $$J$$",
         "B": "$$288$$ $$J$$",
         "C": "$$192$$ $$J$$",
         "D": "$$96$$ $$J$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A bomb of mass $$16kg$$ at rest explodes into two pieces of masses $$4$$ $$kg$$ and $$12$$ $$kg.$$ The velocity of the $$12$$ $$kg$$ mass is $$4\\,\\,m{s^{ - 1}}.$$ The kinetic energy of the other mass is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 130,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 130,
-      "question_text": "Consider a two particle system with particles having masses $${m_1}$$ and $${m_2}$$. If the first particle is pushed towards the center of mass through a distance $$d,$$ by what distance should the second particle is moved, so as to keep the center of mass at the same position?",
       "subject": "Physics",
       "topic": "center-of-mass",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider a two particle system with particles having masses $${m_1}$$ and $${m_2}$$. If the first particle is pushed towards the center of mass through a distance $$d,$$ by what distance should the second particle is moved, so as to keep the center of mass at the same position?",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/MmP0ascyNLHCptltH/PafY176kaTqUDIfLmTGROM52Rc6tA/jYuZQjt2765EWW34bkSVE4/image.svg",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/9mRJx7aB3C3rREVer/VXFbPJbWmlst6Cr2LHEByZ7U0Efqc/Gp12fn5zdZF60SjvFTzzC4/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{{m_2}} \\over {{m_1}}}\\,\\,d$$",
         "B": "$${{{m_1}} \\over {{m_1} + {m_2}}}d$$",
         "C": "$${{{m_1}} \\over {{m_2}}}d$$",
         "D": "$$d$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Consider a two particle system with particles having masses $${m_1}$$ and $${m_2}$$. If the first particle is pushed towards the center of mass through a distance $$d,$$ by what distance should the second particle is moved, so as to keep the center of mass at the same position?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 131,
       "year": 2006,
       "exam_type": "AIEEE",
       "shift": 1,
-      "question_number": 131,
-      "question_text": "Four point masses, each of value $$m,$$ are placed at the corners of a square $$ABCD$$ of side $$l$$. The moment of inertia of this system about an axis passing through $$A$$ and parallel to $$BD$$  is",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Four point masses, each of value $$m,$$ are placed at the corners of a square $$ABCD$$ of side $$l$$. The moment of inertia of this system about an axis passing through $$A$$ and parallel to $$BD$$  is",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/rJrxDJDcPXsZ9UyA4/xKnXvCnpOzApdDdfwLnrUIrUGiNAR/W2S6G4kcS8tQsm762ANSeq/image.svg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$2m{l^2}$$",
         "B": "$$\\sqrt 3 m{l^2}$$",
         "C": "$$3m{l^2}$$",
         "D": "$$m{l^2}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Four point masses, each of value $$m,$$ are placed at the corners of a square $$ABCD$$ of side $$l$$. The moment of inertia of this system about an axis passing through $$A$$ and parallel to $$BD$$  is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     }
   ]
 }

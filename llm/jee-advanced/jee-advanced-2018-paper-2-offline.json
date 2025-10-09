@@ -8,1180 +8,1492 @@
   },
   "questions": [
     {
+      "question_number": 1,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 1,
-      "question_text": "Galena (an ore) is partially oxidized by passing air through it at high temperature. After some time, the passage of air is stopped, but the heating is continued in a closed furnace such that the contents undergo self-reduction. The weight (in kg) of $$Pb$$ produced per kg of $${O_2}$$  consumed is ___________.\n\n\n(Atomic weights in $$g\\,mo{l^{ - 1}}:O = 16,S = 32,Pb = 207$$)",
       "subject": "Chemistry",
       "topic": "isolation-of-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Galena (an ore) is partially oxidized by passing air through it at high temperature. After some time, the passage of air is stopped, but the heating is continued in a closed furnace such that the contents undergo self-reduction. The weight (in kg) of $$Pb$$ produced per kg of $${O_2}$$  consumed is ___________.\n\n\n(Atomic weights in $$g\\,mo{l^{ - 1}}:O = 16,S = 32,Pb = 207$$)",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Galena (an ore) is partially oxidized by passing air through it at high temperature. After some time, the passage of air is stopped, but the heating is continued in a closed furnace such that the contents undergo self-reduction. The weight (in kg) of $$Pb$$ produced per kg of $${O_2}$$  consumed is ___________.\n(Atomic weights in $$g\\,mo{l^{ - 1}}:O = 16,S = 32,Pb = 207$$)",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 2,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 2,
-      "question_text": "The Fischer presentation of $$D$$-glucose is given below.\n\n\n \n\nThe correct structure(s) of $$\\beta $$-$$L$$-glucopyranose is (are) :",
       "subject": "Chemistry",
       "topic": "biomolecules",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The Fischer presentation of $$D$$-glucose is given below.\n\n\n \n\nThe correct structure(s) of $$\\beta $$-$$L$$-glucopyranose is (are) :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/HEYhV18nlA6rMb8qD/yVYwGIlC82URhja8uURNHIZNTP8Zt/4YSfzpGHLqh7q5xCBesM80/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhyeik05/ab61c10b-906e-45e1-a299-f7b05fe06d0f/b54dff50-f860-11ed-a585-812e165f6969/file-1lhyeik06.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhyej3qs/044ef557-754b-45c6-95ad-09ddb9d73398/c48da740-f860-11ed-a585-812e165f6969/file-1lhyej3qt.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/Kw1DEp0UCnkCetHfD/XmteIdrKeki3oukCgxnr9kziN2TLu/cNBVMjBWxW3H5k1uOLxcPb/image.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/imagex_cdn_examgoal_net/msh8Ad4gRh4nPAu2F/FcKg1ZLmDfUp6RNAXyt0Ui6Y0fCMQ/aj3fixRtuun45T5AY0Wt5u/image.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/WTrWLENFGG64OqxZX/nULWlIth43Wbsue8WhiGNx6TxjE2p/wZygr8TfNCSUAtAo0rhjKl/image.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/Q7W5xWOsGJmGgLsM4/HTTzGEsZiDR4H9TilFrax81SL2qSG/3Pa8k2HqZ9mp9IN3UZJSCS/image.png",
+          "description": ""
+        }
+      },
       "correct_answer": "D",
-      "question": "The Fischer presentation of $$D$$-glucose is given below.\n \nThe correct structure(s) of $$\\beta $$-$$L$$-glucopyranose is (are) :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 3,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 3,
-      "question_text": "The correct option(s) to distinguish nitrate salts of $$M{n^{2 + }}$$ and $$C{u^{2 + }}$$ taken separately is (are)",
       "subject": "Chemistry",
       "topic": "d-and-f-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The correct option(s) to distinguish nitrate salts of $$M{n^{2 + }}$$ and $$C{u^{2 + }}$$ taken separately is (are)",
+      "question_images": [],
+      "option_texts": {
         "A": "$$M{n^{2 + }}$$ shows the characteristic green color in the flame test",
         "B": "Only $$C{u^{2 + }}$$ shows the formation of precipitate by passing $${H_2}S$$  in acidic medium",
         "C": "Only $$M{n^{2 + }}$$  shows the formation of precipitate by passing $${H_2}S$$  in faintly basic medium",
         "D": "$$C{u^{2 + }}/Cu$$  has higher reduction potential than $$M{n^{2 + }}/Mn$$ (measured under similar conditions)"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The correct option(s) to distinguish nitrate salts of $$M{n^{2 + }}$$ and $$C{u^{2 + }}$$ taken separately is (are)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 4,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 4,
-      "question_text": "The total number of compounds having at least one bridging oxo group among the molecules given below is _________. \n\n\n$${N_2}{O_3},{N_2}{O_5},$$ $${P_4}{O_6},{P_4}{O_7},$$ $${H_4}{P_2}{O_5},{H_5}{P_3}{O_{10}},$$ $${H_2}{S_2}{O_3},{H_2}{S_2}{O_5}$$",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The total number of compounds having at least one bridging oxo group among the molecules given below is _________. \n\n\n$${N_2}{O_3},{N_2}{O_5},$$ $${P_4}{O_6},{P_4}{O_7},$$ $${H_4}{P_2}{O_5},{H_5}{P_3}{O_{10}},$$ $${H_2}{S_2}{O_3},{H_2}{S_2}{O_5}$$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kz5qxcg2/6cadf172-fa85-47f5-b32e-576ecce28a1b/9e800220-8442-11ec-8bab-b14f78dd1244/file-1kz5qxcg3.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kz5qy5to/ec2307c1-7f84-42ed-a8cf-664e2f7ad56d/b531a3c0-8442-11ec-895a-013b39bd8d57/file-1kz5qy5tp.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kz5qytt2/acf7b2c6-27b1-47e1-a8f2-372309af79c1/c7b86060-8442-11ec-895a-013b39bd8d57/file-1kz5qytt3.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kz5qzpaa/68e14c44-0311-471e-8e3b-5e040513bab6/e0095a20-8442-11ec-895a-013b39bd8d57/file-1kz5qzpab.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kz5r23g0/4038ec0e-7863-4352-8d12-618c457f66fa/22979f00-8443-11ec-895a-013b39bd8d57/file-1kz5r23g1.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kz5r33n8/6e1f6548-1e65-41ab-82cf-67a4829536a6/3e8e6f40-8443-11ec-895a-013b39bd8d57/file-1kz5r33n9.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kz5r58wk/b1c772dd-833b-4662-8644-02eb27cf20cf/7a3cc140-8443-11ec-895a-013b39bd8d57/file-1kz5r58wl.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kz5r6z2q/a305b753-6dfb-4308-b693-f842ee5432bf/aa435f20-8443-11ec-895a-013b39bd8d57/file-1kz5r6z2r.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The total number of compounds having at least one bridging oxo group among the molecules given below is _________. \n$${N_2}{O_3},{N_2}{O_5},$$ $${P_4}{O_6},{P_4}{O_7},$$ $${H_4}{P_2}{O_5},{H_5}{P_3}{O_{10}},$$ $${H_2}{S_2}{O_3},{H_2}{S_2}{O_5}$$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 5,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 5,
-      "question_text": "The correct option(s) regarding the complex \n\n\n$${\\left[ {Co\\left( {en} \\right){{\\left( {N{H_3}} \\right)}_3}\\left( {{H_2}O} \\right)} \\right]^{3 + }}\\,\\,$$ $$\\left( {en = {H_2}NC{H_2}C{H_2}N{H_2}} \\right)$$ is (are)",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The correct option(s) regarding the complex \n\n\n$${\\left[ {Co\\left( {en} \\right){{\\left( {N{H_3}} \\right)}_3}\\left( {{H_2}O} \\right)} \\right]^{3 + }}\\,\\,$$ $$\\left( {en = {H_2}NC{H_2}C{H_2}N{H_2}} \\right)$$ is (are)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kywp3axv/f70ef7a4-c0a1-40a3-b43a-d713b8eeffb7/6416c730-7f48-11ec-9a1e-9f87431102fd/file-1kywp3axw.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kywp3tn0/fdd95d4e-3427-4021-b888-fdc13b86e5af/728870c0-7f48-11ec-9a1e-9f87431102fd/file-1kywp3tn1.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "It has two geometrical isomers",
         "B": "It will have three geometrical isomers if bidentate 'en' is replaced by two cyanide ligands",
         "C": "It is paramagnetic",
         "D": "It absorbs light at longer wavelength as compared to \n$${\\left[ {Co\\left( {en} \\right){{\\left( {N{H_3}} \\right)}_4}} \\right]^{3 + }}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The correct option(s) regarding the complex \n$${\\left[ {Co\\left( {en} \\right){{\\left( {N{H_3}} \\right)}_3}\\left( {{H_2}O} \\right)} \\right]^{3 + }}\\,\\,$$ $$\\left( {en = {H_2}NC{H_2}C{H_2}N{H_2}} \\right)$$ is (are)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 6,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 6,
-      "question_text": "To measure the quantity of $$MnC{l_2}$$ dissolved in an aqueous solution, it was completely converted to $$KMn{O_4}$$  using the reaction, \n\n\n$$MnC{l_2} + {K_2}{S_2}{O_8} + {H_2}O \\to KMn{O_4} + {H_2}S{O_4} + HCl$$ (equation not balanced).  \n\n\nFew drops of concentrated $$HCl$$ were added to this solution and gently warmed. Further, oxalic acid  ($$225$$ $$mg$$) was added in portions till the colour of  the permanganate ion disappeared. The quantity of $$MnC{l_2}$$ (in mg) present in the initial solution is ____________. \n\n\n(Atomic weights in $$g\\,\\,mo{l^{ - 1}}:Mn = 55,Cl = 35.5$$ )",
       "subject": "Chemistry",
       "topic": "some-basic-concepts-of-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "To measure the quantity of $$MnC{l_2}$$ dissolved in an aqueous solution, it was completely converted to $$KMn{O_4}$$  using the reaction, \n\n\n$$MnC{l_2} + {K_2}{S_2}{O_8} + {H_2}O \\to KMn{O_4} + {H_2}S{O_4} + HCl$$ (equation not balanced).  \n\n\nFew drops of concentrated $$HCl$$ were added to this solution and gently warmed. Further, oxalic acid  ($$225$$ $$mg$$) was added in portions till the colour of  the permanganate ion disappeared. The quantity of $$MnC{l_2}$$ (in mg) present in the initial solution is ____________. \n\n\n(Atomic weights in $$g\\,\\,mo{l^{ - 1}}:Mn = 55,Cl = 35.5$$ )",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kz5rfkk1/aea89682-0c33-4d06-8348-dc3a8ef5d325/99546410-8444-11ec-895a-013b39bd8d57/file-1kz5rfkk2.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "To measure the quantity of $$MnC{l_2}$$ dissolved in an aqueous solution, it was completely converted to $$KMn{O_4}$$  using the reaction, \n$$MnC{l_2} + {K_2}{S_2}{O_8} + {H_2}O \\to KMn{O_4} + {H_2}S{O_4} + HCl$$ (equation not balanced).  \nFew drops of concentrated $$HCl$$ were added to this solution and gently warmed. Further, oxalic acid  ($$225$$ $$mg$$) was added in portions till the colour of  the permanganate ion disappeared. The quantity of $$MnC{l_2}$$ (in mg) present in the initial solution is ____________. \n(Atomic weights in $$g\\,\\,mo{l^{ - 1}}:Mn = 55,Cl = 35.5$$ )",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 7,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 7,
-      "question_text": "Aniline reacts with mixed acid (conc. $$HN{O_3}$$ and conc. $${H_2}S{O_4}$$) at $$288$$ $$K$$ to give P $$\\left( {51\\% } \\right),$$ Q $$\\left( {47\\% } \\right)$$ and R $$\\left( {2\\% } \\right).$$ The major product(s) of the following reaction sequence is (are)",
       "subject": "Chemistry",
       "topic": "compounds-containing-nitrogen",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Aniline reacts with mixed acid (conc. $$HN{O_3}$$ and conc. $${H_2}S{O_4}$$) at $$288$$ $$K$$ to give P $$\\left( {51\\% } \\right),$$ Q $$\\left( {47\\% } \\right)$$ and R $$\\left( {2\\% } \\right).$$ The major product(s) of the following reaction sequence is (are)",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/ktxi87VK5HdbsQ0Cm/RDEHkM91fVlj3UWnDVawiDNQVaN8i/jHx7uVkqYkbB6qzz2ARAEk/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kz5hacuh/bf412a4a-5108-4a5c-8e29-b6159f4fcb2b/ed096790-841c-11ec-a1bf-6bb24fc27666/file-1kz5hacui.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kz5hdhh4/23343562-fa4e-4525-a83e-3f368adb07ed/440a3380-841d-11ec-a1bf-6bb24fc27666/file-1kz5hdhh5.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kz5hg5ef/3c2e6928-2d37-41d3-a5c1-d9fa80ee9310/8e23c670-841d-11ec-af78-f554b88ae964/file-1kz5hg5eg.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kz5hibbh/7e774aef-d31e-4510-86dc-ac0a9191c2ff/ca5467d0-841d-11ec-a1bf-6bb24fc27666/file-1kz5hibbi.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kz5hl06b/4b84b014-1a64-4172-baa9-23cbaf95aa67/15262730-841e-11ec-a1bf-6bb24fc27666/file-1kz5hl06c.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/hVf0cr3gKrdQ70KIB/WcGTwFocVHR4SKwhUaiAxoOnMbjoa/e0mnoQdrpIPUUZ3YJedVGu/image.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/imagex_cdn_examgoal_net/d1MKUXlcvJbeeMWWj/M8q8JnOgdK0rr4ykB75yTLFEQkJTF/ZgJnKI0CbuivxJIrqA2FX5/image.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/KiAcEnXgvdJA0kNmL/gcOufReurpLJXOeevhtorM1bFG3at/mVoPrKLoKlr7we3rZFUGwF/image.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/yxniPkTTds3hGaSjE/6gYJRHJDwkPGBTTHZbKBWaC7wbM00/Jx9WYWZqaCLKonFoBrEHR6/image.png",
+          "description": ""
+        }
+      },
       "correct_answer": "D",
-      "question": "Aniline reacts with mixed acid (conc. $$HN{O_3}$$ and conc. $${H_2}S{O_4}$$) at $$288$$ $$K$$ to give P $$\\left( {51\\% } \\right),$$ Q $$\\left( {47\\% } \\right)$$ and R $$\\left( {2\\% } \\right).$$ The major product(s) of the following reaction sequence is (are)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 8,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 8,
-      "question_text": "The surface of copper gets tarnished by the formation of copper oxide. $${N_2}$$ gas was passed to prevent the oxide formation during heating of copper at $$1250$$ $$K.$$  However, the $${N_2}$$ gas contains $$1$$ mole % of water vapor as impurity. The water vapor oxidises copper as per the reaction given below : $$2Cu\\left( s \\right) + {H_2}O\\left( g \\right) \\to C{u_2}O\\left( s \\right) + {H_2}\\left( g \\right)$$ \n\n\n$${P_{H2}}$$ is the minimum partial pressure of $${H_2}$$ (in bar) needed to prevent the oxidation at $$1250$$ $$K.$$  The value of $$\\ln \\left( {{P_{H2}}} \\right)$$ is ________. \n\n\nGiven: total pressure $$=1$$ bar, $$R$$ (universal gas constant ) $$=$$ $$8J{K^{ - 1}}\\,\\,mo{l^{ - 1}},$$ $$\\ln \\left( {10} \\right) = 2.3.\\,$$ $$Cu(s)$$ and $$C{u_2}O\\left( s \\right)$$ are naturally immiscible.  \n\n\nAt $$1250$$ $$K:2Cu(s)$$ $$ + {\\raise0.5ex\\hbox{$\\scriptstyle 1$}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 2$}}{O_2}\\left( g \\right) \\to C{u_2}O\\left( s \\right);$$ $$\\Delta {G^ \\circ } =  - 78,000J\\,mo{l^{ - 1}}$$ \n\n\n$${H_2}\\left( g \\right) + {\\raise0.5ex\\hbox{$\\scriptstyle 1$}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 2$}}{O_2}\\left( g \\right) \\to {H_2}O\\left( g \\right);$$ \n\n\n$$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,$$ $$\\Delta {G^ \\circ } =  - 1,78,000J\\,mo{l^{ - 1}};$$  ($$G$$ is the Gibbs energy)",
       "subject": "Chemistry",
       "topic": "thermodynamics",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The surface of copper gets tarnished by the formation of copper oxide. $${N_2}$$ gas was passed to prevent the oxide formation during heating of copper at $$1250$$ $$K.$$  However, the $${N_2}$$ gas contains $$1$$ mole % of water vapor as impurity. The water vapor oxidises copper as per the reaction given below : $$2Cu\\left( s \\right) + {H_2}O\\left( g \\right) \\to C{u_2}O\\left( s \\right) + {H_2}\\left( g \\right)$$ \n\n\n$${P_{H2}}$$ is the minimum partial pressure of $${H_2}$$ (in bar) needed to prevent the oxidation at $$1250$$ $$K.$$  The value of $$\\ln \\left( {{P_{H2}}} \\right)$$ is ________. \n\n\nGiven: total pressure $$=1$$ bar, $$R$$ (universal gas constant ) $$=$$ $$8J{K^{ - 1}}\\,\\,mo{l^{ - 1}},$$ $$\\ln \\left( {10} \\right) = 2.3.\\,$$ $$Cu(s)$$ and $$C{u_2}O\\left( s \\right)$$ are naturally immiscible.  \n\n\nAt $$1250$$ $$K:2Cu(s)$$ $$ + {\\raise0.5ex\\hbox{$\\scriptstyle 1$}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 2$}}{O_2}\\left( g \\right) \\to C{u_2}O\\left( s \\right);$$ $$\\Delta {G^ \\circ } =  - 78,000J\\,mo{l^{ - 1}}$$ \n\n\n$${H_2}\\left( g \\right) + {\\raise0.5ex\\hbox{$\\scriptstyle 1$}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 2$}}{O_2}\\left( g \\right) \\to {H_2}O\\left( g \\right);$$ \n\n\n$$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,$$ $$\\Delta {G^ \\circ } =  - 1,78,000J\\,mo{l^{ - 1}};$$  ($$G$$ is the Gibbs energy)",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The surface of copper gets tarnished by the formation of copper oxide. $${N_2}$$ gas was passed to prevent the oxide formation during heating of copper at $$1250$$ $$K.$$  However, the $${N_2}$$ gas contains $$1$$ mole % of water vapor as impurity. The water vapor oxidises copper as per the reaction given below : $$2Cu\\left( s \\right) + {H_2}O\\left( g \\right) \\to C{u_2}O\\left( s \\right) + {H_2}\\left( g \\right)$$ \n$${P_{H2}}$$ is the minimum partial pressure of $${H_2}$$ (in bar) needed to prevent the oxidation at $$1250$$ $$K.$$  The value of $$\\ln \\left( {{P_{H2}}} \\right)$$ is ________. \nGiven: total pressure $$=1$$ bar, $$R$$ (universal gas constant ) $$=$$ $$8J{K^{ - 1}}\\,\\,mo{l^{ - 1}},$$ $$\\ln \\left( {10} \\right) = 2.3.\\,$$ $$Cu(s)$$ and $$C{u_2}O\\left( s \\right)$$ are naturally immiscible.  \nAt $$1250$$ $$K:2Cu(s)$$ $$ + {\\raise0.5ex\\hbox{$\\scriptstyle 1$}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 2$}}{O_2}\\left( g \\right) \\to C{u_2}O\\left( s \\right);$$ $$\\Delta {G^ \\circ } =  - 78,000J\\,mo{l^{ - 1}}$$ \n$${H_2}\\left( g \\right) + {\\raise0.5ex\\hbox{$\\scriptstyle 1$}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 2$}}{O_2}\\left( g \\right) \\to {H_2}O\\left( g \\right);$$ \n$$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,$$ $$\\Delta {G^ \\circ } =  - 1,78,000J\\,mo{l^{ - 1}};$$  ($$G$$ is the Gibbs energy)",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 9,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 9,
-      "question_text": "For the given compound $$X,$$ the total number of optically active stereoisomers is ____________.",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "For the given compound $$X,$$ the total number of optically active stereoisomers is ____________.",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/Eq1vvgfrpFbVFvxiG/nCfsdcoCPqpvY44bxI1GMWz6zsPaM/dP5821UsvVY6vAK26ml5xS/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kywrdzp0/bd7420b5-4c4a-4e50-92ea-7a1e5fce0782/5f8f7b40-7f51-11ec-9d77-33415bad104c/file-1kywrdzp1.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kz5bu3nn/705d5bf3-711f-4a00-8891-aa4d82f2a5db/9b588530-8407-11ec-9d99-8102f868bb3d/file-1kz5bu3no.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "For the given compound $$X,$$ the total number of optically active stereoisomers is ____________.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 10,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 10,
-      "question_text": "In the following reaction sequence, the amount of $$D$$ (in g) formed from $$10$$ moles of acetophenone is ___________. \n\n\n(Atomic weights in $$g\\,mo{l^{ - 1}}:H = 1,C = 12,$$ $$N = 14,O = 16,$$ $$Br = 80.$$. The yield (%) corresponding to the product in each step is given in the parenthesis)",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "In the following reaction sequence, the amount of $$D$$ (in g) formed from $$10$$ moles of acetophenone is ___________. \n\n\n(Atomic weights in $$g\\,mo{l^{ - 1}}:H = 1,C = 12,$$ $$N = 14,O = 16,$$ $$Br = 80.$$. The yield (%) corresponding to the product in each step is given in the parenthesis)",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/6anHAjqy6TRkI3Kyj/pfGNyI84caLP2p5wvZEyHn7ahRZ6I/Q7jcbdplqJNnnDm5BoO7zk/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kywp4ywk/08ea58eb-feb4-4e68-bfd0-06021daeaaf3/9268d740-7f48-11ec-9a1e-9f87431102fd/file-1kywp4ywl.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "In the following reaction sequence, the amount of $$D$$ (in g) formed from $$10$$ moles of acetophenone is ___________. \n(Atomic weights in $$g\\,mo{l^{ - 1}}:H = 1,C = 12,$$ $$N = 14,O = 16,$$ $$Br = 80.$$. The yield (%) corresponding to the product in each step is given in the parenthesis)",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 11,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 11,
-      "question_text": "For a first order reaction $$A\\left( g \\right) \\to 2B\\left( g \\right) + C\\left( g \\right)$$ at constant volume and $$300K,$$ the total pressure at the beginning $$(t=0)$$ and at time $$t$$ are $${P_0}$$ and $${P_1},$$ respectively. Initially, only $$A$$ is present with concentration $${\\left[ A \\right]_0},$$ and $${t_{1/3}}$$ is the time required for the partial pressure of $$A$$ to reach $$1/{3^{rd}}$$ of its initial value. The correct option(s) is (are) (Assume that all these gases behave as ideal gases)",
       "subject": "Chemistry",
       "topic": "chemical-kinetics-and-nuclear-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "For a first order reaction $$A\\left( g \\right) \\to 2B\\left( g \\right) + C\\left( g \\right)$$ at constant volume and $$300K,$$ the total pressure at the beginning $$(t=0)$$ and at time $$t$$ are $${P_0}$$ and $${P_1},$$ respectively. Initially, only $$A$$ is present with concentration $${\\left[ A \\right]_0},$$ and $${t_{1/3}}$$ is the time required for the partial pressure of $$A$$ to reach $$1/{3^{rd}}$$ of its initial value. The correct option(s) is (are) (Assume that all these gases behave as ideal gases)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhvgh4zx/2efa9c0a-1f2b-4d30-b2dd-78f80b8cdeb5/0636b3d0-f6c2-11ed-81ac-b54226f5f213/file-1lhvgh4zy.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhvgs0vd/461ad0b8-fdda-4ffd-9839-efd75875cc8a/34ed3590-f6c3-11ed-81ac-b54226f5f213/file-1lhvgs0ve.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhvgukf8/a591c374-9956-4f8a-85e4-e95f1df8b6d3/7ba5ea40-f6c3-11ed-81ac-b54226f5f213/file-1lhvgukf9.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhvgxofx/f35314dc-fac9-475a-b046-ea3453d912b8/d22e2ad0-f6c3-11ed-81ac-b54226f5f213/file-1lhvgxofy.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/OD4PVmMyGXkzRZhkx/bhgd2ajxDkYqdq5tTcHwGY0yb03M0/f28lyIleg6ncerVHYk13AV/image.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/imagex_cdn_examgoal_net/iPzUOSdrG8K2S0ui6/2FDFYZKhdBpHQalrRIOXgJ2zd4wst/3p1c8zWZePvrk7e8pLTJSg/image.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/M53O0nmH2hxpl2rBO/MwC6PYOGrAcUN83Qnp41uaqF8u1K0/5j7Yoxk0jwhxEC3AhxXeJw/image.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/jKCWLLzsUHGGQaPQ6/flTNkUwDsk476hSIHpaMUAuvb0cqa/vZpxduD9AjUX9TPPGi1i56/image.png",
+          "description": ""
+        }
+      },
       "correct_answer": "A",
-      "question": "For a first order reaction $$A\\left( g \\right) \\to 2B\\left( g \\right) + C\\left( g \\right)$$ at constant volume and $$300K,$$ the total pressure at the beginning $$(t=0)$$ and at time $$t$$ are $${P_0}$$ and $${P_1},$$ respectively. Initially, only $$A$$ is present with concentration $${\\left[ A \\right]_0},$$ and $${t_{1/3}}$$ is the time required for the partial pressure of $$A$$ to reach $$1/{3^{rd}}$$ of its initial value. The correct option(s) is (are) (Assume that all these gases behave as ideal gases)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 12,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 12,
-      "question_text": "Consider an electrochemical cell : \n\n\n$$A\\left( s \\right)\\left| {{A^{n + }}\\left( {aq,2M} \\right)} \\right|{B^{2n + }}\\left( {aq,1M} \\right)\\left| {B\\left( s \\right).} \\right.$$ \n\n\nThe value of $$\\Delta {H^ \\circ }$$ for the cell reaction is twice that of $$\\Delta {G^ \\circ }$$ at $$300$$ $$K.$$ If the $$emf$$ of the cell is zero, the $$\\Delta {S^ \\circ }$$ (in $$J\\,{K^{ - 1}}mo{l^{ - 1}}$$) of the cell reaction per mole of $$B$$ formed at $$300$$ $$K$$ is ___________.\n\n\n(Given: $$\\ln \\left( 2 \\right) = 0.7,R$$ (universal gas constant) $$ = 8.3J\\,{K^{ - 1}}\\,mo{l^{ - 1}}.$$  $$H,S$$ and $$G$$ are enthalpy, entropy and Gibbs energy, respectively.)",
       "subject": "Chemistry",
       "topic": "electrochemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Consider an electrochemical cell : \n\n\n$$A\\left( s \\right)\\left| {{A^{n + }}\\left( {aq,2M} \\right)} \\right|{B^{2n + }}\\left( {aq,1M} \\right)\\left| {B\\left( s \\right).} \\right.$$ \n\n\nThe value of $$\\Delta {H^ \\circ }$$ for the cell reaction is twice that of $$\\Delta {G^ \\circ }$$ at $$300$$ $$K.$$ If the $$emf$$ of the cell is zero, the $$\\Delta {S^ \\circ }$$ (in $$J\\,{K^{ - 1}}mo{l^{ - 1}}$$) of the cell reaction per mole of $$B$$ formed at $$300$$ $$K$$ is ___________.\n\n\n(Given: $$\\ln \\left( 2 \\right) = 0.7,R$$ (universal gas constant) $$ = 8.3J\\,{K^{ - 1}}\\,mo{l^{ - 1}}.$$  $$H,S$$ and $$G$$ are enthalpy, entropy and Gibbs energy, respectively.)",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Consider an electrochemical cell : \n$$A\\left( s \\right)\\left| {{A^{n + }}\\left( {aq,2M} \\right)} \\right|{B^{2n + }}\\left( {aq,1M} \\right)\\left| {B\\left( s \\right).} \\right.$$ \nThe value of $$\\Delta {H^ \\circ }$$ for the cell reaction is twice that of $$\\Delta {G^ \\circ }$$ at $$300$$ $$K.$$ If the $$emf$$ of the cell is zero, the $$\\Delta {S^ \\circ }$$ (in $$J\\,{K^{ - 1}}mo{l^{ - 1}}$$) of the cell reaction per mole of $$B$$ formed at $$300$$ $$K$$ is ___________.\n(Given: $$\\ln \\left( 2 \\right) = 0.7,R$$ (universal gas constant) $$ = 8.3J\\,{K^{ - 1}}\\,mo{l^{ - 1}}.$$  $$H,S$$ and $$G$$ are enthalpy, entropy and Gibbs energy, respectively.)",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 13,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 13,
-      "question_text": "Consider the following reversible reaction, $$A\\left( g \\right) + B\\left( g \\right) \\to AB\\left( g \\right).$$ \n\n\nThe activation energy of the backward reaction exceeds that of the forward reaction by $$2RT$$  (in $$J\\,mo{l^{ - 1}}$$). If the pre-exponential factor of the forward reaction is $$4$$ times that of the reverse reaction, the absolute value of $$\\Delta {G^ \\circ }$$ (in $$J\\,mo{l^{ - 1}}$$ ) for the reaction at $$300$$ $$K$$ is ____________. \n\n\n(Given; $$\\ln \\left( 2 \\right) = 0.7,RT = 2500$$ $$J\\,mo{l^{ - 1}}$$ at $$300$$ $$K$$ and $$G$$ is the Gibbs energy)",
       "subject": "Chemistry",
       "topic": "chemical-kinetics-and-nuclear-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Consider the following reversible reaction, $$A\\left( g \\right) + B\\left( g \\right) \\to AB\\left( g \\right).$$ \n\n\nThe activation energy of the backward reaction exceeds that of the forward reaction by $$2RT$$  (in $$J\\,mo{l^{ - 1}}$$). If the pre-exponential factor of the forward reaction is $$4$$ times that of the reverse reaction, the absolute value of $$\\Delta {G^ \\circ }$$ (in $$J\\,mo{l^{ - 1}}$$ ) for the reaction at $$300$$ $$K$$ is ____________. \n\n\n(Given; $$\\ln \\left( 2 \\right) = 0.7,RT = 2500$$ $$J\\,mo{l^{ - 1}}$$ at $$300$$ $$K$$ and $$G$$ is the Gibbs energy)",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Consider the following reversible reaction, $$A\\left( g \\right) + B\\left( g \\right) \\to AB\\left( g \\right).$$ \nThe activation energy of the backward reaction exceeds that of the forward reaction by $$2RT$$  (in $$J\\,mo{l^{ - 1}}$$). If the pre-exponential factor of the forward reaction is $$4$$ times that of the reverse reaction, the absolute value of $$\\Delta {G^ \\circ }$$ (in $$J\\,mo{l^{ - 1}}$$ ) for the reaction at $$300$$ $$K$$ is ____________. \n(Given; $$\\ln \\left( 2 \\right) = 0.7,RT = 2500$$ $$J\\,mo{l^{ - 1}}$$ at $$300$$ $$K$$ and $$G$$ is the Gibbs energy)",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 14,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 14,
-      "question_text": "Match each set of hybrid orbitals from LIST - A with complex(es) given in LIST - B\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-yttm{font-weight:bold;font-size:22px;text-align:left}\n.tg .tg-pjk9{font-size:22px;text-align:left}\n\n\n  \n    \n    List - A\n    \n    \n    List - B\n  \n  \n    P.\n    dsp2\n    \n    1.\n    [FeF6]4-\n  \n  \n    Q.\n    sp3\n    \n    2.\n    [Ti(H2O)3Cl3]\n  \n  \n    R.\n    sp3d2\n    \n    3.\n    [Cr(NH3)6]3+\n  \n  \n    S.\n    d2sp3\n    \n    4.\n    [FeCl4]2-\n  \n  \n    \n    \n    \n    5.\n    Ni(CO)4\n  \n  \n    \n    \n    \n    6.\n    [Ni(CN)4]2-\n  \n                        \n\nThe correct option is",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Match each set of hybrid orbitals from LIST - A with complex(es) given in LIST - B\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-yttm{font-weight:bold;font-size:22px;text-align:left}\n.tg .tg-pjk9{font-size:22px;text-align:left}\n\n\n  \n    \n    List - A\n    \n    \n    List - B\n  \n  \n    P.\n    dsp2\n    \n    1.\n    [FeF6]4-\n  \n  \n    Q.\n    sp3\n    \n    2.\n    [Ti(H2O)3Cl3]\n  \n  \n    R.\n    sp3d2\n    \n    3.\n    [Cr(NH3)6]3+\n  \n  \n    S.\n    d2sp3\n    \n    4.\n    [FeCl4]2-\n  \n  \n    \n    \n    \n    5.\n    Ni(CO)4\n  \n  \n    \n    \n    \n    6.\n    [Ni(CN)4]2-\n  \n                        \n\nThe correct option is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhycx4jm/8e44ffbb-8b23-49d6-b369-cbbf76a44117/783de220-f85a-11ed-9ad9-8b56c7a0f358/file-1lhycx4jn.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhycxl8m/cd5ecda8-bbab-4ed1-a479-c8c5e11ba89d/85234660-f85a-11ed-a585-812e165f6969/file-1lhycxl8n.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhyd3wmi/e1aed2c4-8272-4c9b-abed-b6c9cbd9ccb1/34c9b4a0-f85b-11ed-a585-812e165f6969/file-1lhyd3wmj.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhyd7r7m/df47c236-7d34-4f29-9455-7c0461228e62/9fd7b620-f85b-11ed-a585-812e165f6969/file-1lhyd7r7n.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhydc9px/130beae9-0dec-4dad-b647-1659301df47c/1d606650-f85c-11ed-a585-812e165f6969/file-1lhydc9py.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhydj12e/4f6e19d3-de29-45c8-b4b1-fc8f114f07b3/d95b1c60-f85c-11ed-a585-812e165f6969/file-1lhydj12f.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhydnghn/9ee9020d-db4c-418b-9108-9759838dd5da/5481c0b0-f85d-11ed-a585-812e165f6969/file-1lhydngho.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$P - 5;Q - 4,6;R - 2,3;S - 1$$",
         "B": "$$P - 5,6;Q - 4;R - 3;S - 1,2$$",
         "C": "$$P - 6;Q - 4,5;R - 1;S - 2,3$$",
         "D": "$$P - 4,6;Q - 5,6;R - 1,2;S - 3$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Match each set of hybrid orbitals from LIST - A with complex(es) given in LIST - B\n\n.tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-yttm{font-weight:bold;font-size:22px;text-align:left}\n.tg .tg-pjk9{font-size:22px;text-align:left}\n\n\n  \n    \n    List - A\n    \n    \n    List - B\n  \n  \n    P.\n    dsp^{2}\n    \n    1.\n    [FeF_{6}]^{4-}\n  \n  \n    Q.\n    sp^{3}\n    \n    2.\n    [Ti(H_{2}O)_{3}Cl_{3}]\n  \n  \n    R.\n    sp^{3}d^{2}\n    \n    3.\n    [Cr(NH_{3})_{6}]^{3+}\n  \n  \n    S.\n    d^{2}sp^{3}\n    \n    4.\n    [FeCl_{4}]^{2-}\n  \n  \n    \n    \n    \n    5.\n    Ni(CO)_{4}\n  \n  \n    \n    \n    \n    6.\n    [Ni(CN)_{4}]^{2-}\n  \n                        \nThe correct option is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 0.75
+      "negMarks": 0.75,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 15,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 15,
-      "question_text": "Dilution processes of different aqueous solutions, with water, are given in LIST - I. The effects of dilution of the solutions on $$\\left[ {{H^ + }} \\right]$$ are given in LIST - II  \n\n\n(Note: Degree of dissociation (a) of weak acid and weak base is $$<<1;$$ degree of hydrolysis of salt $$<<1;$$ $$\\left[ {{H^ + }} \\right]$$  represents the concentration of $${H^ + }$$  ions)\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-adtk{font-weight:bold;font-size:20px;text-align:left}\n.tg .tg-13k7{font-size:20px;text-align:left}\n\n\n  \n    \n    LIST-I\n    \n    LIST-II\n  \n  \n    P.\n    (10 mL of 0.1 M NaOH + 20 mL of \n0.1 M acetic acid) diluted to 60 mL\n    1.\n    the value of [H+] does not change\non dilution\n  \n  \n    Q.\n    (20 mL of 0.1 M NaOH + 20 mL of\n0.1 M acetic acid) diluted to 80 mL\n    2.\n    the value of [H+] changes to half \nof its initial value on dilution\n  \n  \n    R.\n    (20 mL of 0.1 M HCL + 20 mL of\n0.1 M ammonia solution) diluted to\n80 mL \n    3.\n    the value of [H+] changes to two \ntimes of its initial value on dilution\n  \n  \n    S.\n    10 mL saturated solution of Ni(OH)2\nin equilibrium with excess solid \nNi(OH)2 is diluted to 20 mL (solid \nNi(OH)2 is still present after dilution).\n    4.\n    the value of [H+] changes to $${1 \\over {\\sqrt 2 }}$$\ntimes of its initial value on dilution\n  \n  \n    \n    \n    5.\n    the value of [H+] changes to $$\\sqrt 2 $$ \ntimes of its initial value on dilution\n  \n         \n\n\nMatch each process given in  LIST-I with one or more effect(s) in LIST-II. The correct option is :",
       "subject": "Chemistry",
       "topic": "ionic-equilibrium",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Dilution processes of different aqueous solutions, with water, are given in LIST - I. The effects of dilution of the solutions on $$\\left[ {{H^ + }} \\right]$$ are given in LIST - II  \n\n\n(Note: Degree of dissociation (a) of weak acid and weak base is $$<<1;$$ degree of hydrolysis of salt $$<<1;$$ $$\\left[ {{H^ + }} \\right]$$  represents the concentration of $${H^ + }$$  ions)\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-adtk{font-weight:bold;font-size:20px;text-align:left}\n.tg .tg-13k7{font-size:20px;text-align:left}\n\n\n  \n    \n    LIST-I\n    \n    LIST-II\n  \n  \n    P.\n    (10 mL of 0.1 M NaOH + 20 mL of \n0.1 M acetic acid) diluted to 60 mL\n    1.\n    the value of [H+] does not change\non dilution\n  \n  \n    Q.\n    (20 mL of 0.1 M NaOH + 20 mL of\n0.1 M acetic acid) diluted to 80 mL\n    2.\n    the value of [H+] changes to half \nof its initial value on dilution\n  \n  \n    R.\n    (20 mL of 0.1 M HCL + 20 mL of\n0.1 M ammonia solution) diluted to\n80 mL \n    3.\n    the value of [H+] changes to two \ntimes of its initial value on dilution\n  \n  \n    S.\n    10 mL saturated solution of Ni(OH)2\nin equilibrium with excess solid \nNi(OH)2 is diluted to 20 mL (solid \nNi(OH)2 is still present after dilution).\n    4.\n    the value of [H+] changes to $${1 \\over {\\sqrt 2 }}$$\ntimes of its initial value on dilution\n  \n  \n    \n    \n    5.\n    the value of [H+] changes to $$\\sqrt 2 $$ \ntimes of its initial value on dilution\n  \n         \n\n\nMatch each process given in  LIST-I with one or more effect(s) in LIST-II. The correct option is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhyawev6/07d2eded-2003-4ffd-a29b-aae4dfc762b0/9225a220-f852-11ed-98f7-d3e6ed2863fe/file-1lhyawev7.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhybei48/25acf5fd-15ad-4713-ac8b-150813ad9629/8939c7c0-f854-11ed-bf4b-dbc7e4622e45/file-1lhybei4d.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhyc2nrb/04228d7c-ae32-4409-a12e-3a4add49886f/29001d70-f857-11ed-9e10-970d333b1a81/file-1lhyc2nrc.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhyccomj/e6863bc9-caa3-4319-b566-bd175c14f413/3fc307b0-f858-11ed-b917-91df11cad56c/file-1lhyccomk.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$P - 4;Q - 2;R - 3;S - 1$$",
         "B": "$$P - 4;Q - 3;R - 2;S - 3$$",
         "C": "$$P - 1;Q - 4;R - 5;S - 3$$",
         "D": "$$P - 1;Q - 5;R - 4;S - 1$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Dilution processes of different aqueous solutions, with water, are given in LIST - I. The effects of dilution of the solutions on $$\\left[ {{H^ + }} \\right]$$ are given in LIST - II  \n(Note: Degree of dissociation (a) of weak acid and weak base is $$<<1;$$ degree of hydrolysis of salt $$<<1;$$ $$\\left[ {{H^ + }} \\right]$$  represents the concentration of $${H^ + }$$  ions)\n\n.tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-adtk{font-weight:bold;font-size:20px;text-align:left}\n.tg .tg-13k7{font-size:20px;text-align:left}\n\n\n  \n    \n    LIST-I\n    \n    LIST-II\n  \n  \n    P.\n    (10 mL of 0.1 M NaOH + 20 mL of 0.1 M acetic acid) diluted to 60 mL\n    1.\n    the value of [H^{+}] does not changeon dilution\n  \n  \n    Q.\n    (20 mL of 0.1 M NaOH + 20 mL of0.1 M acetic acid) diluted to 80 mL\n    2.\n    the value of [H^{+}] changes to half of its initial value on dilution\n  \n  \n    R.\n    (20 mL of 0.1 M HCL + 20 mL of0.1 M ammonia solution) diluted to80 mL \n    3.\n    the value of [H^{+}] changes to two times of its initial value on dilution\n  \n  \n    S.\n    10 mL saturated solution of Ni(OH)_{2}in equilibrium with excess solid Ni(OH)_{2} is diluted to 20 mL (solid Ni(OH)_{2} is still present after dilution).\n    4.\n    the value of [H^{+}] changes to $${1 \\over {\\sqrt 2 }}$$times of its initial value on dilution\n  \n  \n    \n    \n    5.\n    the value of [H^{+}] changes to $$\\sqrt 2 $$ times of its initial value on dilution\n  \n         \nMatch each process given in  LIST-I with one or more effect(s) in LIST-II. The correct option is :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 16,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 16,
-      "question_text": "The desired product $$X$$ can be prepared by reacting the major product of the reactions in LIST-I  with one or more appropriate reagents in LIST-II (given, order of migratory aptitude: aryl > alkyl > hydrogen) \n\n\n \n\nThe correct option is",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The desired product $$X$$ can be prepared by reacting the major product of the reactions in LIST-I  with one or more appropriate reagents in LIST-II (given, order of migratory aptitude: aryl > alkyl > hydrogen) \n\n\n \n\nThe correct option is",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1jMGxbLO6hkrmBsOO/taVBiXKZB2oQ62Kl3eM8q5kFwp3FZ/5uDvizfTGsy88QBT1D6GTL/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhyaheaw/b1a4298e-9366-484d-8333-301f90fc376c/f0932280-f850-11ed-a781-6b119f5e0ecf/file-1lhyaheax.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhyahso5/6e337859-c2a5-4e8b-b050-2effa74bbf52/fbac7950-f850-11ed-a781-6b119f5e0ecf/file-1lhyahso6.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhyai7e8/3ffaeff5-f8c4-4439-b6e2-18c51290c5fa/070c4f00-f851-11ed-a781-6b119f5e0ecf/file-1lhyai7e9.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhyaincu/5f0456d5-2ff1-4c6e-807a-eefae9b6c10c/1360bde0-f851-11ed-a781-6b119f5e0ecf/file-1lhyaincv.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$P - 1;Q - 2,3;R - 1,4;S - 2,4$$",
         "B": "$$P - 1,5;Q - 3,4;R - 4,5;S - 3$$",
         "C": "$$P - 1,5;Q - 3,4;R - 5;S - 2,4$$",
         "D": "$$P - 1,5;Q - 2,3;R - 1,5;S - 2,3$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The desired product $$X$$ can be prepared by reacting the major product of the reactions in LIST-I  with one or more appropriate reagents in LIST-II (given, order of migratory aptitude: aryl > alkyl > hydrogen) \n \nThe correct option is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 17,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 17,
-      "question_text": "LIST-I contains reactions and  LIST-II contains major products.   \n\n\n \n\n\nMatch the reaction in LIST-I  with one or more products in LIST-II and choose the correct option.",
       "subject": "Chemistry",
       "topic": "alcohols-phenols-and-ethers",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "LIST-I contains reactions and  LIST-II contains major products.   \n\n\n \n\n\nMatch the reaction in LIST-I  with one or more products in LIST-II and choose the correct option.",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/vHUY7ehiXvrOEFyvH/eDVh3MkR4kLcGRT2oiDnxJRLlE0fD/omMpQ3ea3UW7z6InAXo3WD/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhy9non2/1e8bf543-a158-4f77-9b74-97366f3e1ae0/b64949e0-f84d-11ed-a781-6b119f5e0ecf/file-1lhy9non4.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhy9rcnl/1015a31e-b5ef-414b-9f15-6336d46db430/1c43b410-f84e-11ed-a781-6b119f5e0ecf/file-1lhy9rcnm.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhy9yizc/be60e197-2b13-4b02-877b-76acd017b3f7/e3d0c180-f84e-11ed-a781-6b119f5e0ecf/file-1lhy9yizd.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhya0eyh/9f174a6f-173b-4cdb-8318-84ad497ff13b/18534a90-f84f-11ed-a781-6b119f5e0ecf/file-1lhya0eyi.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$P - 1,5;Q - 2;R - 3;S - 4$$",
         "B": "$$P - 1,4;Q - 2;R - 4;S - 3$$",
         "C": "$$P - 1,4;Q - 1,2;R - 3,4;S - 4$$",
         "D": "$$P - 4,5;Q - 4;R - 4;S - 3,4$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "LIST-I contains reactions and  LIST-II contains major products.   \n \nMatch the reaction in LIST-I  with one or more products in LIST-II and choose the correct option.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 18,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 18,
-      "question_text": "For a reaction, $$A\\,\\,\\rightleftharpoons\\,\\,P,$$ the plots of $$\\left[ A \\right]$$ and $$\\left[ P \\right]$$ with time at temperature $${T_1}$$ and $${T_2}$$ are given below. \n\n\n \n\nIf $${T_2} > {T_1},$$ the correct statement(s) is (are) (Assume $$\\Delta {H^ \\circ }$$ and $$\\Delta {S^ \\circ }$$ are independent of temperature and ratio of $$lnK$$ at $${T_1}$$ to $$lnK$$ at $${T_2}$$ is greater than $${{{T_2}} \\over {{T_1}}}.$$ Here $$H,$$ $$S,G$$ and $$K$$ are enthalpy, entropy, Gibbs energy and equilibrium constant, respectively.)",
       "subject": "Chemistry",
       "topic": "thermodynamics",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "For a reaction, $$A\\,\\,\\rightleftharpoons\\,\\,P,$$ the plots of $$\\left[ A \\right]$$ and $$\\left[ P \\right]$$ with time at temperature $${T_1}$$ and $${T_2}$$ are given below. \n\n\n \n\nIf $${T_2} > {T_1},$$ the correct statement(s) is (are) (Assume $$\\Delta {H^ \\circ }$$ and $$\\Delta {S^ \\circ }$$ are independent of temperature and ratio of $$lnK$$ at $${T_1}$$ to $$lnK$$ at $${T_2}$$ is greater than $${{{T_2}} \\over {{T_1}}}.$$ Here $$H,$$ $$S,G$$ and $$K$$ are enthalpy, entropy, Gibbs energy and equilibrium constant, respectively.)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1lhvh0wmv/f733fb4a-812f-4dd1-adee-7243a761dc11/2befc470-f6c4-11ed-81ac-b54226f5f213/file-1lhvh0wmw.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$\\Delta {H^ \\circ } < 0,\\Delta {S^ \\circ } < O$$",
         "B": "$$\\Delta {G^ \\circ } < 0,\\Delta {H^ \\circ } > 0$$",
         "C": "$$\\Delta {G^ \\circ } < 0,\\Delta {S^ \\circ } < 0$$",
         "D": "$$\\Delta {G^ \\circ } < 0,\\Delta {S^ \\circ } > 0$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "For a reaction, $$A\\,\\,\\rightleftharpoons\\,\\,P,$$ the plots of $$\\left[ A \\right]$$ and $$\\left[ P \\right]$$ with time at temperature $${T_1}$$ and $${T_2}$$ are given below. \n \nIf $${T_2} > {T_1},$$ the correct statement(s) is (are) (Assume $$\\Delta {H^ \\circ }$$ and $$\\Delta {S^ \\circ }$$ are independent of temperature and ratio of $$lnK$$ at $${T_1}$$ to $$lnK$$ at $${T_2}$$ is greater than $${{{T_2}} \\over {{T_1}}}.$$ Here $$H,$$ $$S,G$$ and $$K$$ are enthalpy, entropy, Gibbs energy and equilibrium constant, respectively.)",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 0.75
+      "negMarks": 0.75,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 19,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 19,
-      "question_text": "For any positive integer n, define \n\n$${f_n}:(0,\\infty ) \\to R$$ as\n\n$${f_n} = \\sum\\limits_{j = 1}^n {{{\\tan }^{ - 1}}} \\left( {{1 \\over {1 + (x + j)(x + j - 1)}}} \\right)$$\n\nfor all x$$ \\in $$(0, $$\\infty $$). (Here, the inverse trigonometric function tan$$-$$1 x assumes values in $$\\left( { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right)$$). Then, which of the following statement(s) is (are) TRUE?",
       "subject": "Mathematics",
       "topic": "inverse-trigonometric-functions",
       "sub_topic": "trigonometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "For any positive integer n, define \n\n$${f_n}:(0,\\infty ) \\to R$$ as\n\n$${f_n} = \\sum\\limits_{j = 1}^n {{{\\tan }^{ - 1}}} \\left( {{1 \\over {1 + (x + j)(x + j - 1)}}} \\right)$$\n\nfor all x$$ \\in $$(0, $$\\infty $$). (Here, the inverse trigonometric function tan$$-$$1 x assumes values in $$\\left( { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right)$$). Then, which of the following statement(s) is (are) TRUE?",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\sum\\limits_{j = 1}^5 {{{\\tan }^2}({f_j}(0)) = 55} $$",
         "B": "$$\\sum\\limits_{j = 1}^{10} {(1 + f{'_j}(0)){{\\sec }^2}({f_j}(0)) = 10} $$",
         "C": "For any fixed positive integer n, $$\\mathop {\\lim }\\limits_{x \\to \\infty } \\tan ({f_n}(x)) = {1 \\over n}$$",
         "D": "For any fixed positive integer n, $$\\mathop {\\lim }\\limits_{x \\to \\infty } {\\sec ^2}({f_n}(x)) = 1$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "For any positive integer n, define $${f_n}:(0,\\infty ) \\to R$$ as$${f_n} = \\sum\\limits_{j = 1}^n {{{\\tan }^{ - 1}}} \\left( {{1 \\over {1 + (x + j)(x + j - 1)}}} \\right)$$for all x$$ \\in $$(0, $$\\infty $$). (Here, the inverse trigonometric function tan^{$$-$$1} x assumes values in $$\\left( { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right)$$). Then, which of the following statement(s) is (are) TRUE?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 20,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 20,
-      "question_text": "Let T be the line passing through the points P($$-$$2, 7) and Q(2, $$-$$5). Let F1 be the set of al pairs of circles (S1, S2) such that T is tangent to S1 at P and tangent to S2 at Q, and also such that S1 and S2 touch each other at a point, say M. Let E1 be the set representing the locus of M as the pair (S1, S2) varies in F1. Let the set of all straight line segments joining a pair of distinct points of E1 and passing through the point R(1, 1) be F2. Let E2 be the set of the mid-points of the line segments in the set F2. Then, which of the following statement(s) is (are) TRUE?",
       "subject": "Mathematics",
       "topic": "hyperbola",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let T be the line passing through the points P($$-$$2, 7) and Q(2, $$-$$5). Let F1 be the set of al pairs of circles (S1, S2) such that T is tangent to S1 at P and tangent to S2 at Q, and also such that S1 and S2 touch each other at a point, say M. Let E1 be the set representing the locus of M as the pair (S1, S2) varies in F1. Let the set of all straight line segments joining a pair of distinct points of E1 and passing through the point R(1, 1) be F2. Let E2 be the set of the mid-points of the line segments in the set F2. Then, which of the following statement(s) is (are) TRUE?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kywt2jko/d144bb5d-bc66-4e59-bc09-105e148fe621/f3777fa0-7f57-11ec-91f0-35ffd68c9c48/file-1kywt2jkq.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "The point ($$-$$2, 7) lies in E_{1}",
         "B": "The point $$\\left( {{4 \\over 5},{7 \\over 5}} \\right)$$ does not lie in E_{2}",
         "C": "The point $$\\left( {{1 \\over 2},1} \\right)$$ lies in E_{2}",
         "D": "The point $$\\left( {0,{3 \\over 2}} \\right)$$ does not lie in E_{1}"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let T be the line passing through the points P($$-$$2, 7) and Q(2, $$-$$5). Let F_{1} be the set of al pairs of circles (S_{1}, S_{2}) such that T is tangent to S_{1} at P and tangent to S_{2} at Q, and also such that S_{1} and S_{2} touch each other at a point, say M. Let E_{1} be the set representing the locus of M as the pair (S_{1}, S_{2}) varies in F_{1}. Let the set of all straight line segments joining a pair of distinct points of E_{1} and passing through the point R(1, 1) be F_{2}. Let E_{2} be the set of the mid-points of the line segments in the set F_{2}. Then, which of the following statement(s) is (are) TRUE?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 21,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 21,
-      "question_text": "Let S be the set of all column matrices $$\\left[ {\\matrix{\n   {{b_1}}  \\cr \n   {{b_2}}  \\cr \n   {{b_3}}  \\cr \n\n } } \\right]$$ such that $${b_1},{b_2},{b_3} \\in R$$ and the system of equations (in real variables)\n\n$$\\eqalign{\n  &  - x + 2y + 5z = {b_1}  \\cr \n  & 2x - 4y + 3z = {b_2}  \\cr \n  & x - 2y + 2z = {b_3} \\cr} $$\n\nhas at least one solution. Then, which of the following system(s) (in real variables) has (have) at least one solution for each $$\\left[ {\\matrix{\n   {{b_1}}  \\cr \n   {{b_2}}  \\cr \n   {{b_3}}  \\cr \n\n } } \\right]$$$$ \\in $$S?",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let S be the set of all column matrices $$\\left[ {\\matrix{\n   {{b_1}}  \\cr \n   {{b_2}}  \\cr \n   {{b_3}}  \\cr \n\n } } \\right]$$ such that $${b_1},{b_2},{b_3} \\in R$$ and the system of equations (in real variables)\n\n$$\\eqalign{\n  &  - x + 2y + 5z = {b_1}  \\cr \n  & 2x - 4y + 3z = {b_2}  \\cr \n  & x - 2y + 2z = {b_3} \\cr} $$\n\nhas at least one solution. Then, which of the following system(s) (in real variables) has (have) at least one solution for each $$\\left[ {\\matrix{\n   {{b_1}}  \\cr \n   {{b_2}}  \\cr \n   {{b_3}}  \\cr \n\n } } \\right]$$$$ \\in $$S?",
+      "question_images": [],
+      "option_texts": {
         "A": "$$x + 2y + 3z = {b_1}$$, $$\\,4y + 5z = {b_2}$$ and $$x + 2y + 6z = {b_3}$$",
         "B": "$$x + y + 3z = {b_1}$$, $$5x + 2y + 6z = {b_2}$$ and $$ - 2x - y - 3z = {b_3}$$",
         "C": "$$ - x + 2y - 5z = {b_1}$$, $$\\,2x - 4y + 10z = {b_2}$$ and $$x - 2y + 5z = {b_3}$$",
         "D": "$$x + 2y + 5z = {b_1}$$, $$2x + 3z = {b_2}$$ and $$x + 4y - 5z = {b_3}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let S be the set of all column matrices $$\\left[ {\\matrix{\n   {{b_1}}  \\cr \n   {{b_2}}  \\cr \n   {{b_3}}  \\cr \n\n } } \\right]$$ such that $${b_1},{b_2},{b_3} \\in R$$ and the system of equations (in real variables)$$\\eqalign{\n  &  - x + 2y + 5z = {b_1}  \\cr \n  & 2x - 4y + 3z = {b_2}  \\cr \n  & x - 2y + 2z = {b_3} \\cr} $$has at least one solution. Then, which of the following system(s) (in real variables) has (have) at least one solution for each $$\\left[ {\\matrix{\n   {{b_1}}  \\cr \n   {{b_2}}  \\cr \n   {{b_3}}  \\cr \n\n } } \\right]$$$$ \\in $$S?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 22,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 22,
-      "question_text": "Consider two straight lines, each of which is tangent to both the circle x2 + y2 = (1/2) and the parabola y2 = 4x. Let these lines intersect at the point Q. Consider the ellipse whose centre is at the origin O(0, 0) and whose semi-major axis is OQ. If the length of the minor axis of this ellipse is $$\\sqrt 2 $$, then which of the following statement(s) is (are) TRUE?",
       "subject": "Mathematics",
       "topic": "ellipse",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider two straight lines, each of which is tangent to both the circle x2 + y2 = (1/2) and the parabola y2 = 4x. Let these lines intersect at the point Q. Consider the ellipse whose centre is at the origin O(0, 0) and whose semi-major axis is OQ. If the length of the minor axis of this ellipse is $$\\sqrt 2 $$, then which of the following statement(s) is (are) TRUE?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kywtgr6r/28e8b480-f65e-4214-a2e7-8d2d8a289cc5/7eace640-7f59-11ec-91f0-35ffd68c9c48/file-1kywtgr6s.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kywtjuno/7f360897-d3f6-47ac-8152-d0643da44ca6/d4c85b40-7f59-11ec-91f0-35ffd68c9c48/file-1kywtjunp.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "For the ellipse, the eccentricity is 1$$\\sqrt 2 $$ and the length of the latus rectum is 1",
         "B": "For the ellipse, the eccentricity is 1/2 and the length of the latus rectum is 1/2",
         "C": "The area of the region bounded by the ellipse between the lines $$x = {1 \\over {\\sqrt 2 }}$$ and x = 1 is $${1 \\over {4\\sqrt 2 }}(\\pi  - 2)$$",
         "D": "The area of the region bounded by the ellipse between the lines $$x = {1 \\over {\\sqrt 2 }}$$ and x = 1 is $${1 \\over {16}}(\\pi  - 2)$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Consider two straight lines, each of which is tangent to both the circle x^{2} + y^{2} = (1/2) and the parabola y^{2} = 4x. Let these lines intersect at the point Q. Consider the ellipse whose centre is at the origin O(0, 0) and whose semi-major axis is OQ. If the length of the minor axis of this ellipse is $$\\sqrt 2 $$, then which of the following statement(s) is (are) TRUE?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 23,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 23,
-      "question_text": "Let s, t, r be non-zero complex numbers and L be the set of solutions $$z = x + iy(x,y \\in R,\\,i = \\sqrt { - 1} )$$ of the equation $$sz + t\\overline z  + r = 0$$ where $$\\overline z $$ = x $$-$$ iy. Then, which of the following statement(s) is(are) TRUE?",
       "subject": "Mathematics",
       "topic": "complex-numbers",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let s, t, r be non-zero complex numbers and L be the set of solutions $$z = x + iy(x,y \\in R,\\,i = \\sqrt { - 1} )$$ of the equation $$sz + t\\overline z  + r = 0$$ where $$\\overline z $$ = x $$-$$ iy. Then, which of the following statement(s) is(are) TRUE?",
+      "question_images": [],
+      "option_texts": {
         "A": "If L has exactly one element, then |s|$$ \\ne $$|t|",
         "B": "If |s| = |t|, then L has infinitely many elements",
         "C": "The number of elements in $$L \\cap \\{ z:|z - 1 + i| = 5\\} $$ is at most 2",
         "D": "If L has more than one element, then L has infinitely many elements"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let s, t, r be non-zero complex numbers and L be the set of solutions $$z = x + iy(x,y \\in R,\\,i = \\sqrt { - 1} )$$ of the equation $$sz + t\\overline z  + r = 0$$ where $$\\overline z $$ = x $$-$$ iy. Then, which of the following statement(s) is(are) TRUE?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 24,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 24,
-      "question_text": "Let f : (0, $$\\pi $$) $$ \\to $$ R be a twice differentiable function such that $$\\mathop {\\lim }\\limits_{t \\to x} {{f(x)\\sin t - f(t)\\sin x} \\over {t - x}} = {\\sin ^2}x$$ for all x$$ \\in $$ (0, $$\\pi $$).\n\nIf $$f\\left( {{\\pi  \\over 6}} \\right) =  - {\\pi  \\over {12}}$$, then which of the following statement(s) is (are) TRUE?",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let f : (0, $$\\pi $$) $$ \\to $$ R be a twice differentiable function such that $$\\mathop {\\lim }\\limits_{t \\to x} {{f(x)\\sin t - f(t)\\sin x} \\over {t - x}} = {\\sin ^2}x$$ for all x$$ \\in $$ (0, $$\\pi $$).\n\nIf $$f\\left( {{\\pi  \\over 6}} \\right) =  - {\\pi  \\over {12}}$$, then which of the following statement(s) is (are) TRUE?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kywx179e/5687d630-8815-4f82-b487-d5767334ac65/72a94e20-7f67-11ec-9815-873c9cb43334/file-1kywx179f.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$f\\left( {{\\pi  \\over 4}} \\right) = {\\pi  \\over {4\\sqrt 2 }}$$",
         "B": "$$f(x) < {{{x^4}} \\over 6} - {x^2}$$ for all x$$ \\in $$(0, $$\\pi $$)",
         "C": "There exists $$\\alpha $$$$ \\in $$(0, $$\\pi $$) such that f'($$\\alpha $$) = 0",
         "D": "$$f''\\left( {{\\pi  \\over 2}} \\right) + f\\left( {{\\pi  \\over 2}} \\right) = 0$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let f : (0, $$\\pi $$) $$ \\to $$ R be a twice differentiable function such that $$\\mathop {\\lim }\\limits_{t \\to x} {{f(x)\\sin t - f(t)\\sin x} \\over {t - x}} = {\\sin ^2}x$$ for all x$$ \\in $$ (0, $$\\pi $$).If $$f\\left( {{\\pi  \\over 6}} \\right) =  - {\\pi  \\over {12}}$$, then which of the following statement(s) is (are) TRUE?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 25,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 25,
-      "question_text": "The value of the integral\n\n$$\\int_0^{1/2} {{{1 + \\sqrt 3 } \\over {{{({{(x + 1)}^2}{{(1 - x)}^6})}^{1/4}}}}dx} $$ is ........",
       "subject": "Mathematics",
       "topic": "definite-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The value of the integral\n\n$$\\int_0^{1/2} {{{1 + \\sqrt 3 } \\over {{{({{(x + 1)}^2}{{(1 - x)}^6})}^{1/4}}}}dx} $$ is ........",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The value of the integral$$\\int_0^{1/2} {{{1 + \\sqrt 3 } \\over {{{({{(x + 1)}^2}{{(1 - x)}^6})}^{1/4}}}}dx} $$ is ........",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 26,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 26,
-      "question_text": "Let P be a matrix of order 3 $$ \\times $$ 3 such that all the entries in P are from the set {$$-$$1, 0, 1}. Then, the maximum possible value of the determinant of P is ............ .",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let P be a matrix of order 3 $$ \\times $$ 3 such that all the entries in P are from the set {$$-$$1, 0, 1}. Then, the maximum possible value of the determinant of P is ............ .",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let P be a matrix of order 3 $$ \\times $$ 3 such that all the entries in P are from the set {$$-$$1, 0, 1}. Then, the maximum possible value of the determinant of P is ............ .",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 27,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 27,
-      "question_text": "Let X be a set with exactly 5 elements and Y be a set with exactly 7 elements. If $$\\alpha $$ is the number of one-one functions from X to Y and $$\\beta $$ is the number of onto functions from Y to X, then the value of $${1 \\over {5!}}(\\beta  - \\alpha )$$ is ..................",
       "subject": "Mathematics",
       "topic": "functions",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let X be a set with exactly 5 elements and Y be a set with exactly 7 elements. If $$\\alpha $$ is the number of one-one functions from X to Y and $$\\beta $$ is the number of onto functions from Y to X, then the value of $${1 \\over {5!}}(\\beta  - \\alpha )$$ is ..................",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kx12yufz/e73a4071-db37-4777-aa93-746f250f3bb0/5bc1c2f0-5a19-11ec-9197-413c7acc42fc/file-1kx12yug0.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let X be a set with exactly 5 elements and Y be a set with exactly 7 elements. If $$\\alpha $$ is the number of one-one functions from X to Y and $$\\beta $$ is the number of onto functions from Y to X, then the value of $${1 \\over {5!}}(\\beta  - \\alpha )$$ is ..................",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 28,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 28,
-      "question_text": "Let f : R $$ \\to $$ R be a differentiable function with f(0) = 0. If y = f(x) satisfies the differential equation $${{dy} \\over {dx}} = (2 + 5y)(5y - 2)$$, then the value of $$\\mathop {\\lim }\\limits_{n \\to  - \\infty } f(x)$$ is ...........",
       "subject": "Mathematics",
       "topic": "differential-equations",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let f : R $$ \\to $$ R be a differentiable function with f(0) = 0. If y = f(x) satisfies the differential equation $${{dy} \\over {dx}} = (2 + 5y)(5y - 2)$$, then the value of $$\\mathop {\\lim }\\limits_{n \\to  - \\infty } f(x)$$ is ...........",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let f : R $$ \\to $$ R be a differentiable function with f(0) = 0. If y = f(x) satisfies the differential equation $${{dy} \\over {dx}} = (2 + 5y)(5y - 2)$$, then the value of $$\\mathop {\\lim }\\limits_{n \\to  - \\infty } f(x)$$ is ...........",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 29,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 29,
-      "question_text": "Let f : R $$ \\to $$ R be a differentiable function with f(0) = 1 and satisfying the equation f(x + y) = f(x) f'(y) + f'(x) f(y) for all x, y$$ \\in $$ R.\n\nThen, the value of loge(f(4)) is ...........",
       "subject": "Mathematics",
       "topic": "trigonometric-functions-and-equations",
       "sub_topic": "trigonometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let f : R $$ \\to $$ R be a differentiable function with f(0) = 1 and satisfying the equation f(x + y) = f(x) f'(y) + f'(x) f(y) for all x, y$$ \\in $$ R.\n\nThen, the value of loge(f(4)) is ...........",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let f : R $$ \\to $$ R be a differentiable function with f(0) = 1 and satisfying the equation f(x + y) = f(x) f'(y) + f'(x) f(y) for all x, y$$ \\in $$ R.Then, the value of log_{e}(f(4)) is ...........",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2018,
-      "exam_type": "JEE Advanced",
-      "shift": 1,
       "question_number": 30,
+      "year": 2018,
+      "exam_type": "JEE Advanced",
+      "shift": 1,
+      "subject": "Mathematics",
+      "topic": "3d-geometry",
+      "sub_topic": "algebra",
       "question_text": "Let P be a point in the first octant, whose image Q in the plane x + y = 3 (that is, the line segment PQ is perpendicular to the plane x + y = 3 and the mid-point of PQ lies in the plane x + y = 3) lies on the Z-axis. Let the distance of P from the X-axis be 5. If R is the image of P in the XY-plane, then the length of PR is ...............",
-      "subject": "Mathematics",
-      "topic": "3d-geometry",
-      "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let P be a point in the first octant, whose image Q in the plane x + y = 3 (that is, the line segment PQ is perpendicular to the plane x + y = 3 and the mid-point of PQ lies in the plane x + y = 3) lies on the Z-axis. Let the distance of P from the X-axis be 5. If R is the image of P in the XY-plane, then the length of PR is ...............",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2018,
-      "exam_type": "JEE Advanced",
-      "shift": 1,
       "question_number": 31,
-      "question_text": "Consider the cube in the first octant with sides OP, OQ and OR of length 1, along the X-axis, Y-axis and Z-axis, respectively, where O(0, 0, 0) is the origin. Let $$S\\left( {{1 \\over 2},{1 \\over 2},{1 \\over 2}} \\right)$$ be the centre of the cube and T be the vertex of the cube opposite to the origin O such that S lies on the diagonal OT. If p = SP, q = SQ, r = SR and t = ST, then the value of |(p $$ \\times $$ q) $$ \\times $$ (r $$ \\times $$ t)| is ............",
-      "subject": "Mathematics",
-      "topic": "3d-geometry",
-      "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
-      "correct_answer": "",
-      "question": "Consider the cube in the first octant with sides OP, OQ and OR of length 1, along the X-axis, Y-axis and Z-axis, respectively, where O(0, 0, 0) is the origin. Let $$S\\left( {{1 \\over 2},{1 \\over 2},{1 \\over 2}} \\right)$$ be the centre of the cube and T be the vertex of the cube opposite to the origin O such that S lies on the diagonal OT. If p = SP, q = SQ, r = SR and t = ST, then the value of |(p $$ \\times $$ q) $$ \\times $$ (r $$ \\times $$ t)| is ............",
-      "isOutOfSyllabus": false,
-      "marks": 3,
-      "negMarks": 1
-    },
-    {
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
+      "subject": "Mathematics",
+      "topic": "3d-geometry",
+      "sub_topic": "algebra",
+      "question_text": "Consider the cube in the first octant with sides OP, OQ and OR of length 1, along the X-axis, Y-axis and Z-axis, respectively, where O(0, 0, 0) is the origin. Let $$S\\left( {{1 \\over 2},{1 \\over 2},{1 \\over 2}} \\right)$$ be the centre of the cube and T be the vertex of the cube opposite to the origin O such that S lies on the diagonal OT. If p = SP, q = SQ, r = SR and t = ST, then the value of |(p $$ \\times $$ q) $$ \\times $$ (r $$ \\times $$ t)| is ............",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
+      "correct_answer": "",
+      "marks": 3,
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
+    },
+    {
       "question_number": 32,
-      "question_text": "Let $$X = {({}^{10}{C_1})^2} + 2{({}^{10}{C_2})^2} + 3{({}^{10}{C_3})^2} + ... + 10{({}^{10}{C_{10}})^2}$$,\n\n where $${}^{10}{C_r}$$, r $$ \\in $${1, 2, ..., 10} denote binomial coefficients. Then, the value of $${1 \\over {1430}}X$$ is ..........",
+      "year": 2018,
+      "exam_type": "JEE Advanced",
+      "shift": 1,
       "subject": "Mathematics",
       "topic": "mathematical-induction-and-binomial-theorem",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $$X = {({}^{10}{C_1})^2} + 2{({}^{10}{C_2})^2} + 3{({}^{10}{C_3})^2} + ... + 10{({}^{10}{C_{10}})^2}$$,\n\n where $${}^{10}{C_r}$$, r $$ \\in $${1, 2, ..., 10} denote binomial coefficients. Then, the value of $${1 \\over {1430}}X$$ is ..........",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $$X = {({}^{10}{C_1})^2} + 2{({}^{10}{C_2})^2} + 3{({}^{10}{C_3})^2} + ... + 10{({}^{10}{C_{10}})^2}$$, where $${}^{10}{C_r}$$, r $$ \\in $${1, 2, ..., 10} denote binomial coefficients. Then, the value of $${1 \\over {1430}}X$$ is ..........",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 33,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 33,
-      "question_text": "Let $${E_1} = \\left\\{ {x \\in R:x \\ne 1\\,and\\,{x \\over {x - 1}} > 0} \\right\\}$$ and \n\n\n$${E_2} = \\left\\{ \\matrix{\n  x \\in {E_1}:{\\sin ^{ - 1}}\\left( {{{\\log }_e}\\left( {{x \\over {x - 1}}} \\right)} \\right) \\hfill \\cr \n  is\\,a\\,real\\,number \\hfill \\cr}  \\right\\}$$ \n\n(Here, the inverse trigonometric function $${\\sin ^{ - 1}}$$ x assumes values in $$\\left[ { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right]$$.).\n\nLet f : E1 $$ \\to $$ R be the function defined by f(x) = $${{{\\log }_e}\\left( {{x \\over {x - 1}}} \\right)}$$ and g : E2 $$ \\to $$ R be the function defined by g(x) = $${\\sin ^{ - 1}}\\left( {{{\\log }_e}\\left( {{x \\over {x - 1}}} \\right)} \\right)$$.\n\n \n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid black;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid black;\n            padding: 10px;\n            text-align: left;\n        }\n    \n\n    \n        LIST-I\n        LIST-II\n    \n    \n        P. The range of $f$ is\n        1. $\\left( -\\infty, \\frac{1}{1-e} \\right] \\cup \\left[ \\frac{e}{e-1}, \\infty \\right)$\n    \n    \n        Q. The range of $g$ contains\n        2. $(0, 1)$\n    \n    \n        R. The domain of $f$ contains\n        3. $\\left[ -\\frac{1}{2}, \\frac{1}{2} \\right]$\n    \n    \n        S. The domain of $g$ is\n        4. $(-\\infty, 0) \\cup (0, \\infty)$\n    \n    \n        \n        5. $\\left( -\\infty, \\frac{e}{e-1} \\right)$\n    \n    \n        \n        6. $(-\\infty, 0) \\cup \\left( \\frac{1}{2}, \\frac{e}{e-1} \\right]$\n    \nThe correct option is :",
       "subject": "Mathematics",
       "topic": "functions",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $${E_1} = \\left\\{ {x \\in R:x \\ne 1\\,and\\,{x \\over {x - 1}} > 0} \\right\\}$$ and \n\n\n$${E_2} = \\left\\{ \\matrix{\n  x \\in {E_1}:{\\sin ^{ - 1}}\\left( {{{\\log }_e}\\left( {{x \\over {x - 1}}} \\right)} \\right) \\hfill \\cr \n  is\\,a\\,real\\,number \\hfill \\cr}  \\right\\}$$ \n\n(Here, the inverse trigonometric function $${\\sin ^{ - 1}}$$ x assumes values in $$\\left[ { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right]$$.).\n\nLet f : E1 $$ \\to $$ R be the function defined by f(x) = $${{{\\log }_e}\\left( {{x \\over {x - 1}}} \\right)}$$ and g : E2 $$ \\to $$ R be the function defined by g(x) = $${\\sin ^{ - 1}}\\left( {{{\\log }_e}\\left( {{x \\over {x - 1}}} \\right)} \\right)$$.\n\n \n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid black;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid black;\n            padding: 10px;\n            text-align: left;\n        }\n    \n\n    \n        LIST-I\n        LIST-II\n    \n    \n        P. The range of $f$ is\n        1. $\\left( -\\infty, \\frac{1}{1-e} \\right] \\cup \\left[ \\frac{e}{e-1}, \\infty \\right)$\n    \n    \n        Q. The range of $g$ contains\n        2. $(0, 1)$\n    \n    \n        R. The domain of $f$ contains\n        3. $\\left[ -\\frac{1}{2}, \\frac{1}{2} \\right]$\n    \n    \n        S. The domain of $g$ is\n        4. $(-\\infty, 0) \\cup (0, \\infty)$\n    \n    \n        \n        5. $\\left( -\\infty, \\frac{e}{e-1} \\right)$\n    \n    \n        \n        6. $(-\\infty, 0) \\cup \\left( \\frac{1}{2}, \\frac{e}{e-1} \\right]$\n    \nThe correct option is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kx13g6z5/53a65f35-0d64-4508-a121-2823b8ac232b/3e317c10-5a1b-11ec-9197-413c7acc42fc/file-1kx13g6z6.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kx13h996/f0f207a7-81ec-4124-8a83-1f50a710db54/5bc337a0-5a1b-11ec-9197-413c7acc42fc/file-1kx13h997.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kx13iisa/63110af1-7566-42aa-b0fc-b795326bccb6/7eef1fa0-5a1b-11ec-9197-413c7acc42fc/file-1kx13iisb.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "P $$ \\to $$ 4; Q $$ \\to $$ 2; R $$ \\to $$ 1 ; S $$ \\to $$ 1",
         "B": "P $$ \\to $$ 3; Q $$ \\to $$ 3; R $$ \\to $$ 6 ; S $$ \\to $$ 5",
         "C": "P $$ \\to $$ 4; Q $$ \\to $$ 2; R $$ \\to $$ 1 ; S $$ \\to $$ 6",
         "D": "P $$ \\to $$ 4; Q $$ \\to $$ 3; R $$ \\to $$ 6 ; S $$ \\to $$ 5"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $${E_1} = \\left\\{ {x \\in R:x \\ne 1\\,and\\,{x \\over {x - 1}} > 0} \\right\\}$$ and $${E_2} = \\left\\{ \\matrix{\n  x \\in {E_1}:{\\sin ^{ - 1}}\\left( {{{\\log }_e}\\left( {{x \\over {x - 1}}} \\right)} \\right) \\hfill \\cr \n  is\\,a\\,real\\,number \\hfill \\cr}  \\right\\}$$ (Here, the inverse trigonometric function $${\\sin ^{ - 1}}$$ x assumes values in $$\\left[ { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right]$$.).Let f : E_{1} $$ \\to $$ R be the function defined by f(x) = $${{{\\log }_e}\\left( {{x \\over {x - 1}}} \\right)}$$ and g : E_{2} $$ \\to $$ R be the function defined by g(x) = $${\\sin ^{ - 1}}\\left( {{{\\log }_e}\\left( {{x \\over {x - 1}}} \\right)} \\right)$$.\n \n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid black;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid black;\n            padding: 10px;\n            text-align: left;\n        }\n    \n\n    \n        LIST-I\n        LIST-II\n    \n    \n        P. The range of $f$ is\n        1. $\\left( -\\infty, \\frac{1}{1-e} \\right] \\cup \\left[ \\frac{e}{e-1}, \\infty \\right)$\n    \n    \n        Q. The range of $g$ contains\n        2. $(0, 1)$\n    \n    \n        R. The domain of $f$ contains\n        3. $\\left[ -\\frac{1}{2}, \\frac{1}{2} \\right]$\n    \n    \n        S. The domain of $g$ is\n        4. $(-\\infty, 0) \\cup (0, \\infty)$\n    \n    \n        \n        5. $\\left( -\\infty, \\frac{e}{e-1} \\right)$\n    \n    \n        \n        6. $(-\\infty, 0) \\cup \\left( \\frac{1}{2}, \\frac{e}{e-1} \\right]$\n    \nThe correct option is :",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 34,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 34,
-      "question_text": "In a high school, a committee has to be formed from a group of 6 boys M1, M2, M3, M4, M5, M6 and 5 girls G1, G2, G3, G4, G5.\n\n(i) Let $$\\alpha $$1 be the total number of ways in which the committee can be formed such that the committee has 5 members, having exactly 3 boys and 2 girls.\n\n(ii) Let $$\\alpha $$2 be the total number of ways in which the committee can be formed such that the committee has at least 2 members, and having an equal number of boys and girls.\n\ni) Let $$\\alpha $$3 be the total number of ways in which the committee can be formed such that the committee has 5 members, at least 2 of them being girls.\n\n(iv) Let $$\\alpha $$4 be the total number of ways in which the committee can be formed such that the committee has 4 members, having at least 2 girls such that both M1 and G1 are NOT in the committee together.\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid black;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid black;\n            padding: 10px;\n            text-align: left;\n        }\n    \n\n    \n        LIST-I\n        LIST-II\n    \n    \n        P. The value of $\\alpha_1$ is\n        1. 136\n    \n    \n        Q. The value of $\\alpha_2$ is\n        2. 189\n    \n    \n        R. The value of $\\alpha_3$ is\n        3. 192\n    \n    \n        S. The value of $\\alpha_4$ is\n        4. 200\n    \n    \n        \n        5. 381\n    \n    \n        \n        6. 461\n    \n\nThe correct option is",
       "subject": "Mathematics",
       "topic": "permutations-and-combinations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In a high school, a committee has to be formed from a group of 6 boys M1, M2, M3, M4, M5, M6 and 5 girls G1, G2, G3, G4, G5.\n\n(i) Let $$\\alpha $$1 be the total number of ways in which the committee can be formed such that the committee has 5 members, having exactly 3 boys and 2 girls.\n\n(ii) Let $$\\alpha $$2 be the total number of ways in which the committee can be formed such that the committee has at least 2 members, and having an equal number of boys and girls.\n\ni) Let $$\\alpha $$3 be the total number of ways in which the committee can be formed such that the committee has 5 members, at least 2 of them being girls.\n\n(iv) Let $$\\alpha $$4 be the total number of ways in which the committee can be formed such that the committee has 4 members, having at least 2 girls such that both M1 and G1 are NOT in the committee together.\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid black;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid black;\n            padding: 10px;\n            text-align: left;\n        }\n    \n\n    \n        LIST-I\n        LIST-II\n    \n    \n        P. The value of $\\alpha_1$ is\n        1. 136\n    \n    \n        Q. The value of $\\alpha_2$ is\n        2. 189\n    \n    \n        R. The value of $\\alpha_3$ is\n        3. 192\n    \n    \n        S. The value of $\\alpha_4$ is\n        4. 200\n    \n    \n        \n        5. 381\n    \n    \n        \n        6. 461\n    \n\nThe correct option is",
+      "question_images": [],
+      "option_texts": {
         "A": "P $$ \\to $$ 4; Q $$ \\to $$ 6; R $$ \\to $$ 2; S $$ \\to $$ 1",
         "B": "P $$ \\to $$ 1; Q $$ \\to $$ 4; R $$ \\to $$ 2; S $$ \\to $$ 3",
         "C": "P $$ \\to $$ 4; Q $$ \\to $$ 6; R $$ \\to $$ 5; S $$ \\to $$ 2",
         "D": "P $$ \\to $$ 4; Q $$ \\to $$ 2; R $$ \\to $$ 3; S $$ \\to $$ 1"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "In a high school, a committee has to be formed from a group of 6 boys M_{1}, M_{2}, M_{3}, M_{4}, M_{5}, M_{6} and 5 girls G_{1}, G_{2}, G_{3}, G_{4}, G_{5}.(i) Let $$\\alpha $$_{1} be the total number of ways in which the committee can be formed such that the committee has 5 members, having exactly 3 boys and 2 girls.(ii) Let $$\\alpha $$_{2} be the total number of ways in which the committee can be formed such that the committee has at least 2 members, and having an equal number of boys and girls.i) Let $$\\alpha $$_{3} be the total number of ways in which the committee can be formed such that the committee has 5 members, at least 2 of them being girls.(iv) Let $$\\alpha $$_{4} be the total number of ways in which the committee can be formed such that the committee has 4 members, having at least 2 girls such that both M_{1} and G_{1} are NOT in the committee together.\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid black;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid black;\n            padding: 10px;\n            text-align: left;\n        }\n    \n\n    \n        LIST-I\n        LIST-II\n    \n    \n        P. The value of $\\alpha_1$ is\n        1. 136\n    \n    \n        Q. The value of $\\alpha_2$ is\n        2. 189\n    \n    \n        R. The value of $\\alpha_3$ is\n        3. 192\n    \n    \n        S. The value of $\\alpha_4$ is\n        4. 200\n    \n    \n        \n        5. 381\n    \n    \n        \n        6. 461\n    \n\nThe correct option is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 35,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 35,
-      "question_text": "Let $$H:{{{x^2}} \\over {{a^2}}} - {{{y^2}} \\over {{b^2}}} = 1$$, where a > b > 0, be a hyperbola in the XY-plane whose conjugate axis LM subtends an angle of 60$$^\\circ $$ at one of its vertices N. Let the area of the $$\\Delta $$LMN be $$4\\sqrt 3 $$.\n\n\n\n  \n    \n    List - I\n    \n    List - II\n  \n\n\n  \n    P.\n    The length of the conjugate axis of H is\n    1.\n    8\n  \n  \n    Q.\n    The eccentricity of H is\n    2. \n    $${4 \\over {\\sqrt 3 }}$$\n  \n  \n    R.\n    The distance between the foci of H is\n    3. \n    $${2 \\over {\\sqrt 3 }}$$\n  \n  \n    S.\n    The length of the latus rectum of H is\n    4. \n    4",
       "subject": "Mathematics",
       "topic": "hyperbola",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$H:{{{x^2}} \\over {{a^2}}} - {{{y^2}} \\over {{b^2}}} = 1$$, where a > b > 0, be a hyperbola in the XY-plane whose conjugate axis LM subtends an angle of 60$$^\\circ $$ at one of its vertices N. Let the area of the $$\\Delta $$LMN be $$4\\sqrt 3 $$.\n\n\n\n  \n    \n    List - I\n    \n    List - II\n  \n\n\n  \n    P.\n    The length of the conjugate axis of H is\n    1.\n    8\n  \n  \n    Q.\n    The eccentricity of H is\n    2. \n    $${4 \\over {\\sqrt 3 }}$$\n  \n  \n    R.\n    The distance between the foci of H is\n    3. \n    $${2 \\over {\\sqrt 3 }}$$\n  \n  \n    S.\n    The length of the latus rectum of H is\n    4. \n    4",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kywx4xok/dd6b415e-a153-4862-aca4-273e28713e1f/da808ea0-7f67-11ec-bfc2-c3b5b0b6038a/file-1kywx4xoq.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "P $$ \\to $$ 4 ; Q $$ \\to $$ 2 ; R $$ \\to $$ 1 ; S $$ \\to $$ 3",
         "B": "P $$ \\to $$ 4 ; Q $$ \\to $$ 3 ; R $$ \\to $$ 1 ; S $$ \\to $$ 2",
         "C": "P $$ \\to $$ 4 ; Q $$ \\to $$ 1 ; R $$ \\to $$ 3 ; S $$ \\to $$ 2",
         "D": "P $$ \\to $$ 3 ; Q $$ \\to $$ 4 ; R $$ \\to $$ 2 ; S $$ \\to $$ 1"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $$H:{{{x^2}} \\over {{a^2}}} - {{{y^2}} \\over {{b^2}}} = 1$$, where a > b > 0, be a hyperbola in the XY-plane whose conjugate axis LM subtends an angle of 60$$^\\circ $$ at one of its vertices N. Let the area of the $$\\Delta $$LMN be $$4\\sqrt 3 $$.\n\n  \n    \n    List - I\n    \n    List - II\n  \n\n\n  \n    P.\n    The length of the conjugate axis of H is\n    1.\n    8\n  \n  \n    Q.\n    The eccentricity of H is\n    2. \n    $${4 \\over {\\sqrt 3 }}$$\n  \n  \n    R.\n    The distance between the foci of H is\n    3. \n    $${2 \\over {\\sqrt 3 }}$$\n  \n  \n    S.\n    The length of the latus rectum of H is\n    4. \n    4",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 36,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 36,
-      "question_text": "Let $${f_1}:R \\to R,\\,{f_2}:\\left( { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right) \\to R,\\,{f_3}:( - 1,{e^{\\pi /2}} - 2) \\to R$$ and $${f_4}:R \\to R$$ be functions defined by\n\n(i) $${f_1}(x) = \\sin (\\sqrt {1 - {e^{ - {x^2}}}} )$$,\n\n(ii) $${f_2}(x) = \\left\\{ \\matrix{\n  {{|\\sin x|} \\over {\\tan { - ^1}x}}if\\,x \\ne 0,\\,where \\hfill \\cr \n  1\\,if\\,x = 0 \\hfill \\cr}  \\right.$$\n\nthe inverse trigonometric function tan$$-$$1x assumes values in $$\\left( { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right)$$,\n\n(iii) $${f_3}(x) = [\\sin ({\\log _e}(x + 2))]$$, where for $$t \\in R,\\,[t]$$ denotes the greatest integer less than or equal to t,\n\n(iv) $${f_4}(x) = \\left\\{ \\matrix{\n  {x^2}\\sin \\left( {{1 \\over x}} \\right)\\,if\\,x \\ne 0 \\hfill \\cr \n  0\\,if\\,x = 0 \\hfill \\cr}  \\right.$$\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid black;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid black;\n            padding: 10px;\n            text-align: left;\n        }\n    \n\n    \n        LIST-I\n        LIST-II\n    \n    \n        P. The function $$ f_1 $$ is\n        1. NOT continuous at $$ x = 0 $$\n    \n    \n        Q. The function $$ f_2 $$ is\n        2. continuous at $$ x = 0 $$ and NOT differentiable at $$ x = 0 $$\n    \n    \n        R. The function $$ f_3 $$ is\n        3. differentiable at $$ x = 0 $$ and its derivative is NOT continuous at $$ x = 0 $$\n    \n    \n        S. The function $$ f_4 $$ is\n        4. differentiable at $$ x = 0 $$ and its derivative is continuous at $$ x = 0 $$",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $${f_1}:R \\to R,\\,{f_2}:\\left( { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right) \\to R,\\,{f_3}:( - 1,{e^{\\pi /2}} - 2) \\to R$$ and $${f_4}:R \\to R$$ be functions defined by\n\n(i) $${f_1}(x) = \\sin (\\sqrt {1 - {e^{ - {x^2}}}} )$$,\n\n(ii) $${f_2}(x) = \\left\\{ \\matrix{\n  {{|\\sin x|} \\over {\\tan { - ^1}x}}if\\,x \\ne 0,\\,where \\hfill \\cr \n  1\\,if\\,x = 0 \\hfill \\cr}  \\right.$$\n\nthe inverse trigonometric function tan$$-$$1x assumes values in $$\\left( { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right)$$,\n\n(iii) $${f_3}(x) = [\\sin ({\\log _e}(x + 2))]$$, where for $$t \\in R,\\,[t]$$ denotes the greatest integer less than or equal to t,\n\n(iv) $${f_4}(x) = \\left\\{ \\matrix{\n  {x^2}\\sin \\left( {{1 \\over x}} \\right)\\,if\\,x \\ne 0 \\hfill \\cr \n  0\\,if\\,x = 0 \\hfill \\cr}  \\right.$$\n\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid black;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid black;\n            padding: 10px;\n            text-align: left;\n        }\n    \n\n    \n        LIST-I\n        LIST-II\n    \n    \n        P. The function $$ f_1 $$ is\n        1. NOT continuous at $$ x = 0 $$\n    \n    \n        Q. The function $$ f_2 $$ is\n        2. continuous at $$ x = 0 $$ and NOT differentiable at $$ x = 0 $$\n    \n    \n        R. The function $$ f_3 $$ is\n        3. differentiable at $$ x = 0 $$ and its derivative is NOT continuous at $$ x = 0 $$\n    \n    \n        S. The function $$ f_4 $$ is\n        4. differentiable at $$ x = 0 $$ and its derivative is continuous at $$ x = 0 $$",
+      "question_images": [],
+      "option_texts": {
         "A": "P $$ \\to $$ 2 ; Q $$ \\to $$ 3 ; R $$ \\to $$ 1 ; S $$ \\to $$ 4",
         "B": "P $$ \\to $$ 4 ; Q $$ \\to $$ 1 ; R $$ \\to $$ 2 ; S $$ \\to $$ 3",
         "C": "P $$ \\to $$ 4 ; Q $$ \\to $$ 2 ; R $$ \\to $$ 1 ; S $$ \\to $$ 3",
         "D": "P $$ \\to $$ 2 ; Q $$ \\to $$ 1 ; R $$ \\to $$ 4 ; S $$ \\to $$ 3"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Let $${f_1}:R \\to R,\\,{f_2}:\\left( { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right) \\to R,\\,{f_3}:( - 1,{e^{\\pi /2}} - 2) \\to R$$ and $${f_4}:R \\to R$$ be functions defined by(i) $${f_1}(x) = \\sin (\\sqrt {1 - {e^{ - {x^2}}}} )$$,(ii) $${f_2}(x) = \\left\\{ \\matrix{\n  {{|\\sin x|} \\over {\\tan { - ^1}x}}if\\,x \\ne 0,\\,where \\hfill \\cr \n  1\\,if\\,x = 0 \\hfill \\cr}  \\right.$$the inverse trigonometric function tan^{$$-$$1}x assumes values in $$\\left( { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right)$$,(iii) $${f_3}(x) = [\\sin ({\\log _e}(x + 2))]$$, where for $$t \\in R,\\,[t]$$ denotes the greatest integer less than or equal to t,(iv) $${f_4}(x) = \\left\\{ \\matrix{\n  {x^2}\\sin \\left( {{1 \\over x}} \\right)\\,if\\,x \\ne 0 \\hfill \\cr \n  0\\,if\\,x = 0 \\hfill \\cr}  \\right.$$\n\n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid black;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid black;\n            padding: 10px;\n            text-align: left;\n        }\n    \n\n    \n        LIST-I\n        LIST-II\n    \n    \n        P. The function $$ f_1 $$ is\n        1. NOT continuous at $$ x = 0 $$\n    \n    \n        Q. The function $$ f_2 $$ is\n        2. continuous at $$ x = 0 $$ and NOT differentiable at $$ x = 0 $$\n    \n    \n        R. The function $$ f_3 $$ is\n        3. differentiable at $$ x = 0 $$ and its derivative is NOT continuous at $$ x = 0 $$\n    \n    \n        S. The function $$ f_4 $$ is\n        4. differentiable at $$ x = 0 $$ and its derivative is continuous at $$ x = 0 $$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 37,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 37,
-      "question_text": "A particle, of mass $${10^{ - 3}}$$ $$kg$$ and charge $$1.0$$ $$C,$$ is initially at rest. At time $$t=0,$$ the particle comes under the influence of an electric field $$\\overrightarrow E \\left( t \\right) = {E_0}\\sin \\,\\,$$ $$\\omega t\\widehat i,$$ where $${E_0} = 1.0\\,N{C^{ - 1}}$$ and $$\\omega  = 10{}^3\\,rad\\,{s^{ - 1}}.$$ Consider the effect of only the electrical force on the particle. Then the maximum speed, in $$m{s^{ - 1}},$$  attained by the particle at subsequent times is _______________.",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A particle, of mass $${10^{ - 3}}$$ $$kg$$ and charge $$1.0$$ $$C,$$ is initially at rest. At time $$t=0,$$ the particle comes under the influence of an electric field $$\\overrightarrow E \\left( t \\right) = {E_0}\\sin \\,\\,$$ $$\\omega t\\widehat i,$$ where $${E_0} = 1.0\\,N{C^{ - 1}}$$ and $$\\omega  = 10{}^3\\,rad\\,{s^{ - 1}}.$$ Consider the effect of only the electrical force on the particle. Then the maximum speed, in $$m{s^{ - 1}},$$  attained by the particle at subsequent times is _______________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A particle, of mass $${10^{ - 3}}$$ $$kg$$ and charge $$1.0$$ $$C,$$ is initially at rest. At time $$t=0,$$ the particle comes under the influence of an electric field $$\\overrightarrow E \\left( t \\right) = {E_0}\\sin \\,\\,$$ $$\\omega t\\widehat i,$$ where $${E_0} = 1.0\\,N{C^{ - 1}}$$ and $$\\omega  = 10{}^3\\,rad\\,{s^{ - 1}}.$$ Consider the effect of only the electrical force on the particle. Then the maximum speed, in $$m{s^{ - 1}},$$  attained by the particle at subsequent times is _______________.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 38,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 38,
-      "question_text": "Consider a thin square plate floating on a viscous liquid in a large tank. The height $$h$$ of the liquid in the tank is much less than the width of the tank. The floating place is pulled horizontally with a constant velocity $${\\mu _{0.}}$$ Which of the following statements is (are) true?",
       "subject": "Physics",
       "topic": "properties-of-matter",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider a thin square plate floating on a viscous liquid in a large tank. The height $$h$$ of the liquid in the tank is much less than the width of the tank. The floating place is pulled horizontally with a constant velocity $${\\mu _{0.}}$$ Which of the following statements is (are) true?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kzwlvsty/e16809f2-5703-433a-9eb9-a6ba5958c468/0f6d5e50-9308-11ec-b99e-fbe4f8eda4e7/file-1kzwlvstz.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "The resistive force of liquid on the plate is inversely proportional to $$h$$",
         "B": "The resistive force of liquid on the plate is independent of the area of the plate",
         "C": "The tangential (shear) stress on the floor of the tank increases with $${\\mu _0}$$",
         "D": "The tangential (shear) stress on the plate varies linearly with the viscosity $$\\eta $$ of the liquid"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Consider a thin square plate floating on a viscous liquid in a large tank. The height $$h$$ of the liquid in the tank is much less than the width of the tank. The floating place is pulled horizontally with a constant velocity $${\\mu _{0.}}$$ Which of the following statements is (are) true?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 39,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 39,
-      "question_text": "An infinitely long thin non-conducting wire is parallel to the $$z$$-axis and carries a uniform line charge density $$\\lambda .$$ It pierces a thin non-conducting spherical shell of radius $$R$$ in such a way that the arc $$PQ$$ subtends an angle $${120^ \\circ }$$ at the center $$O$$ of the spherical shell, as shown in the figure. The permittivity of free space is $${ \\in _0}.$$ Which of the following statement is (are) true?",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An infinitely long thin non-conducting wire is parallel to the $$z$$-axis and carries a uniform line charge density $$\\lambda .$$ It pierces a thin non-conducting spherical shell of radius $$R$$ in such a way that the arc $$PQ$$ subtends an angle $${120^ \\circ }$$ at the center $$O$$ of the spherical shell, as shown in the figure. The permittivity of free space is $${ \\in _0}.$$ Which of the following statement is (are) true?",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/jXZLOn8ALRXJgzNBB/a9NUE4LA6IIPbrHCw7BqyR4y63BrE/w2MMKo3wyQ8j9W17l0ZT69/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "The electric flux through the shell is $$\\sqrt 3 R\\lambda /{ \\in _0}$$",
         "B": "The $$z$$-component of the electric field is zero at all the points on the surface of the shell",
         "C": "The electric flux through the shell is $$\\sqrt 2 R\\lambda /{ \\in _0}$$",
         "D": "The electric field is normal to the surface of the shell at all points"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "An infinitely long thin non-conducting wire is parallel to the $$z$$-axis and carries a uniform line charge density $$\\lambda .$$ It pierces a thin non-conducting spherical shell of radius $$R$$ in such a way that the arc $$PQ$$ subtends an angle $${120^ \\circ }$$ at the center $$O$$ of the spherical shell, as shown in the figure. The permittivity of free space is $${ \\in _0}.$$ Which of the following statement is (are) true?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 40,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 40,
-      "question_text": "In a radioactive decay chain, $${}_{90}^{232}Th$$ nucleus decays to $${}_{82}^{212}Pb$$ nucleus. Let $${N_\\alpha }$$ and $${N_\\beta }$$ be the number of $$\\alpha $$ and $${\\beta ^ - }$$ particles, respectively, emitted in this decay process. Which of the following statements is (are) true?",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In a radioactive decay chain, $${}_{90}^{232}Th$$ nucleus decays to $${}_{82}^{212}Pb$$ nucleus. Let $${N_\\alpha }$$ and $${N_\\beta }$$ be the number of $$\\alpha $$ and $${\\beta ^ - }$$ particles, respectively, emitted in this decay process. Which of the following statements is (are) true?",
+      "question_images": [],
+      "option_texts": {
         "A": "$${N_\\alpha } = 5$$",
         "B": "$${N_\\alpha } = 6$$",
         "C": "$${N_\\beta } = 2$$",
         "D": "$${N_\\beta } = 4$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "In a radioactive decay chain, $${}_{90}^{232}Th$$ nucleus decays to $${}_{82}^{212}Pb$$ nucleus. Let $${N_\\alpha }$$ and $${N_\\beta }$$ be the number of $$\\alpha $$ and $${\\beta ^ - }$$ particles, respectively, emitted in this decay process. Which of the following statements is (are) true?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 41,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 41,
-      "question_text": "A solid horizontal surface is covered with a thin layer of oil. A rectangular block of mass $$m=0.4$$ $$kg$$ is at rest on this surface. An impulse of $$1.0$$ $$Ns$$ is applied to the block at time $$t=0$$ so that it starts moving along the $$x$$-axis with a velocity $$v\\left( t \\right) = {v_0}{e^{ - t/\\tau }},$$ where $${v_0}$$ is a constant and $$\\tau  = 4s.$$ The displacement of the block, in metres, at $$t = \\tau $$ is ______________ Take $${e^{ - 1}} = 0.37.$$",
       "subject": "Physics",
       "topic": "laws-of-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A solid horizontal surface is covered with a thin layer of oil. A rectangular block of mass $$m=0.4$$ $$kg$$ is at rest on this surface. An impulse of $$1.0$$ $$Ns$$ is applied to the block at time $$t=0$$ so that it starts moving along the $$x$$-axis with a velocity $$v\\left( t \\right) = {v_0}{e^{ - t/\\tau }},$$ where $${v_0}$$ is a constant and $$\\tau  = 4s.$$ The displacement of the block, in metres, at $$t = \\tau $$ is ______________ Take $${e^{ - 1}} = 0.37.$$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kzwlzd8t/cecaff82-c616-40bb-8411-fdd368ba8a06/729ff5f0-9308-11ec-b99e-fbe4f8eda4e7/file-1kzwlzd8v.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A solid horizontal surface is covered with a thin layer of oil. A rectangular block of mass $$m=0.4$$ $$kg$$ is at rest on this surface. An impulse of $$1.0$$ $$Ns$$ is applied to the block at time $$t=0$$ so that it starts moving along the $$x$$-axis with a velocity $$v\\left( t \\right) = {v_0}{e^{ - t/\\tau }},$$ where $${v_0}$$ is a constant and $$\\tau  = 4s.$$ The displacement of the block, in metres, at $$t = \\tau $$ is ______________ Take $${e^{ - 1}} = 0.37.$$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 42,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 42,
-      "question_text": "In an experiment to measure the speed of sound by a resonating air column, a tuning fork of frequency $$500$$ $$Hz$$ is used. The length of the air column is varied by changing the level of water in the resonance tube. Two successive resonances are heard at air columns of length $$50.7$$ $$cm$$ and $$83.9$$ $$cm.$$ Which of the following statements is (are) true?",
       "subject": "Physics",
       "topic": "waves",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In an experiment to measure the speed of sound by a resonating air column, a tuning fork of frequency $$500$$ $$Hz$$ is used. The length of the air column is varied by changing the level of water in the resonance tube. Two successive resonances are heard at air columns of length $$50.7$$ $$cm$$ and $$83.9$$ $$cm.$$ Which of the following statements is (are) true?",
+      "question_images": [],
+      "option_texts": {
         "A": "The speed of second determined from this experiment is $$332\\,m{s^{ - 1}}$$",
         "B": "The end correction in this experiment is $$0.9$$ $$cm$$",
         "C": "The wavelength of the sound wave is $$66.4$$ $$cm$$",
         "D": "The resonance at $$50.7$$ $$cm$$ corresponds to the fundamental harmonic"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "In an experiment to measure the speed of sound by a resonating air column, a tuning fork of frequency $$500$$ $$Hz$$ is used. The length of the air column is varied by changing the level of water in the resonance tube. Two successive resonances are heard at air columns of length $$50.7$$ $$cm$$ and $$83.9$$ $$cm.$$ Which of the following statements is (are) true?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 43,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 43,
-      "question_text": "A wire is bent in the shape of a right angled triangle and is placed in front of a concave mirror of focal length $$f,$$ as shown in the figure. Which of the figures shown in the four options qualitatively represent(s)  the shape of the image of the bent wire? (These figures are not to scale.)",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A wire is bent in the shape of a right angled triangle and is placed in front of a concave mirror of focal length $$f,$$ as shown in the figure. Which of the figures shown in the four options qualitatively represent(s)  the shape of the image of the bent wire? (These figures are not to scale.)",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/t5ZN5KOAnzwxY4bnI/aGQZ60Sy99n8EyyV0pflAoQ3YgOen/HmS0eekJQRvsWqWSWOIqUi/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kysiwwh6/d4703f82-37af-4c9d-a97b-99c6def0ab83/18b02590-7cfd-11ec-83dd-692f0b81f6a2/file-1kysiwwh7.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/kQA7k3iykYgQzZiIo/1cKqy5ZlMrpP2V3XUj89TXyEWYYtr/z9Yv7xSsll8q89fAYPnL7u/image.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/imagex_cdn_examgoal_net/c52rWEtJz25f0dWSo/8feBCHTbbHilDs2c1dUVXVf8M21SV/GQd4HqtkonIPh5ECP1Pc6r/image.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/dSlJvKupMKIIdf8wL/wDCv1aoZJ1gCyJeavwuTFbHZjOlcO/W6XYuVWgi0I1MyhvcBpHhf/image.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/oof0wwokJL0z5VaD7/MLsauGnRSfZwlSg6P1EnsrF8HbKIw/tvK8iNMIdVWaqHKb0Z93TL/image.png",
+          "description": ""
+        }
+      },
       "correct_answer": "D",
-      "question": "A wire is bent in the shape of a right angled triangle and is placed in front of a concave mirror of focal length $$f,$$ as shown in the figure. Which of the figures shown in the four options qualitatively represent(s)  the shape of the image of the bent wire? (These figures are not to scale.)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 44,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 44,
-      "question_text": "A moving coil galvanometer has $$50$$ turns and each turn has an area $$2 \\times {10^{ - 4}}\\,{m^2}.$$ The magnetic field produced by the magnet inside the galvanometer is $$0.02$$ $$T.$$ The torsional constant of the suspension wire is $${10^{ - 4}}\\,N\\,m\\,ra{d^{ - 1}}.$$ When a current flows through the galvanometer, a full scale deflection occurs if the coil rotates by $$0.2$$ $$rad$$. The resistance of the coil of the galvanometer is $$50\\Omega .$$  This galvanometer is to be converted into an ammeter capable of measuring current in the range $$0-1.0$$ $$A$$. For this purpose, a shunt resistance is to be added in parallel to the galvanometer.  The value of this shunt resistance, in ohms, is _____________.",
       "subject": "Physics",
       "topic": "magnetism",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A moving coil galvanometer has $$50$$ turns and each turn has an area $$2 \\times {10^{ - 4}}\\,{m^2}.$$ The magnetic field produced by the magnet inside the galvanometer is $$0.02$$ $$T.$$ The torsional constant of the suspension wire is $${10^{ - 4}}\\,N\\,m\\,ra{d^{ - 1}}.$$ When a current flows through the galvanometer, a full scale deflection occurs if the coil rotates by $$0.2$$ $$rad$$. The resistance of the coil of the galvanometer is $$50\\Omega .$$  This galvanometer is to be converted into an ammeter capable of measuring current in the range $$0-1.0$$ $$A$$. For this purpose, a shunt resistance is to be added in parallel to the galvanometer.  The value of this shunt resistance, in ohms, is _____________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kzwm30ij/7d658d16-43f5-4834-a1f3-441f330b5efe/d806d2b0-9308-11ec-b99e-fbe4f8eda4e7/file-1kzwm30ik.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A moving coil galvanometer has $$50$$ turns and each turn has an area $$2 \\times {10^{ - 4}}\\,{m^2}.$$ The magnetic field produced by the magnet inside the galvanometer is $$0.02$$ $$T.$$ The torsional constant of the suspension wire is $${10^{ - 4}}\\,N\\,m\\,ra{d^{ - 1}}.$$ When a current flows through the galvanometer, a full scale deflection occurs if the coil rotates by $$0.2$$ $$rad$$. The resistance of the coil of the galvanometer is $$50\\Omega .$$  This galvanometer is to be converted into an ammeter capable of measuring current in the range $$0-1.0$$ $$A$$. For this purpose, a shunt resistance is to be added in parallel to the galvanometer.  The value of this shunt resistance, in ohms, is _____________.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 45,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 45,
-      "question_text": "A ball is projected from the ground at an angle of $${45^o}$$ with the horizontal surface. It reaches a maximum height of $$120$$ $$m$$ and returns to the ground. Upon hitting the ground for the first time, it loses half of its kinetic energy. Immediately after the bounce, the velocity of the ball makes an angle of $${30^o}$$  with the horizontal surface. The maximium height it reaches after the bounce, in metres, is ______________.",
       "subject": "Physics",
       "topic": "motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A ball is projected from the ground at an angle of $${45^o}$$ with the horizontal surface. It reaches a maximum height of $$120$$ $$m$$ and returns to the ground. Upon hitting the ground for the first time, it loses half of its kinetic energy. Immediately after the bounce, the velocity of the ball makes an angle of $${30^o}$$  with the horizontal surface. The maximium height it reaches after the bounce, in metres, is ______________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A ball is projected from the ground at an angle of $${45^o}$$ with the horizontal surface. It reaches a maximum height of $$120$$ $$m$$ and returns to the ground. Upon hitting the ground for the first time, it loses half of its kinetic energy. Immediately after the bounce, the velocity of the ball makes an angle of $${30^o}$$  with the horizontal surface. The maximium height it reaches after the bounce, in metres, is ______________.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 46,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 46,
-      "question_text": "A steel wire of diameter $$0.5$$ $$mm$$ and Young's modulus $$2 \\times {10^{11}}\\,\\,N{m^{ - 2}}$$ carries a load of mass $$M.$$ The length of the wire with the load is $$1.0$$ $$m.A$$ vernier scale with $$10$$ divisions is attached to the end of this wire. Next to the steel wire is a reference wire to which a main scale, of least count $$1.0$$ $$mm$$ , is attached. The $$10$$ divisions of the vernier scale correspond to $$9$$ divisions of the main scale. Initially, the zero of vernier scale coincides with the zero of main scale. If the load on the steel wire is increased by  $$1.2$$ $$kg,$$ the vernier scale division which coincides with a main scale division is _____________. Take $$g = 10\\,m\\,{s^{ - 2}}.$$  and $$\\pi  = 3.2.$$",
       "subject": "Physics",
       "topic": "units-and-measurements",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A steel wire of diameter $$0.5$$ $$mm$$ and Young's modulus $$2 \\times {10^{11}}\\,\\,N{m^{ - 2}}$$ carries a load of mass $$M.$$ The length of the wire with the load is $$1.0$$ $$m.A$$ vernier scale with $$10$$ divisions is attached to the end of this wire. Next to the steel wire is a reference wire to which a main scale, of least count $$1.0$$ $$mm$$ , is attached. The $$10$$ divisions of the vernier scale correspond to $$9$$ divisions of the main scale. Initially, the zero of vernier scale coincides with the zero of main scale. If the load on the steel wire is increased by  $$1.2$$ $$kg,$$ the vernier scale division which coincides with a main scale division is _____________. Take $$g = 10\\,m\\,{s^{ - 2}}.$$  and $$\\pi  = 3.2.$$",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A steel wire of diameter $$0.5$$ $$mm$$ and Young's modulus $$2 \\times {10^{11}}\\,\\,N{m^{ - 2}}$$ carries a load of mass $$M.$$ The length of the wire with the load is $$1.0$$ $$m.A$$ vernier scale with $$10$$ divisions is attached to the end of this wire. Next to the steel wire is a reference wire to which a main scale, of least count $$1.0$$ $$mm$$ , is attached. The $$10$$ divisions of the vernier scale correspond to $$9$$ divisions of the main scale. Initially, the zero of vernier scale coincides with the zero of main scale. If the load on the steel wire is increased by  $$1.2$$ $$kg,$$ the vernier scale division which coincides with a main scale division is _____________. Take $$g = 10\\,m\\,{s^{ - 2}}.$$  and $$\\pi  = 3.2.$$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 47,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 47,
-      "question_text": "One mole of a monatomic ideal gas undergoes an adiabatic expansion in which its volume becomes eight times its initial value. If the initial temperature of the gas is $$100\\,K$$ and the universal gas constant $$R=8.0$$ $$J\\,mo{l^{ - 1}}{K^{ - 1}},$$ the decrease in its internal energy, in Joule, is ____________.",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "One mole of a monatomic ideal gas undergoes an adiabatic expansion in which its volume becomes eight times its initial value. If the initial temperature of the gas is $$100\\,K$$ and the universal gas constant $$R=8.0$$ $$J\\,mo{l^{ - 1}}{K^{ - 1}},$$ the decrease in its internal energy, in Joule, is ____________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "One mole of a monatomic ideal gas undergoes an adiabatic expansion in which its volume becomes eight times its initial value. If the initial temperature of the gas is $$100\\,K$$ and the universal gas constant $$R=8.0$$ $$J\\,mo{l^{ - 1}}{K^{ - 1}},$$ the decrease in its internal energy, in Joule, is ____________.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 48,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 48,
-      "question_text": "In a photoelectric experiment a parallel beam of monochromatic light with power of $$200$$ $$W$$ is incident on a perfectly absorbing cathode of work function $$6.25$$ $$ev.$$ The frequency of light is just above the threshold frequency so that the photoelectrons are emitted with negligible kinetic energy. Assume that the photoelectron  emission efficiency  is $$100\\% $$. A potential difference of $$500$$ $$V$$  is applied between the cathode and the anode. All the emitted electrons are  incident normally on the anode and are absorbed.  The anode experiences a force $$F = n \\times {10^{ - 4}}$$ $$N$$ due to the impact of the electrons. The value of $$n$$  is ______________. Mass of the electron $${M_e} = 9 \\times {10^{ - 31}}\\,kg$$  and $$1.0eV = 1.6 \\times {10^{ - 19}}\\,J.$$",
       "subject": "Physics",
       "topic": "dual-nature-of-radiation",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "In a photoelectric experiment a parallel beam of monochromatic light with power of $$200$$ $$W$$ is incident on a perfectly absorbing cathode of work function $$6.25$$ $$ev.$$ The frequency of light is just above the threshold frequency so that the photoelectrons are emitted with negligible kinetic energy. Assume that the photoelectron  emission efficiency  is $$100\\% $$. A potential difference of $$500$$ $$V$$  is applied between the cathode and the anode. All the emitted electrons are  incident normally on the anode and are absorbed.  The anode experiences a force $$F = n \\times {10^{ - 4}}$$ $$N$$ due to the impact of the electrons. The value of $$n$$  is ______________. Mass of the electron $${M_e} = 9 \\times {10^{ - 31}}\\,kg$$  and $$1.0eV = 1.6 \\times {10^{ - 19}}\\,J.$$",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "In a photoelectric experiment a parallel beam of monochromatic light with power of $$200$$ $$W$$ is incident on a perfectly absorbing cathode of work function $$6.25$$ $$ev.$$ The frequency of light is just above the threshold frequency so that the photoelectrons are emitted with negligible kinetic energy. Assume that the photoelectron  emission efficiency  is $$100\\% $$. A potential difference of $$500$$ $$V$$  is applied between the cathode and the anode. All the emitted electrons are  incident normally on the anode and are absorbed.  The anode experiences a force $$F = n \\times {10^{ - 4}}$$ $$N$$ due to the impact of the electrons. The value of $$n$$  is ______________. Mass of the electron $${M_e} = 9 \\times {10^{ - 31}}\\,kg$$  and $$1.0eV = 1.6 \\times {10^{ - 19}}\\,J.$$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 49,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 49,
-      "question_text": "Consider a hydrogen-like ionized atom with atomic number $$Z$$ with a single electron. In the emission spectrum of this atom, the photon emitted in the $$n=2$$ to $$n=1$$ transition has energy $$74.8eV$$ higher than the photon emitted in the $$n=3$$ to $$n=2$$ transition. The ionization energy of the hydrogen atom is $$13.6$$ $$eV.$$ The value of $$Z$$ is ____________.",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Consider a hydrogen-like ionized atom with atomic number $$Z$$ with a single electron. In the emission spectrum of this atom, the photon emitted in the $$n=2$$ to $$n=1$$ transition has energy $$74.8eV$$ higher than the photon emitted in the $$n=3$$ to $$n=2$$ transition. The ionization energy of the hydrogen atom is $$13.6$$ $$eV.$$ The value of $$Z$$ is ____________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Consider a hydrogen-like ionized atom with atomic number $$Z$$ with a single electron. In the emission spectrum of this atom, the photon emitted in the $$n=2$$ to $$n=1$$ transition has energy $$74.8eV$$ higher than the photon emitted in the $$n=3$$ to $$n=2$$ transition. The ionization energy of the hydrogen atom is $$13.6$$ $$eV.$$ The value of $$Z$$ is ____________.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 50,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 50,
-      "question_text": "A planet of mass $$M,$$ has two natural satellites with masses $${m_1}$$  and $${m_2}.$$  The radii of their circular orbits are   $${R_1}$$ and $${R_2}$$ respectively, Ignore the gravitational force between the satellites. Define $${v_1},{L_1},{K_1}$$ and $${T_1}$$ to be , respectively, the orbital speed, angular momentum, kinetic energy and time period of revolution of satellite $$1$$; and $${v_2},{L_2},{K_2},$$ and $${T_2}$$ to be the corresponding quantities of satellite $$2.$$  Given $${m_1}/{m_2} = 2$$ and $${R_1}/{R_2} = 1/4,$$  match the ratios in List-$${\\rm I}$$  to the numbers in List-$${\\rm II}.$$\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-wv9z{font-size:22px;text-align:center}\n.tg .tg-de48{font-weight:bold;font-size:22px;text-align:center}\n\n\n  \n    LIST - I \n    LIST - II\n  \n  \n    P.\n    v1/v2\n    1.\n    1/8\n  \n  \n    Q.\n    L1/L2\n    2.\n    1\n  \n  \n    R.\n    K1/K2\n    3.\n    2\n  \n  \n    S.\n    T1/T2\n    4.\n    8",
       "subject": "Physics",
       "topic": "gravitation",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A planet of mass $$M,$$ has two natural satellites with masses $${m_1}$$  and $${m_2}.$$  The radii of their circular orbits are   $${R_1}$$ and $${R_2}$$ respectively, Ignore the gravitational force between the satellites. Define $${v_1},{L_1},{K_1}$$ and $${T_1}$$ to be , respectively, the orbital speed, angular momentum, kinetic energy and time period of revolution of satellite $$1$$; and $${v_2},{L_2},{K_2},$$ and $${T_2}$$ to be the corresponding quantities of satellite $$2.$$  Given $${m_1}/{m_2} = 2$$ and $${R_1}/{R_2} = 1/4,$$  match the ratios in List-$${\\rm I}$$  to the numbers in List-$${\\rm II}.$$\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-wv9z{font-size:22px;text-align:center}\n.tg .tg-de48{font-weight:bold;font-size:22px;text-align:center}\n\n\n  \n    LIST - I \n    LIST - II\n  \n  \n    P.\n    v1/v2\n    1.\n    1/8\n  \n  \n    Q.\n    L1/L2\n    2.\n    1\n  \n  \n    R.\n    K1/K2\n    3.\n    2\n  \n  \n    S.\n    T1/T2\n    4.\n    8",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1kzwm74pi/2e50d185-c0bf-461f-b6ef-b824770d3ec3/4a80b360-9309-11ec-b99e-fbe4f8eda4e7/file-1kzwm74pj.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$P \\to 4;Q \\to 2;R \\to 1;S \\to 3$$",
         "B": "$$P \\to 3;Q \\to 2;R \\to 4;S \\to 1$$",
         "C": "$$P \\to 2;Q \\to 3;R \\to 1;S \\to 4$$",
         "D": "$$P \\to 2;Q \\to 3;R \\to 4;S \\to 1$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A planet of mass $$M,$$ has two natural satellites with masses $${m_1}$$  and $${m_2}.$$  The radii of their circular orbits are   $${R_1}$$ and $${R_2}$$ respectively, Ignore the gravitational force between the satellites. Define $${v_1},{L_1},{K_1}$$ and $${T_1}$$ to be , respectively, the orbital speed, angular momentum, kinetic energy and time period of revolution of satellite $$1$$; and $${v_2},{L_2},{K_2},$$ and $${T_2}$$ to be the corresponding quantities of satellite $$2.$$  Given $${m_1}/{m_2} = 2$$ and $${R_1}/{R_2} = 1/4,$$  match the ratios in List-$${\\rm I}$$  to the numbers in List-$${\\rm II}.$$\n\n.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-wv9z{font-size:22px;text-align:center}\n.tg .tg-de48{font-weight:bold;font-size:22px;text-align:center}\n\n\n  \n    LIST - I \n    LIST - II\n  \n  \n    P.\n    v_{1}/v_{2}\n    1.\n    1/8\n  \n  \n    Q.\n    L_{1}/L_{2}\n    2.\n    1\n  \n  \n    R.\n    K_{1}/K_{2}\n    3.\n    2\n  \n  \n    S.\n    T_{1}/T_{2}\n    4.\n    8",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 0.75
+      "negMarks": 0.75,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 51,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 51,
-      "question_text": "The electric field $$E$$ is measured at a point $$P(0,0,d)$$ generated due to various charge distributions and the dependence of $$E$$ on $$d$$ is found to be different for different charge distributions. List-$${\\rm I}$$  contains different relations between $$E$$ and $$d$$. List-$${\\rm II}$$ describes different electric charge distributions, along with their locations. Match the functions in List-$${\\rm I}$$ with the related charge distributions in List-$${\\rm II}$$. \n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-yttm{font-weight:bold;font-size:22px;text-align:left}\n.tg .tg-pjk9{font-size:22px;text-align:left}\n.tg .tg-cyim{font-size:22px;text-align:left;vertical-align:top}\n\n\n  \n    LIST - I \n    LIST - II\n  \n  \n    P.\n    $$E$$ is independent of $$d$$\n    1.\n    A point charge Q at the origin\n  \n  \n    Q.\n    $$E\\, \\propto \\,1/d$$\n    2.\n    A small dipole with point charges \n$$Q$$ at $$\\left( {0,0,l} \\right)$$ and $$-Q$$ at \n$$\\left( {0,0, - l} \\right).$$ Take $$2l <  < d$$ \n  \n  \n    R.\n    $$E\\, \\propto \\,1/{d^2}$$\n    3.\n    An infinite line charge coincident  \nwith the x-axis, with uniform linear charge density $$\\lambda $$ \n  \n  \n    S.\n    $$E\\, \\propto \\,1/{d^3}$$\n    4.\n    Two infinite wires carrying \nuniform linear charge density \nparallel to the $$x$$-axis. The one \nalong $$\\left( {y = 0,z = l} \\right)$$ has \na charge density $$ + \\lambda $$ and the one \n\nalong $$\\left( {y = 0,z =  - l} \\right)$$ has a \ncharge density Take \n  \n  \n    \n    \n    5.\n    Infinite plane charge coincident \n\nwith the $$xy$$-plane with uniform surface charge density",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The electric field $$E$$ is measured at a point $$P(0,0,d)$$ generated due to various charge distributions and the dependence of $$E$$ on $$d$$ is found to be different for different charge distributions. List-$${\\rm I}$$  contains different relations between $$E$$ and $$d$$. List-$${\\rm II}$$ describes different electric charge distributions, along with their locations. Match the functions in List-$${\\rm I}$$ with the related charge distributions in List-$${\\rm II}$$. \n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-yttm{font-weight:bold;font-size:22px;text-align:left}\n.tg .tg-pjk9{font-size:22px;text-align:left}\n.tg .tg-cyim{font-size:22px;text-align:left;vertical-align:top}\n\n\n  \n    LIST - I \n    LIST - II\n  \n  \n    P.\n    $$E$$ is independent of $$d$$\n    1.\n    A point charge Q at the origin\n  \n  \n    Q.\n    $$E\\, \\propto \\,1/d$$\n    2.\n    A small dipole with point charges \n$$Q$$ at $$\\left( {0,0,l} \\right)$$ and $$-Q$$ at \n$$\\left( {0,0, - l} \\right).$$ Take $$2l <  < d$$ \n  \n  \n    R.\n    $$E\\, \\propto \\,1/{d^2}$$\n    3.\n    An infinite line charge coincident  \nwith the x-axis, with uniform linear charge density $$\\lambda $$ \n  \n  \n    S.\n    $$E\\, \\propto \\,1/{d^3}$$\n    4.\n    Two infinite wires carrying \nuniform linear charge density \nparallel to the $$x$$-axis. The one \nalong $$\\left( {y = 0,z = l} \\right)$$ has \na charge density $$ + \\lambda $$ and the one \n\nalong $$\\left( {y = 0,z =  - l} \\right)$$ has a \ncharge density Take \n  \n  \n    \n    \n    5.\n    Infinite plane charge coincident \n\nwith the $$xy$$-plane with uniform surface charge density",
+      "question_images": [],
+      "option_texts": {
         "A": "$$P \\to 5;Q \\to 3,4;R \\to 1;S \\to 2$$",
         "B": "$$P \\to 5;Q \\to 3;R \\to 1,4;S \\to 2$$",
         "C": "$$P \\to 4;Q \\to 3;R \\to 1,2;S \\to 4$$",
         "D": "$$P \\to 4;Q \\to 2,3;R \\to 1;S \\to 5$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The electric field $$E$$ is measured at a point $$P(0,0,d)$$ generated due to various charge distributions and the dependence of $$E$$ on $$d$$ is found to be different for different charge distributions. List-$${\\rm I}$$  contains different relations between $$E$$ and $$d$$. List-$${\\rm II}$$ describes different electric charge distributions, along with their locations. Match the functions in List-$${\\rm I}$$ with the related charge distributions in List-$${\\rm II}$$. \n\n.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-yttm{font-weight:bold;font-size:22px;text-align:left}\n.tg .tg-pjk9{font-size:22px;text-align:left}\n.tg .tg-cyim{font-size:22px;text-align:left;vertical-align:top}\n\n\n  \n    LIST - I \n    LIST - II\n  \n  \n    P.\n    $$E$$ is independent of $$d$$\n    1.\n    A point charge Q at the origin\n  \n  \n    Q.\n    $$E\\, \\propto \\,1/d$$\n    2.\n    A small dipole with point charges $$Q$$ at $$\\left( {0,0,l} \\right)$$ and $$-Q$$ at $$\\left( {0,0, - l} \\right).$$ Take $$2l <  < d$$ \n  \n  \n    R.\n    $$E\\, \\propto \\,1/{d^2}$$\n    3.\n    An infinite line charge coincident  with the x-axis, with uniform linear charge density $$\\lambda $$ \n  \n  \n    S.\n    $$E\\, \\propto \\,1/{d^3}$$\n    4.\n    Two infinite wires carrying uniform linear charge density parallel to the $$x$$-axis. The one along $$\\left( {y = 0,z = l} \\right)$$ has a charge density $$ + \\lambda $$ and the one \nalong $$\\left( {y = 0,z =  - l} \\right)$$ has a charge density Take \n  \n  \n    \n    \n    5.\n    Infinite plane charge coincident \nwith the $$xy$$-plane with uniform surface charge density",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 0.75
+      "negMarks": 0.75,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 52,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 52,
-      "question_text": "One mole of a monatomic ideal gas undergoes four thermodynamic processes as shown schematically in the $$PV$$-diagram below. Among these four processes, one is isobaric, one is isochoric, one is isothermal and one is adiabatic. Match the processes mentioned in List-I  with the corresponding statements in List-II.\n\n\n \n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-wv9z{font-size:22px;text-align:center}\n.tg .tg-de48{font-weight:bold;font-size:22px;text-align:center}\n\n\n  \n    LIST - I \n    LIST - II\n  \n  \n    P.\n    In process I\n    1.\n    Work done by the gas is zero\n  \n  \n    Q.\n    In process II\n    2.\n    Temperature of the gas remains\nunchanged\n  \n  \n    R.\n    In process III\n    3.\n    No heat is exchanged between \nthe gas and its surroundings\n  \n  \n    S.\n    In process IV\n    4.\n    Work done by the gas is 6P0V0",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "One mole of a monatomic ideal gas undergoes four thermodynamic processes as shown schematically in the $$PV$$-diagram below. Among these four processes, one is isobaric, one is isochoric, one is isothermal and one is adiabatic. Match the processes mentioned in List-I  with the corresponding statements in List-II.\n\n\n \n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-wv9z{font-size:22px;text-align:center}\n.tg .tg-de48{font-weight:bold;font-size:22px;text-align:center}\n\n\n  \n    LIST - I \n    LIST - II\n  \n  \n    P.\n    In process I\n    1.\n    Work done by the gas is zero\n  \n  \n    Q.\n    In process II\n    2.\n    Temperature of the gas remains\nunchanged\n  \n  \n    R.\n    In process III\n    3.\n    No heat is exchanged between \nthe gas and its surroundings\n  \n  \n    S.\n    In process IV\n    4.\n    Work done by the gas is 6P0V0",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/agxEKBwKUYWG9lMV4/gNcA8RFoJUQu37FlNeHSLMCgNIEZH/R0HriGSprj4Eb3WDw7NOOp/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$P \\to 4;Q \\to 3;R \\to 1;S \\to 2$$",
         "B": "$$P \\to 1;Q \\to 3;R \\to 2;S \\to 4$$",
         "C": "$$P \\to 3;Q \\to 4;R \\to 1;S \\to 2$$",
         "D": "$$P \\to 3;Q \\to 4;R \\to 2;S \\to $$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "One mole of a monatomic ideal gas undergoes four thermodynamic processes as shown schematically in the $$PV$$-diagram below. Among these four processes, one is isobaric, one is isochoric, one is isothermal and one is adiabatic. Match the processes mentioned in List-I  with the corresponding statements in List-II.\n \n\n.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-wv9z{font-size:22px;text-align:center}\n.tg .tg-de48{font-weight:bold;font-size:22px;text-align:center}\n\n\n  \n    LIST - I \n    LIST - II\n  \n  \n    P.\n    In process I\n    1.\n    Work done by the gas is zero\n  \n  \n    Q.\n    In process II\n    2.\n    Temperature of the gas remainsunchanged\n  \n  \n    R.\n    In process III\n    3.\n    No heat is exchanged between the gas and its surroundings\n  \n  \n    S.\n    In process IV\n    4.\n    Work done by the gas is 6P0V0",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 53,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 53,
-      "question_text": "In the List-$${\\rm I}$$  below, four different paths of a particle are given as functions of time. In these functions, $$\\alpha $$ and $$\\beta $$ are positive constants of appropriate dimensions and  $$\\alpha  \\ne \\beta $$  In each case, the force acting on the particle is either zero or conservative. In List-$${\\rm I}{\\rm I}$$, five physical quantities of the particle are mentioned $$\\overrightarrow p $$ is the linear momentum, $$\\overrightarrow L $$ is the angular momentum about the origin, $$K$$ is the kinetic energy, $$U$$ is the potential energy and $$E$$ is the total energy. Match each path in List-$${\\rm I}$$ with those quantities in List-$${\\rm II}$$, which are conserved for that path.\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-pjk9{font-size:22px;text-align:left}\n.tg .tg-wrg0{font-size:22px;text-align:center;vertical-align:top}\n.tg .tg-wv9z{font-size:22px;text-align:center}\n.tg .tg-de48{font-weight:bold;font-size:22px;text-align:center}\n\n\n  \n    LIST - I \n    LIST - II\n  \n  \n    P.\n    $$\\overrightarrow r $$(t)=$$\\alpha $$ $$t\\,\\widehat i + \\beta t\\widehat j$$ \n    1.\n    $$\\overrightarrow p $$\n  \n  \n    Q.\n    $$\\overrightarrow r \\left( t \\right) = \\alpha \\cos \\,\\omega t\\,\\widehat i + \\beta \\sin \\omega t\\,\\widehat j$$  \n    2.\n    $$\\overrightarrow L $$\n  \n  \n    R.\n    $$\\overrightarrow r \\left( t \\right) = \\alpha \\left( {\\cos \\omega t\\,\\widehat i + \\sin \\omega t\\widehat j} \\right)$$ \n    3.\n    K\n  \n  \n    S.\n    $$\\overrightarrow r \\left( t \\right) = \\alpha t\\,\\widehat i + {\\beta  \\over 2}{t^2}\\widehat j$$ \n    4.\n    U\n  \n  \n    \n    \n    5.\n    E",
       "subject": "Physics",
       "topic": "work-power-and-energy",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In the List-$${\\rm I}$$  below, four different paths of a particle are given as functions of time. In these functions, $$\\alpha $$ and $$\\beta $$ are positive constants of appropriate dimensions and  $$\\alpha  \\ne \\beta $$  In each case, the force acting on the particle is either zero or conservative. In List-$${\\rm I}{\\rm I}$$, five physical quantities of the particle are mentioned $$\\overrightarrow p $$ is the linear momentum, $$\\overrightarrow L $$ is the angular momentum about the origin, $$K$$ is the kinetic energy, $$U$$ is the potential energy and $$E$$ is the total energy. Match each path in List-$${\\rm I}$$ with those quantities in List-$${\\rm II}$$, which are conserved for that path.\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-pjk9{font-size:22px;text-align:left}\n.tg .tg-wrg0{font-size:22px;text-align:center;vertical-align:top}\n.tg .tg-wv9z{font-size:22px;text-align:center}\n.tg .tg-de48{font-weight:bold;font-size:22px;text-align:center}\n\n\n  \n    LIST - I \n    LIST - II\n  \n  \n    P.\n    $$\\overrightarrow r $$(t)=$$\\alpha $$ $$t\\,\\widehat i + \\beta t\\widehat j$$ \n    1.\n    $$\\overrightarrow p $$\n  \n  \n    Q.\n    $$\\overrightarrow r \\left( t \\right) = \\alpha \\cos \\,\\omega t\\,\\widehat i + \\beta \\sin \\omega t\\,\\widehat j$$  \n    2.\n    $$\\overrightarrow L $$\n  \n  \n    R.\n    $$\\overrightarrow r \\left( t \\right) = \\alpha \\left( {\\cos \\omega t\\,\\widehat i + \\sin \\omega t\\widehat j} \\right)$$ \n    3.\n    K\n  \n  \n    S.\n    $$\\overrightarrow r \\left( t \\right) = \\alpha t\\,\\widehat i + {\\beta  \\over 2}{t^2}\\widehat j$$ \n    4.\n    U\n  \n  \n    \n    \n    5.\n    E",
+      "question_images": [],
+      "option_texts": {
         "A": "$$P \\to 1,2,3,4,5;\\,Q \\to 2,5;R \\to 2,3,4,5;S \\to 5$$",
         "B": "$$P \\to 1,2,3,4,5;{\\mkern 1mu} Q \\to 3,5;R \\to 2,3,4,5;S \\to 2,5$$",
         "C": "$$P \\to 2,3,4;{\\mkern 1mu} Q \\to 5;R \\to 1,2,4;S \\to 2,5$$",
         "D": "$$P \\to 1,2,3,4,5;{\\mkern 1mu} Q \\to 2,5;R \\to 2,3,4,5;S \\to 2,5$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "In the List-$${\\rm I}$$  below, four different paths of a particle are given as functions of time. In these functions, $$\\alpha $$ and $$\\beta $$ are positive constants of appropriate dimensions and  $$\\alpha  \\ne \\beta $$  In each case, the force acting on the particle is either zero or conservative. In List-$${\\rm I}{\\rm I}$$, five physical quantities of the particle are mentioned $$\\overrightarrow p $$ is the linear momentum, $$\\overrightarrow L $$ is the angular momentum about the origin, $$K$$ is the kinetic energy, $$U$$ is the potential energy and $$E$$ is the total energy. Match each path in List-$${\\rm I}$$ with those quantities in List-$${\\rm II}$$, which are conserved for that path.\n\n.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-pjk9{font-size:22px;text-align:left}\n.tg .tg-wrg0{font-size:22px;text-align:center;vertical-align:top}\n.tg .tg-wv9z{font-size:22px;text-align:center}\n.tg .tg-de48{font-weight:bold;font-size:22px;text-align:center}\n\n\n  \n    LIST - I \n    LIST - II\n  \n  \n    P.\n    $$\\overrightarrow r $$(t)=$$\\alpha $$ $$t\\,\\widehat i + \\beta t\\widehat j$$ \n    1.\n    $$\\overrightarrow p $$\n  \n  \n    Q.\n    $$\\overrightarrow r \\left( t \\right) = \\alpha \\cos \\,\\omega t\\,\\widehat i + \\beta \\sin \\omega t\\,\\widehat j$$  \n    2.\n    $$\\overrightarrow L $$\n  \n  \n    R.\n    $$\\overrightarrow r \\left( t \\right) = \\alpha \\left( {\\cos \\omega t\\,\\widehat i + \\sin \\omega t\\widehat j} \\right)$$ \n    3.\n    K\n  \n  \n    S.\n    $$\\overrightarrow r \\left( t \\right) = \\alpha t\\,\\widehat i + {\\beta  \\over 2}{t^2}\\widehat j$$ \n    4.\n    U\n  \n  \n    \n    \n    5.\n    E",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 0.75
+      "negMarks": 0.75,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 54,
       "year": 2018,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 54,
-      "question_text": "A particle of mass $$m$$ is initially at rest at the origin. It is subjected to a force and starts moving along the $$x$$-axis. Its kinetic energy $$K$$ changes with time as $$dK/dt = \\gamma t,$$ where $$\\gamma $$ is a positive constant of appropriate dimensions. Which of a positive constant of appropriate dimensions. Which of the following statement is (are) true?",
       "subject": "Physics",
       "topic": "work-power-and-energy",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A particle of mass $$m$$ is initially at rest at the origin. It is subjected to a force and starts moving along the $$x$$-axis. Its kinetic energy $$K$$ changes with time as $$dK/dt = \\gamma t,$$ where $$\\gamma $$ is a positive constant of appropriate dimensions. Which of a positive constant of appropriate dimensions. Which of the following statement is (are) true?",
+      "question_images": [],
+      "option_texts": {
         "A": "The force applied on the particle is constant",
         "B": "The speed of the particle is proportional to time",
         "C": "The distance of the particle from the origin increases linearly with time",
         "D": "The force is conservative"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A particle of mass $$m$$ is initially at rest at the origin. It is subjected to a force and starts moving along the $$x$$-axis. Its kinetic energy $$K$$ changes with time as $$dK/dt = \\gamma t,$$ where $$\\gamma $$ is a positive constant of appropriate dimensions. Which of a positive constant of appropriate dimensions. Which of the following statement is (are) true?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     }
   ]
 }

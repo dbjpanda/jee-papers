@@ -8,1444 +8,1726 @@
   },
   "questions": [
     {
+      "question_number": 1,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 1,
-      "question_text": "For the elementary reaction M $$\\to$$ N, the rate of disappearance of M increases by a factor of 8 upon\ndoubling the concentration of M. The order of the reaction with respect to M is",
       "subject": "Chemistry",
       "topic": "chemical-kinetics-and-nuclear-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "For the elementary reaction M $$\\to$$ N, the rate of disappearance of M increases by a factor of 8 upon\ndoubling the concentration of M. The order of the reaction with respect to M is",
+      "question_images": [],
+      "option_texts": {
         "A": "4",
         "B": "3",
         "C": "2",
         "D": "1"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "For the elementary reaction M $$\\to$$ N, the rate of disappearance of M increases by a factor of 8 upon\ndoubling the concentration of M. The order of the reaction with respect to M is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 2,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 2,
-      "question_text": "Hydrogen peroxide in its reaction with KIO4 and NH2OH respectively, is acting as a",
       "subject": "Chemistry",
       "topic": "hydrogen",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Hydrogen peroxide in its reaction with KIO4 and NH2OH respectively, is acting as a",
+      "question_images": [],
+      "option_texts": {
         "A": "reducing agent, oxidising agent",
         "B": "reducing agent, reducing agent",
         "C": "oxidising agent, oxidising agent",
         "D": "oxidising agent, reducing agent"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Hydrogen peroxide in its reaction with KIO_{4} and NH_{2}OH respectively, is acting as a",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 3,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 3,
-      "question_text": "For the process\n\nH2O(l) $$\\to$$ H2O(g)\n\nat T = 100oC and 1 atmosphere pressure, the correct choice is",
       "subject": "Chemistry",
       "topic": "thermodynamics",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "For the process\n\nH2O(l) $$\\to$$ H2O(g)\n\nat T = 100oC and 1 atmosphere pressure, the correct choice is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\Delta S$$_{system} > 0 and $$\\Delta S$$_{surroundings} > 0",
         "B": "$$\\Delta S$$_{system} > 0 and $$\\Delta S$$_{surroundings} < 0",
         "C": "$$\\Delta S$$_{system} < 0 and $$\\Delta S$$_{surroundings} > 0",
         "D": "$$\\Delta S$$_{system} < 0 and $$\\Delta S$$_{surroundings} < 0"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "For the process\nH_{2}O(l) $$\\to$$ H_{2}O(g)\nat T = 100^{o}C and 1 atmosphere pressure, the correct choice is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 4,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 4,
-      "question_text": "Assuming 2s – 2p mixing is NOT operative, the paramagnetic species among the following is",
       "subject": "Chemistry",
       "topic": "chemical-bonding-and-molecular-structure",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Assuming 2s – 2p mixing is NOT operative, the paramagnetic species among the following is",
+      "question_images": [],
+      "option_texts": {
         "A": "Be_{2}",
         "B": "B_{2}",
         "C": "C_{2}",
         "D": "N_{2}"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Assuming 2s – 2p mixing is NOT operative, the paramagnetic species among the following is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 5,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 5,
-      "question_text": "For the identification of $$\\beta$$-naphthol using dye test, it is necessary to use",
       "subject": "Chemistry",
       "topic": "alcohols-phenols-and-ethers",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "For the identification of $$\\beta$$-naphthol using dye test, it is necessary to use",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l17zisnl/1ffd7170-2add-4ac5-8592-8d2d41790aa4/3c1a6010-ad16-11ec-abb2-4983f0354b7b/file-1l17zisnm.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "dichloromethane solution of $$\\beta$$-naphthol.",
         "B": "acidic solution of $$\\beta$$-naphthol.",
         "C": "neutral solution of $$\\beta$$-naphthol.",
         "D": "alkaline solution of $$\\beta$$-naphthol."
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "For the identification of $$\\beta$$-naphthol using dye test, it is necessary to use",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 6,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 6,
-      "question_text": "Isomers of hexane, based on their branching, can be divided into three distinct classes as shown in the figure.\n\n\n\nThe correct order of their boiling point is",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Isomers of hexane, based on their branching, can be divided into three distinct classes as shown in the figure.\n\n\n\nThe correct order of their boiling point is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l17z24g9/3125aa02-3dfb-44a0-82db-79de7ef30122/6c75e6a0-ad14-11ec-abb2-4983f0354b7b/file-1l17z24ga.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "I > II > III",
         "B": "III > II > I",
         "C": "II > III > I",
         "D": "III > I > III"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Isomers of hexane, based on their branching, can be divided into three distinct classes as shown in the figure. \n \nThe correct order of their boiling point is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 7,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 7,
-      "question_text": "The acidic hydrolysis of ether (X) shown below is fastest when",
       "subject": "Chemistry",
       "topic": "alcohols-phenols-and-ethers",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The acidic hydrolysis of ether (X) shown below is fastest when",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l181b7e7/37521ed4-5f72-41d7-84ec-e3b0310add67/3b461bf0-ad1d-11ec-9281-4dfe83126473/file-1l181b7e8.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l181gp3z/9ec78ddc-cf08-4692-8b27-8c581214b05d/d4013af0-ad1d-11ec-9281-4dfe83126473/file-1l181gp40.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "one phenyl group is replaced by a methyl group.",
         "B": "one phenyl group is replaced by a para-methoxyphenyl group.",
         "C": "two phenyl groups are replaced by two para-methoxyphenyl groups.",
         "D": "no structural change is made to X."
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The acidic hydrolysis of ether (X) shown below is fastest when",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 8,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 8,
-      "question_text": "The major product in the following reaction is",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The major product in the following reaction is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l187l0cd/480d7ab5-569a-48c3-ba08-8757a7ba7944/c2b163c0-ad35-11ec-87e6-9f5904790b2a/file-1l187l0ce.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l187rjj4/bba09652-ba10-4bb9-aa2b-9e267a86f987/785eca00-ad36-11ec-87e6-9f5904790b2a/file-1l187rjj5.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l187ljno/1f2c4ec6-35eb-4d81-a346-32dec85eca97/d19cf840-ad35-11ec-87e6-9f5904790b2a/file-1l187ljnp.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l187m4f8/0b55ab51-4434-41fb-a0d1-55a9d5cc52b7/e1a76a40-ad35-11ec-87e6-9f5904790b2a/file-1l187m4f9.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l187mlxt/4d3c2a2c-6bd9-49da-88b8-f48bf1000763/ef2f7720-ad35-11ec-87e6-9f5904790b2a/file-1l187mlxu.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l187n5ue/b8e7a2ac-c600-4dfa-b888-c6b6e4e928bb/fe8f9f60-ad35-11ec-87e6-9f5904790b2a/file-1l187n5uf.png",
+          "description": ""
+        }
+      },
       "correct_answer": "D",
-      "question": "The major product in the following reaction is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 9,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 9,
-      "question_text": "The product formed in the reaction of SOCl2 with white phosphorus is",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The product formed in the reaction of SOCl2 with white phosphorus is",
+      "question_images": [],
+      "option_texts": {
         "A": "PCl_{3}",
         "B": "SO_{2}Cl_{2}",
         "C": "SCl_{2}",
         "D": "POCl_{3}"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The product formed in the reaction of SOCl_{2} with white phosphorus is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 10,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 10,
-      "question_text": "Under ambient conditions, the total number of gases released as products in the final step of the reaction scheme shown below is",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Under ambient conditions, the total number of gases released as products in the final step of the reaction scheme shown below is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l182pd82/137fa332-48d9-4364-b6c0-e87b7de8a0a3/ae3bf120-ad22-11ec-ab24-0fd9886f660b/file-1l182pd83.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l182siul/4dcbf5f9-1b5f-42e3-a37e-1baf2778e033/060208e0-ad23-11ec-ab24-0fd9886f660b/file-1l182sium.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "0",
         "B": "1",
         "C": "2",
         "D": "3"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Under ambient conditions, the total number of gases released as products in the final step of the reaction scheme shown below is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 11,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 11,
-      "question_text": "The value of d in cm (shown in the figure), as estimated from Graham's law, is",
       "subject": "Chemistry",
       "topic": "chemical-kinetics-and-nuclear-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The value of d in cm (shown in the figure), as estimated from Graham's law, is",
+      "question_images": [],
+      "option_texts": {
         "A": "8",
         "B": "12",
         "C": "16",
         "D": "20"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The value of d in cm (shown in the figure), as estimated from Graham's law, is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 12,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 12,
-      "question_text": "The experimental value of d is found to be smaller than the estimate obtained using Graham's law. This is due to",
       "subject": "Chemistry",
       "topic": "chemical-kinetics-and-nuclear-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The experimental value of d is found to be smaller than the estimate obtained using Graham's law. This is due to",
+      "question_images": [],
+      "option_texts": {
         "A": "larger mean free path for X as compared to that of Y.",
         "B": "larger mean free path for Y as compared to that of X.",
         "C": "increased collision frequency of Y with the inert gas as compared to that of X with the inert gas.",
         "D": "increased collision frequency of X with the inert gas as compared to that of Y with the inert gas."
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The experimental value of d is found to be smaller than the estimate obtained using Graham's law. This is due to",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 13,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 13,
-      "question_text": "The product X is",
       "subject": "Chemistry",
       "topic": "hydrocarbons",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The product X is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l183ttkl/79c0fccb-8d0b-4993-9fcf-a71024b32c3c/133a7250-ad27-11ec-ab24-0fd9886f660b/file-1l183ttkm.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l183vfx3/342c972f-b05d-4a78-83f2-9e99502dabdb/404cd670-ad27-11ec-ab24-0fd9886f660b/file-1l183vfx4.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lyk7dlyj/b2274671-1375-43ba-93cd-6f0a92eac3b9/8036dca0-4121-11ef-8dc9-bdd8da6c5a87/file-jaoe38c1lyk7dlyk.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l183fje2/574e3b7c-716e-47b6-a2e4-081499966ea5/860914a0-ad25-11ec-ab24-0fd9886f660b/file-1l183fje3.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l183lahx/1470a3e6-27b2-46b7-ba98-f13633c67189/26058060-ad26-11ec-ab24-0fd9886f660b/file-1l183lahy.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l183mu43/cd094b0c-d386-41af-ba2e-1c0e211fa9ef/50fb9430-ad26-11ec-ab24-0fd9886f660b/file-1l183mu44.png",
+          "description": ""
+        }
+      },
       "correct_answer": "A",
-      "question": "The product X is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 14,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 14,
-      "question_text": "The correct statement with respect to product Y is",
       "subject": "Chemistry",
       "topic": "hydrocarbons",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The correct statement with respect to product Y is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l1841etv/6dc7d350-c4a9-4f68-8ad5-6a5b285145de/e6503a30-ad27-11ec-ab24-0fd9886f660b/file-1l1841etw.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "It gives a positive Tollens test and is a functional isomer of X.",
         "B": "It gives a positive Tollens test and is a geometrical isomer of X.",
         "C": "It gives a positive iodoform test and is a functional isomer of X.",
         "D": "It gives a positive iodoform test and is a geometrical isomer of X."
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The correct statement with respect to product Y is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 15,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 15,
-      "question_text": "M1, Q and R, respectively, are",
       "subject": "Chemistry",
       "topic": "salt-analysis",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "M1, Q and R, respectively, are",
+      "question_images": [],
+      "option_texts": {
         "A": "Zn^{2+}, KCN and HCl",
         "B": "Ni^{2+}, HCl and KCN",
         "C": "Cd^{2+}, KCN and HCl",
         "D": "Co^{2+}, HCl and KCN"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "M1, Q and R, respectively, are",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 16,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 16,
-      "question_text": "Reagent S is",
       "subject": "Chemistry",
       "topic": "salt-analysis",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Reagent S is",
+      "question_images": [],
+      "option_texts": {
         "A": "K_{4}[Fe(CN)_{6}]",
         "B": "Na_{2}HPO_{4}",
         "C": "K_{2}CrO_{4}",
         "D": "KOH"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Reagent S is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 17,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 17,
-      "question_text": "Match each coordination compound in List I with an appropriate pair of characteristics from List II and select the correct answer using the code given below the lists.\n\n{en = H2NCH2CH2NH2; atomic numbers : Ti = 22, Cr = 24; Co = 27; Pt = 78}\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List I\n    \n    List II\n    \n  \n\n\n  \n    P.\n    $$[Cr{(N{H_3})_3}C{l_2}]Cl$$\n\n    1.\n    Paramagnetic and exhibits ionisation isomerism.\n  \n  \n    Q.\n    $$[Ti{({H_2}O)_5}Cl]{(N{O_3})_2}$$\n\n    2.\n    Diamagnetic and exhibits cis-trans isomerism.\n  \n  \n    R.\n    $$[Pt(en)(N{H_3})Cl]N{O_3}$$\n\n    3.\n    Paramagnetic and exhibits cis-trans isomerism.\n  \n  \n    S.\n    $$[Co{(N{H_3})_4}{(N{O_3})_2}]N{O_3}$$\n\n    4.\n    Diamagnetic and exhibits ionisation isomerism.",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Match each coordination compound in List I with an appropriate pair of characteristics from List II and select the correct answer using the code given below the lists.\n\n{en = H2NCH2CH2NH2; atomic numbers : Ti = 22, Cr = 24; Co = 27; Pt = 78}\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List I\n    \n    List II\n    \n  \n\n\n  \n    P.\n    $$[Cr{(N{H_3})_3}C{l_2}]Cl$$\n\n    1.\n    Paramagnetic and exhibits ionisation isomerism.\n  \n  \n    Q.\n    $$[Ti{({H_2}O)_5}Cl]{(N{O_3})_2}$$\n\n    2.\n    Diamagnetic and exhibits cis-trans isomerism.\n  \n  \n    R.\n    $$[Pt(en)(N{H_3})Cl]N{O_3}$$\n\n    3.\n    Paramagnetic and exhibits cis-trans isomerism.\n  \n  \n    S.\n    $$[Co{(N{H_3})_4}{(N{O_3})_2}]N{O_3}$$\n\n    4.\n    Diamagnetic and exhibits ionisation isomerism.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l198k2jr/8019ca22-b341-420c-9637-2162f155fd82/5a5dcf70-adc6-11ec-87cf-6f66ef86ef1e/file-1l198k2js.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l198xs02/401f2ac9-7ada-4d55-bd34-c5659579a087/d78c0e20-adc7-11ec-87cf-6f66ef86ef1e/file-1l198xs03.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l198z824/a2f81857-bff3-42fe-8ad2-4a668509e0c0/ffc28cc0-adc7-11ec-87cf-6f66ef86ef1e/file-1l198z825.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l19908l0/5e5a74c1-655b-44c2-a074-375a6e547119/1bf99a50-adc8-11ec-87cf-6f66ef86ef1e/file-1l19908l1.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l1992ssd/357699a9-2073-4067-8bd7-2798ec4e85b9/633365e0-adc8-11ec-87cf-6f66ef86ef1e/file-1l1992sse.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "P-4, Q-2, R-3, S-1",
         "B": "P-3, Q-1, R-4, S-2",
         "C": "P-2, Q-1, R-3, S-4",
         "D": "P-1, Q-3, R-4, S-2"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Match each coordination compound in List I with an appropriate pair of characteristics from List II and select the correct answer using the code given below the lists. \n{en = H_{2}NCH_{2}CH_{2}NH_{2}; atomic numbers : Ti = 22, Cr = 24; Co = 27; Pt = 78} \n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List I\n    \n    List II\n    \n  \n\n\n  \n    P.\n    $$[Cr{(N{H_3})_3}C{l_2}]Cl$$\n    1.\n    Paramagnetic and exhibits ionisation isomerism.\n  \n  \n    Q.\n    $$[Ti{({H_2}O)_5}Cl]{(N{O_3})_2}$$\n    2.\n    Diamagnetic and exhibits cis-trans isomerism.\n  \n  \n    R.\n    $$[Pt(en)(N{H_3})Cl]N{O_3}$$\n    3.\n    Paramagnetic and exhibits cis-trans isomerism.\n  \n  \n    S.\n    $$[Co{(N{H_3})_4}{(N{O_3})_2}]N{O_3}$$\n    4.\n    Diamagnetic and exhibits ionisation isomerism.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 18,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 18,
-      "question_text": "Match the orbital overlap figures shown in List I with the description given in List II and select the correct answer using the code given below the lists.",
       "subject": "Chemistry",
       "topic": "chemical-bonding-and-molecular-structure",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Match the orbital overlap figures shown in List I with the description given in List II and select the correct answer using the code given below the lists.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l180ew0t/d6849537-4aab-4dd6-a3c2-b6196edf68e0/b898c4d0-ad19-11ec-9281-4dfe83126473/file-1l180ew0u.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l180t6es/fa26b522-6dfb-4528-8862-d74aba981d54/45f30740-ad1b-11ec-9281-4dfe83126473/file-1l180t6et.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "P-2, Q-1, R-3, S-4",
         "B": "P-4, Q-3, R-1, S-2",
         "C": "P-2, Q-3, R-1, S-4",
         "D": "P-4, Q-1, R-3, S-2"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Match the orbital overlap figures shown in List I with the description given in List II and select the correct answer using the code given below the lists.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 19,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 19,
-      "question_text": "Different possible thermal decomposition pathways for peroxyesters are shown below. Match each pathway from List I with an appropriate structure from List II and select the correct answer using the code given below the lists.",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Different possible thermal decomposition pathways for peroxyesters are shown below. Match each pathway from List I with an appropriate structure from List II and select the correct answer using the code given below the lists.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l195jtzq/9221389b-50b4-406d-8f1c-2d9482e85f57/985e6c50-adba-11ec-bd35-a9ec30f721d1/file-1l195jtzr.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lyl6b9fq/04bd4d39-7a23-4ea1-845f-bfa71436e149/1e719260-41aa-11ef-9e4a-29b676b26404/file-jaoe38c1lyl6b9fs.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l195tasc/76808e8a-e455-485b-9f1a-a4eb62192964/9fa011c0-adbb-11ec-bd35-a9ec30f721d1/file-1l195tasd.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l196ciaq/8b798fb9-8453-4858-a233-d7047ee8e69a/b5cd2f30-adbd-11ec-bd35-a9ec30f721d1/file-1l196ciar.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l196e691/46f536e4-aa3e-4b18-9479-ff3513c4b2f8/e41cf550-adbd-11ec-bd35-a9ec30f721d1/file-1l196e692.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l195vcw9/af9d29d4-ff03-4608-984e-231ee1b023c2/d8df5f90-adbb-11ec-bd35-a9ec30f721d1/file-1l195vcwa.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "P-1, Q-3, R-4, S-2",
         "B": "P-2, Q-4, R-3, S-1",
         "C": "P-4, Q-1, R-2, S-3",
         "D": "P-3, Q-2, R-1, S-4"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Different possible thermal decomposition pathways for peroxyesters are shown below. Match each pathway from List I with an appropriate structure from List II and select the correct answer using the code given below the lists.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 20,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 20,
-      "question_text": "Match the four starting materials (P, Q, R, S) given in List I with the corresponding reaction schemes (I, II, III, IV) provided in List II and select the correct answer using the code given below the lists.",
       "subject": "Chemistry",
       "topic": "compounds-containing-nitrogen",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Match the four starting materials (P, Q, R, S) given in List I with the corresponding reaction schemes (I, II, III, IV) provided in List II and select the correct answer using the code given below the lists.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l196mh1o/155a2b62-76c1-41ee-92b9-e4e06da6a98c/caecf0c0-adbe-11ec-bd35-a9ec30f721d1/file-1l196mh1p.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l196vxca/99015d8f-5702-46d0-aee3-73f0a75dc0aa/d1cb8ea0-adbf-11ec-bd35-a9ec30f721d1/file-1l196vxcb.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l1971mkn/b1f7b56b-958f-4bd5-859d-6a5a4499b7b5/70550970-adc0-11ec-bd35-a9ec30f721d1/file-1l1971mko.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l19786rw/83468c7b-002b-4f64-96c2-ce0fd767c2ff/26cac8c0-adc1-11ec-bd35-a9ec30f721d1/file-1l19786rx.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l196sybh/51ee1cb3-85b0-4b82-8d6b-15267bf0371e/7f1f9de0-adbf-11ec-bd35-a9ec30f721d1/file-1l196sybi.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "P-1, Q-4, R-2, S-3",
         "B": "P-3, Q-1, R-4, S-2",
         "C": "P-3, Q-4, R-2, S-1",
         "D": "P-4, Q-1, R-3, S-2"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Match the four starting materials (P, Q, R, S) given in List I with the corresponding reaction schemes (I, II, III, IV) provided in List II and select the correct answer using the code given below the lists.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 21,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 21,
-      "question_text": "Three boys and two girls stand in a queue.  The probability, that the number of boys ahead of every girl is at least one more than the number of girls ahead of her, is",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Three boys and two girls stand in a queue.  The probability, that the number of boys ahead of every girl is at least one more than the number of girls ahead of her, is",
+      "question_images": [],
+      "option_texts": {
         "A": "$${1 \\over 2}$$",
         "B": "$${1 \\over 3}$$",
         "C": "$${2 \\over 3}$$",
         "D": "$${3 \\over 4}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Three boys and two girls stand in a queue.  The probability, that the number of boys ahead of every girl is at least one more than the number of girls ahead of her, is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 22,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 22,
-      "question_text": "For  $$x \\in \\left( {0,\\pi } \\right),$$ the equation $$\\sin x + 2\\sin 2x - \\sin 3x = 3$$ has",
       "subject": "Mathematics",
       "topic": "trigonometric-functions-and-equations",
       "sub_topic": "trigonometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "For  $$x \\in \\left( {0,\\pi } \\right),$$ the equation $$\\sin x + 2\\sin 2x - \\sin 3x = 3$$ has",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzqlawqr/f137155a-7e03-421d-a7c0-728200ad2886/e0338930-5870-11ef-878d-7f9d967e4420/file-jaoe38c1lzqlawqs.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "infinitely many solutions",
         "B": "three solutions",
         "C": "one solution",
         "D": "no solution"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "For  $$x \\in \\left( {0,\\pi } \\right),$$ the equation $$\\sin x + 2\\sin 2x - \\sin 3x = 3$$ has",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 23,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 23,
-      "question_text": "Match List $$I$$ with List $$II$$ and select the correct answer using the code given below the lists:\n$$\\,\\,\\,\\,$$ $$\\,\\,\\,\\,$$ $$\\,\\,\\,\\,$$ List-$$I$$\n\n(P.)$$\\,\\,\\,\\,$$ Let $$y\\left( x \\right) = \\cos \\left( {3{{\\cos }^{ - 1}}x} \\right),x \\in \\left[ { - 1,1} \\right],x \\ne  \\pm {{\\sqrt 3 } \\over 2}.$$ Then $${1 \\over {y\\left( x \\right)}}\\left\\{ {\\left( {{x^2} - 1} \\right){{{d^2}y\\left( x \\right)} \\over {d{x^2}}} + x{{dy\\left( x \\right)} \\over {dx}}} \\right\\}$$ equals \n\n (Q.)$$\\,\\,\\,\\,$$ Let $${A_1},{A_2},....,{A_n}\\left( {n > 2} \\right)$$ be the vertices of a regular polygon of $$n$$ sides with its centre at the origin. Let $${\\overrightarrow {{a_k}} }$$ be the position vector of the point $${A_k},k = 1,2,......,n.$$ \n$$$f\\left| {\\sum\\nolimits_{k = 1}^{n - 1} {\\left( {\\overrightarrow {{a_k}}  \\times \\overrightarrow {{a_{k + 1}}} } \\right)} } \\right| = \\left| {\\sum\\limits_{k = 1}^{n - 1} {\\left( {\\overrightarrow {{a_k}} .\\,\\overrightarrow {{a_{k + 1}}} } \\right)} } \\right|,$$$\nthen the minimum value of $$n$$ is \n\n(R.)$$\\,\\,\\,\\,$$ If the normal from the point $$P(h, 1)$$ on the ellipse $${{{x^2}} \\over 6} + {{{y^2}} \\over 3} = 1$$ is perpendicular to the line $$x+y=8,$$ then the value of $$h$$ is \n\n(S.)$$\\,\\,\\,\\,$$ Number of positive solutions satisfying the equation $${\\tan ^{ - 1}}\\left( {{1 \\over {2x + 1}}} \\right) + {\\tan ^{ - 1}}\\left( {{1 \\over {4x + 1}}} \\right) = {\\tan ^{ - 1}}\\left( {{2 \\over {{x^2}}}} \\right)$$ is\n\n$$\\,\\,\\,\\,$$ $$\\,\\,\\,\\,$$ $$\\,\\,\\,\\,$$List-$$II$$\n\n(1.)$$\\,\\,\\,\\,$$ $$1$$\n\n(2.)$$\\,\\,\\,\\,$$ $$2$$\n\n(3.)$$\\,\\,\\,\\,$$ $$8$$\n\n(4.)$$\\,\\,\\,\\,$$ $$9$$",
       "subject": "Mathematics",
       "topic": "inverse-trigonometric-functions",
       "sub_topic": "trigonometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Match List $$I$$ with List $$II$$ and select the correct answer using the code given below the lists:\n$$\\,\\,\\,\\,$$ $$\\,\\,\\,\\,$$ $$\\,\\,\\,\\,$$ List-$$I$$\n\n(P.)$$\\,\\,\\,\\,$$ Let $$y\\left( x \\right) = \\cos \\left( {3{{\\cos }^{ - 1}}x} \\right),x \\in \\left[ { - 1,1} \\right],x \\ne  \\pm {{\\sqrt 3 } \\over 2}.$$ Then $${1 \\over {y\\left( x \\right)}}\\left\\{ {\\left( {{x^2} - 1} \\right){{{d^2}y\\left( x \\right)} \\over {d{x^2}}} + x{{dy\\left( x \\right)} \\over {dx}}} \\right\\}$$ equals \n\n (Q.)$$\\,\\,\\,\\,$$ Let $${A_1},{A_2},....,{A_n}\\left( {n > 2} \\right)$$ be the vertices of a regular polygon of $$n$$ sides with its centre at the origin. Let $${\\overrightarrow {{a_k}} }$$ be the position vector of the point $${A_k},k = 1,2,......,n.$$ \n$$$f\\left| {\\sum\\nolimits_{k = 1}^{n - 1} {\\left( {\\overrightarrow {{a_k}}  \\times \\overrightarrow {{a_{k + 1}}} } \\right)} } \\right| = \\left| {\\sum\\limits_{k = 1}^{n - 1} {\\left( {\\overrightarrow {{a_k}} .\\,\\overrightarrow {{a_{k + 1}}} } \\right)} } \\right|,$$$\nthen the minimum value of $$n$$ is \n\n(R.)$$\\,\\,\\,\\,$$ If the normal from the point $$P(h, 1)$$ on the ellipse $${{{x^2}} \\over 6} + {{{y^2}} \\over 3} = 1$$ is perpendicular to the line $$x+y=8,$$ then the value of $$h$$ is \n\n(S.)$$\\,\\,\\,\\,$$ Number of positive solutions satisfying the equation $${\\tan ^{ - 1}}\\left( {{1 \\over {2x + 1}}} \\right) + {\\tan ^{ - 1}}\\left( {{1 \\over {4x + 1}}} \\right) = {\\tan ^{ - 1}}\\left( {{2 \\over {{x^2}}}} \\right)$$ is\n\n$$\\,\\,\\,\\,$$ $$\\,\\,\\,\\,$$ $$\\,\\,\\,\\,$$List-$$II$$\n\n(1.)$$\\,\\,\\,\\,$$ $$1$$\n\n(2.)$$\\,\\,\\,\\,$$ $$2$$\n\n(3.)$$\\,\\,\\,\\,$$ $$8$$\n\n(4.)$$\\,\\,\\,\\,$$ $$9$$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzqp0qbz/b72833ef-01a0-4967-9d8b-f182b6d6ff03/69ac86e0-587f-11ef-b0b2-83775b007c6f/file-jaoe38c1lzqp0qc0.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$P = 4,Q = 3,R = 2,S = 1$$",
         "B": "$$P = 2,Q = 4,R = 3,S = 1$$",
         "C": "$$P = 4,Q = 3,R = 1,S = 2$$",
         "D": "$$P = 2,Q = 4,R = 1,S = 3$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Match List $$I$$ with List $$II$$ and select the correct answer using the code given below the lists:\n$$\\,\\,\\,\\,$$ $$\\,\\,\\,\\,$$ $$\\,\\,\\,\\,$$ List-$$I$$\n(P.)$$\\,\\,\\,\\,$$ Let $$y\\left( x \\right) = \\cos \\left( {3{{\\cos }^{ - 1}}x} \\right),x \\in \\left[ { - 1,1} \\right],x \\ne  \\pm {{\\sqrt 3 } \\over 2}.$$ Then $${1 \\over {y\\left( x \\right)}}\\left\\{ {\\left( {{x^2} - 1} \\right){{{d^2}y\\left( x \\right)} \\over {d{x^2}}} + x{{dy\\left( x \\right)} \\over {dx}}} \\right\\}$$ equals \n (Q.)$$\\,\\,\\,\\,$$ Let $${A_1},{A_2},....,{A_n}\\left( {n > 2} \\right)$$ be the vertices of a regular polygon of $$n$$ sides with its centre at the origin. Let $${\\overrightarrow {{a_k}} }$$ be the position vector of the point $${A_k},k = 1,2,......,n.$$ \n$$$f\\left| {\\sum\\nolimits_{k = 1}^{n - 1} {\\left( {\\overrightarrow {{a_k}}  \\times \\overrightarrow {{a_{k + 1}}} } \\right)} } \\right| = \\left| {\\sum\\limits_{k = 1}^{n - 1} {\\left( {\\overrightarrow {{a_k}} .\\,\\overrightarrow {{a_{k + 1}}} } \\right)} } \\right|,$$$\nthen the minimum value of $$n$$ is \n(R.)$$\\,\\,\\,\\,$$ If the normal from the point $$P(h, 1)$$ on the ellipse $${{{x^2}} \\over 6} + {{{y^2}} \\over 3} = 1$$ is perpendicular to the line $$x+y=8,$$ then the value of $$h$$ is \n(S.)$$\\,\\,\\,\\,$$ Number of positive solutions satisfying the equation $${\\tan ^{ - 1}}\\left( {{1 \\over {2x + 1}}} \\right) + {\\tan ^{ - 1}}\\left( {{1 \\over {4x + 1}}} \\right) = {\\tan ^{ - 1}}\\left( {{2 \\over {{x^2}}}} \\right)$$ is\n$$\\,\\,\\,\\,$$ $$\\,\\,\\,\\,$$ $$\\,\\,\\,\\,$$List-$$II$$\n(1.)$$\\,\\,\\,\\,$$ $$1$$\n(2.)$$\\,\\,\\,\\,$$ $$2$$\n(3.)$$\\,\\,\\,\\,$$ $$8$$\n(4.)$$\\,\\,\\,\\,$$ $$9$$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 24,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 24,
-      "question_text": "Box $$1$$ contains three cards bearing numbers $$1,2,3;$$ box $$2$$ contains five cards bearing numbers $$1,2,3,4,5;$$ and box $$3$$ contains seven cards bearing numbers $$1,2,3,4,5,6,7.$$ A card is drawn from each of the boxes. Let $${x_i}$$ be number on the card drawn from the $${i^{th}}$$ box, $$i=1,2,3.$$\nThe probability that $${x_1},$$, $${x_2},$$ $${x_3}$$ are in an arithmetic progression, is",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Box $$1$$ contains three cards bearing numbers $$1,2,3;$$ box $$2$$ contains five cards bearing numbers $$1,2,3,4,5;$$ and box $$3$$ contains seven cards bearing numbers $$1,2,3,4,5,6,7.$$ A card is drawn from each of the boxes. Let $${x_i}$$ be number on the card drawn from the $${i^{th}}$$ box, $$i=1,2,3.$$\nThe probability that $${x_1},$$, $${x_2},$$ $${x_3}$$ are in an arithmetic progression, is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzqnnm2e/e55dba28-b1b7-4ef0-9016-729b59e167bd/13bb2160-587a-11ef-8932-d58c32ea8111/file-jaoe38c1lzqnnm2f.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{9} \\over {105}}$$",
         "B": "$${{10} \\over {105}}$$",
         "C": "$${{11} \\over {105}}$$",
         "D": "$${{7} \\over {105}}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Box $$1$$ contains three cards bearing numbers $$1,2,3;$$ box $$2$$ contains five cards bearing numbers $$1,2,3,4,5;$$ and box $$3$$ contains seven cards bearing numbers $$1,2,3,4,5,6,7.$$ A card is drawn from each of the boxes. Let $${x_i}$$ be number on the card drawn from the $${i^{th}}$$ box, $$i=1,2,3.$$\nThe probability that $${x_1},$$, $${x_2},$$ $${x_3}$$ are in an arithmetic progression, is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 25,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 25,
-      "question_text": "Box $$1$$ contains three cards bearing numbers $$1,2,3;$$ box $$2$$ contains five cards bearing numbers $$1,2,3,4,5;$$ and box $$3$$ contains seven cards bearing numbers $$1,2,3,4,5,6,7.$$ A card is drawn from each of the boxes. Let $${x_i}$$ be number on the card drawn from the $${i^{th}}$$ box, $$i=1,2,3.$$\nThe probability that $${x_1} + {x_2} + {x_3}$$ is odd, is",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Box $$1$$ contains three cards bearing numbers $$1,2,3;$$ box $$2$$ contains five cards bearing numbers $$1,2,3,4,5;$$ and box $$3$$ contains seven cards bearing numbers $$1,2,3,4,5,6,7.$$ A card is drawn from each of the boxes. Let $${x_i}$$ be number on the card drawn from the $${i^{th}}$$ box, $$i=1,2,3.$$\nThe probability that $${x_1} + {x_2} + {x_3}$$ is odd, is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzqnnm2e/e55dba28-b1b7-4ef0-9016-729b59e167bd/13bb2160-587a-11ef-8932-d58c32ea8111/file-jaoe38c1lzqnnm2f.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{29} \\over {105}}$$",
         "B": "$${{53} \\over {105}}$$",
         "C": "$${{57} \\over {105}}$$",
         "D": "$${{1} \\over {2}}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Box $$1$$ contains three cards bearing numbers $$1,2,3;$$ box $$2$$ contains five cards bearing numbers $$1,2,3,4,5;$$ and box $$3$$ contains seven cards bearing numbers $$1,2,3,4,5,6,7.$$ A card is drawn from each of the boxes. Let $${x_i}$$ be number on the card drawn from the $${i^{th}}$$ box, $$i=1,2,3.$$\nThe probability that $${x_1} + {x_2} + {x_3}$$ is odd, is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 26,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 26,
-      "question_text": "Let $$a, r, s, t$$ be nonzero real numbers. Let $$P\\,\\,\\left( {a{t^2},2at} \\right),\\,\\,Q,\\,\\,\\,R\\,\\,\\left( {a{r^2},2ar} \\right)$$ and $$S\\,\\,\\left( {a{s^2},2as} \\right)$$ be distinct points on the parabola $${y^2} = 4ax$$. Suppose that $$PQ$$ is the focal chord and lines $$QR$$ and $$PK$$ are parallel, where $$K$$ is the point $$(2a,0)$$\nIf $$st=1$$, then the tangent at $$P$$ and the normal at $$S$$ to the parabola meet at a point whose ordinate is",
       "subject": "Mathematics",
       "topic": "parabola",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$a, r, s, t$$ be nonzero real numbers. Let $$P\\,\\,\\left( {a{t^2},2at} \\right),\\,\\,Q,\\,\\,\\,R\\,\\,\\left( {a{r^2},2ar} \\right)$$ and $$S\\,\\,\\left( {a{s^2},2as} \\right)$$ be distinct points on the parabola $${y^2} = 4ax$$. Suppose that $$PQ$$ is the focal chord and lines $$QR$$ and $$PK$$ are parallel, where $$K$$ is the point $$(2a,0)$$\nIf $$st=1$$, then the tangent at $$P$$ and the normal at $$S$$ to the parabola meet at a point whose ordinate is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzqn4gt5/5edb11fb-71da-4a3c-8b27-07bca65e9eb0/ff4be090-5877-11ef-8932-d58c32ea8111/file-jaoe38c1lzqn4gt6.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{{{\\left( {{t^2} + 1} \\right)}^2}} \\over {2{t^3}}}$$",
         "B": "$${{a{{\\left( {{t^2} + 1} \\right)}^2}} \\over {2{t^3}}}$$",
         "C": "$${{a{{\\left( {{t^2} + 1} \\right)}^2}} \\over {{t^3}}}$$",
         "D": "$${{a{{\\left( {{t^2} + 2} \\right)}^2}} \\over {{t^3}}}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $$a, r, s, t$$ be nonzero real numbers. Let $$P\\,\\,\\left( {a{t^2},2at} \\right),\\,\\,Q,\\,\\,\\,R\\,\\,\\left( {a{r^2},2ar} \\right)$$ and $$S\\,\\,\\left( {a{s^2},2as} \\right)$$ be distinct points on the parabola $${y^2} = 4ax$$. Suppose that $$PQ$$ is the focal chord and lines $$QR$$ and $$PK$$ are parallel, where $$K$$ is the point $$(2a,0)$$\nIf $$st=1$$, then the tangent at $$P$$ and the normal at $$S$$ to the parabola meet at a point whose ordinate is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 27,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 27,
-      "question_text": "Let $${z_k}$$ = $$\\cos \\left( {{{2k\\pi } \\over {10}}} \\right) + i\\,\\,\\sin \\left( {{{2k\\pi } \\over {10}}} \\right);\\,k = 1,2....,9$$\n  List-I \n  \n\n   P.   For each  $${z_k}$$ = there exits as $${z_j}$$ such that $${z_k}$$.$${z_j}$$ = 1\n\n   Q.  There exists a $$k \\in \\left\\{ {1,2,....,9} \\right\\}$$ such that $${z_1}.z = {z_k}$$ has no solution z in the set of complex numbers   \n\n   R.  $${{\\left| {1 - {z_1}} \\right|\\,\\left| {1 - {z_2}} \\right|\\,....\\left| {1 - {z_9}} \\right|} \\over {10}}$$ equals\n\n   S.  $$1 - \\sum\\limits_{k = 1}^9 {\\cos \\left( {{{2k\\pi } \\over {10}}} \\right)} $$ equals\n  List-II \n  \n\n  1.  True\n\n  2.  False \n\n  3.  1\n\n  4.  2",
       "subject": "Mathematics",
       "topic": "complex-numbers",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $${z_k}$$ = $$\\cos \\left( {{{2k\\pi } \\over {10}}} \\right) + i\\,\\,\\sin \\left( {{{2k\\pi } \\over {10}}} \\right);\\,k = 1,2....,9$$\n  List-I \n  \n\n   P.   For each  $${z_k}$$ = there exits as $${z_j}$$ such that $${z_k}$$.$${z_j}$$ = 1\n\n   Q.  There exists a $$k \\in \\left\\{ {1,2,....,9} \\right\\}$$ such that $${z_1}.z = {z_k}$$ has no solution z in the set of complex numbers   \n\n   R.  $${{\\left| {1 - {z_1}} \\right|\\,\\left| {1 - {z_2}} \\right|\\,....\\left| {1 - {z_9}} \\right|} \\over {10}}$$ equals\n\n   S.  $$1 - \\sum\\limits_{k = 1}^9 {\\cos \\left( {{{2k\\pi } \\over {10}}} \\right)} $$ equals\n  List-II \n  \n\n  1.  True\n\n  2.  False \n\n  3.  1\n\n  4.  2",
+      "question_images": [],
+      "option_texts": {
         "A": "P = 1, Q = 2, R = 4, S = 3",
         "B": "P = 2, Q = 1, R = 3, S = 4",
         "C": "P = 1, Q = 2, R = 3, S = 4",
         "D": "P =2, Q = 1, R = 4, S = 3"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let $${z_k}$$ = $$\\cos \\left( {{{2k\\pi } \\over {10}}} \\right) + i\\,\\,\\sin \\left( {{{2k\\pi } \\over {10}}} \\right);\\,k = 1,2....,9$$\n  List-I    \n   P.   For each  $${z_k}$$ = there exits as $${z_j}$$ such that $${z_k}$$.$${z_j}$$ = 1\n   Q.  There exists a $$k \\in \\left\\{ {1,2,....,9} \\right\\}$$ such that $${z_1}.z = {z_k}$$ has no solution z in the set of complex numbers   \n   R.  $${{\\left| {1 - {z_1}} \\right|\\,\\left| {1 - {z_2}} \\right|\\,....\\left| {1 - {z_9}} \\right|} \\over {10}}$$ equals\n   S.  $$1 - \\sum\\limits_{k = 1}^9 {\\cos \\left( {{{2k\\pi } \\over {10}}} \\right)} $$ equals\n  List-II    \n  1.  True\n  2.  False \n  3.  1\n  4.  2",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 28,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 28,
-      "question_text": "The quadratic equation $$p(x)$$ $$ = 0$$  with real coefficients has purely imaginary roots. Then the equation $$p(p(x))=0$$ has",
       "subject": "Mathematics",
       "topic": "quadratic-equation-and-inequalities",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The quadratic equation $$p(x)$$ $$ = 0$$  with real coefficients has purely imaginary roots. Then the equation $$p(p(x))=0$$ has",
+      "question_images": [],
+      "option_texts": {
         "A": "one purely imaginary root",
         "B": "all real roots",
         "C": "two real and two purely imaginary  roots",
         "D": "neither real nor purely imaginary roots"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The quadratic equation $$p(x)$$ $$ = 0$$  with real coefficients has purely imaginary roots. Then the equation $$p(p(x))=0$$ has",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 29,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 29,
-      "question_text": "Coefficient of $${x^{11}}$$ in the expansion of $${\\left( {1 + {x^2}} \\right)^4}{\\left( {1 + {x^3}} \\right)^7}{\\left( {1 + {x^4}} \\right)^{12}}$$ is",
       "subject": "Mathematics",
       "topic": "mathematical-induction-and-binomial-theorem",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Coefficient of $${x^{11}}$$ in the expansion of $${\\left( {1 + {x^2}} \\right)^4}{\\left( {1 + {x^3}} \\right)^7}{\\left( {1 + {x^4}} \\right)^{12}}$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "1051",
         "B": "1106",
         "C": "1113",
         "D": "1120"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Coefficient of $${x^{11}}$$ in the expansion of $${\\left( {1 + {x^2}} \\right)^4}{\\left( {1 + {x^3}} \\right)^7}{\\left( {1 + {x^4}} \\right)^{12}}$$ is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 30,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 30,
-      "question_text": "Six cards and six envelopes are numbered 1, 2, 3, 4, 5, 6 and cards are to be placed in envelopes so that each envelope contains exactly one card and no card is placed in the envelope bearing the same number and moreover the card numbered 1 is always placed in envelope numbered 2. Then the number of ways it can be done is",
       "subject": "Mathematics",
       "topic": "permutations-and-combinations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Six cards and six envelopes are numbered 1, 2, 3, 4, 5, 6 and cards are to be placed in envelopes so that each envelope contains exactly one card and no card is placed in the envelope bearing the same number and moreover the card numbered 1 is always placed in envelope numbered 2. Then the number of ways it can be done is",
+      "question_images": [],
+      "option_texts": {
         "A": "264",
         "B": "265",
         "C": "53",
         "D": "67"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Six cards and six envelopes are numbered 1, 2, 3, 4, 5, 6 and cards are to be placed in envelopes so that each envelope contains exactly one card and no card is placed in the envelope bearing the same number and moreover the card numbered 1 is always placed in envelope numbered 2. Then the number of ways it can be done is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 31,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 31,
-      "question_text": "The common tangents to the circle $${x^2} + {y^2} = 2$$ and the parabola $${y^2} = 8x$$ touch the circle at the points $$P, Q$$ and the parabola at the points $$R$$, $$S$$. Then the area of the quadrilateral $$PQRS$$ is",
       "subject": "Mathematics",
       "topic": "ellipse",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The common tangents to the circle $${x^2} + {y^2} = 2$$ and the parabola $${y^2} = 8x$$ touch the circle at the points $$P, Q$$ and the parabola at the points $$R$$, $$S$$. Then the area of the quadrilateral $$PQRS$$ is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzqkmotz/38d61776-307d-4307-bee4-3d21bc172c53/3eabd470-586e-11ef-9c29-0db97be36189/file-jaoe38c1lzqkmou0.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzqksrnx/3fdf7a11-3174-4595-ab5c-661a38fb6fa7/e7b6abd0-586e-11ef-9e64-d9c958c457ed/file-jaoe38c1lzqksrny.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$3$$",
         "B": "$$6$$",
         "C": "$$9$$",
         "D": "$$15$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The common tangents to the circle $${x^2} + {y^2} = 2$$ and the parabola $${y^2} = 8x$$ touch the circle at the points $$P, Q$$ and the parabola at the points $$R$$, $$S$$. Then the area of the quadrilateral $$PQRS$$ is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 32,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 32,
-      "question_text": "Let $$a, r, s, t$$ be nonzero real numbers. Let $$P\\,\\,\\left( {a{t^2},2at} \\right),\\,\\,Q,\\,\\,\\,R\\,\\,\\left( {a{r^2},2ar} \\right)$$ and $$S\\,\\,\\left( {a{s^2},2as} \\right)$$ be distinct points on the parabola $${y^2} = 4ax$$. Suppose that $$PQ$$ is the focal chord and lines $$QR$$ and $$PK$$ are parallel, where $$K$$ is the point $$(2a,0)$$\nThe value of $$r$$ is",
       "subject": "Mathematics",
       "topic": "parabola",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$a, r, s, t$$ be nonzero real numbers. Let $$P\\,\\,\\left( {a{t^2},2at} \\right),\\,\\,Q,\\,\\,\\,R\\,\\,\\left( {a{r^2},2ar} \\right)$$ and $$S\\,\\,\\left( {a{s^2},2as} \\right)$$ be distinct points on the parabola $${y^2} = 4ax$$. Suppose that $$PQ$$ is the focal chord and lines $$QR$$ and $$PK$$ are parallel, where $$K$$ is the point $$(2a,0)$$\nThe value of $$r$$ is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzqmmfcj/fd8f2251-0caf-42ae-8af1-df4ffd951727/099a5830-5876-11ef-8932-d58c32ea8111/file-jaoe38c1lzqmmfck.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$ - {1 \\over t}$$",
         "B": "$${{{t^2} + 1} \\over t}$$",
         "C": "$$  {1 \\over t}$$",
         "D": "$${{{t^2} - 1} \\over t}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Let $$a, r, s, t$$ be nonzero real numbers. Let $$P\\,\\,\\left( {a{t^2},2at} \\right),\\,\\,Q,\\,\\,\\,R\\,\\,\\left( {a{r^2},2ar} \\right)$$ and $$S\\,\\,\\left( {a{s^2},2as} \\right)$$ be distinct points on the parabola $${y^2} = 4ax$$. Suppose that $$PQ$$ is the focal chord and lines $$QR$$ and $$PK$$ are parallel, where $$K$$ is the point $$(2a,0)$$\nThe value of $$r$$ is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 33,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 33,
-      "question_text": "The function $$y=f(x)$$ is the solution of the differential equation\n\n$${{dy} \\over {dx}} + {{xy} \\over {{x^2} - 1}} = {{{x^4} + 2x} \\over {\\sqrt {1 - {x^2}} }}\\,$$ in $$(-1,1)$$ satisfying $$f(0)=0$$. \nThen $$\\int\\limits_{ - {{\\sqrt 3 } \\over 2}}^{{{\\sqrt 3 } \\over 2}} {f\\left( x \\right)} \\,d\\left( x \\right)$$ is",
       "subject": "Mathematics",
       "topic": "differential-equations",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The function $$y=f(x)$$ is the solution of the differential equation\n\n$${{dy} \\over {dx}} + {{xy} \\over {{x^2} - 1}} = {{{x^4} + 2x} \\over {\\sqrt {1 - {x^2}} }}\\,$$ in $$(-1,1)$$ satisfying $$f(0)=0$$. \nThen $$\\int\\limits_{ - {{\\sqrt 3 } \\over 2}}^{{{\\sqrt 3 } \\over 2}} {f\\left( x \\right)} \\,d\\left( x \\right)$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "$${\\pi  \\over 3} - {{\\sqrt 3 } \\over 2}$$",
         "B": "$${\\pi  \\over 3} - {{\\sqrt 3 } \\over 4}$$",
         "C": "$${\\pi  \\over 6} - {{\\sqrt 3 } \\over 4}$$",
         "D": "$${\\pi  \\over 6} - {{\\sqrt 3 } \\over 2}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The function $$y=f(x)$$ is the solution of the differential equation\n$${{dy} \\over {dx}} + {{xy} \\over {{x^2} - 1}} = {{{x^4} + 2x} \\over {\\sqrt {1 - {x^2}} }}\\,$$ in $$(-1,1)$$ satisfying $$f(0)=0$$. Then $$\\int\\limits_{ - {{\\sqrt 3 } \\over 2}}^{{{\\sqrt 3 } \\over 2}} {f\\left( x \\right)} \\,d\\left( x \\right)$$ is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 34,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 34,
-      "question_text": "Let $$f:\\left[ {0,2} \\right] \\to R$$ be a function which is continuous on $$\\left[ {0,2} \\right]$$ and is differentiable on $$(0,2)$$ with $$f(0)=1$$. Let \n\n$$F\\left( x \\right) = \\int\\limits_0^{{x^2}} {f\\left( {\\sqrt t } \\right)dt} $$ for  $$x \\in \\left[ {0,2} \\right]$$. If $$F'\\left( x \\right) = f'\\left( x \\right)$$ for all  $$x \\in \\left[ {0,2} \\right]$$, then $$F(2)$$ equals",
       "subject": "Mathematics",
       "topic": "differentiation",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$f:\\left[ {0,2} \\right] \\to R$$ be a function which is continuous on $$\\left[ {0,2} \\right]$$ and is differentiable on $$(0,2)$$ with $$f(0)=1$$. Let \n\n$$F\\left( x \\right) = \\int\\limits_0^{{x^2}} {f\\left( {\\sqrt t } \\right)dt} $$ for  $$x \\in \\left[ {0,2} \\right]$$. If $$F'\\left( x \\right) = f'\\left( x \\right)$$ for all  $$x \\in \\left[ {0,2} \\right]$$, then $$F(2)$$ equals",
+      "question_images": [],
+      "option_texts": {
         "A": "$${e^2} - 1$$",
         "B": "$${e^4} - 1$$",
         "C": "$$e - 1$$",
         "D": "$${e^4}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $$f:\\left[ {0,2} \\right] \\to R$$ be a function which is continuous on $$\\left[ {0,2} \\right]$$ and is differentiable on $$(0,2)$$ with $$f(0)=1$$. Let \n$$F\\left( x \\right) = \\int\\limits_0^{{x^2}} {f\\left( {\\sqrt t } \\right)dt} $$ for  $$x \\in \\left[ {0,2} \\right]$$. If $$F'\\left( x \\right) = f'\\left( x \\right)$$ for all  $$x \\in \\left[ {0,2} \\right]$$, then $$F(2)$$ equals",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 35,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 35,
-      "question_text": "In a triangle the sum of two sides is $$x$$ and the product of the same sides is $$y$$. If $${x^2} - {c^2} = y$$, where $$c$$ is the third side of the triangle, then the ratio of the in radius to the circum-radius of the triangle is",
       "subject": "Mathematics",
       "topic": "properties-of-triangle",
       "sub_topic": "trigonometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In a triangle the sum of two sides is $$x$$ and the product of the same sides is $$y$$. If $${x^2} - {c^2} = y$$, where $$c$$ is the third side of the triangle, then the ratio of the in radius to the circum-radius of the triangle is",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{3y} \\over {2x\\left( {x + c} \\right)}}$$",
         "B": "$${{3y} \\over {2c\\left( {x + c} \\right)}}$$",
         "C": "$${{3y} \\over {4x\\left( {x + c} \\right)}}$$",
         "D": "$${{3y} \\over {4c\\left( {x + c} \\right)}}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "In a triangle the sum of two sides is $$x$$ and the product of the same sides is $$y$$. If $${x^2} - {c^2} = y$$, where $$c$$ is the third side of the triangle, then the ratio of the in radius to the circum-radius of the triangle is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 36,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 36,
-      "question_text": "The following integral $$\\int\\limits_{{\\pi  \\over 4}}^{{\\pi  \\over 2}} {{{\\left( {2\\cos ec\\,\\,x} \\right)}^{17}}dx} $$ is equal to",
       "subject": "Mathematics",
       "topic": "definite-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The following integral $$\\int\\limits_{{\\pi  \\over 4}}^{{\\pi  \\over 2}} {{{\\left( {2\\cos ec\\,\\,x} \\right)}^{17}}dx} $$ is equal to",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\int\\limits_0^{\\log \\left( {1 + \\sqrt 2 } \\right)} {2{{\\left( {{e^u} + {e^{ - u}}} \\right)}^{16}}\\,du} $$",
         "B": "$$\\int\\limits_0^{\\log \\left( {1 + \\sqrt 2 } \\right)} {{{\\left( {{e^u} + {e^{ - u}}} \\right)}^{17}}\\,du} $$",
         "C": "$$\\int\\limits_0^{\\log \\left( {1 + \\sqrt 2 } \\right)} {{{\\left( {{e^u} - {e^{ - u}}} \\right)}^{17}}\\,du} $$",
         "D": "$$\\int\\limits_0^{\\log \\left( {1 + \\sqrt 2 } \\right)} {2{{\\left( {{e^u} - {e^{ - u}}} \\right)}^{16}}\\,du} $$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The following integral $$\\int\\limits_{{\\pi  \\over 4}}^{{\\pi  \\over 2}} {{{\\left( {2\\cos ec\\,\\,x} \\right)}^{17}}dx} $$ is equal to",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 37,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 37,
-      "question_text": "List - $$I$$\n\nP.$$\\,\\,\\,\\,$$ The number of polynomials $$f(x)$$ with non-negative integer coefficients of degree $$ \\le 2$$, satisfying $$f(0)=0$$ and $$\\int_0^1 {f\\left( x \\right)dx = 1,} $$ is \n\nQ.$$\\,\\,\\,\\,$$ The number of points in the interval $$\\left[ { - \\sqrt {13} ,\\sqrt {13} } \\right]$$ \n\nat which $$f\\left( x \\right) = \\sin \\left( {{x^2}} \\right) + \\cos \\left( {{x^2}} \\right)$$  attains its maximum value, is \n\nR.$$\\,\\,\\,\\,$$ $$\\int\\limits_{ - 2}^2 {{{3{x^2}} \\over {\\left( {1 + {e^x}} \\right)}}dx} $$ equals\n\nS.$$\\,\\,\\,\\,$$ $${{\\left( {\\int\\limits_{ - {1 \\over 2}}^{{1 \\over 2}} {\\cos 2x\\log \\left( {{{1 + x} \\over {1 - x}}} \\right)dx} } \\right)} \\over {\\left( {\\int\\limits_0^{{1 \\over 2}} {\\cos 2x\\log \\left( {{{1 + x} \\over {1 - x}}} \\right)dx} } \\right)}}$$\n\nList $$II$$\n\n1.$$\\,\\,\\,\\,$$ $$8$$\n\n2.$$\\,\\,\\,\\,$$ $$2$$\n\n3.$$\\,\\,\\,\\,$$ $$4$$\n\n4.$$\\,\\,\\,\\,$$ $$0$$",
       "subject": "Mathematics",
       "topic": "definite-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "List - $$I$$\n\nP.$$\\,\\,\\,\\,$$ The number of polynomials $$f(x)$$ with non-negative integer coefficients of degree $$ \\le 2$$, satisfying $$f(0)=0$$ and $$\\int_0^1 {f\\left( x \\right)dx = 1,} $$ is \n\nQ.$$\\,\\,\\,\\,$$ The number of points in the interval $$\\left[ { - \\sqrt {13} ,\\sqrt {13} } \\right]$$ \n\nat which $$f\\left( x \\right) = \\sin \\left( {{x^2}} \\right) + \\cos \\left( {{x^2}} \\right)$$  attains its maximum value, is \n\nR.$$\\,\\,\\,\\,$$ $$\\int\\limits_{ - 2}^2 {{{3{x^2}} \\over {\\left( {1 + {e^x}} \\right)}}dx} $$ equals\n\nS.$$\\,\\,\\,\\,$$ $${{\\left( {\\int\\limits_{ - {1 \\over 2}}^{{1 \\over 2}} {\\cos 2x\\log \\left( {{{1 + x} \\over {1 - x}}} \\right)dx} } \\right)} \\over {\\left( {\\int\\limits_0^{{1 \\over 2}} {\\cos 2x\\log \\left( {{{1 + x} \\over {1 - x}}} \\right)dx} } \\right)}}$$\n\nList $$II$$\n\n1.$$\\,\\,\\,\\,$$ $$8$$\n\n2.$$\\,\\,\\,\\,$$ $$2$$\n\n3.$$\\,\\,\\,\\,$$ $$4$$\n\n4.$$\\,\\,\\,\\,$$ $$0$$",
+      "question_images": [],
+      "option_texts": {
         "A": "$$P = 3,Q = 2,R = 4,S = 1$$",
         "B": "$$P = 2,Q = 3,R = 4,S = 1$$",
         "C": "$$P = 3,Q = 2,R = 1,S = 4$$",
         "D": "$$P = 2,Q = 3,R = 1,S = 4$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "List - $$I$$\nP.$$\\,\\,\\,\\,$$ The number of polynomials $$f(x)$$ with non-negative integer coefficients of degree $$ \\le 2$$, satisfying $$f(0)=0$$ and $$\\int_0^1 {f\\left( x \\right)dx = 1,} $$ is \nQ.$$\\,\\,\\,\\,$$ The number of points in the interval $$\\left[ { - \\sqrt {13} ,\\sqrt {13} } \\right]$$ \nat which $$f\\left( x \\right) = \\sin \\left( {{x^2}} \\right) + \\cos \\left( {{x^2}} \\right)$$  attains its maximum value, is \nR.$$\\,\\,\\,\\,$$ $$\\int\\limits_{ - 2}^2 {{{3{x^2}} \\over {\\left( {1 + {e^x}} \\right)}}dx} $$ equals\nS.$$\\,\\,\\,\\,$$ $${{\\left( {\\int\\limits_{ - {1 \\over 2}}^{{1 \\over 2}} {\\cos 2x\\log \\left( {{{1 + x} \\over {1 - x}}} \\right)dx} } \\right)} \\over {\\left( {\\int\\limits_0^{{1 \\over 2}} {\\cos 2x\\log \\left( {{{1 + x} \\over {1 - x}}} \\right)dx} } \\right)}}$$ \nList $$II$$\n1.$$\\,\\,\\,\\,$$ $$8$$\n2.$$\\,\\,\\,\\,$$ $$2$$\n3.$$\\,\\,\\,\\,$$ $$4$$\n4.$$\\,\\,\\,\\,$$ $$0$$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 38,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 38,
-      "question_text": "Given that for each $$a \\in \\left( {0,1} \\right),\\,\\,\\,\\mathop {\\lim }\\limits_{h \\to {0^ + }} \\,\\int\\limits_h^{1 - h} {{t^{ - a}}{{\\left( {1 - t} \\right)}^{a - 1}}dt} $$ exists. Let this limit be $$g(a).$$ In addition, it is given that the function $$g(a)$$ is differentiable on $$(0,1).$$\nThe value of $$g'\\left( {{1 \\over 2}} \\right)$$ is",
       "subject": "Mathematics",
       "topic": "definite-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Given that for each $$a \\in \\left( {0,1} \\right),\\,\\,\\,\\mathop {\\lim }\\limits_{h \\to {0^ + }} \\,\\int\\limits_h^{1 - h} {{t^{ - a}}{{\\left( {1 - t} \\right)}^{a - 1}}dt} $$ exists. Let this limit be $$g(a).$$ In addition, it is given that the function $$g(a)$$ is differentiable on $$(0,1).$$\nThe value of $$g'\\left( {{1 \\over 2}} \\right)$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "$${\\pi  \\over 2}$$",
         "B": "$$\\pi $$",
         "C": "$$-{\\pi  \\over 2}$$",
         "D": "$$0$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Given that for each $$a \\in \\left( {0,1} \\right),\\,\\,\\,\\mathop {\\lim }\\limits_{h \\to {0^ + }} \\,\\int\\limits_h^{1 - h} {{t^{ - a}}{{\\left( {1 - t} \\right)}^{a - 1}}dt} $$ exists. Let this limit be $$g(a).$$ In addition, it is given that the function $$g(a)$$ is differentiable on $$(0,1).$$\nThe value of $$g'\\left( {{1 \\over 2}} \\right)$$ is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 39,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 39,
-      "question_text": "Given that for each $$a \\in \\left( {0,1} \\right),\\,\\,\\,\\mathop {\\lim }\\limits_{h \\to {0^ + }} \\,\\int\\limits_h^{1 - h} {{t^{ - a}}{{\\left( {1 - t} \\right)}^{a - 1}}dt} $$ exists. Let this limit be $$g(a).$$ In addition, it is given that the function $$g(a)$$ is differentiable on $$(0,1).$$\nThe value of $$g\\left( {{1 \\over 2}} \\right)$$ is",
       "subject": "Mathematics",
       "topic": "definite-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Given that for each $$a \\in \\left( {0,1} \\right),\\,\\,\\,\\mathop {\\lim }\\limits_{h \\to {0^ + }} \\,\\int\\limits_h^{1 - h} {{t^{ - a}}{{\\left( {1 - t} \\right)}^{a - 1}}dt} $$ exists. Let this limit be $$g(a).$$ In addition, it is given that the function $$g(a)$$ is differentiable on $$(0,1).$$\nThe value of $$g\\left( {{1 \\over 2}} \\right)$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\pi $$",
         "B": "$$2\\pi $$",
         "C": "$${\\pi  \\over 2}$$",
         "D": "$${\\pi  \\over 4}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Given that for each $$a \\in \\left( {0,1} \\right),\\,\\,\\,\\mathop {\\lim }\\limits_{h \\to {0^ + }} \\,\\int\\limits_h^{1 - h} {{t^{ - a}}{{\\left( {1 - t} \\right)}^{a - 1}}dt} $$ exists. Let this limit be $$g(a).$$ In addition, it is given that the function $$g(a)$$ is differentiable on $$(0,1).$$\nThe value of $$g\\left( {{1 \\over 2}} \\right)$$ is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 40,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 40,
-      "question_text": "Let f1 : R $$ \\to $$ R, f2 : [0, $$\\infty $$) $$ \\to $$ R, f3 : R $$ \\to $$ R, and f4 : R $$ \\to $$ [0, $$\\infty $$) be defined by\n$${f_1}\\left( x \\right) = \\left\\{ {\\matrix{\n   {\\left| x \\right|} & {if\\,x < 0,}  \\cr \n   {{e^x}} & {if\\,x \\ge 0;}  \\cr \n\n } } \\right.$$\n\nf2(x) = x2 ;\n\n$${f_3}\\left( x \\right) = \\left\\{ {\\matrix{\n   {\\sin x} & {if\\,x < 0,}  \\cr \n   x & {if\\,x \\ge 0;}  \\cr \n\n } } \\right.$$\nand\n\n$${f_4}\\left( x \\right) = \\left\\{ {\\matrix{\n   {{f_2}\\left( {{f_1}\\left( x \\right)} \\right)} & {if\\,x < 0,}  \\cr \n   {{f_2}\\left( {{f_1}\\left( x \\right)} \\right) - 1} & {if\\,x \\ge 0;}  \\cr \n\n } } \\right.$$",
       "subject": "Mathematics",
       "topic": "functions",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let f1 : R $$ \\to $$ R, f2 : [0, $$\\infty $$) $$ \\to $$ R, f3 : R $$ \\to $$ R, and f4 : R $$ \\to $$ [0, $$\\infty $$) be defined by\n$${f_1}\\left( x \\right) = \\left\\{ {\\matrix{\n   {\\left| x \\right|} & {if\\,x < 0,}  \\cr \n   {{e^x}} & {if\\,x \\ge 0;}  \\cr \n\n } } \\right.$$\n\nf2(x) = x2 ;\n\n$${f_3}\\left( x \\right) = \\left\\{ {\\matrix{\n   {\\sin x} & {if\\,x < 0,}  \\cr \n   x & {if\\,x \\ge 0;}  \\cr \n\n } } \\right.$$\nand\n\n$${f_4}\\left( x \\right) = \\left\\{ {\\matrix{\n   {{f_2}\\left( {{f_1}\\left( x \\right)} \\right)} & {if\\,x < 0,}  \\cr \n   {{f_2}\\left( {{f_1}\\left( x \\right)} \\right) - 1} & {if\\,x \\ge 0;}  \\cr \n\n } } \\right.$$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l1aapt42/96cebc15-689f-448f-b4bc-df01b3c97581/94d70820-ae5b-11ec-a458-a14cb955046d/file-1l1aapt43.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzqpm23j/ad58fb7a-2ae6-4a1e-9b66-4741762b00f1/bac14af0-5881-11ef-898f-a10dcec80905/file-jaoe38c1lzqpm23k.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzqpnygo/cf5db5bf-6baa-4ed1-9d0a-5efea957aa00/ef90bb80-5881-11ef-898f-a10dcec80905/file-jaoe38c1lzqpnygp.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzqq0ms7/c2791b71-34fd-4374-bd3b-15cb53ce986f/500ffd80-5883-11ef-898f-a10dcec80905/file-jaoe38c1lzqq0ms8.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzqq2cz2/ae0518f9-7c65-4bb6-83cd-1ecf46fea833/801a44e0-5883-11ef-898f-a10dcec80905/file-jaoe38c1lzqq2cz3.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "P - 3, Q - 1, R - 4, S - 2",
         "B": "P - 1, Q - 3, R - 4, S - 2",
         "C": "P - 3, Q - 1, R - 2, S - 4",
         "D": "P - 1, Q - 3, R - 2, S - 4"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Let f_{1} : R $$ \\to $$ R, f_{2} : [0, $$\\infty $$) $$ \\to $$ R, f_{3} : R $$ \\to $$ R, and f_{4} : R $$ \\to $$ [0, $$\\infty $$) be defined by\n$${f_1}\\left( x \\right) = \\left\\{ {\\matrix{\n   {\\left| x \\right|} & {if\\,x < 0,}  \\cr \n   {{e^x}} & {if\\,x \\ge 0;}  \\cr \n\n } } \\right.$$\nf_{2}(x) = x^{2} ; \n$${f_3}\\left( x \\right) = \\left\\{ {\\matrix{\n   {\\sin x} & {if\\,x < 0,}  \\cr \n   x & {if\\,x \\ge 0;}  \\cr \n\n } } \\right.$$\nand \n$${f_4}\\left( x \\right) = \\left\\{ {\\matrix{\n   {{f_2}\\left( {{f_1}\\left( x \\right)} \\right)} & {if\\,x < 0,}  \\cr \n   {{f_2}\\left( {{f_1}\\left( x \\right)} \\right) - 1} & {if\\,x \\ge 0;}  \\cr \n\n } } \\right.$$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 41,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 41,
-      "question_text": "Charges $$Q,$$ $$2Q$$ and $$4Q$$ are uniformly distributed in three dielectric solid spheres $$1,2$$ and $$3$$ of radii $$R/2,R$$ and $$2R$$ respectively, as shown in figure. If magnitude of the electric fields at point $$P$$ at a distance $$R$$ from the center of sphere $$1,2$$ and $$3$$ are $${E_1}$$, $${E_2}$$ and $${E_3}$$ respectively, then",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Charges $$Q,$$ $$2Q$$ and $$4Q$$ are uniformly distributed in three dielectric solid spheres $$1,2$$ and $$3$$ of radii $$R/2,R$$ and $$2R$$ respectively, as shown in figure. If magnitude of the electric fields at point $$P$$ at a distance $$R$$ from the center of sphere $$1,2$$ and $$3$$ are $${E_1}$$, $${E_2}$$ and $${E_3}$$ respectively, then",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/rrguY7Ut2rLEiSHrY/5fakNM7WCgNPbus8liSCL2RoW80Jm/jFTVIdFrVNhs7PVBgsn1gy/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/cJJQCRwBoAE6ZYghc/MafCEIjkzu7AoaNqOh4nYs5TgQUDV/rM1DIn4xUIwHJ1o1V994t6/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l1cgckn4/4b5adf40-9857-4b7b-8ffb-829bec6b4811/2cd9d0f0-af8b-11ec-b0b3-439ca85bb50d/file-1l1cgckn5.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${E_1} > {E_2} > {E_3}$$",
         "B": "$${E_3} > {E_1} > {E_2}$$",
         "C": "$${E_2} > {E_1} > {E_3}$$",
         "D": "$${E_3} > {E_2} > {E_1}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Charges $$Q,$$ $$2Q$$ and $$4Q$$ are uniformly distributed in three dielectric solid spheres $$1,2$$ and $$3$$ of radii $$R/2,R$$ and $$2R$$ respectively, as shown in figure. If magnitude of the electric fields at point $$P$$ at a distance $$R$$ from the center of sphere $$1,2$$ and $$3$$ are $${E_1}$$, $${E_2}$$ and $${E_3}$$ respectively, then",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 42,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 42,
-      "question_text": "Parallel rays of light of intensity $$I$$ = 912 Wm–2 are incident on a spherical black body kept in surroundings\nof temperature 300 K. Take Stefan-Boltzmann constant $$\\sigma $$ = 5.7 $$ \\times $$ 10–8 Wm–2K–4 and assume that the energy\nexchange with the surroundings is only through radiation. The final steady state temperature of the black\nbody is close to",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Parallel rays of light of intensity $$I$$ = 912 Wm–2 are incident on a spherical black body kept in surroundings\nof temperature 300 K. Take Stefan-Boltzmann constant $$\\sigma $$ = 5.7 $$ \\times $$ 10–8 Wm–2K–4 and assume that the energy\nexchange with the surroundings is only through radiation. The final steady state temperature of the black\nbody is close to",
+      "question_images": [],
+      "option_texts": {
         "A": "330 K",
         "B": "660 K",
         "C": "990 K",
         "D": "1550 K"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Parallel rays of light of intensity $$I$$ = 912 Wm^{–2} are incident on a spherical black body kept in surroundings\nof temperature 300 K. Take Stefan-Boltzmann constant $$\\sigma $$ = 5.7 $$ \\times $$ 10^{–8} Wm^{–2}K^{–4} and assume that the energy\nexchange with the surroundings is only through radiation. The final steady state temperature of the black\nbody is close to",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 43,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 43,
-      "question_text": "A person in a lift is holding a water jar, which has a small hole at the lower end of its side. When the lift is\nat rest, the water jet coming out of the hole hits the floor of the lift at a distance d of 1.2 m from the person.\nIn the following, state of the lift’s motion is given in List I and the distance where the water jet hits the\nfloor of the lift is given in List II. Match the statements from List I with those in List II and select the\ncorrect answer using the options given below the lists.\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg .tg-s6z2{text-align:center}\n.tg .tg-s268{text-align:left}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n  \n    List - I\n    List - II\n  \n  \n    P. Lift is accelerating vertically up.\n    1. d=1.2 m\n  \n  \n    Q. Lift is accelerating vertically down\n     with an acceleration less than the\n     gravitational acceleration.\n    2. d > 1.02 m\n  \n  \n    R. Lift is moving vertically up with\n     constant speed.\n    3. d < 1.2 m\n  \n  \n    S. Lift is falling freely.\n    4. No water leaks out of the jar",
       "subject": "Physics",
       "topic": "properties-of-matter",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A person in a lift is holding a water jar, which has a small hole at the lower end of its side. When the lift is\nat rest, the water jet coming out of the hole hits the floor of the lift at a distance d of 1.2 m from the person.\nIn the following, state of the lift’s motion is given in List I and the distance where the water jet hits the\nfloor of the lift is given in List II. Match the statements from List I with those in List II and select the\ncorrect answer using the options given below the lists.\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg .tg-s6z2{text-align:center}\n.tg .tg-s268{text-align:left}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n  \n    List - I\n    List - II\n  \n  \n    P. Lift is accelerating vertically up.\n    1. d=1.2 m\n  \n  \n    Q. Lift is accelerating vertically down\n     with an acceleration less than the\n     gravitational acceleration.\n    2. d > 1.02 m\n  \n  \n    R. Lift is moving vertically up with\n     constant speed.\n    3. d < 1.2 m\n  \n  \n    S. Lift is falling freely.\n    4. No water leaks out of the jar",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l1cghhyk/6e00af5c-0d75-4a3a-985f-b0c6af4605a5/b5d346c0-af8b-11ec-b0b3-439ca85bb50d/file-1l1cghhyl.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "P - 2, Q - 3, R - 2, S - 4",
         "B": "P - 2, Q - 3, R - 1, S - 4",
         "C": "P - 1, Q - 1, R - 1, S - 4",
         "D": "P - 2, Q - 3, R - 1, S - 1"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A person in a lift is holding a water jar, which has a small hole at the lower end of its side. When the lift is\nat rest, the water jet coming out of the hole hits the floor of the lift at a distance d of 1.2 m from the person.\nIn the following, state of the lift’s motion is given in List I and the distance where the water jet hits the\nfloor of the lift is given in List II. Match the statements from List I with those in List II and select the\ncorrect answer using the options given below the lists.\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg .tg-s6z2{text-align:center}\n.tg .tg-s268{text-align:left}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n  \n    List - I\n    List - II\n  \n  \n    P. Lift is accelerating vertically up.\n    1. d=1.2 m\n  \n  \n    Q. Lift is accelerating vertically down     with an acceleration less than the     gravitational acceleration.\n    2. d > 1.02 m\n  \n  \n    R. Lift is moving vertically up with     constant speed.\n    3. d < 1.2 m\n  \n  \n    S. Lift is falling freely.\n    4. No water leaks out of the jar",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 44,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 44,
-      "question_text": "A planet of radius R = $${1 \\over {10}} \\times $$ (radius of Earth) has the same mass density as Earth. Scientists dig a well of\ndepth $${R \\over 5}$$\non it and lower a wire of the same length and of linear mass density 10-3 kg m-1 into it. If the wire is not touching anywhere, the force applied at the top of the wire by a person holding it in place is (take the radius of Earth = 6 $$ \\times $$ 106 m and the acceleration due to gravity of Earth is 10 ms -2)",
       "subject": "Physics",
       "topic": "gravitation",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A planet of radius R = $${1 \\over {10}} \\times $$ (radius of Earth) has the same mass density as Earth. Scientists dig a well of\ndepth $${R \\over 5}$$\non it and lower a wire of the same length and of linear mass density 10-3 kg m-1 into it. If the wire is not touching anywhere, the force applied at the top of the wire by a person holding it in place is (take the radius of Earth = 6 $$ \\times $$ 106 m and the acceleration due to gravity of Earth is 10 ms -2)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l1cgfe2s/69700d3d-169a-4faa-afa0-8bb13966594b/7b352c40-af8b-11ec-b0b3-439ca85bb50d/file-1l1cgfe2t.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "96 N",
         "B": "108 N",
         "C": "120 N",
         "D": "150 N"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A planet of radius R = $${1 \\over {10}} \\times $$ (radius of Earth) has the same mass density as Earth. Scientists dig a well of\ndepth $${R \\over 5}$$\non it and lower a wire of the same length and of linear mass density 10^{-3} kg m^{-1} into it. If the wire is not touching anywhere, the force applied at the top of the wire by a person holding it in place is (take the radius of Earth = 6 $$ \\times $$ 10^{6} m and the acceleration due to gravity of Earth is 10 ms^{ -2})",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 45,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 45,
-      "question_text": "A tennis ball is dropped on a horizontal smooth surface. It bounces back to its original position after hitting the surface. The force on the ball during the collision is proportional to the length of compression of the ball. Which one of the following sketches describes the variation of its kinetic energy K with time t most appropriately? The figures are only illustrative and not to the scale.",
       "subject": "Physics",
       "topic": "work-power-and-energy",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A tennis ball is dropped on a horizontal smooth surface. It bounces back to its original position after hitting the surface. The force on the ball during the collision is proportional to the length of compression of the ball. Which one of the following sketches describes the variation of its kinetic energy K with time t most appropriately? The figures are only illustrative and not to the scale.",
+      "question_images": [],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/gateclass_cdn_examgoal_net/GTHVNE47ANgzXpqX7/fENtzY0dsUWkV07kfzw8KEDjLrj8N/soRF173aL3JcycLabHCFlP/uploadfile.jpg",
+          "description": ""
+        },
+        "B": {
+          "path": "images/gateclass_cdn_examgoal_net/5B90U4XaTfUMlm09P/chsy0hGnnYE8kqcUYPMve0ifvveBk/2rD4TrolGfcFHpCPDzXnDX/uploadfile.jpg",
+          "description": ""
+        },
+        "C": {
+          "path": "images/gateclass_cdn_examgoal_net/7FgYsJEXneWufxJGs/Qso2es97NInRtoKx5mLyeRRJuy3mp/No4O8rT8ONHRcuqOdOhiAz/uploadfile.jpg",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/vT5PeDIte9InZnlpi/gzJR1kDIBywH08RGqANmUX6EuIAyY/XHkeRzRiA7i1ocLUrr6GCS/uploadfile.jpg",
+          "description": ""
+        }
+      },
       "correct_answer": "B",
-      "question": "A tennis ball is dropped on a horizontal smooth surface. It bounces back to its original position after hitting the surface. The force on the ball during the collision is proportional to the length of compression of the ball. Which one of the following sketches describes the variation of its kinetic energy K with time t most appropriately? The figures are only illustrative and not to the scale.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 46,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 46,
-      "question_text": "If $$\\lambda$$Cu is the wavelength of K$$\\alpha$$ X-ray line of copper (atomic number 29) and $$\\lambda$$Mo is the wavelength of the K$$\\alpha$$ X-ray line of molybdenum (atomic number 42), then the ratio $$\\lambda$$Cu/$$\\lambda$$Mo is close to",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If $$\\lambda$$Cu is the wavelength of K$$\\alpha$$ X-ray line of copper (atomic number 29) and $$\\lambda$$Mo is the wavelength of the K$$\\alpha$$ X-ray line of molybdenum (atomic number 42), then the ratio $$\\lambda$$Cu/$$\\lambda$$Mo is close to",
+      "question_images": [],
+      "option_texts": {
         "A": "1.99",
         "B": "2.14",
         "C": "0.50",
         "D": "0.48"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "If $$\\lambda$$_{Cu} is the wavelength of K_{$$\\alpha$$} X-ray line of copper (atomic number 29) and $$\\lambda$$_{Mo} is the wavelength of the K_{$$\\alpha$$} X-ray line of molybdenum (atomic number 42), then the ratio $$\\lambda$$_{Cu}/$$\\lambda$$_{Mo} is close to",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 47,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 47,
-      "question_text": "A metal surface is illuminated by light of two different wavelengths 248 nm and 310 nm. The maximum speeds of the photoelectrons corresponding to these wavelengths are u1 and u2, respectively. If the ratio u1 : u2 = 2 : 1 and hc = 1240 eV nm, the work function of the metal is nearly",
       "subject": "Physics",
       "topic": "dual-nature-of-radiation",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A metal surface is illuminated by light of two different wavelengths 248 nm and 310 nm. The maximum speeds of the photoelectrons corresponding to these wavelengths are u1 and u2, respectively. If the ratio u1 : u2 = 2 : 1 and hc = 1240 eV nm, the work function of the metal is nearly",
+      "question_images": [],
+      "option_texts": {
         "A": "3.7 eV",
         "B": "3.2 eV",
         "C": "2.8 eV",
         "D": "2.5 eV"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A metal surface is illuminated by light of two different wavelengths 248 nm and 310 nm. The maximum speeds of the photoelectrons corresponding to these wavelengths are u_{1} and u_{2}, respectively. If the ratio u_{1} : u_{2} = 2 : 1 and hc = 1240 eV nm, the work function of the metal is nearly",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 48,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 48,
-      "question_text": "During an experiment with a metre bridge, the galvanometer shall a null point when the jockey is pressed at 40.0 cm using a standard resistance of 90$$\\Omega$$, as shown in the figure. The least count of the scale used in the meter bridge is 1 mm. The unknown resistance is",
       "subject": "Physics",
       "topic": "current-electricity",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "During an experiment with a metre bridge, the galvanometer shall a null point when the jockey is pressed at 40.0 cm using a standard resistance of 90$$\\Omega$$, as shown in the figure. The least count of the scale used in the meter bridge is 1 mm. The unknown resistance is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l17mh9o2/669e3824-ca93-40fb-93af-363beef5bd89/3af28a10-ace3-11ec-b822-a5164f73cdb9/file-1l17mh9o3.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l17mh9o2/669e3824-ca93-40fb-93af-363beef5bd89/3af28a10-ace3-11ec-b822-a5164f73cdb9/file-1l17mh9o3.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "60 $$\\pm$$ 0.15 $$\\Omega$$",
         "B": "135 $$\\pm$$ 0.56 $$\\Omega$$",
         "C": "60 $$\\pm$$ 0.25 $$\\Omega$$",
         "D": "135 $$\\pm$$ 0.23 $$\\Omega$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "During an experiment with a metre bridge, the galvanometer shall a null point when the jockey is pressed at 40.0 cm using a standard resistance of 90$$\\Omega$$, as shown in the figure. The least count of the scale used in the meter bridge is 1 mm. The unknown resistance is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 49,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 49,
-      "question_text": "A wire, which passes through the hole in a small bead, is bent in the form of quarter of a circle. The wire is fixed vertically on ground as shown in the below figure. The bead is released from near the top of the wire and it slides along the wire without friction. As the bead moves from A to B, the force it applies on the wire is",
       "subject": "Physics",
       "topic": "laws-of-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A wire, which passes through the hole in a small bead, is bent in the form of quarter of a circle. The wire is fixed vertically on ground as shown in the below figure. The bead is released from near the top of the wire and it slides along the wire without friction. As the bead moves from A to B, the force it applies on the wire is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l17p7vc5/b9f32ced-20af-405f-88c0-f059ac935d39/f0fbc060-aced-11ec-915c-c385b35e7182/file-1l17p7vc6.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l17pi3x7/e650938b-3633-4d38-9af8-405f375e965f/0db4b2b0-acef-11ec-915c-c385b35e7182/file-1l17pi3x8.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "always radially outwards.",
         "B": "always radially inwards.",
         "C": "radially outwards initially and radially inwards later.",
         "D": "radially inwards initially and radially outwards later."
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "A wire, which passes through the hole in a small bead, is bent in the form of quarter of a circle. The wire is fixed vertically on ground as shown in the below figure. The bead is released from near the top of the wire and it slides along the wire without friction. As the bead moves from A to B, the force it applies on the wire is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 50,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 50,
-      "question_text": "A glass capillary tube is of the shape of truncated cone with an apex angle $$\\alpha$$ so that its two ends have cross sections of different radii. When dipped in water vertically, water rises in it to a height h, where the radius of its cross section is b. If the surface tension of water is S, its density is $$\\rho$$, and its contact angle with glass is $$\\theta$$, the value of h will be (g is the acceleration due to gravity)",
       "subject": "Physics",
       "topic": "properties-of-matter",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A glass capillary tube is of the shape of truncated cone with an apex angle $$\\alpha$$ so that its two ends have cross sections of different radii. When dipped in water vertically, water rises in it to a height h, where the radius of its cross section is b. If the surface tension of water is S, its density is $$\\rho$$, and its contact angle with glass is $$\\theta$$, the value of h will be (g is the acceleration due to gravity)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l17mlpil/5b3a5573-4bf5-4fb2-9273-3a47cfcf7d69/b66d41d0-ace3-11ec-b822-a5164f73cdb9/file-1l17mlpim.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l17moq2w/5d51d9dd-8923-48f9-8af2-356786c0d99f/0a4a3880-ace4-11ec-b822-a5164f73cdb9/file-1l17moq2x.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{2S} \\over {b\\rho g}}\\cos (\\theta  - \\alpha )$$",
         "B": "$${{2S} \\over {b\\rho g}}\\cos (\\theta  + \\alpha )$$",
         "C": "$${{2S} \\over {b\\rho g}}\\cos (\\theta  - \\alpha /2)$$",
         "D": "$${{2S} \\over {b\\rho g}}\\cos (\\theta  + \\alpha /2)$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "A glass capillary tube is of the shape of truncated cone with an apex angle $$\\alpha$$ so that its two ends have cross sections of different radii. When dipped in water vertically, water rises in it to a height h, where the radius of its cross section is b. If the surface tension of water is S, its density is $$\\rho$$, and its contact angle with glass is $$\\theta$$, the value of h will be (g is the acceleration due to gravity)",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 51,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 51,
-      "question_text": "A point source S is placed at the bottom of a transparent block of height 10 mm and refractive index 2.72. It is immersed in a lower refractive index liquid as shown in the below figure. It is found that the light emerging from the block to the liquid forms a circular bright spot of diameter 11.54 mm on the top of the block. The refractive index of the liquid is",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A point source S is placed at the bottom of a transparent block of height 10 mm and refractive index 2.72. It is immersed in a lower refractive index liquid as shown in the below figure. It is found that the light emerging from the block to the liquid forms a circular bright spot of diameter 11.54 mm on the top of the block. The refractive index of the liquid is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l17oty2u/98604cc4-2d70-4a16-a7d0-13b022195bd7/6dc5c660-acec-11ec-915c-c385b35e7182/file-1l17oty2v.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l17owclx/b4e9b811-5708-4b04-9fd2-2d3d2e060b1e/b09d9760-acec-11ec-915c-c385b35e7182/file-1l17owcly.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "1.21",
         "B": "1.30",
         "C": "1.36",
         "D": "1.42"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A point source S is placed at the bottom of a transparent block of height 10 mm and refractive index 2.72. It is immersed in a lower refractive index liquid as shown in the below figure. It is found that the light emerging from the block to the liquid forms a circular bright spot of diameter 11.54 mm on the top of the block. The refractive index of the liquid is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 52,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 52,
-      "question_text": "When d $$\\approx$$ a but wires are not touching the loop, it is found that the net magnetic field on the axis of the loop is zero at a height h above the loop. In that case",
       "subject": "Physics",
       "topic": "magnetism",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "When d $$\\approx$$ a but wires are not touching the loop, it is found that the net magnetic field on the axis of the loop is zero at a height h above the loop. In that case",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l17nutlw/0da06c74-b722-4f34-bf2a-60c23b2776fc/9cffc240-ace8-11ec-915c-c385b35e7182/file-1l17nutlx.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "current in wire 1 and wire 2 is the direction PQ and RS, respectively, and h $$\\approx$$ a.",
         "B": "current in wire 1 and wire 2 is the direction PQ and SR, respectively, and h $$\\approx$$ a.",
         "C": "current in wire  1 and wire 2 is the direction PQ and SR, respectively, and h $$\\approx$$ 1.2a.",
         "D": "current in wire  1 and wire 2 is the direction PQ and RS, respectively, and h $$\\approx$$ 1.2a."
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "When d $$\\approx$$ a but wires are not touching the loop, it is found that the net magnetic field on the axis of the loop is zero at a height h above the loop. In that case",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 53,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 53,
-      "question_text": "Consider d >> a, and the loop is rotated about its diameter parallel to the wires by 30$$^\\circ$$ from the position shown in the below figure. If the currents in the wires are in the opposite directions, the torque on the loop at its new position will be (assume that the net field due to the wires is constant over the loop)",
       "subject": "Physics",
       "topic": "magnetism",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider d >> a, and the loop is rotated about its diameter parallel to the wires by 30$$^\\circ$$ from the position shown in the below figure. If the currents in the wires are in the opposite directions, the torque on the loop at its new position will be (assume that the net field due to the wires is constant over the loop)",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{{\\mu _0}{I^2}{a^2}} \\over d}$$",
         "B": "$${{{\\mu _0}{I^2}{a^2}} \\over {2d}}$$",
         "C": "$${{\\sqrt 3 {\\mu _0}{I^2}{a^2}} \\over d}$$",
         "D": "$${{\\sqrt 3 {\\mu _0}{I^2}{a^2}} \\over {2d}}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Consider d >> a, and the loop is rotated about its diameter parallel to the wires by 30$$^\\circ$$ from the position shown in the below figure. If the currents in the wires are in the opposite directions, the torque on the loop at its new position will be (assume that the net field due to the wires is constant over the loop)",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 54,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 54,
-      "question_text": "Consider the partition to be rigidly fixed so that it does not move. When equilibrium is achieved, the final temperature of the gases will be",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider the partition to be rigidly fixed so that it does not move. When equilibrium is achieved, the final temperature of the gases will be",
+      "question_images": [],
+      "option_texts": {
         "A": "550 K",
         "B": "525 K",
         "C": "513 K",
         "D": "490 K"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Consider the partition to be rigidly fixed so that it does not move. When equilibrium is achieved, the final temperature of the gases will be",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 55,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 55,
-      "question_text": "Now consider the partition to be free to move without friction so that the pressure of gases in both compartments is the same. Then total work done by the gases till the time they achieve equilibrium will be",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Now consider the partition to be free to move without friction so that the pressure of gases in both compartments is the same. Then total work done by the gases till the time they achieve equilibrium will be",
+      "question_images": [],
+      "option_texts": {
         "A": "250 R",
         "B": "200 R",
         "C": "100 R",
         "D": "$$-$$100 R"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Now consider the partition to be free to move without friction so that the pressure of gases in both compartments is the same. Then total work done by the gases till the time they achieve equilibrium will be",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 56,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 56,
-      "question_text": "If the piston is pushed at a speed of 5 mm s$$-$$1, the air comes out of the nozzle with a speed of",
       "subject": "Physics",
       "topic": "properties-of-matter",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the piston is pushed at a speed of 5 mm s$$-$$1, the air comes out of the nozzle with a speed of",
+      "question_images": [],
+      "option_texts": {
         "A": "$0.1 \\mathrm{~ms}^{-1}$",
         "B": "$1 \\mathrm{~ms}^{-1}$",
         "C": "$2 \\mathrm{~ms}^{-1}$",
         "D": "$8 \\mathrm{~ms}^{-1}$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "If the piston is pushed at a speed of 5 mm s^{$$-$$1}, the air comes out of the nozzle with a speed of",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 57,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 57,
-      "question_text": "If the density of air is $$\\rho$$a and that of the liquid $$\\rho$$l, then for a given piston speed the rate (volume per unit time) at which the liquid is sprayed will be proportional to",
       "subject": "Physics",
       "topic": "properties-of-matter",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the density of air is $$\\rho$$a and that of the liquid $$\\rho$$l, then for a given piston speed the rate (volume per unit time) at which the liquid is sprayed will be proportional to",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l17q0mr6/077573bb-5a13-4160-a38a-981180278bfb/10d17120-acf1-11ec-915c-c385b35e7182/file-1l17q0mr7.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$\\sqrt{\\frac{\\rho_a}{\\rho_{\\ell}}}$",
         "B": "$\\sqrt{\\rho_a \\rho_{\\ell}}$",
         "C": "$\\sqrt{\\frac{\\rho_{\\ell}}{\\rho_a}}$",
         "D": "$\\rho_{\\ell}$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "If the density of air is $$\\rho$$_{a} and that of the liquid $$\\rho$$_{l}, then for a given piston speed the rate (volume per unit time) at which the liquid is sprayed will be proportional to",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 58,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 58,
-      "question_text": "Four charges Q1, Q2, Q3 and Q4 of same magnitude are fixed along the x axis at x = $$-$$2a, $$-$$a, +a and +2a, respectively. A positive charge q is placed on the positive y axis at a distance b > 0. Four options of the signs of these charges are given in List I. The direction of the forces on the charge q is given in List II. Match List I with List II and select the correct answer using the code given below the lists.\n\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List I\n    \n    List II\n    \n  \n\n\n  \n    P.\n    Q$$_1$$, Q$$_2$$, Q$$_3$$, Q$$_4$$ all positive\n    1.\n    +x\n  \n  \n    Q.\n    Q$$_1$$, Q$$_2$$ positive; Q$$_3$$, Q$$_4$$ negative\n    2.\n    $$ - $$x\n  \n  \n    R.\n    Q$$_1$$, Q$$_4$$ positive; Q$$_2$$, Q$$_3$$ negative\n    3.\n    +y\n  \n  \n    S.\n    Q$$_1$$, Q$$_3$$ positive; Q$$_2$$, Q$$_4$$ negative\n    4.\n    $$ - $$y",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Four charges Q1, Q2, Q3 and Q4 of same magnitude are fixed along the x axis at x = $$-$$2a, $$-$$a, +a and +2a, respectively. A positive charge q is placed on the positive y axis at a distance b > 0. Four options of the signs of these charges are given in List I. The direction of the forces on the charge q is given in List II. Match List I with List II and select the correct answer using the code given below the lists.\n\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List I\n    \n    List II\n    \n  \n\n\n  \n    P.\n    Q$$_1$$, Q$$_2$$, Q$$_3$$, Q$$_4$$ all positive\n    1.\n    +x\n  \n  \n    Q.\n    Q$$_1$$, Q$$_2$$ positive; Q$$_3$$, Q$$_4$$ negative\n    2.\n    $$ - $$x\n  \n  \n    R.\n    Q$$_1$$, Q$$_4$$ positive; Q$$_2$$, Q$$_3$$ negative\n    3.\n    +y\n  \n  \n    S.\n    Q$$_1$$, Q$$_3$$ positive; Q$$_2$$, Q$$_4$$ negative\n    4.\n    $$ - $$y",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l17o53xa/22ae79b5-fb70-4c9e-937e-bd29d6fc9649/bb0f6af0-ace9-11ec-915c-c385b35e7182/file-1l17o53xb.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l17o89qg/c25449cd-b3e9-4d80-9230-672d607d46f8/12f9ac80-acea-11ec-915c-c385b35e7182/file-1l17o89qh.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l17o97i4/cde64d17-14b9-4568-b005-247e968f3a43/2d0f87c0-acea-11ec-915c-c385b35e7182/file-1l17o97i5.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l17oaiuj/7c02b15a-92d3-48d2-96a6-35963ce28005/51a22bb0-acea-11ec-915c-c385b35e7182/file-1l17oaiuk.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l17oaiuj/7c02b15a-92d3-48d2-96a6-35963ce28005/51a22bb0-acea-11ec-915c-c385b35e7182/file-1l17oaiuk.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "P-3, Q-1, R-4, S-2",
         "B": "P-4, Q-2, R-3, S-1",
         "C": "P-3, Q-1, R-2, S-4",
         "D": "P-4, Q-2, R-1, S-3"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Four charges Q_{1}, Q_{2}, Q_{3} and Q_{4} of same magnitude are fixed along the x axis at x = $$-$$2a, $$-$$a, +a and +2a, respectively. A positive charge q is placed on the positive y axis at a distance b > 0. Four options of the signs of these charges are given in List I. The direction of the forces on the charge q is given in List II. Match List I with List II and select the correct answer using the code given below the lists. \n \n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List I\n    \n    List II\n    \n  \n\n\n  \n    P.\n    Q$$_1$$, Q$$_2$$, Q$$_3$$, Q$$_4$$ all positive\n    1.\n    +x\n  \n  \n    Q.\n    Q$$_1$$, Q$$_2$$ positive; Q$$_3$$, Q$$_4$$ negative\n    2.\n    $$ - $$x\n  \n  \n    R.\n    Q$$_1$$, Q$$_4$$ positive; Q$$_2$$, Q$$_3$$ negative\n    3.\n    +y\n  \n  \n    S.\n    Q$$_1$$, Q$$_3$$ positive; Q$$_2$$, Q$$_4$$ negative\n    4.\n    $$ - $$y",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 59,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 59,
-      "question_text": "Four combinations of two thin lenses are given in List I. The radius of curvature of all curved surfaces is r and the refractive index of all the lenses is 1.5. Match lens combinations in List I with their focal length in List II and select the correct answer using the code given below the lists.",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Four combinations of two thin lenses are given in List I. The radius of curvature of all curved surfaces is r and the refractive index of all the lenses is 1.5. Match lens combinations in List I with their focal length in List II and select the correct answer using the code given below the lists.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l17quma3/fb43709f-5fc9-416b-9922-8288ac09051e/52b9d1b0-acf4-11ec-915c-c385b35e7182/file-1l17quma4.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "P - 1, Q - 2, R - 3, S - 4",
         "B": "P - 2, Q - 4, R - 3, S - 1",
         "C": "P - 4, Q - 1, R - 2, S - 3",
         "D": "P - 2, Q - 1, R - 3, S - 4"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Four combinations of two thin lenses are given in List I. The radius of curvature of all curved surfaces is r and the refractive index of all the lenses is 1.5. Match lens combinations in List I with their focal length in List II and select the correct answer using the code given below the lists.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 60,
       "year": 2014,
       "exam_type": "JEE Advanced",
       "shift": 1,
-      "question_number": 60,
-      "question_text": "A block of mass m1 = 1 kg another mass m2 = 2 kg, are placed together (see figure) on an inclined plane with angle of inclination $$\\theta$$. Various values of $$\\theta$$ are given in List I. The coefficient of friction between the block m1 and the plane is always zero. The coefficient of static and dynamic friction between the block m2 and the plane are equal to $$\\mu$$ = 0.3. In List II expressions for the friction on the block m2 are given. Match the correct expression of the friction in List II with the angles given in List I, and choose the correct option. The acceleration due to gravity is denoted by g.\n\n[Useful information : tan (5.5$$^\\circ$$) $$\\approx$$ 0.1; tan (11.5$$^\\circ$$) $$\\approx$$ 0.2; tan (16.5$$^\\circ$$) $$\\approx$$ 0.3]\n\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List I\n    \n    List II\n    \n  \n\n\n  \n    P.\n    $$\\theta  = 5^\\circ $$\n\n    1.\n    $${m_2}g\\sin \\theta $$\n\n  \n  \n    Q.\n    $$\\theta  = 10^\\circ $$\n\n    2.\n    $$({m_1} + {m_2})g\\sin \\theta $$\n\n  \n  \n    R.\n    $$\\theta  = 15^\\circ $$\n\n    3.\n    $$\\mu {m_2}g\\cos \\theta $$\n\n  \n  \n    S.\n    $$\\theta  = 20^\\circ $$\n\n    4.\n    $$\\mu ({m_1} + {m_2})g\\cos \\theta $$",
       "subject": "Physics",
       "topic": "laws-of-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A block of mass m1 = 1 kg another mass m2 = 2 kg, are placed together (see figure) on an inclined plane with angle of inclination $$\\theta$$. Various values of $$\\theta$$ are given in List I. The coefficient of friction between the block m1 and the plane is always zero. The coefficient of static and dynamic friction between the block m2 and the plane are equal to $$\\mu$$ = 0.3. In List II expressions for the friction on the block m2 are given. Match the correct expression of the friction in List II with the angles given in List I, and choose the correct option. The acceleration due to gravity is denoted by g.\n\n[Useful information : tan (5.5$$^\\circ$$) $$\\approx$$ 0.1; tan (11.5$$^\\circ$$) $$\\approx$$ 0.2; tan (16.5$$^\\circ$$) $$\\approx$$ 0.3]\n\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List I\n    \n    List II\n    \n  \n\n\n  \n    P.\n    $$\\theta  = 5^\\circ $$\n\n    1.\n    $${m_2}g\\sin \\theta $$\n\n  \n  \n    Q.\n    $$\\theta  = 10^\\circ $$\n\n    2.\n    $$({m_1} + {m_2})g\\sin \\theta $$\n\n  \n  \n    R.\n    $$\\theta  = 15^\\circ $$\n\n    3.\n    $$\\mu {m_2}g\\cos \\theta $$\n\n  \n  \n    S.\n    $$\\theta  = 20^\\circ $$\n\n    4.\n    $$\\mu ({m_1} + {m_2})g\\cos \\theta $$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l17q9erq/bb417eee-1727-461f-b88a-b5a74ca6cbf1/04eeba60-acf2-11ec-915c-c385b35e7182/file-1l17q9err.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l17q6ss8/7d4d8adc-f3c2-4fdd-abbc-79125462c167/bc54c290-acf1-11ec-915c-c385b35e7182/file-1l17q6ss9.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "P-1, Q-1, R-1, S-3",
         "B": "P-2, Q-2, R-2, S-3",
         "C": "P-2, Q-2, R-2, S-4",
         "D": "P-2, Q-2, R-3, S-3"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "A block of mass m_{1} = 1 kg another mass m_{2} = 2 kg, are placed together (see figure) on an inclined plane with angle of inclination $$\\theta$$. Various values of $$\\theta$$ are given in List I. The coefficient of friction between the block m_{1} and the plane is always zero. The coefficient of static and dynamic friction between the block m_{2} and the plane are equal to $$\\mu$$ = 0.3. In List II expressions for the friction on the block m_{2} are given. Match the correct expression of the friction in List II with the angles given in List I, and choose the correct option. The acceleration due to gravity is denoted by g. \n[Useful information : tan (5.5$$^\\circ$$) $$\\approx$$ 0.1; tan (11.5$$^\\circ$$) $$\\approx$$ 0.2; tan (16.5$$^\\circ$$) $$\\approx$$ 0.3] \n \n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n\n\n\n  \n    List I\n    \n    List II\n    \n  \n\n\n  \n    P.\n    $$\\theta  = 5^\\circ $$\n    1.\n    $${m_2}g\\sin \\theta $$\n  \n  \n    Q.\n    $$\\theta  = 10^\\circ $$\n    2.\n    $$({m_1} + {m_2})g\\sin \\theta $$\n  \n  \n    R.\n    $$\\theta  = 15^\\circ $$\n    3.\n    $$\\mu {m_2}g\\cos \\theta $$\n  \n  \n    S.\n    $$\\theta  = 20^\\circ $$\n    4.\n    $$\\mu ({m_1} + {m_2})g\\cos \\theta $$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     }
   ]
 }

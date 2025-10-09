@@ -8,1444 +8,1698 @@
   },
   "questions": [
     {
+      "question_number": 1,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 1,
-      "question_text": "In the cyanide extraction process of silver from argentite ore, the oxidising and reducing agents used are",
       "subject": "Chemistry",
       "topic": "isolation-of-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In the cyanide extraction process of silver from argentite ore, the oxidising and reducing agents used are",
+      "question_images": [],
+      "option_texts": {
         "A": "O_{2} and CO respectively",
         "B": "O_{2} and Zn dust respectively",
         "C": "HNO_{3} and Zn dust respectively",
         "D": "HNO_{3} and CO respectively"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "In the cyanide extraction process of silver from argentite ore, the oxidising and reducing agents used are",
-      "isOutOfSyllabus": false,
       "marks": 2,
-      "negMarks": 0.5
+      "negMarks": 0.5,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 2,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 2,
-      "question_text": "The electrochemical cell shown below is a concentration cell. M | M2+ (saturated solution of a sparingly soluble salt, MX2) || M2+ (0.001 mol dm–3) | M The emf of the cell depends on the difference in concentrations of M2+ ions at the two electrodes. The emf of the cell at 298 K is 0.059 V. \n\n\nThe value of ∆G (kJ mol–1) for the given cell is (take 1F = 96500 C mol–1)",
       "subject": "Chemistry",
       "topic": "electrochemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The electrochemical cell shown below is a concentration cell. M | M2+ (saturated solution of a sparingly soluble salt, MX2) || M2+ (0.001 mol dm–3) | M The emf of the cell depends on the difference in concentrations of M2+ ions at the two electrodes. The emf of the cell at 298 K is 0.059 V. \n\n\nThe value of ∆G (kJ mol–1) for the given cell is (take 1F = 96500 C mol–1)",
+      "question_images": [],
+      "option_texts": {
         "A": "–5.7",
         "B": "5.7",
         "C": "11.4",
         "D": "-11.4"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The electrochemical cell shown below is a concentration cell. M | M^{2+} (saturated solution of a sparingly soluble salt, MX_{2}) || M^{2+} (0.001 mol dm^{–3}) | M The emf of the cell depends on the difference in concentrations of M^{2+} ions at the two electrodes. The emf of the cell at 298 K is 0.059 V. \nThe value of ∆G (kJ mol^{–1}) for the given cell is (take 1F = 96500 C mol^{–1})",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 3,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 3,
-      "question_text": "The electrochemical cell shown below is a concentration cell. M | M2+ (saturated solution of a sparingly soluble salt, MX2) || M2+ (0.001 mol dm–3) | M The emf of the cell depends on the difference in concentrations of M2+ ions at the two electrodes. The emf of the cell at 298 K is 0.059 V. \n\n\nThe solubility product (Ksp; mol3 dm–9) of MX2 at 298 K based on the information available for the given concentration cell is (take 2.303 $$\\times$$ R $$\\times$$ 298/F = 0.059 V)",
       "subject": "Chemistry",
       "topic": "electrochemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The electrochemical cell shown below is a concentration cell. M | M2+ (saturated solution of a sparingly soluble salt, MX2) || M2+ (0.001 mol dm–3) | M The emf of the cell depends on the difference in concentrations of M2+ ions at the two electrodes. The emf of the cell at 298 K is 0.059 V. \n\n\nThe solubility product (Ksp; mol3 dm–9) of MX2 at 298 K based on the information available for the given concentration cell is (take 2.303 $$\\times$$ R $$\\times$$ 298/F = 0.059 V)",
+      "question_images": [],
+      "option_texts": {
         "A": "1 $$\\times$$ 10^{–15}",
         "B": "4 $$\\times$$ 10^{–15}",
         "C": "1 $$\\times$$ 10^{–12}",
         "D": "4 $$\\times$$ 10^{–12}"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The electrochemical cell shown below is a concentration cell. M | M^{2+} (saturated solution of a sparingly soluble salt, MX_{2}) || M^{2+} (0.001 mol dm^{–3}) | M The emf of the cell depends on the difference in concentrations of M^{2+} ions at the two electrodes. The emf of the cell at 298 K is 0.059 V. \nThe solubility product (K_{sp}; mol^{3} dm^{–9}) of MX_{2} at 298 K based on the information available for the given concentration cell is (take 2.303 $$\\times$$ R $$\\times$$ 298/F = 0.059 V)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 4,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 4,
-      "question_text": "For a dilute solution containing 2.5 g of a non-volatile non-electrolyte solute in 100 g of water. the elevation in boiling point at 1 atm pressure is 2oC. Assuming concentration of solute is much lower than the concentration of solvent, the vapour pressure (mm of Hg) of the solution is (take Kb = 0.76 K Kg mol-1)",
       "subject": "Chemistry",
       "topic": "solutions",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "For a dilute solution containing 2.5 g of a non-volatile non-electrolyte solute in 100 g of water. the elevation in boiling point at 1 atm pressure is 2oC. Assuming concentration of solute is much lower than the concentration of solvent, the vapour pressure (mm of Hg) of the solution is (take Kb = 0.76 K Kg mol-1)",
+      "question_images": [],
+      "option_texts": {
         "A": "724",
         "B": "780",
         "C": "736",
         "D": "718"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "For a dilute solution containing 2.5 g of a non-volatile non-electrolyte solute in 100 g of water. the elevation in boiling point at 1 atm pressure is 2^{o}C. Assuming concentration of solute is much lower than the concentration of solvent, the vapour pressure (mm of Hg) of the solution is (take K_{b} = 0.76 K Kg mol^{-1})",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 0.75
+      "negMarks": 0.75,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 5,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 5,
-      "question_text": "The major product H of the given reaction sequence is\n\n$$C{H_3} - C{H_2} - CO - C{H_3}\\buildrel {\\overline C N} \\over\n \\longrightarrow G\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{Heat}^{95\\% \\,{H_2}S{O_4}}} H$$",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The major product H of the given reaction sequence is\n\n$$C{H_3} - C{H_2} - CO - C{H_3}\\buildrel {\\overline C N} \\over\n \\longrightarrow G\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{Heat}^{95\\% \\,{H_2}S{O_4}}} H$$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2641eb2/8c6e9920-dc20-4625-acb8-8e9a29ce2f4f/8bfd45d0-bfda-11ec-b2a1-8f7044a30f04/file-1l2641eb3.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l261brpm/52448b74-ada3-45f7-a28b-31ee995fe66c/f10c66a0-bfcf-11ec-ad74-b5bf7a9ce837/file-1l261brpn.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l261cipc/53a892b1-4955-45b9-b1c7-5ad805bc0cbc/05e63b00-bfd0-11ec-8746-dbad3dd2fa81/file-1l261cipd.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l261eczn/f3741b44-9142-4c47-a3af-9293fc296473/391ac040-bfd0-11ec-8746-dbad3dd2fa81/file-1l261eczo.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l261ez2q/8ad34b40-6de4-44bf-b4ff-604074c5516c/4a2a1f20-bfd0-11ec-8746-dbad3dd2fa81/file-1l261ez2r.png",
+          "description": ""
+        }
+      },
       "correct_answer": "A",
-      "question": "The major product H of the given reaction sequence is \n$$C{H_3} - C{H_2} - CO - C{H_3}\\buildrel {\\overline C N} \\over\n \\longrightarrow G\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{Heat}^{95\\% \\,{H_2}S{O_4}}} H$$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 6,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 6,
-      "question_text": "$$NiC{l_2}{\\{ P{({C_2}{H_5})_2}({C_6}{H_5})\\} _2}$$ exhibits temperature-dependent magnetic behaviour (paramagnetic/diamagnetic). The coordination geometries of Ni2+ in the paramagnetic and diamagnetic states are, respectively,",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "$$NiC{l_2}{\\{ P{({C_2}{H_5})_2}({C_6}{H_5})\\} _2}$$ exhibits temperature-dependent magnetic behaviour (paramagnetic/diamagnetic). The coordination geometries of Ni2+ in the paramagnetic and diamagnetic states are, respectively,",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2659rcs/fed4798c-0c3b-49c7-b1a5-5aa7ea33c595/5dabb8b0-bfdf-11ec-927e-3394d6caf310/file-1l2659rct.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l265c20u/c4a79ef7-dcb3-43fe-8e8e-6ee008d86333/9d87d5e0-bfdf-11ec-951c-b3a14118c73b/file-1l265c20v.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "tetrahedral and tetrahedral.",
         "B": "square planar and square planar.",
         "C": "tetrahedral and square planar.",
         "D": "square planar and tetrahedral."
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "$$NiC{l_2}{\\{ P{({C_2}{H_5})_2}({C_6}{H_5})\\} _2}$$ exhibits temperature-dependent magnetic behaviour (paramagnetic/diamagnetic). The coordination geometries of Ni^{2+} in the paramagnetic and diamagnetic states are, respectively,",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 7,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 7,
-      "question_text": "The reaction of white phosphorous with aqueous NaOH gives phosphine along with another phosphorus containing compound. The reaction type; the oxidation states of phosphorus in phosphine and the other product are, respectively,",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The reaction of white phosphorous with aqueous NaOH gives phosphine along with another phosphorus containing compound. The reaction type; the oxidation states of phosphorus in phosphine and the other product are, respectively,",
+      "question_images": [],
+      "option_texts": {
         "A": "redox reaction; $$-$$3 and $$-$$5",
         "B": "redox reaction; +3 and +5",
         "C": "disproportionation reaction; $$-$$3 and +1",
         "D": "disproportionation reaction; $$-$$3 and +3"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The reaction of white phosphorous with aqueous NaOH gives phosphine along with another phosphorus containing compound. The reaction type; the oxidation states of phosphorus in phosphine and the other product are, respectively,",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 8,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 8,
-      "question_text": "The shape of XeO2F2 molecule is",
       "subject": "Chemistry",
       "topic": "chemical-bonding-and-molecular-structure",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The shape of XeO2F2 molecule is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l26hvc85/3fb52983-347e-4e04-8f07-796b439d3623/a355ed50-c010-11ec-8e78-8beb702b8cb9/file-1l26hvc86.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "trigonal bipyramidal.",
         "B": "square planar.",
         "C": "tetrahedral.",
         "D": "see-saw."
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The shape of XeO_{2}F_{2} molecule is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 9,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 9,
-      "question_text": "The compound that undergoes decarboxylation most readily under mild condition is",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The compound that undergoes decarboxylation most readily under mild condition is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l26hyuln/a0450214-e7ea-4824-9f97-b7c8230e85fa/04f513b0-c011-11ec-8e78-8beb702b8cb9/file-1l26hyulo.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l261j7px/b62d193f-842b-4a06-91ab-19dc9f7895ec/c0142050-bfd0-11ec-8746-dbad3dd2fa81/file-1l261j7py.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l261iuui/6607587a-7ecb-4c53-adaf-42cf41bd4299/b62280a0-bfd0-11ec-8746-dbad3dd2fa81/file-1l261iuuj.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l261hyph/6e6010b9-26e8-42b1-a396-a5bf9708c4d9/9d4ee960-bfd0-11ec-8746-dbad3dd2fa81/file-1l261hypi.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l261hj0a/1b397667-1340-4699-8d21-75744acdfd72/912e5bc0-bfd0-11ec-8746-dbad3dd2fa81/file-1l261hj0c.png",
+          "description": ""
+        }
+      },
       "correct_answer": "B",
-      "question": "The compound that undergoes decarboxylation most readily under mild condition is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 10,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 10,
-      "question_text": "Using the data provided, calculate the multiple bond energy (kJ mol$$-$$1) of a C=C bond in C2H2. That energy is (take the bond energy of C-H bond as 350 kJ mol$$-$$1).\n\n$$\\matrix{\n   \\hfill {2C(s) + {H_2}(g) \\to {C_2}{H_2}} & \\hfill {\\Delta H = 225\\,kJ\\,mo{l^{ - 1}}} \\cr \n   \\hfill {2C(s) \\to 2C(g)} & \\hfill {\\Delta H = 1410\\,kJ\\,mo{l^{ - 1}}} \\cr \n   \\hfill {{H_2}(g) \\to 2H(g)} & \\hfill {\\Delta H = 330\\,kJ\\,mo{l^{ - 1}}} \\cr \n\n } $$",
       "subject": "Chemistry",
       "topic": "thermodynamics",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Using the data provided, calculate the multiple bond energy (kJ mol$$-$$1) of a C=C bond in C2H2. That energy is (take the bond energy of C-H bond as 350 kJ mol$$-$$1).\n\n$$\\matrix{\n   \\hfill {2C(s) + {H_2}(g) \\to {C_2}{H_2}} & \\hfill {\\Delta H = 225\\,kJ\\,mo{l^{ - 1}}} \\cr \n   \\hfill {2C(s) \\to 2C(g)} & \\hfill {\\Delta H = 1410\\,kJ\\,mo{l^{ - 1}}} \\cr \n   \\hfill {{H_2}(g) \\to 2H(g)} & \\hfill {\\Delta H = 330\\,kJ\\,mo{l^{ - 1}}} \\cr \n\n } $$",
+      "question_images": [],
+      "option_texts": {
         "A": "1165 kJ mol^{$$-$$1}",
         "B": "837 kJ mol^{$$-$$1}",
         "C": "865 kJ mol^{$$-$$1}",
         "D": "815 kJ mol^{$$-$$1}"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Using the data provided, calculate the multiple bond energy (kJ mol^{$$-$$1}) of a C=C bond in C_{2}H_{2}. That energy is (take the bond energy of C-H bond as 350 kJ mol^{$$-$$1}). \n$$\\matrix{\n   \\hfill {2C(s) + {H_2}(g) \\to {C_2}{H_2}} & \\hfill {\\Delta H = 225\\,kJ\\,mo{l^{ - 1}}} \\cr \n   \\hfill {2C(s) \\to 2C(g)} & \\hfill {\\Delta H = 1410\\,kJ\\,mo{l^{ - 1}}} \\cr \n   \\hfill {{H_2}(g) \\to 2H(g)} & \\hfill {\\Delta H = 330\\,kJ\\,mo{l^{ - 1}}} \\cr \n\n } $$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 11,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 11,
-      "question_text": "The compound I is",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The compound I is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l26igr31/a9e79479-c703-40e8-9abf-f3c536c2cc13/f6ce43e0-c012-11ec-8e78-8beb702b8cb9/file-1l26igr32.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
+      },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l261oq6u/bdefbf72-ca4a-479e-904e-405d2ce669f6/59647a70-bfd1-11ec-8746-dbad3dd2fa81/file-1l261oq6v.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l261obr2/c984ff6e-3b6e-45e5-bd64-71e80f0bd0c7/4e3d40f0-bfd1-11ec-8746-dbad3dd2fa81/file-1l261obr3.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l261nxmm/ed3f0095-8d94-4e70-985e-05155e0932f6/435421e0-bfd1-11ec-8746-dbad3dd2fa81/file-1l261nxmn.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l261nh1u/1cde11f9-c884-424f-9ea4-68934fb01bc1/36861630-bfd1-11ec-8746-dbad3dd2fa81/file-1l261nh1w.png",
+          "description": ""
+        }
       },
       "correct_answer": "A",
-      "question": "The compound I is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 12,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 12,
-      "question_text": "The compound K is",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The compound K is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l26ic991/7b3cc268-eb1e-4ffe-900f-753987b52794/79cb1760-c012-11ec-8e78-8beb702b8cb9/file-1l26ic992.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l261s0mn/5b620584-09ea-412c-8287-0e1565c59e3b/b4e21bf0-bfd1-11ec-8746-dbad3dd2fa81/file-1l261s0mo.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l261rp3u/3947a4e6-eb04-47d3-8822-75113af03877/abfb83a0-bfd1-11ec-8746-dbad3dd2fa81/file-1l261rp3v.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l261rcm7/9858f30d-3a94-47ef-9c8e-15f117fc17ee/a25592f0-bfd1-11ec-8746-dbad3dd2fa81/file-1l261rcm8.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l261r0hn/79d61dfe-757a-4619-8fbb-23842176a5f3/98f780b0-bfd1-11ec-8746-dbad3dd2fa81/file-1l261r0ho.png",
+          "description": ""
+        }
+      },
       "correct_answer": "C",
-      "question": "The compound K is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 13,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 13,
-      "question_text": "Bleaching powder contains a salt of an oxoacid as one of its components. The anhydride of that oxoacid is",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Bleaching powder contains a salt of an oxoacid as one of its components. The anhydride of that oxoacid is",
+      "question_images": [],
+      "option_texts": {
         "A": "Cl_{2}O",
         "B": "Cl_{2}O_{7}",
         "C": "ClO_{2}",
         "D": "Cl_{2}O_{6}"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Bleaching powder contains a salt of an oxoacid as one of its components. The anhydride of that oxoacid is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 14,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 14,
-      "question_text": "25 mL of household bleach solution was mixed with 30 mL of 0.50 M KI and 10 mL of 4 N acetic acid. In the titration of the liberated iodine, 48 mL of 0.25 N Na2S2O3 was used to reach the end point. The molarity of the household bleach solution is",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "25 mL of household bleach solution was mixed with 30 mL of 0.50 M KI and 10 mL of 4 N acetic acid. In the titration of the liberated iodine, 48 mL of 0.25 N Na2S2O3 was used to reach the end point. The molarity of the household bleach solution is",
+      "question_images": [],
+      "option_texts": {
         "A": "0.48 M",
         "B": "0.96 M",
         "C": "0.24 M",
         "D": "0.024 M"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "25 mL of household bleach solution was mixed with 30 mL of 0.50 M KI and 10 mL of 4 N acetic acid. In the titration of the liberated iodine, 48 mL of 0.25 N Na_{2}S_{2}O_{3} was used to reach the end point. The molarity of the household bleach solution is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 15,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 15,
-      "question_text": "The reversible expansion of an ideal gas under adiabatic and isothermal conditions is shown in the figure. Which of the following statement(s) is(are) correct?",
       "subject": "Chemistry",
       "topic": "thermodynamics",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The reversible expansion of an ideal gas under adiabatic and isothermal conditions is shown in the figure. Which of the following statement(s) is(are) correct?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l269v4xb/197d8ae1-3b63-42da-b709-a7e2c0a6891c/54a9a3f0-bff1-11ec-8651-d94561061062/file-1l269v4xc.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "T_{1} = T_{2}",
         "B": "T_{3} > T_{1}",
         "C": "w_{isothermal} > w_{adiabatic}",
         "D": "$$\\Delta$$U_{isothermal} > $$\\Delta$$U_{adiabatic}"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The reversible expansion of an ideal gas under adiabatic and isothermal conditions is shown in the figure. Which of the following statement(s) is(are) correct?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 16,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 16,
-      "question_text": "For the given aqueous reactions, which of the statement(s) is(are) true?",
       "subject": "Chemistry",
       "topic": "d-and-f-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "For the given aqueous reactions, which of the statement(s) is(are) true?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l26ahj0p/f5257576-3303-4423-bce8-7aa2ed172ce9/c359e790-bff3-11ec-9807-3fb7842b4dc6/file-1l26ahj0q.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "The first reaction is a redox reaction.",
         "B": "White precipitate is Zn_{3}[Fe(CN)_{6}]_{2}.",
         "C": "Addition of filtrate to starch solution gives blue colour.",
         "D": "White precipitate is soluble in NaOH solution."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "For the given aqueous reactions, which of the statement(s) is(are) true?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 17,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 17,
-      "question_text": "With reference to the scheme given, which of the given statement(s) about T, U, V and W is(are) correct?",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "With reference to the scheme given, which of the given statement(s) about T, U, V and W is(are) correct?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l26ajj93/dbf91985-3ee2-4f37-8a8a-1a5cc0edac59/fb266b80-bff3-11ec-9807-3fb7842b4dc6/file-1l26ajj94.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l26i864x/cf529531-2bbf-4f55-ade5-e01256f1c789/0826af20-c012-11ec-8e78-8beb702b8cb9/file-1l26i864y.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "T is soluble in hot aqueous NaOH.",
         "B": "U is optically active.",
         "C": "Molecular formula of W is C_{10}H_{18}O_{4}.",
         "D": "V gives effervescence on treatment with aqueous NaHCO_{3}."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "With reference to the scheme given, which of the given statement(s) about T, U, V and W is(are) correct?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 18,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 18,
-      "question_text": "Which of the given statement(s) about N, O, P and Q with respect to M is(are) correct?",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the given statement(s) about N, O, P and Q with respect to M is(are) correct?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l26alolj/13c081c6-7f8f-431d-8d3c-1f44263a1efe/36e5ad70-bff4-11ec-9807-3fb7842b4dc6/file-1l26alolk.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l26imx8x/73137c8d-9c35-4c4e-b1ce-c39a286f9679/a26c2230-c013-11ec-8e78-8beb702b8cb9/file-1l26imx8z.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l26io5u3/cb7b53e8-fe9d-4679-bdda-5c95a8549628/c4dd45b0-c013-11ec-8e78-8beb702b8cb9/file-1l26io5u4.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "M and N are non-minor image stereoisomers.",
         "B": "M and O are identical.",
         "C": "M and P are enantiomers.",
         "D": "None of these."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Which of the given statement(s) about N, O, P and Q with respect to M is(are) correct?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 19,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 19,
-      "question_text": "With respect to graphite and diamond, which of the statement(s) given below is(are) correct?",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "With respect to graphite and diamond, which of the statement(s) given below is(are) correct?",
+      "question_images": [],
+      "option_texts": {
         "A": "Graphite is harder than diamond.",
         "B": "Graphite has higher electrical conductivity than diamond.",
         "C": "Graphite has higher thermal conductivity than diamond.",
         "D": "Graphite has higher C-C bond order than diamond."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "With respect to graphite and diamond, which of the statement(s) given below is(are) correct?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 20,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 20,
-      "question_text": "The given graphs/data I, II, III and IV represent general trends observed for different physisorption and chemisorption processes under mild conditions of temperature and pressure. Which of the following choice(s) about I, II, III and IV is(are) correct?",
       "subject": "Chemistry",
       "topic": "surface-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The given graphs/data I, II, III and IV represent general trends observed for different physisorption and chemisorption processes under mild conditions of temperature and pressure. Which of the following choice(s) about I, II, III and IV is(are) correct?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l26ant5a/6f546f7d-5142-41a0-9efb-b5b9fd88c8f1/720776e0-bff4-11ec-9807-3fb7842b4dc6/file-1l26ant5b.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l26aol77/3137474a-8a64-4119-9591-09ad2470fe65/87b31a30-bff4-11ec-9807-3fb7842b4dc6/file-1l26aol78.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l26apb9q/87764803-5d87-47aa-bce1-aed79b7948ea/9bd696e0-bff4-11ec-9807-3fb7842b4dc6/file-1l26apb9r.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l26aq51p/cc2cd976-0900-4be7-b19d-f4555fdb702e/b2d742e0-bff4-11ec-9807-3fb7842b4dc6/file-1l26aq51q.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "I is physisorption and II is chemisorption.",
         "B": "I is physisorption and III is chemisorption.",
         "C": "IV is chemisorption and II is chemisorption.",
         "D": "IV is chemisorption and III is chemisorption."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The given graphs/data I, II, III and IV represent general trends observed for different physisorption and chemisorption processes under mild conditions of temperature and pressure. Which of the following choice(s) about I, II, III and IV is(are) correct?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 21,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 21,
-      "question_text": "Let $${{a_n}}$$ denote the number of all n-digit positive integers formed  by the digits 0, 1 or both such that no consecutive digits in them are 0.Let $${{b_n}}$$ = the number of such n-digit integers ending with digit 1 and $${{c_n}}$$ =the number of such n-digit integers ending with digit 0.\n The value of $${{b_6}}$$ is",
       "subject": "Mathematics",
       "topic": "permutations-and-combinations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $${{a_n}}$$ denote the number of all n-digit positive integers formed  by the digits 0, 1 or both such that no consecutive digits in them are 0.Let $${{b_n}}$$ = the number of such n-digit integers ending with digit 1 and $${{c_n}}$$ =the number of such n-digit integers ending with digit 0.\n The value of $${{b_6}}$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "7",
         "B": "8",
         "C": "9",
         "D": "11"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $${{a_n}}$$ denote the number of all n-digit positive integers formed  by the digits 0, 1 or both such that no consecutive digits in them are 0.Let $${{b_n}}$$ = the number of such n-digit integers ending with digit 1 and $${{c_n}}$$ =the number of such n-digit integers ending with digit 0.\n The value of $${{b_6}}$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 22,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 22,
-      "question_text": "If the straight lines $$\\,{{x - 1} \\over 2} = {{y + 1} \\over k} = {z \\over 2}$$ and $${{x + 1} \\over 5} = {{y + 1} \\over 2} = {z \\over k}$$ are coplanar, then the plane (s) containing these two lines is (are)",
       "subject": "Mathematics",
       "topic": "3d-geometry",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the straight lines $$\\,{{x - 1} \\over 2} = {{y + 1} \\over k} = {z \\over 2}$$ and $${{x + 1} \\over 5} = {{y + 1} \\over 2} = {z \\over k}$$ are coplanar, then the plane (s) containing these two lines is (are)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzvkbzyo/c9c658b3-e4e6-437d-a25e-a66022367d2b/009d9d00-5b2d-11ef-946b-7ff9f6873b9c/file-jaoe38c1lzvkbzyp.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$y+2z=-1$$",
         "B": "$$y+z=-1$$",
         "C": "$$y-z=-1$$",
         "D": "$$y-2z=-1$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "If the straight lines $$\\,{{x - 1} \\over 2} = {{y + 1} \\over k} = {z \\over 2}$$ and $${{x + 1} \\over 5} = {{y + 1} \\over 2} = {z \\over k}$$ are coplanar, then the plane (s) containing these two lines is (are)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 23,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 23,
-      "question_text": "The equation of a plane passing through the line of intersection of the planes $$x+2y+3z=2$$ and $$x-y+z=3$$ and at a distance $${2 \\over {\\sqrt 3 }}$$ from the point $$(3, 1, -1)$$ is",
       "subject": "Mathematics",
       "topic": "3d-geometry",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The equation of a plane passing through the line of intersection of the planes $$x+2y+3z=2$$ and $$x-y+z=3$$ and at a distance $${2 \\over {\\sqrt 3 }}$$ from the point $$(3, 1, -1)$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$5x-11y+z=17$$",
         "B": "$$\\sqrt 2 x + y = 3\\sqrt 2  - 1$$",
         "C": "$$x + y + z = \\sqrt 3 $$",
         "D": "$$x - \\sqrt 2 y = 1 - \\sqrt 2 $$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The equation of a plane passing through the line of intersection of the planes $$x+2y+3z=2$$ and $$x-y+z=3$$ and at a distance $${2 \\over {\\sqrt 3 }}$$ from the point $$(3, 1, -1)$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 24,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 24,
-      "question_text": "If  $$\\overrightarrow a $$ and $$\\overrightarrow b $$ are vectors such that $$\\left| {\\overrightarrow a  + \\overrightarrow b } \\right| = \\sqrt {29} $$ and $$\\,\\overrightarrow a  \\times \\left( {2\\widehat i + 3\\widehat j + 4\\widehat k} \\right) = \\left( {2\\widehat i + 3\\widehat j + 4\\widehat k} \\right) \\times \\widehat b,$$ then a possible value of $$\\left( {\\overrightarrow a  + \\overrightarrow b } \\right).\\left( { - 7\\widehat i + 2\\widehat j + 3\\widehat k} \\right)$$ is",
       "subject": "Mathematics",
       "topic": "vector-algebra",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If  $$\\overrightarrow a $$ and $$\\overrightarrow b $$ are vectors such that $$\\left| {\\overrightarrow a  + \\overrightarrow b } \\right| = \\sqrt {29} $$ and $$\\,\\overrightarrow a  \\times \\left( {2\\widehat i + 3\\widehat j + 4\\widehat k} \\right) = \\left( {2\\widehat i + 3\\widehat j + 4\\widehat k} \\right) \\times \\widehat b,$$ then a possible value of $$\\left( {\\overrightarrow a  + \\overrightarrow b } \\right).\\left( { - 7\\widehat i + 2\\widehat j + 3\\widehat k} \\right)$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$0$$",
         "B": "$$3$$",
         "C": "$$4$$",
         "D": "$$8$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "If  $$\\overrightarrow a $$ and $$\\overrightarrow b $$ are vectors such that $$\\left| {\\overrightarrow a  + \\overrightarrow b } \\right| = \\sqrt {29} $$ and $$\\,\\overrightarrow a  \\times \\left( {2\\widehat i + 3\\widehat j + 4\\widehat k} \\right) = \\left( {2\\widehat i + 3\\widehat j + 4\\widehat k} \\right) \\times \\widehat b,$$ then a possible value of $$\\left( {\\overrightarrow a  + \\overrightarrow b } \\right).\\left( { - 7\\widehat i + 2\\widehat j + 3\\widehat k} \\right)$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 25,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 25,
-      "question_text": "Let $$X$$ and $$Y$$ be two events such that $$P\\left( {X|Y} \\right) = {1 \\over 2},$$ $$P\\left( {Y|X} \\right) = {1 \\over 3}$$ and $$P\\left( {X \\cap Y} \\right) = {1 \\over 6}.$$ Which of the following is (are) correct ?",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$X$$ and $$Y$$ be two events such that $$P\\left( {X|Y} \\right) = {1 \\over 2},$$ $$P\\left( {Y|X} \\right) = {1 \\over 3}$$ and $$P\\left( {X \\cap Y} \\right) = {1 \\over 6}.$$ Which of the following is (are) correct ?",
+      "question_images": [],
+      "option_texts": {
         "A": "$$P\\left( {X \\cup Y} \\right) = {2 \\over 3}$$",
         "B": "$$X$$ and $$Y$$ are independent",
         "C": "$$X$$ and $$Y$$ are not independent",
         "D": "$$P\\left( {{X^c} \\cap Y} \\right) = {1 \\over 3}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $$X$$ and $$Y$$ be two events such that $$P\\left( {X|Y} \\right) = {1 \\over 2},$$ $$P\\left( {Y|X} \\right) = {1 \\over 3}$$ and $$P\\left( {X \\cap Y} \\right) = {1 \\over 6}.$$ Which of the following is (are) correct ?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 26,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 26,
-      "question_text": "Four fair dice $${D_1,}$$ $${D_2,}$$ $${D_3}$$ and $${D_4}$$ ; each having six faces numbered $$1, 2, 3, 4, 5$$ and $$6$$ are rolled simultaneously. The probability that $${D_4}$$ shows a number appearing on one of $${D_1},$$ $${D_2}$$ and $${D_3}$$ is",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Four fair dice $${D_1,}$$ $${D_2,}$$ $${D_3}$$ and $${D_4}$$ ; each having six faces numbered $$1, 2, 3, 4, 5$$ and $$6$$ are rolled simultaneously. The probability that $${D_4}$$ shows a number appearing on one of $${D_1},$$ $${D_2}$$ and $${D_3}$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{91} \\over {216}}$$",
         "B": "$${{108} \\over {216}}$$",
         "C": "$${{125} \\over {216}}$$",
         "D": "$${{127} \\over {216}}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Four fair dice $${D_1,}$$ $${D_2,}$$ $${D_3}$$ and $${D_4}$$ ; each having six faces numbered $$1, 2, 3, 4, 5$$ and $$6$$ are rolled simultaneously. The probability that $${D_4}$$ shows a number appearing on one of $${D_1},$$ $${D_2}$$ and $${D_3}$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 27,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 27,
-      "question_text": "The value of the integral $$\\int\\limits_{ - \\pi /2}^{\\pi /2} {\\left( {{x^2} + 1n{{\\pi  + x} \\over {\\pi  - x}}} \\right)\\cos xdx} $$ is",
       "subject": "Mathematics",
       "topic": "definite-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The value of the integral $$\\int\\limits_{ - \\pi /2}^{\\pi /2} {\\left( {{x^2} + 1n{{\\pi  + x} \\over {\\pi  - x}}} \\right)\\cos xdx} $$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "$$0$$",
         "B": "$${{{\\pi ^2}} \\over 2} - 4$$",
         "C": "$${{{\\pi ^2}} \\over 2} + 4$$",
         "D": "$${{{\\pi ^2}} \\over 2}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The value of the integral $$\\int\\limits_{ - \\pi /2}^{\\pi /2} {\\left( {{x^2} + 1n{{\\pi  + x} \\over {\\pi  - x}}} \\right)\\cos xdx} $$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 28,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 28,
-      "question_text": "Let $$f\\left( x \\right) = {\\left( {1 - x} \\right)^2}\\,\\,{\\sin ^2}\\,\\,x + {x^2}$$ for all $$x \\in IR$$ and let \n\n$$g\\left( x \\right) = \\int\\limits_1^x {\\left( {{{2\\left( {t - 1} \\right)} \\over {t + 1}} - In\\,t} \\right)f\\left( t \\right)dt} $$ for all $$x \\in \\left( {1,\\,\\infty } \\right)$$.\nConsider the statements:\n\n$$P:$$ There exists some $$x \\in R$$ such that $$f\\left( x \\right) + 2x = 2\\left( {1 + {x^2}} \\right)$$\n\n$$Q:\\,\\,$$  There exists some $$x \\in R$$ such that $$2\\,f\\left( x \\right) + 1 = 2x\\left( {1 + x} \\right)$$ \n\nThen",
       "subject": "Mathematics",
       "topic": "application-of-derivatives",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$f\\left( x \\right) = {\\left( {1 - x} \\right)^2}\\,\\,{\\sin ^2}\\,\\,x + {x^2}$$ for all $$x \\in IR$$ and let \n\n$$g\\left( x \\right) = \\int\\limits_1^x {\\left( {{{2\\left( {t - 1} \\right)} \\over {t + 1}} - In\\,t} \\right)f\\left( t \\right)dt} $$ for all $$x \\in \\left( {1,\\,\\infty } \\right)$$.\nConsider the statements:\n\n$$P:$$ There exists some $$x \\in R$$ such that $$f\\left( x \\right) + 2x = 2\\left( {1 + {x^2}} \\right)$$\n\n$$Q:\\,\\,$$  There exists some $$x \\in R$$ such that $$2\\,f\\left( x \\right) + 1 = 2x\\left( {1 + x} \\right)$$ \n\nThen",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzvj0tos/4f005bfe-8cf3-4546-8b45-9c6f4a25d7f8/e0c73ae0-5b27-11ef-94ec-5d5e80be8bef/file-jaoe38c1lzvj0tqm.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "both $$P$$ and $$Q$$ are true",
         "B": "$$P$$ is true and $$Q$$ is false",
         "C": "$$P$$ is false and $$Q$$ is true",
         "D": "both $$P$$ and $$Q$$ are false"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let $$f\\left( x \\right) = {\\left( {1 - x} \\right)^2}\\,\\,{\\sin ^2}\\,\\,x + {x^2}$$ for all $$x \\in IR$$ and let \n$$g\\left( x \\right) = \\int\\limits_1^x {\\left( {{{2\\left( {t - 1} \\right)} \\over {t + 1}} - In\\,t} \\right)f\\left( t \\right)dt} $$ for all $$x \\in \\left( {1,\\,\\infty } \\right)$$.\nConsider the statements:\n$$P:$$ There exists some $$x \\in R$$ such that $$f\\left( x \\right) + 2x = 2\\left( {1 + {x^2}} \\right)$$\n$$Q:\\,\\,$$  There exists some $$x \\in R$$ such that $$2\\,f\\left( x \\right) + 1 = 2x\\left( {1 + x} \\right)$$ \nThen",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 29,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 29,
-      "question_text": "Let $$f\\left( x \\right) = {\\left( {1 - x} \\right)^2}\\,\\,{\\sin ^2}\\,\\,x + {x^2}$$ for all $$x \\in IR$$ and let \n\n$$g\\left( x \\right) = \\int\\limits_1^x {\\left( {{{2\\left( {t - 1} \\right)} \\over {t + 1}} - In\\,t} \\right)f\\left( t \\right)dt} $$ for all $$x \\in \\left( {1,\\,\\infty } \\right)$$.\nWhich of the following is true?",
       "subject": "Mathematics",
       "topic": "application-of-derivatives",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$f\\left( x \\right) = {\\left( {1 - x} \\right)^2}\\,\\,{\\sin ^2}\\,\\,x + {x^2}$$ for all $$x \\in IR$$ and let \n\n$$g\\left( x \\right) = \\int\\limits_1^x {\\left( {{{2\\left( {t - 1} \\right)} \\over {t + 1}} - In\\,t} \\right)f\\left( t \\right)dt} $$ for all $$x \\in \\left( {1,\\,\\infty } \\right)$$.\nWhich of the following is true?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzv95tcn/cecad013-bcd2-4ed8-95c1-ee176e1dc237/503b8e70-5b01-11ef-bcf6-652f2ada9ee9/file-jaoe38c1lzv95tco.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzv96kqq/2308acb8-f560-4fa2-a4da-e1b115bcf1f4/65641f10-5b01-11ef-a832-3919eb64d18d/file-jaoe38c1lzv96kqr.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$g$$ is increasing on $$\\left( {1,\\infty } \\right)$$",
         "B": "$$g$$ is decreasing on $$\\left( {1,\\infty } \\right)$$",
         "C": "$$g$$ is increasing on $$(1, 2)$$ and decreasing on $$\\left( {2,\\infty } \\right)$$",
         "D": "$$g$$ is decreasing on $$(1, 2)$$ and increasing on $$\\left( {2,\\infty } \\right)$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $$f\\left( x \\right) = {\\left( {1 - x} \\right)^2}\\,\\,{\\sin ^2}\\,\\,x + {x^2}$$ for all $$x \\in IR$$ and let \n$$g\\left( x \\right) = \\int\\limits_1^x {\\left( {{{2\\left( {t - 1} \\right)} \\over {t + 1}} - In\\,t} \\right)f\\left( t \\right)dt} $$ for all $$x \\in \\left( {1,\\,\\infty } \\right)$$.\nWhich of the following is true?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 30,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 30,
-      "question_text": "If $$f\\left( x \\right) = \\int_0^x {{e^{{t^2}}}} \\left( {t - 2} \\right)\\left( {t - 3} \\right)dt$$ for all $$x \\in \\left( {0,\\infty } \\right),$$ then",
       "subject": "Mathematics",
       "topic": "application-of-derivatives",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If $$f\\left( x \\right) = \\int_0^x {{e^{{t^2}}}} \\left( {t - 2} \\right)\\left( {t - 3} \\right)dt$$ for all $$x \\in \\left( {0,\\infty } \\right),$$ then",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzvjzngl/55f64bdb-546f-4996-b2b4-98d4ad257ed0/a93f8b50-5b2b-11ef-946b-7ff9f6873b9c/file-jaoe38c1lzvjzngm.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$f$$ has a local maximum at $$x=2$$",
         "B": "$$f$$ is decreasing on $$(2, 3)$$",
         "C": "there exists some $$c \\in \\left( {0,\\infty } \\right),$$ such that $$f'(c)=0$$",
         "D": "$$f$$ has a local minimum at $$x=3$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "If $$f\\left( x \\right) = \\int_0^x {{e^{{t^2}}}} \\left( {t - 2} \\right)\\left( {t - 3} \\right)dt$$ for all $$x \\in \\left( {0,\\infty } \\right),$$ then",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 31,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 31,
-      "question_text": "Let $$PQR$$ be a triangle of area $$\\Delta $$ with $$a=2$$, $$b = {7 \\over 2}$$ and $$c = {5 \\over 2}$$; where $$a, b,$$ and $$c$$ are the lengths of the sides of the triangle opposite to the angles at $$P.Q$$ and $$R$$ respectively. Then $${{2\\sin P - \\sin 2P} \\over {2\\sin P + \\sin 2P}}$$ equals.",
       "subject": "Mathematics",
       "topic": "properties-of-triangle",
       "sub_topic": "trigonometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$PQR$$ be a triangle of area $$\\Delta $$ with $$a=2$$, $$b = {7 \\over 2}$$ and $$c = {5 \\over 2}$$; where $$a, b,$$ and $$c$$ are the lengths of the sides of the triangle opposite to the angles at $$P.Q$$ and $$R$$ respectively. Then $${{2\\sin P - \\sin 2P} \\over {2\\sin P + \\sin 2P}}$$ equals.",
+      "question_images": [],
+      "option_texts": {
         "A": "$${3 \\over {4\\Delta }}$$",
         "B": "$${45 \\over {4\\Delta }}$$",
         "C": "$${\\left( {{3 \\over {4\\Delta }}} \\right)^2}$$",
         "D": "$${\\left( {{45 \\over {4\\Delta }}} \\right)^2}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let $$PQR$$ be a triangle of area $$\\Delta $$ with $$a=2$$, $$b = {7 \\over 2}$$ and $$c = {5 \\over 2}$$; where $$a, b,$$ and $$c$$ are the lengths of the sides of the triangle opposite to the angles at $$P.Q$$ and $$R$$ respectively. Then $${{2\\sin P - \\sin 2P} \\over {2\\sin P + \\sin 2P}}$$ equals.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 32,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 32,
-      "question_text": "A tangent PT is drawn to the circle $${x^2}\\, + {y^2} = 4$$ at the point P $$\\left( {\\sqrt 3 ,1} \\right)$$. A straight line L, perpendicular to PT is a tangent to the circle $${(x - 3)^2}$$ + $${y^2}$$ = 1\n A common tangent of the two circles is",
       "subject": "Mathematics",
       "topic": "circle",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A tangent PT is drawn to the circle $${x^2}\\, + {y^2} = 4$$ at the point P $$\\left( {\\sqrt 3 ,1} \\right)$$. A straight line L, perpendicular to PT is a tangent to the circle $${(x - 3)^2}$$ + $${y^2}$$ = 1\n A common tangent of the two circles is",
+      "question_images": [],
+      "option_texts": {
         "A": "x = 4",
         "B": "y = 2",
         "C": "$${x + \\sqrt 3 \\,y = 4}$$",
         "D": "$${x +2 \\sqrt 2 \\,y = 6}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "A tangent PT is drawn to the circle $${x^2}\\, + {y^2} = 4$$ at the point P $$\\left( {\\sqrt 3 ,1} \\right)$$. A straight line L, perpendicular to PT is a tangent to the circle $${(x - 3)^2}$$ + $${y^2}$$ = 1\n A common tangent of the two circles is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 33,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 33,
-      "question_text": "A tangent PT is drawn to the circle $${x^2}\\, + {y^2} = 4$$ at the point P $$\\left( {\\sqrt 3 ,1} \\right)$$. A straight line L, perpendicular to PT is a tangent to the circle $${(x - 3)^2}$$ + $${y^2}$$ = 1.\n A possible equation of L is",
       "subject": "Mathematics",
       "topic": "circle",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A tangent PT is drawn to the circle $${x^2}\\, + {y^2} = 4$$ at the point P $$\\left( {\\sqrt 3 ,1} \\right)$$. A straight line L, perpendicular to PT is a tangent to the circle $${(x - 3)^2}$$ + $${y^2}$$ = 1.\n A possible equation of L is",
+      "question_images": [],
+      "option_texts": {
         "A": "$${x - \\sqrt 3 \\,y = 1}$$",
         "B": "$${x + \\sqrt 3 \\,y = 1}$$",
         "C": "$${x - \\sqrt 3 \\,y = -1}$$",
         "D": "$${x + \\sqrt 3 \\,y = 5}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A tangent PT is drawn to the circle $${x^2}\\, + {y^2} = 4$$ at the point P $$\\left( {\\sqrt 3 ,1} \\right)$$. A straight line L, perpendicular to PT is a tangent to the circle $${(x - 3)^2}$$ + $${y^2}$$ = 1.\n A possible equation of L is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 34,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 34,
-      "question_text": "Let $${a_1},{a_2},{a_3},.....$$ be in harmonic progression with $${a_1} = 5$$ and $${a_{20}} = 25.$$ The least positive integer $$n$$ for which $${a_n} < 0$$ is",
       "subject": "Mathematics",
       "topic": "sequences-and-series",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $${a_1},{a_2},{a_3},.....$$ be in harmonic progression with $${a_1} = 5$$ and $${a_{20}} = 25.$$ The least positive integer $$n$$ for which $${a_n} < 0$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "22",
         "B": "23",
         "C": "24",
         "D": "25"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Let $${a_1},{a_2},{a_3},.....$$ be in harmonic progression with $${a_1} = 5$$ and $${a_{20}} = 25.$$ The least positive integer $$n$$ for which $${a_n} < 0$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 35,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 35,
-      "question_text": "Let $${{a_n}}$$ denote the number of all n-digit positive integers formed  by the digits 0, 1 or both such that no consecutive digits in them are 0.Let $${{b_n}}$$ = the number of such n-digit integers ending with digit 1 and $${{c_n}}$$ =the number of such n-digit integers ending with digit 0. \n Which of the following is correct?",
       "subject": "Mathematics",
       "topic": "permutations-and-combinations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $${{a_n}}$$ denote the number of all n-digit positive integers formed  by the digits 0, 1 or both such that no consecutive digits in them are 0.Let $${{b_n}}$$ = the number of such n-digit integers ending with digit 1 and $${{c_n}}$$ =the number of such n-digit integers ending with digit 0. \n Which of the following is correct?",
+      "question_images": [],
+      "option_texts": {
         "A": "$${a_{17}} = {a_{16}} + {a_{15}}$$",
         "B": "$${c_{17}} \\ne {c_{16}} + {c_{15}}$$",
         "C": "$${b_{17}} \\ne {b_{16}} + {c_{16}}$$",
         "D": "$${a_{17}} = {c_{17}} + {b_{16}}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $${{a_n}}$$ denote the number of all n-digit positive integers formed  by the digits 0, 1 or both such that no consecutive digits in them are 0.Let $${{b_n}}$$ = the number of such n-digit integers ending with digit 1 and $${{c_n}}$$ =the number of such n-digit integers ending with digit 0. \n Which of the following is correct?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 36,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 36,
-      "question_text": "If P is a 3 $$\\times$$ 3 matrix such that PT = 2P + I, where PT is the transpose of P and I is the 3 $$\\times$$ 3 identity matrix, then there exists a column matrix $$X = \\left[ {\\matrix{\n   x  \\cr \n   y  \\cr \n   z  \\cr \n\n } } \\right] \\ne \\left[ {\\matrix{\n   0  \\cr \n   0  \\cr \n   0  \\cr \n\n } } \\right]$$ such that",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If P is a 3 $$\\times$$ 3 matrix such that PT = 2P + I, where PT is the transpose of P and I is the 3 $$\\times$$ 3 identity matrix, then there exists a column matrix $$X = \\left[ {\\matrix{\n   x  \\cr \n   y  \\cr \n   z  \\cr \n\n } } \\right] \\ne \\left[ {\\matrix{\n   0  \\cr \n   0  \\cr \n   0  \\cr \n\n } } \\right]$$ such that",
+      "question_images": [],
+      "option_texts": {
         "A": "$$PX = \\left[ {\\matrix{\n   0  \\cr \n   0  \\cr \n   0  \\cr \n\n } } \\right]$$",
         "B": "PX = X",
         "C": "PX = 2X",
         "D": "PX = $$-$$X"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "If P is a 3 $$\\times$$ 3 matrix such that P^{T} = 2P + I, where P^{T} is the transpose of P and I is the 3 $$\\times$$ 3 identity matrix, then there exists a column matrix $$X = \\left[ {\\matrix{\n   x  \\cr \n   y  \\cr \n   z  \\cr \n\n } } \\right] \\ne \\left[ {\\matrix{\n   0  \\cr \n   0  \\cr \n   0  \\cr \n\n } } \\right]$$ such that",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 37,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 37,
-      "question_text": "Let $$\\alpha$$(a) and $$\\beta$$(a) be the roots of the equation $$(\\root 3 \\of {1 + a}  - 1){x^2} + (\\sqrt {1 + a}  - 1)x + (\\root 6 \\of {1 + a}  - 1) = 0$$ where $$a >  - 1$$. Then $$\\mathop {\\lim }\\limits_{a \\to {0^ + }} \\alpha (a)$$ and $$\\mathop {\\lim }\\limits_{a \\to {0^ + }} \\beta (a)$$ are",
       "subject": "Mathematics",
       "topic": "quadratic-equation-and-inequalities",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$\\alpha$$(a) and $$\\beta$$(a) be the roots of the equation $$(\\root 3 \\of {1 + a}  - 1){x^2} + (\\sqrt {1 + a}  - 1)x + (\\root 6 \\of {1 + a}  - 1) = 0$$ where $$a >  - 1$$. Then $$\\mathop {\\lim }\\limits_{a \\to {0^ + }} \\alpha (a)$$ and $$\\mathop {\\lim }\\limits_{a \\to {0^ + }} \\beta (a)$$ are",
+      "question_images": [],
+      "option_texts": {
         "A": "$$ - {5 \\over 2}$$",
         "B": "$$ - {1 \\over 2}$$",
         "C": "$$ - {7 \\over 2}$$",
         "D": "$$ - {9 \\over 2}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $$\\alpha$$(a) and $$\\beta$$(a) be the roots of the equation $$(\\root 3 \\of {1 + a}  - 1){x^2} + (\\sqrt {1 + a}  - 1)x + (\\root 6 \\of {1 + a}  - 1) = 0$$ where $$a >  - 1$$. Then $$\\mathop {\\lim }\\limits_{a \\to {0^ + }} \\alpha (a)$$ and $$\\mathop {\\lim }\\limits_{a \\to {0^ + }} \\beta (a)$$ are",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 38,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 38,
-      "question_text": "For every integer n, let an and bn be real numbers. Let function f : R $$\\to$$ R be given by\n\n$$f(x) = \\left\\{ {\\matrix{\n   {{a_n} + \\sin \\pi x,} & {for\\,x \\in [2n,2n + 1]}  \\cr \n   {{b_n} + \\cos \\pi x,} & {for\\,x \\in (2n - 1,2n)}  \\cr \n\n } } \\right.$$, for all integers n. If f is continuous, then which of the following hold(s) for all n ?",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "For every integer n, let an and bn be real numbers. Let function f : R $$\\to$$ R be given by\n\n$$f(x) = \\left\\{ {\\matrix{\n   {{a_n} + \\sin \\pi x,} & {for\\,x \\in [2n,2n + 1]}  \\cr \n   {{b_n} + \\cos \\pi x,} & {for\\,x \\in (2n - 1,2n)}  \\cr \n\n } } \\right.$$, for all integers n. If f is continuous, then which of the following hold(s) for all n ?",
+      "question_images": [],
+      "option_texts": {
         "A": "a_{n $$-$$ 1} $$-$$ b_{n $$-$$ 1} = 0",
         "B": "a_{n} $$-$$ b_{n} = 1",
         "C": "a_{n} $$-$$ b_{n $$+$$ 1} = 1",
         "D": "a_{n $$-$$ 1} $$-$$ b_{n} = $$-$$1"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "For every integer n, let a_{n} and b_{n} be real numbers. Let function f : R $$\\to$$ R be given by \n$$f(x) = \\left\\{ {\\matrix{\n   {{a_n} + \\sin \\pi x,} & {for\\,x \\in [2n,2n + 1]}  \\cr \n   {{b_n} + \\cos \\pi x,} & {for\\,x \\in (2n - 1,2n)}  \\cr \n\n } } \\right.$$, for all integers n. If f is continuous, then which of the following hold(s) for all n ?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 39,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 39,
-      "question_text": "If the ad joint of a 3 $$\\times$$ 3 matrix P is $$\\left[ {\\matrix{\n   1 & 4 & 4  \\cr \n   2 & 1 & 7  \\cr \n   1 & 1 & 3  \\cr \n\n } } \\right]$$, then the possible value(s) of the determinant of P is(are)",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the ad joint of a 3 $$\\times$$ 3 matrix P is $$\\left[ {\\matrix{\n   1 & 4 & 4  \\cr \n   2 & 1 & 7  \\cr \n   1 & 1 & 3  \\cr \n\n } } \\right]$$, then the possible value(s) of the determinant of P is(are)",
+      "question_images": [],
+      "option_texts": {
         "A": "$$-$$2",
         "B": "$$-$$1",
         "C": "1",
         "D": "2"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "If the ad joint of a 3 $$\\times$$ 3 matrix P is $$\\left[ {\\matrix{\n   1 & 4 & 4  \\cr \n   2 & 1 & 7  \\cr \n   1 & 1 & 3  \\cr \n\n } } \\right]$$, then the possible value(s) of the determinant of P is(are)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 40,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 40,
-      "question_text": "Let $$f:( - 1,1) \\to R$$ be such that $$f(\\cos 4\\theta ) = {2 \\over {2 - {{\\sec }^2}\\theta }}$$ for $$\\theta  \\in \\left( {0,{\\pi  \\over 4}} \\right) \\cup \\left( {{\\pi  \\over 4},{\\pi  \\over 2}} \\right)$$. Then the value(s) of $$f\\left( {{1 \\over 3}} \\right)$$ is(are)",
       "subject": "Mathematics",
       "topic": "functions",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$f:( - 1,1) \\to R$$ be such that $$f(\\cos 4\\theta ) = {2 \\over {2 - {{\\sec }^2}\\theta }}$$ for $$\\theta  \\in \\left( {0,{\\pi  \\over 4}} \\right) \\cup \\left( {{\\pi  \\over 4},{\\pi  \\over 2}} \\right)$$. Then the value(s) of $$f\\left( {{1 \\over 3}} \\right)$$ is(are)",
+      "question_images": [],
+      "option_texts": {
         "A": "$$1 - \\sqrt {{3 \\over 2}} $$",
         "B": "$$1 + \\sqrt {{3 \\over 2}} $$",
         "C": "$$1 - \\sqrt {{2 \\over 3}} $$",
         "D": "$$1 + \\sqrt {{2 \\over 3}} $$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $$f:( - 1,1) \\to R$$ be such that $$f(\\cos 4\\theta ) = {2 \\over {2 - {{\\sec }^2}\\theta }}$$ for $$\\theta  \\in \\left( {0,{\\pi  \\over 4}} \\right) \\cup \\left( {{\\pi  \\over 4},{\\pi  \\over 2}} \\right)$$. Then the value(s) of $$f\\left( {{1 \\over 3}} \\right)$$ is(are)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 41,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 41,
-      "question_text": "Two identical discs of same radius R are rotating about their axes in\nopposite directions with the same constant angular speed $$\\omega $$. The\ndiscs are in the same horizontal plane. At time t = 0, the points P\nand Q are facing each other as shown in the figure. The relative\nspeed between the two points P and Q is vr. In one time period (T)\nof rotation of the discs, vr as a function of time is best represented\nby",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two identical discs of same radius R are rotating about their axes in\nopposite directions with the same constant angular speed $$\\omega $$. The\ndiscs are in the same horizontal plane. At time t = 0, the points P\nand Q are facing each other as shown in the figure. The relative\nspeed between the two points P and Q is vr. In one time period (T)\nof rotation of the discs, vr as a function of time is best represented\nby",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l253pwrf/e0b97c1e-5121-4e85-8649-96f0433caf1e/83e2eeb0-bf4c-11ec-b997-87cc5d16a405/file-1l253pwrg.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03gvlg1/fc7da263-3f52-4cee-bbc2-eef78298497a/c2433c10-5f85-11ef-b175-bb7f2dd2f87a/file-jaoe38c1m03gvlg2.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l253qwo8/1b2d4238-b59e-4f39-86d5-3b308f278c5e/9fa08680-bf4c-11ec-b997-87cc5d16a405/file-1l253qwo9.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l253rjen/c7324b1f-e8eb-4302-a683-0f058b55663e/b13038f0-bf4c-11ec-b997-87cc5d16a405/file-1l253rjeo.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l253s5xs/257efcb6-6c37-4793-ad6a-528d78df1283/c297f100-bf4c-11ec-b997-87cc5d16a405/file-1l253s5xt.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l253td4w/587b7bd8-8ef5-4969-8d22-c6e50fe51f22/e3f66c00-bf4c-11ec-b997-87cc5d16a405/file-1l253td4x.png",
+          "description": ""
+        }
+      },
       "correct_answer": "A",
-      "question": "Two identical discs of same radius R are rotating about their axes in\nopposite directions with the same constant angular speed $$\\omega $$. The\ndiscs are in the same horizontal plane. At time t = 0, the points P\nand Q are facing each other as shown in the figure. The relative\nspeed between the two points P and Q is v_{r}. In one time period (T)\nof rotation of the discs, v_{r} as a function of time is best represented\nby",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 0.75
+      "negMarks": 0.75,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 42,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 42,
-      "question_text": "Six point charges are kept at the vertices of a regular hexagon of side $$L$$ and center $$O,$$ as shown in the figure. Given that $$K = {1 \\over {4\\pi {\\varepsilon _0}}}{q \\over {{L^2}}},$$ which of the following statement(s) is (are) correct ?",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Six point charges are kept at the vertices of a regular hexagon of side $$L$$ and center $$O,$$ as shown in the figure. Given that $$K = {1 \\over {4\\pi {\\varepsilon _0}}}{q \\over {{L^2}}},$$ which of the following statement(s) is (are) correct ?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l254ddmp/90554582-226c-48a9-ad3e-21b80ed49624/10870b10-bf4f-11ec-b997-87cc5d16a405/file-1l254ddmq.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "The electric field at $$O$$ is $$6K$$ along $$OD$$",
         "B": "The potential at $$O$$ is zero",
         "C": "The potential at all points on the line $$PR$$ is same",
         "D": "The potential at all points on the line $$ST$$ is same"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Six point charges are kept at the vertices of a regular hexagon of side $$L$$ and center $$O,$$ as shown in the figure. Given that $$K = {1 \\over {4\\pi {\\varepsilon _0}}}{q \\over {{L^2}}},$$ which of the following statement(s) is (are) correct ?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 43,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 43,
-      "question_text": "In the given circuit, a charge of $$+80$$ $$\\mu C$$ is given to the upper plate of the $$4$$ $$\\mu F$$ capacitor. Then in the steady state, the charge on the upper plate of the $$3$$ $$\\mu F$$ capacitor is",
       "subject": "Physics",
       "topic": "capacitor",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In the given circuit, a charge of $$+80$$ $$\\mu C$$ is given to the upper plate of the $$4$$ $$\\mu F$$ capacitor. Then in the steady state, the charge on the upper plate of the $$3$$ $$\\mu F$$ capacitor is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzw0nsdw/27d0e388-36c0-43f3-ab56-5df7336a68d5/da89bc30-5b6c-11ef-9f07-f55db10181c4/file-jaoe38c1lzw0nsdx.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$ + \\,32\\,\\mu C$$",
         "B": "$$ + \\,40\\,\\mu C$$",
         "C": "$$ + \\,48\\,\\mu C$$",
         "D": "$$ + \\,80\\,\\mu C$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "In the given circuit, a charge of $$+80$$ $$\\mu C$$ is given to the upper plate of the $$4$$ $$\\mu F$$ capacitor. Then in the steady state, the charge on the upper plate of the $$3$$ $$\\mu F$$ capacitor is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 44,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 44,
-      "question_text": "A student is performing the experiment of resonance Column. The diameter of the column tube is\n4 cm. The frequency of the tuning fork is 512 Hz. The air temperature is 38oC in which the speed\nof sound is 336 m/s. The zero of the meter scale coincides with the top end of the Resonance\nColumn tube. When the first resonance occurs, the reading of the water level in the column is",
       "subject": "Physics",
       "topic": "waves",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A student is performing the experiment of resonance Column. The diameter of the column tube is\n4 cm. The frequency of the tuning fork is 512 Hz. The air temperature is 38oC in which the speed\nof sound is 336 m/s. The zero of the meter scale coincides with the top end of the Resonance\nColumn tube. When the first resonance occurs, the reading of the water level in the column is",
+      "question_images": [],
+      "option_texts": {
         "A": "14.0 cm",
         "B": "15.2 cm",
         "C": "16.4 cm",
         "D": "17.6 cm"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A student is performing the experiment of resonance Column. The diameter of the column tube is\n4 cm. The frequency of the tuning fork is 512 Hz. The air temperature is 38^{o}C in which the speed\nof sound is 336 m/s. The zero of the meter scale coincides with the top end of the Resonance\nColumn tube. When the first resonance occurs, the reading of the water level in the column is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 0.75
+      "negMarks": 0.75,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 45,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 45,
-      "question_text": "Two moles of ideal helium gas are in a rubber balloon at 30oC. The balloon is fully expandable\nand can be assumed to require no energy in its expansion. The temperature of the gas in the balloon is slowly changed to 35oC. The amount of heat required in raising the temperature is\nnearly (take R = 8.31 J/mol.K)",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two moles of ideal helium gas are in a rubber balloon at 30oC. The balloon is fully expandable\nand can be assumed to require no energy in its expansion. The temperature of the gas in the balloon is slowly changed to 35oC. The amount of heat required in raising the temperature is\nnearly (take R = 8.31 J/mol.K)",
+      "question_images": [],
+      "option_texts": {
         "A": "62 J",
         "B": "104 J",
         "C": "124 J",
         "D": "208 J"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Two moles of ideal helium gas are in a rubber balloon at 30^{o}C. The balloon is fully expandable\nand can be assumed to require no energy in its expansion. The temperature of the gas in the balloon is slowly changed to 35^{o}C. The amount of heat required in raising the temperature is\nnearly (take R = 8.31 J/mol.K)",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 0.75
+      "negMarks": 0.75,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 46,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 46,
-      "question_text": "A thin uniform cylindrical shell, closed at both ends, is partially filled with water. It is floating\nvertically in water in half-submerged state. If $${\\rho _c}$$ is the relative density of the material of the shell\nwith respect to water, then the correct statement is that the shell is",
       "subject": "Physics",
       "topic": "properties-of-matter",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A thin uniform cylindrical shell, closed at both ends, is partially filled with water. It is floating\nvertically in water in half-submerged state. If $${\\rho _c}$$ is the relative density of the material of the shell\nwith respect to water, then the correct statement is that the shell is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzw1mwuq/ed8e01bf-65e6-407a-b719-6d6f14868978/ab4f4b20-5b70-11ef-965d-abded2122fc9/file-jaoe38c1lzw1mwur.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "more than half-filled if $${\\rho _c}$$ is less than 0.5.",
         "B": "more than half-filled if $${\\rho _c}$$ is more than 1.0.",
         "C": "half-filled if $${\\rho _c}$$ is more than 0.5.",
         "D": "less than half-filled if $${\\rho _c}$$ is less than 0.5."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A thin uniform cylindrical shell, closed at both ends, is partially filled with water. It is floating\nvertically in water in half-submerged state. If $${\\rho _c}$$ is the relative density of the material of the shell\nwith respect to water, then the correct statement is that the shell is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 0.75
+      "negMarks": 0.75,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 47,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 47,
-      "question_text": "Two spherical planets P and Q have the same uniform density r, masses MP and MQ and surface\nareas A and 4A respectively. A spherical planet R also has uniform density r and its mass is (MP\n+ MQ). The escape velocities from the planets P, Q and R are VP, VQ and VR, respectively. Then",
       "subject": "Physics",
       "topic": "gravitation",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two spherical planets P and Q have the same uniform density r, masses MP and MQ and surface\nareas A and 4A respectively. A spherical planet R also has uniform density r and its mass is (MP\n+ MQ). The escape velocities from the planets P, Q and R are VP, VQ and VR, respectively. Then",
+      "question_images": [],
+      "option_texts": {
         "A": "V_{Q} > V_{R} > V_{P}",
         "B": "V_{R} > V_{Q} > V_{P}",
         "C": "$${{{V_R}} \\over {{V_P}}} = 3$$",
         "D": "$${{{V_P}} \\over {{V_Q}}} = {1 \\over 2}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Two spherical planets P and Q have the same uniform density r, masses M_{P} and M_{Q} and surface\nareas A and 4A respectively. A spherical planet R also has uniform density r and its mass is (M_{P}\n+ M_{Q}). The escape velocities from the planets P, Q and R are V_{P}, V_{Q} and V_{R}, respectively. Then",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 48,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 48,
-      "question_text": "The figure shows a system consisting of (i) a ring of outer radius 3R rolling clockwise without\nslipping on a horizontal surface with angular speed $$\\omega $$ and (ii) an inner disc of radius 2R rotating\nanti-clockwise with angular speed $${\\omega  \\over 2}$$. The ring and disc are separated by frictionless ball\nbearings. The point P on the inner disc is at a distance R from the origin, where OP makes an\nangle of $$30^\\circ $$ with the horizontal. Then with respect to the horizontal surface,",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The figure shows a system consisting of (i) a ring of outer radius 3R rolling clockwise without\nslipping on a horizontal surface with angular speed $$\\omega $$ and (ii) an inner disc of radius 2R rotating\nanti-clockwise with angular speed $${\\omega  \\over 2}$$. The ring and disc are separated by frictionless ball\nbearings. The point P on the inner disc is at a distance R from the origin, where OP makes an\nangle of $$30^\\circ $$ with the horizontal. Then with respect to the horizontal surface,",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzw1awzd/22ee2588-39c5-4f24-9e21-708a289c698b/5db31690-5b6f-11ef-965d-abded2122fc9/file-jaoe38c1lzw1awze.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "the point O has linear velocity $$3R\\omega \\widehat i$$",
         "B": "the point P has linear velocity $${{11} \\over 4}R\\omega \\widehat i + {{\\sqrt 3 } \\over 4}R\\omega \\widehat k$$",
         "C": "the point P has linear velocity $${{13} \\over 4}R\\omega \\widehat i - {{\\sqrt 3 } \\over 4}R\\omega \\widehat k$$",
         "D": "the point P has linear velocity $$\\left( {3 - {{\\sqrt 3 } \\over 4}} \\right)R\\omega \\widehat i + {1 \\over 4}R\\omega \\widehat k$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The figure shows a system consisting of (i) a ring of outer radius 3R rolling clockwise without\nslipping on a horizontal surface with angular speed $$\\omega $$ and (ii) an inner disc of radius 2R rotating\nanti-clockwise with angular speed $${\\omega  \\over 2}$$. The ring and disc are separated by frictionless ball\nbearings. The point P on the inner disc is at a distance R from the origin, where OP makes an\nangle of $$30^\\circ $$ with the horizontal. Then with respect to the horizontal surface,",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 49,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 49,
-      "question_text": "Two solid cylinders P and Q of same mass and same radius start rolling down a fixed inclined\nplane from the same height at the same time. Cylinder P has most of its mass concentrated near\nits surface, while Q has most of its mass concentrated near the axis. Which statement(s) is(are)\ncorrect?",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two solid cylinders P and Q of same mass and same radius start rolling down a fixed inclined\nplane from the same height at the same time. Cylinder P has most of its mass concentrated near\nits surface, while Q has most of its mass concentrated near the axis. Which statement(s) is(are)\ncorrect?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03fx869/f4c55073-a3d0-4587-8dba-d824fdbbb09e/06801820-5f82-11ef-b175-bb7f2dd2f87a/file-jaoe38c1m03fx86a.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "Both cylinders P and Q reach the ground at the same time.",
         "B": "Cylinders P has larger linear acceleration than cylinder Q.",
         "C": "Both cylinders reach the ground with same translational kinetic energy.",
         "D": "Cylinder Q reaches the ground with larger angular speed."
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Two solid cylinders P and Q of same mass and same radius start rolling down a fixed inclined\nplane from the same height at the same time. Cylinder P has most of its mass concentrated near\nits surface, while Q has most of its mass concentrated near the axis. Which statement(s) is(are)\ncorrect?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 50,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 50,
-      "question_text": "Consider a disc rotating in the horizontal plane with a constant angular speed $$\\omega $$ about its centre\nO. The disc has a shaded region on one side of the diameter and an unshaded region on the\nother side as shown in the figure. When the disc is in the orientation as shown, two pebbles P\nand Q are simultaneously projected at an angle towards R. The velocity of projection is in the y - z\nplane and is same for both pebbles with respect to the disc. Assume that (i) they land back on\nthe disc before the disc has completed $${1 \\over 8}$$ rotation, (ii) their range is less than half the disc radius,\nand (iii) $$\\omega $$ remains constant throughout. Then",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider a disc rotating in the horizontal plane with a constant angular speed $$\\omega $$ about its centre\nO. The disc has a shaded region on one side of the diameter and an unshaded region on the\nother side as shown in the figure. When the disc is in the orientation as shown, two pebbles P\nand Q are simultaneously projected at an angle towards R. The velocity of projection is in the y - z\nplane and is same for both pebbles with respect to the disc. Assume that (i) they land back on\nthe disc before the disc has completed $${1 \\over 8}$$ rotation, (ii) their range is less than half the disc radius,\nand (iii) $$\\omega $$ remains constant throughout. Then",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l25415rw/2fd36b7e-6400-4e4a-a8ac-0e998f64abe2/bcbfdbc0-bf4d-11ec-b997-87cc5d16a405/file-1l25415rx.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03gcn4k/a51d0b40-9fd9-4418-a630-b7b540058ef3/b3300d40-5f83-11ef-b175-bb7f2dd2f87a/file-jaoe38c1m03gcn4l.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03gcjd9/2321e0bf-9ba0-4a28-83b3-7424a6557ab9/b04f5b80-5f83-11ef-b175-bb7f2dd2f87a/file-jaoe38c1m03gcjeg.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03gcfbf/fe2bee21-eccb-4c04-b836-25c716034636/ad27b5b0-5f83-11ef-b175-bb7f2dd2f87a/file-jaoe38c1m03gcfbg.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03gcbxw/e2de082e-d563-4ce0-b3f2-ea4c1cf7dce7/aa8c2340-5f83-11ef-b175-bb7f2dd2f87a/file-jaoe38c1m03gcbxx.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03gc7rk/daaacefd-f7d2-4069-8028-8202f82050a9/a7527c10-5f83-11ef-b175-bb7f2dd2f87a/file-jaoe38c1m03gc7rl.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "P lands in the shaded region and Q in the unshaded region.",
         "B": "P lands in the unshaded region and Q in the shaded region.",
         "C": "Both P and Q land in the unshaded region.",
         "D": "Both P and Q land in the shaded region."
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Consider a disc rotating in the horizontal plane with a constant angular speed $$\\omega $$ about its centre\nO. The disc has a shaded region on one side of the diameter and an unshaded region on the\nother side as shown in the figure. When the disc is in the orientation as shown, two pebbles P\nand Q are simultaneously projected at an angle towards R. The velocity of projection is in the y - z\nplane and is same for both pebbles with respect to the disc. Assume that (i) they land back on\nthe disc before the disc has completed $${1 \\over 8}$$ rotation, (ii) their range is less than half the disc radius,\nand (iii) $$\\omega $$ remains constant throughout. Then",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 0.75
+      "negMarks": 0.75,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 51,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 51,
-      "question_text": "A loop carrying current $$l$$ lies in the xy-plane as shown in the figure. The unit vector $$\\widehat k$$ is coming out of the plane of the paper. The magnetic moment of the current loop is",
       "subject": "Physics",
       "topic": "magnetism",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A loop carrying current $$l$$ lies in the xy-plane as shown in the figure. The unit vector $$\\widehat k$$ is coming out of the plane of the paper. The magnetic moment of the current loop is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l253uq7s/a7cfebf1-13d8-482f-8044-71ca95cb343a/09e03b80-bf4d-11ec-b997-87cc5d16a405/file-1l253uq7t.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${a^2}I\\widehat k$$",
         "B": "$$\\left( {{\\pi  \\over 2} + 1} \\right){a^2}I\\widehat k$$",
         "C": "$$ - \\left( {{\\pi  \\over 2} + 1} \\right){a^2}I\\widehat k$$",
         "D": "$$(2\\pi  + 1){a^2}I\\widehat k$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A loop carrying current $$l$$ lies in the xy-plane as shown in the figure. The unit vector $$\\widehat k$$ is coming out of the plane of the paper. The magnetic moment of the current loop is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 52,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 52,
-      "question_text": "An infinite long hollow conducting cylinder with inner radius R/2 and outer radius R carries a uniform current density along its length. The magnitude of the magnetic field, $$\\left| {\\overrightarrow B } \\right|$$ as a function of the radial distance r from the axis is best represented by",
       "subject": "Physics",
       "topic": "magnetism",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An infinite long hollow conducting cylinder with inner radius R/2 and outer radius R carries a uniform current density along its length. The magnitude of the magnetic field, $$\\left| {\\overrightarrow B } \\right|$$ as a function of the radial distance r from the axis is best represented by",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l26hgzz6/d54aa044-c1cd-4f7f-b824-96b034db02cd/148ba020-c00f-11ec-8e78-8beb702b8cb9/file-1l26hgzz7.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l253xrm8/b2a9c7f7-4f70-46f1-b263-425f5a21796d/5e62c100-bf4d-11ec-b997-87cc5d16a405/file-1l253xrm9.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l253xecr/49af385a-fe01-4e84-b3a0-72a88df28269/5423ebb0-bf4d-11ec-b997-87cc5d16a405/file-1l253xecs.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l253x29m/13022196-b3d4-44ff-ab57-e50e3050fbd9/4acda1a0-bf4d-11ec-b997-87cc5d16a405/file-1l253x29n.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l253wqui/770fe9b9-72b9-42a6-9427-7829880d9a1a/41fb54a0-bf4d-11ec-b997-87cc5d16a405/file-1l253wquj.png",
+          "description": ""
+        }
+      },
       "correct_answer": "D",
-      "question": "An infinite long hollow conducting cylinder with inner radius R/2 and outer radius R carries a uniform current density along its length. The magnitude of the magnetic field, $$\\left| {\\overrightarrow B } \\right|$$ as a function of the radial distance r from the axis is best represented by",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 53,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 53,
-      "question_text": "Which of the following statements about the instantaneous axis (passing through the centre of mass) is correct?",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the following statements about the instantaneous axis (passing through the centre of mass) is correct?",
+      "question_images": [],
+      "option_texts": {
         "A": "It is vertical for both Cases (a) and (b).",
         "B": "It is vertical for Case (a); and is at 45$$^\\circ$$ to the xz-plane and lies in the plane of the disc for Case (b).",
         "C": "It is horizontal for Case (a); and is 45$$^\\circ$$ to the xz-plane and is normal to the plane of the disc for Case (b).",
         "D": "It is vertical for Case (a); and is 45$$^\\circ$$ to the xz-plane and is normal to the plane of the disc for Case (b)."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Which of the following statements about the instantaneous axis (passing through the centre of mass) is correct?",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 54,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 54,
-      "question_text": "Which of the following statements regarding the angular speed about the instantaneous axis (passing through the centre of mass) is correct?",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the following statements regarding the angular speed about the instantaneous axis (passing through the centre of mass) is correct?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l26h9qve/0fa9ca0b-31da-42d3-83f7-954b76e64c6c/4ad91aa0-c00e-11ec-a044-ebcae61a6b20/file-1l26h9qvf.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "It is $$\\sqrt2$$$$\\omega$$ for both cases.",
         "B": "It is $$\\omega$$ for case (a); and $$\\omega$$ / $$\\sqrt2$$ for case (b).",
         "C": "It is $$\\omega$$ for case (a); and $$\\sqrt2$$$$\\omega$$ for case (b).",
         "D": "It is $$\\omega$$ for both cases."
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Which of the following statements regarding the angular speed about the instantaneous axis (passing through the centre of mass) is correct?",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 55,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 55,
-      "question_text": "What is the maximum energy of the anti-neutrino?",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "What is the maximum energy of the anti-neutrino?",
+      "question_images": [],
+      "option_texts": {
         "A": "Zero.",
         "B": "Much less than 0.8 $$\\times$$ 10^{6} eV.",
         "C": "Nearly 0.8 $$\\times$$ 10^{6} eV.",
         "D": "much larger than 0.8 $$\\times$$ 10^{6} eV."
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "What is the maximum energy of the anti-neutrino?",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 56,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 56,
-      "question_text": "If the anti-neutrino had a mass of 3 eV/c2 (where c is the speed of light) instead of zero mass, what should be the range of the kinetic energy, K, of the electron?",
       "subject": "Physics",
       "topic": "atoms-and-nuclei",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the anti-neutrino had a mass of 3 eV/c2 (where c is the speed of light) instead of zero mass, what should be the range of the kinetic energy, K, of the electron?",
+      "question_images": [],
+      "option_texts": {
         "A": "0 $$\\le$$ K $$\\le$$ 0.8 $$\\times$$ 10^{6} eV",
         "B": "3.0 eV $$\\le$$ K $$\\le$$ 0.8 $$\\times$$ 10^{6} eV",
         "C": "3.0 eV $$\\le$$ K < 0.8 $$\\times$$ 10^{6} eV",
         "D": "0 $$\\le$$ K < 0.8 $$\\times$$ 10^{6} eV"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "If the anti-neutrino had a mass of 3 eV/c^{2} (where c is the speed of light) instead of zero mass, what should be the range of the kinetic energy, K, of the electron?",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 57,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 57,
-      "question_text": "For light incident from air on a meta-material, the appropriate ray diagram is",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "For light incident from air on a meta-material, the appropriate ray diagram is",
+      "question_images": [],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l25486cw/fdaf9e45-42a7-470f-ace2-3900d2ee0f8d/7fdd3300-bf4e-11ec-b997-87cc5d16a405/file-1l25486cx.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2549wob/2c1a7ee5-9d73-44bf-b087-ae2be9eaad30/b000a7b0-bf4e-11ec-b997-87cc5d16a405/file-1l2549woc.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l25492e1/d357ef10-f76f-43f4-aae8-791afbc0c0bc/989b9490-bf4e-11ec-b997-87cc5d16a405/file-1l25492e2.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l254aj41/944ded3c-fd9a-4c65-9e52-7cf7d88a908a/c1559b10-bf4e-11ec-b997-87cc5d16a405/file-1l254aj42.png",
+          "description": ""
+        }
+      },
       "correct_answer": "C",
-      "question": "For light incident from air on a meta-material, the appropriate ray diagram is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 58,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 58,
-      "question_text": "Choose the correct statement.",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Choose the correct statement.",
+      "question_images": [],
+      "option_texts": {
         "A": "The speed of light in the meta-material is v = c|n|.",
         "B": "The speed of light in the meta-material is $$v = {c \\over {|n|}}$$.",
         "C": "The speed of light in the meta-material is v = c.",
         "D": "The wavelength of the light in the meta-material ($$\\lambda$$_{m}) is given by $${\\lambda _m} = {\\lambda _{air}}|n|$$, where $${\\lambda _{air}}$$ is wavelength of the light in air."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Choose the correct statement.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 59,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 59,
-      "question_text": "In the given circuit, the AC source has $$\\omega$$ = 100 rad/s. Considering the inductor and capacitor to be ideal, the correct choice(s) is(are)",
       "subject": "Physics",
       "topic": "alternating-current",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In the given circuit, the AC source has $$\\omega$$ = 100 rad/s. Considering the inductor and capacitor to be ideal, the correct choice(s) is(are)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l254bx6n/36cacf73-ab08-441f-ae0e-57ad3deb7d08/e8037de0-bf4e-11ec-9257-7f4c5bad6343/file-1l254bx6o.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l26hd1xf/35bba064-d7f5-4830-bcf4-bddf6a8ab51e/a6d11c40-c00e-11ec-a044-ebcae61a6b20/file-1l26hd1xg.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "The current through the circuit, I is 0.3 A.",
         "B": "The current through the circuit, I is 0.3$$\\sqrt2$$ A.",
         "C": "The voltage across 100 $$\\Omega$$ resistor = 10$$\\sqrt2$$ V.",
         "D": "The voltage across 50 $$\\Omega$$ resistor = 10 V."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "In the given circuit, the AC source has $$\\omega$$ = 100 rad/s. Considering the inductor and capacitor to be ideal, the correct choice(s) is(are)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 60,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 60,
-      "question_text": "A current carrying infinitely long wire is kept along the diameter of a circular wire loop, without touching it, the correct statement(s) is(are)",
       "subject": "Physics",
       "topic": "electromagnetic-induction",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A current carrying infinitely long wire is kept along the diameter of a circular wire loop, without touching it, the correct statement(s) is(are)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l26hlply/5e0ba735-e0aa-4159-9c3c-8ea9774ce8b3/97952860-c00f-11ec-8e78-8beb702b8cb9/file-1l26hlplz.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "the emf induced in the loop is zero if the current is constant.",
         "B": "the emf induced in the loop is finite if the current is constant.",
         "C": "the emf induced in the loop is zero if the current decreases at a steady state",
         "D": "the emf induced in the loop is finite if the current decreases at a steady state."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A current carrying infinitely long wire is kept along the diameter of a circular wire loop, without touching it, the correct statement(s) is(are)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     }
   ]
 }

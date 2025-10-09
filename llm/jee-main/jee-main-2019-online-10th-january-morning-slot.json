@@ -8,1660 +8,1901 @@
   },
   "questions": [
     {
+      "question_number": 1,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 1,
-      "question_text": "The major product of the following reaction is :",
       "subject": "Chemistry",
       "topic": "hydrocarbons",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The major product of the following reaction is :",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l7748v0l/ec0918d3-6664-4927-aacb-00f2e072fa4f/391af350-2365-11ed-8310-29b5e0e1f2bd/file-1l7748v0m.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l77432at/325ff14e-e77f-4888-911c-095109d22a8e/97e08950-2364-11ed-a1c1-3f35f87ab865/file-1l77432au.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l7748aw2/d78b8d60-eff7-4624-bed2-54e3e42ca9e1/298f0020-2365-11ed-8310-29b5e0e1f2bd/file-1l7748aw3.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l774781x/de8eb7c2-4696-4650-a565-2cc5c9d0eb6b/0b8ecb50-2365-11ed-8310-29b5e0e1f2bd/file-1l774781y.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l7746c6x/aeade3c9-e016-403a-bab0-a86a67921513/f2f1fb80-2364-11ed-8310-29b5e0e1f2bd/file-1l7746c6y.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l7745qaf/e9c9c4fd-8aa2-4d73-94d4-cd181df458c0/e206ed80-2364-11ed-a1c1-3f35f87ab865/file-1l7745qag.png",
+          "description": ""
+        }
+      },
       "correct_answer": "A",
-      "question": "The major product of the following reaction is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 2,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 2,
-      "question_text": "The total number of isomers for a square planar complex\n [M(F)(Cl)(SCN)(NO2)] is",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The total number of isomers for a square planar complex\n [M(F)(Cl)(SCN)(NO2)] is",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/1da9i2ynkdhi0i81/6f861bdd-874a-48bf-a1b1-70104e959f52/69af4b10-d72c-11ea-b796-4745b429ed6f/file-1da9i2ynkdhi0i82-320w.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/1da9i2ynkdhi0s0m/1e3e289c-77e8-41c2-a9a9-a1b762230694/71401760-d72c-11ea-b796-4745b429ed6f/file-1da9i2ynkdhi0s0n-320w.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "16",
         "B": "8",
         "C": "12",
         "D": "4"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The total number of isomers for a square planar complex [M(F)(Cl)(SCN)(NO_{2})] is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 3,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 3,
-      "question_text": "The decreasing order of ease of alkaline hydrolysis for the following esters in",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The decreasing order of ease of alkaline hydrolysis for the following esters in",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/ApjCcLDgmYMQPSUkc/R6pHQcj2Nmqr1OqkiyyTnpvyQjYUb/3pF0YVZBS5Htn3jiFQ5sFl/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "III > II > IV > I",
         "B": "IV > II > III > I",
         "C": "III > II > I > IV",
         "D": "II > III > I > IV"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The decreasing order of ease of alkaline hydrolysis for the following esters in",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 4,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 4,
-      "question_text": "The correct structure of product 'P' in the following reactions is :",
       "subject": "Chemistry",
       "topic": "biomolecules",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The correct structure of product 'P' in the following reactions is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/PaLuhEDvHUlEe9oIG/6lM1TwCjKR59pG0YJxQCddo081XoS/alg9j2TJfvaS0O0dkMR8rF/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/1da9i2ynkdgu6lj6/5b9c51dc-0c4b-4e8e-8185-f03142be6c6e/37ff1620-d6cf-11ea-b796-4745b429ed6f/file-1da9i2ynkdgu6lj7-1940w.jpg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/Qkk2Z54Z4kIXyGaqN/tuyMD3Q700JpJiNa9Tt2S3fc1OPnF/iXxdGqFH4bp3M4gdDHkewI/image.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/imagex_cdn_examgoal_net/1da9i2ynkdguf9h9/28d93d73-79a2-41a9-844a-2524119d69a4/28f7c6d0-d6d0-11ea-b796-4745b429ed6f/file-1da9i2ynkdguf9ha-500w.jpg",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/oDYYaKcWCLUWHNIlG/U2Lnw7M7m88hjcV6rPJpJDXl1S9DC/QoXAqlspM6QVI0Mcf95P9J/image.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/1da9i2ynkdguc999/b2c2c269-8fb9-42ae-ae70-9db8339a9da5/d55e68d0-d6cf-11ea-b796-4745b429ed6f/file-1da9i2ynkdguc99a-500w.jpg",
+          "description": ""
+        }
+      },
       "correct_answer": "B",
-      "question": "The correct structure of product 'P' in the following reactions is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 5,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 5,
-      "question_text": "The major product 'X' formed in the following reaction is :",
       "subject": "Chemistry",
       "topic": "alcohols-phenols-and-ethers",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The major product 'X' formed in the following reaction is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/Jz0F87h0cdNpIiogv/jvvtaNQeWiTkls3gt8KLA0qyAX9ak/46svj4cvlTEIrYauDH2BzA/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/1da9i2ynkdgr9s7b/768c33aa-dc8a-4c9b-b418-cc91c5e788a7/d5307170-d6c3-11ea-b796-4745b429ed6f/file-1da9i2ynkdgr9s7c-1220w.jpg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/1da9i2ynkdgrinki/0ecdd925-5c79-4a66-8293-9c78555b14c3/cbe46b20-d6c4-11ea-b796-4745b429ed6f/file-1da9i2ynkdgrinkj-320w.jpg",
+          "description": ""
+        },
+        "B": {
+          "path": "images/imagex_cdn_examgoal_net/1da9i2ynkdgrm0pl/05403376-764a-4d97-8e46-1c990a11e617/29789090-d6c5-11ea-b796-4745b429ed6f/file-1da9i2ynkdgrm0pm-320w.jpg",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/1da9i2ynkdgrbz8c/774423ea-0c95-456b-a2a1-f4b2fe2daf75/123cccd0-d6c4-11ea-b796-4745b429ed6f/file-1da9i2ynkdgrbz8d-320w.jpg",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/1da9i2ynkdgroiqt/8daa2df5-5cb7-4560-bcc7-9951e595ba9b/6f052150-d6c5-11ea-b796-4745b429ed6f/file-1da9i2ynkdgroiqu-320w.jpg",
+          "description": ""
+        }
+      },
       "correct_answer": "C",
-      "question": "The major product 'X' formed in the following reaction is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 6,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 6,
-      "question_text": "The major product of the following reaction is",
       "subject": "Chemistry",
       "topic": "hydrocarbons",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The major product of the following reaction is",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/C7yRVEaI7yQB1Lbtw/ndZkN4b9fDHskscz3XeprQmZGNLAd/Q11Q8O84en2EqQ2QBD7Fzx/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/1da9i2ynkdcm016z/a90b2f83-8c21-4734-8c9e-77f50c1843f3/15ccadb0-d47c-11ea-b796-4745b429ed6f/file-1da9i2ynkdcm0170-860w.jpg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/eQqMrjh54Ccfrck82/9KOq0orpKDMHCLh6Bg5IJv1COdpdF/RxEPmPIfSUvnybx5YKta6F/image.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/imagex_cdn_examgoal_net/Cyr1FZPy0QM2pmVMe/uYpXc90WRcoK7v93yrtXSxtd6ZjHM/jtcUVXZg7JQYKc17z6tgyE/image.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/xEEeDjauiHVgaFzMY/GldNFax5cSn0D1nHaHPGCx9Mx8Qmz/j1LwraqvVoWOPaI9Lcvpku/image.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/wpnVcR3W6DaN0bFOf/oDz3tvTCuMj0oyvmW7KoAVqRomsYe/aQ3qupiuVYt8QX8iAStUYT/image.png",
+          "description": ""
+        }
+      },
       "correct_answer": "A",
-      "question": "The major product of the following reaction is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 7,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 7,
-      "question_text": "Which dicarboxylic acid in presence of a dehydrating agent is least reactive to give an anhydride?",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which dicarboxylic acid in presence of a dehydrating agent is least reactive to give an anhydride?",
+      "question_images": [],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/xkxHSG1Zah8epTiSZ/JZmgiYcBAtCEigAiy5ic4K6EG0cyJ/mgX3hrElokvul1lqFMMidI/image.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/imagex_cdn_examgoal_net/KG00Xk2qTV1HnC3hv/4HlT1ls1Z3mtSzz9jl2MRTvTGwX9r/8Gyvl0QacrJ0lW1NnFbNyo/image.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/D47YXONpClpUjyoq3/6p8BpqZOgB1XNPN5QCrl637q1rCAm/SzbVZgvUNn4EDQlD9vQwvW/image.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/a9NJHcD31APjjBhnW/C9BYMWjzQ86KBgn4qVkZH612hr5bN/NU9LH71Am2BNL1XW7a8Dm9/image.png",
+          "description": ""
+        }
+      },
       "correct_answer": "A",
-      "question": "Which dicarboxylic acid in presence of a dehydrating agent is least reactive to give an anhydride?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 8,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 8,
-      "question_text": "Consider the given plots for a reaction obeying Arrhenius equation (0oC < T < 300oC) : (K and Ea are rate constant and activation energy, respectively) \n\n\n\n\n\nChoose the correct option :",
       "subject": "Chemistry",
       "topic": "chemical-kinetics-and-nuclear-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider the given plots for a reaction obeying Arrhenius equation (0oC < T < 300oC) : (K and Ea are rate constant and activation energy, respectively) \n\n\n\n\n\nChoose the correct option :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/wJPWMkv9M9fHzPiay/YUYUoYVKHKxKr2nasRD9LmV6H1oaW/5SmWNA3dQCPeNpBEX1kl0a/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "I is right but II is wrong",
         "B": "Both I and II are correct",
         "C": "Both I and II are wrong",
         "D": "I is wrong but II is right"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Consider the given plots for a reaction obeying Arrhenius equation (0^{o}C < T < 300^{o}C) : (K and Ea are rate constant and activation energy, respectively) \n\nChoose the correct option :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 9,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 9,
-      "question_text": "Which of the graphs shown below does not represent the relationship between incident light and the electron ejected from metal surface ?",
       "subject": "Chemistry",
       "topic": "structure-of-atom",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the graphs shown below does not represent the relationship between incident light and the electron ejected from metal surface ?",
+      "question_images": [],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/mbbjt63icilSdBD2p/11jW8V43GAmAxb1KVmcA7QpuzBBu1/e3g5jlGznVX2iObirCMXYZ/image.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/imagex_cdn_examgoal_net/iz4UAoEBHMBGrBbmJ/ONdPg95IIP0VEZLp3VxIaU36k8Vgz/IbfKYN537lyMW8ehVwpMlH/image.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/PPqj0ekdoqja3wFd5/DUak4D2uPavVkHvyQUx50kR1rPuay/GJqwDiFJvql9iwYNhLdYh0/image.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/HGsbPw9BH8ab9KZkd/MjAEaojRDS2tBhfwroqatcHQE9j9h/6baYgbG9EZS12ldPh533eO/image.png",
+          "description": ""
+        }
+      },
       "correct_answer": "B",
-      "question": "Which of the graphs shown below does not represent the relationship between incident light and the electron ejected from metal surface ?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 10,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 10,
-      "question_text": "The increasing order of the pKa values of the following compounds is :",
       "subject": "Chemistry",
       "topic": "alcohols-phenols-and-ethers",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The increasing order of the pKa values of the following compounds is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/MICSrK6D3MFV6PhOu/J2PoPlUrqnaiIvPKeXXAn0ISvmrxi/Snl1p894x8zsbvFWwLeCO2/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/62h8masC7jqlYEVz9/0H8t4bQedvvjsbO9LYOdaqidQSpwf/jgQ359O1jF6pDZfkSmEUk7/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "B < C < D < A",
         "B": "B < C < A < D",
         "C": "D < A < C < B",
         "D": "C < B < A < D"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The increasing order of the pKa values of the following compounds is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 11,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 11,
-      "question_text": "Which hydrogen in compound (E) is easily replaceable during bromination reaction in presence of light ?",
       "subject": "Chemistry",
       "topic": "haloalkanes-and-haloarenes",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which hydrogen in compound (E) is easily replaceable during bromination reaction in presence of light ?",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/ZiMdhYduHu0AWjqvV/VvTiJSmt52RcEk5qeY6LIO9dSpCpL/r2X4sAoT87QnSndFDBPSvr/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$\\beta $$ $$-$$ hydrogen",
         "B": "$$\\alpha $$ $$-$$ hydrogen",
         "C": "$$\\gamma $$ $$-$$ hydrogen",
         "D": "$$\\delta $$ $$-$$ hydrogen"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Which hydrogen in compound (E) is easily replaceable during bromination reaction in presence of light ?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 12,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 12,
-      "question_text": "The type of hybridisation and number of lone pair (s) of electrons of Xe in XeOF4, respectively, are:",
       "subject": "Chemistry",
       "topic": "chemical-bonding-and-molecular-structure",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The type of hybridisation and number of lone pair (s) of electrons of Xe in XeOF4, respectively, are:",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/3xmhtm2xjkbjisfqb/b1abd055-adea-4ec5-bcbc-bb6fd788f928/94f4df30-b0b0-11ea-9207-bfdf7589d371/file-3xmhtm2xjkbjisfqc-345w.jpg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "sp^{3}d and 2",
         "B": "sp^{3}d^{2} and 2",
         "C": "sp^{3}d and 1",
         "D": "sp^{3}d^{2} and 1"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The type of hybridisation and number of lone pair (s) of electrons of Xe in XeOF_{4}, respectively, are:",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 13,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 13,
-      "question_text": "Consider the following reduction processes :\n\nZn2+ + 2e– $$ \\to $$ Zn(s) ; Eo = – 0.76 V\n\nCa2+ + 2e– $$ \\to $$ Ca(s); Eo = –2.87 V\n\nMg2+ + 2e– $$ \\to $$ Mg(s) ; Eo = – 2.36 V\n\nNi2 + 2e– $$ \\to $$ Ni(s) ; Eo = – 0.25 \n\nThe reducing power of the metals increases in the order :",
       "subject": "Chemistry",
       "topic": "electrochemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider the following reduction processes :\n\nZn2+ + 2e– $$ \\to $$ Zn(s) ; Eo = – 0.76 V\n\nCa2+ + 2e– $$ \\to $$ Ca(s); Eo = –2.87 V\n\nMg2+ + 2e– $$ \\to $$ Mg(s) ; Eo = – 2.36 V\n\nNi2 + 2e– $$ \\to $$ Ni(s) ; Eo = – 0.25 \n\nThe reducing power of the metals increases in the order :",
+      "question_images": [],
+      "option_texts": {
         "A": "Ca < Mg < Zn < Ni",
         "B": "Ni < Zn < Mg < Ca",
         "C": "Zn < Mg < Ni < Ca",
         "D": "Ca < Zn < Mg < Ni"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Consider the following reduction processes :\nZn^{2+} + 2e^{–} $$ \\to $$ Zn(s) ; E^{o} = – 0.76 V\nCa^{2+} + 2e^{–} $$ \\to $$ Ca(s); E^{o} = –2.87 V\nMg^{2+} + 2e^{–} $$ \\to $$ Mg(s) ; E^{o} = – 2.36 V\nNi^{2} + 2e^{–} $$ \\to $$ Ni(s) ; E^{o} = – 0.25 \nThe reducing power of the metals increases in the order :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 14,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 14,
-      "question_text": "The major product formed in the reaction given below will be :",
       "subject": "Chemistry",
       "topic": "compounds-containing-nitrogen",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The major product formed in the reaction given below will be :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/Ou33GtjFZXY2wLgqz/B7pf0pTCUfGipo02iWnh9r1Pnh5cl/49vHmWWDfpYmgbffgvPPKA/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/1da9i2ynkdhmozk3/6648fa3c-edd6-45d7-8b6f-f1b21a2d471d/b702f530-d73e-11ea-b796-4745b429ed6f/file-1da9i2ynkdhmozk4-1400w.jpg",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/imagex_cdn_examgoal_net/dpEuwqZs7MKvaHGRf/uT6kVWsBuRClr91LppyqxfpbFRlyC/Nke4MVpRbvlWb9jvGJTMPs/image.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/imagex_cdn_examgoal_net/yHAy58YuWtwILpzsE/g1DLMXa4Z2N6a54KSC3r9CvVSk5Pa/0BBv9QahCxFj1h9Ov5nc0N/image.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/imagex_cdn_examgoal_net/PMUYbDBQji1QLcwGM/ePAqCCUeFqYZ14gyyWhuaa29EEKJ1/xfEEUzzaDlnccrn7rTVviQ/image.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/imagex_cdn_examgoal_net/pBZvF0hyyK4Bt47As/YYBcCJfLHiVYeIrEBUgzLsuBI8lxN/bmynLZVOOvficqPhmsr9zX/image.png",
+          "description": ""
+        }
+      },
       "correct_answer": "C",
-      "question": "The major product formed in the reaction given below will be :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 15,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 15,
-      "question_text": "Liquids A and B form an ideal solution in the entire composition range. At 350 K, the vaapor pressures of pure A and pure B are 7 $$ \\times $$ 103 Pa and 12 $$ \\times $$ 103 Pa, respectively . The composition of the vapor in equilibriumwith a solution containing 40 mole percent of A at this temperature is :",
       "subject": "Chemistry",
       "topic": "solutions",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Liquids A and B form an ideal solution in the entire composition range. At 350 K, the vaapor pressures of pure A and pure B are 7 $$ \\times $$ 103 Pa and 12 $$ \\times $$ 103 Pa, respectively . The composition of the vapor in equilibriumwith a solution containing 40 mole percent of A at this temperature is :",
+      "question_images": [],
+      "option_texts": {
         "A": "x_{A} = 0.76; x_{B} = 0.24",
         "B": "x_{A} = 0.28; x_{B} = 0.72",
         "C": "x_{A} = 0.4; x_{B} = 0.6",
         "D": "x_{A} = 0.37; x_{B} = 0.63"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Liquids A and B form an ideal solution in the entire composition range. At 350 K, the vaapor pressures of pure A and pure B are 7 $$ \\times $$ 10^{3} Pa and 12 $$ \\times $$ 10^{3} Pa, respectively . The composition of the vapor in equilibriumwith a solution containing 40 mole percent of A at this temperature is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 16,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 16,
-      "question_text": "The effect of lanthanoid contraction in the lanthanoid series of elements by and large means :",
       "subject": "Chemistry",
       "topic": "d-and-f-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The effect of lanthanoid contraction in the lanthanoid series of elements by and large means :",
+      "question_images": [],
+      "option_texts": {
         "A": "increase in atomic radii and decrease in ionic radii",
         "B": "increase in both atomic and ionic radii",
         "C": "decrease in both atomic and ionic radii",
         "D": "decrease in atomic radii and increase in ionic radii"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The effect of lanthanoid contraction in the lanthanoid series of elements by and large means :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 17,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 17,
-      "question_text": "Wilkinson catalyst is : (Et = C2H5)",
       "subject": "Chemistry",
       "topic": "d-and-f-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Wilkinson catalyst is : (Et = C2H5)",
+      "question_images": [],
+      "option_texts": {
         "A": "[(Ph_{3}P)_{3} RhCl]",
         "B": "[(Et_{3}P)_{3}RhCl]",
         "C": "[(Et_{3}P)_{3}IrCl]",
         "D": "[(Ph_{3}P)_{3}IrCl]"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Wilkinson catalyst is : (Et = C_{2}H_{5})",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 18,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 18,
-      "question_text": "Two pi and half sigma bonds are present in :",
       "subject": "Chemistry",
       "topic": "chemical-bonding-and-molecular-structure",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two pi and half sigma bonds are present in :",
+      "question_images": [],
+      "option_texts": {
         "A": "O_{2}",
         "B": "N$$_2^ + $$",
         "C": "O$$_2^ + $$",
         "D": "N_{2}"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Two pi and half sigma bonds are present in :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 19,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 19,
-      "question_text": "If dichloromethane (DCM) and water (H2O) are used for differential extraction, which one of the following statements is correct ?",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If dichloromethane (DCM) and water (H2O) are used for differential extraction, which one of the following statements is correct ?",
+      "question_images": [],
+      "option_texts": {
         "A": "DCM and H_{2}O would stay as upper and lower layer respectively in the separating funnel (S.F.)",
         "B": "DCM and H_{2}O will make turbid/colloidal mixture",
         "C": "DCM and H_{2}O would stay as lower and upper layer respectively in the separating funnel(S.F).",
         "D": "DCM and H_{2}O will be miscible clearly"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "If dichloromethane (DCM) and water (H_{2}O) are used for differential extraction, which one of the following statements is correct ?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 20,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 20,
-      "question_text": "The values of Kp/Kc for the following reactions at 300 K are, respectively : (At 300 K, RT = 24.62 dm3 atm mol–1) \n\n\nN2(g) + O2(g)  $$\\rightleftharpoons$$ 2 NO(g)\n\n\nN2O4(g)  $$\\rightleftharpoons$$    2 NO(g)\n\n\nN2(g) + 3H2(g) $$\\rightleftharpoons$$ 2 NH3(g)",
       "subject": "Chemistry",
       "topic": "chemical-equilibrium",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The values of Kp/Kc for the following reactions at 300 K are, respectively : (At 300 K, RT = 24.62 dm3 atm mol–1) \n\n\nN2(g) + O2(g)  $$\\rightleftharpoons$$ 2 NO(g)\n\n\nN2O4(g)  $$\\rightleftharpoons$$    2 NO(g)\n\n\nN2(g) + 3H2(g) $$\\rightleftharpoons$$ 2 NH3(g)",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/0PYxqbHVEh4uCfJza/dZgLhNXBsQK62L6haAAt7xDgrIadW/RIkQ2iwwmr16aZ3lzwKq7A/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "24.62 dm^{3} atm mol^{–1}, 606.0 dm^{6} atm^{2} mol^{–2} 1.65 $$ \\times $$ 10^{–3} dm^{–6} atm^{–2} mol^{2}",
         "B": "1,4.1 $$ \\times $$ 10^{–2} dm^{–3} atm^{–1} mol, 606 dm^{6} atm^{2} mol^{–2}",
         "C": "1,24.62 dm^{3} atm mol^{–1} , 1.65 $$ \\times $$ 10^{–3} dm^{–6} atm ^{–2} mol^{2}",
         "D": "1, 24.62 dm^{3} atm mol^{–1}, 606.0 dm^{6} atm^{2} mol^{–2}"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The values of K_{p}/K_{c} for the following reactions at 300 K are, respectively : (At 300 K, RT = 24.62 dm^{3} atm mol^{–1}) \nN_{2}(g) + O_{2}(g)  $$\\rightleftharpoons$$ 2 NO(g)\nN_{2}O_{4}(g)  $$\\rightleftharpoons$$    2 NO(g)\nN_{2}(g) + 3H_{2}(g) $$\\rightleftharpoons$$ 2 NH_{3}(g)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 21,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 21,
-      "question_text": "The electronegativity of aluminium is similar to :",
       "subject": "Chemistry",
       "topic": "periodic-table-and-periodicity",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The electronegativity of aluminium is similar to :",
+      "question_images": [],
+      "option_texts": {
         "A": "Beryllium",
         "B": "Carbon",
         "C": "Boron",
         "D": "Lithium"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The electronegativity of aluminium is similar to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 22,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 22,
-      "question_text": "A mixture of 100 m mol of Ca(OH)2 and 2 g of sodium sulphate was dissolved in water and the volume was made up to 100 mL. The mass of calcium sulphate formed and the concentration of OH– in resulting solution, respectively, are : (Molar mass of Ca (OH)2, Na2SO4 and CaSO4 are 74, 143 and 136 g mol–1\n , respectively; Ksp of Ca(OH)2 is 5.5 × 10–6\n)",
       "subject": "Chemistry",
       "topic": "ionic-equilibrium",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A mixture of 100 m mol of Ca(OH)2 and 2 g of sodium sulphate was dissolved in water and the volume was made up to 100 mL. The mass of calcium sulphate formed and the concentration of OH– in resulting solution, respectively, are : (Molar mass of Ca (OH)2, Na2SO4 and CaSO4 are 74, 143 and 136 g mol–1\n , respectively; Ksp of Ca(OH)2 is 5.5 × 10–6\n)",
+      "question_images": [],
+      "option_texts": {
         "A": "13.6g, 0.28 mol L^{$$-$$1}",
         "B": "13.6g, 0.14  mol L^{$$-$$1}",
         "C": "1.9g, 0.28 mol L^{$$-$$1}",
         "D": "1.9g, 0.14 mol L^{$$-$$1}"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A mixture of 100 m mol of Ca(OH)_{2} and 2 g of sodium sulphate was dissolved in water and the volume was made up to 100 mL. The mass of calcium sulphate formed and the concentration of OH^{–} in resulting solution, respectively, are : (Molar mass of Ca (OH)_{2}, Na_{2}SO_{4} and CaSO_{4} are 74, 143 and 136 g mol^{–1}\n , respectively; K_{sp} of Ca(OH)_{2} is 5.5 × 10^{–6}\n)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 23,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 23,
-      "question_text": "A process has $$\\Delta $$H = 200 J mol–1 and $$\\Delta $$S = 40 JK–1 mol–1. Out of the values given below, choose the minimum temperature above which the process will be spontaneous :",
       "subject": "Chemistry",
       "topic": "thermodynamics",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A process has $$\\Delta $$H = 200 J mol–1 and $$\\Delta $$S = 40 JK–1 mol–1. Out of the values given below, choose the minimum temperature above which the process will be spontaneous :",
+      "question_images": [],
+      "option_texts": {
         "A": "4 K",
         "B": "20 K",
         "C": "5 K",
         "D": "12 K"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A process has $$\\Delta $$H = 200 J mol^{–1} and $$\\Delta $$S = 40 JK^{–1} mol^{–1}. Out of the values given below, choose the minimum temperature above which the process will be spontaneous :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 24,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 24,
-      "question_text": "If the system of equations\n\n\nx + y + z = 5\n\n\nx + 2y + 3z = 9\n\n\nx + 3y + az = $$\\beta $$\n\n\nhas infinitely many solutions, then $$\\beta $$ $$-$$ $$\\alpha $$ equals -",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the system of equations\n\n\nx + y + z = 5\n\n\nx + 2y + 3z = 9\n\n\nx + 3y + az = $$\\beta $$\n\n\nhas infinitely many solutions, then $$\\beta $$ $$-$$ $$\\alpha $$ equals -",
+      "question_images": [],
+      "option_texts": {
         "A": "8",
         "B": "21",
         "C": "18",
         "D": "5"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "If the system of equations\nx + y + z = 5\nx + 2y + 3z = 9\nx + 3y + az = $$\\beta $$\nhas infinitely many solutions, then $$\\beta $$ $$-$$ $$\\alpha $$ equals -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 25,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 25,
-      "question_text": "The mean of five observations is 5 and their variance is 9.20. If three of the given five observations are 1, 3 and 8, then a ratio of other two observations is -",
       "subject": "Mathematics",
       "topic": "statistics",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The mean of five observations is 5 and their variance is 9.20. If three of the given five observations are 1, 3 and 8, then a ratio of other two observations is -",
+      "question_images": [],
+      "option_texts": {
         "A": "6 : 7",
         "B": "10 : 3",
         "C": "4 : 9",
         "D": "5 : 8"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The mean of five observations is 5 and their variance is 9.20. If three of the given five observations are 1, 3 and 8, then a ratio of other two observations is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 26,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 26,
-      "question_text": "Let n $$ \\ge $$ 2 be a natural number and $$0 < \\theta  < {\\pi  \\over 2}.$$ Then $$\\int {{{{{\\left( {{{\\sin }^n}\\theta  - \\sin \\theta } \\right)}^{1/n}}\\cos \\theta } \\over {{{\\sin }^{n + 1}}\\theta }}} \\,d\\theta $$ is equal to - (where C is a constant of integration)",
       "subject": "Mathematics",
       "topic": "indefinite-integrals",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let n $$ \\ge $$ 2 be a natural number and $$0 < \\theta  < {\\pi  \\over 2}.$$ Then $$\\int {{{{{\\left( {{{\\sin }^n}\\theta  - \\sin \\theta } \\right)}^{1/n}}\\cos \\theta } \\over {{{\\sin }^{n + 1}}\\theta }}} \\,d\\theta $$ is equal to - (where C is a constant of integration)",
+      "question_images": [],
+      "option_texts": {
         "A": "$${n \\over {{n^2} - 1}}{\\left( {1 + {1 \\over {{{\\sin }^{n - 1}}\\theta }}} \\right)^{{{n + 1} \\over n}}} + C$$",
         "B": "$${n \\over {{n^2} - 1}}{\\left( {1 - {1 \\over {{{\\sin }^{n + 1}}\\theta }}} \\right)^{{{n + 1} \\over n}}} + C$$",
         "C": "$${n \\over {{n^2} - 1}}{\\left( {1 - {1 \\over {{{\\sin }^{n - 1}}\\theta }}} \\right)^{{{n + 1} \\over n}}} + C$$",
         "D": "$${n \\over {{n^2} + 1}}{\\left( {1 - {1 \\over {{{\\sin }^{n - 1}}\\theta }}} \\right)^{{{n + 1} \\over n}}} + C$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let n $$ \\ge $$ 2 be a natural number and $$0 < \\theta  < {\\pi  \\over 2}.$$ Then $$\\int {{{{{\\left( {{{\\sin }^n}\\theta  - \\sin \\theta } \\right)}^{1/n}}\\cos \\theta } \\over {{{\\sin }^{n + 1}}\\theta }}} \\,d\\theta $$ is equal to - (where C is a constant of integration)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 27,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 27,
-      "question_text": "Let $$\\overrightarrow a  = 2\\widehat i + {\\lambda _1}\\widehat j + 3\\widehat k,\\,\\,$$   $$\\overrightarrow b  = 4\\widehat i + \\left( {3 - {\\lambda _2}} \\right)\\widehat j + 6\\widehat k,$$  and  $$\\overrightarrow c  = 3\\widehat i + 6\\widehat j + \\left( {{\\lambda _3} - 1} \\right)\\widehat k$$  be three vectors such that $$\\overrightarrow b  = 2\\overrightarrow a $$ and $$\\overrightarrow a $$ is   perpendicular to $$\\overrightarrow c $$. Then a possible value of $$\\left( {{\\lambda _1},{\\lambda _2},{\\lambda _3}} \\right)$$ is :",
       "subject": "Mathematics",
       "topic": "vector-algebra",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$\\overrightarrow a  = 2\\widehat i + {\\lambda _1}\\widehat j + 3\\widehat k,\\,\\,$$   $$\\overrightarrow b  = 4\\widehat i + \\left( {3 - {\\lambda _2}} \\right)\\widehat j + 6\\widehat k,$$  and  $$\\overrightarrow c  = 3\\widehat i + 6\\widehat j + \\left( {{\\lambda _3} - 1} \\right)\\widehat k$$  be three vectors such that $$\\overrightarrow b  = 2\\overrightarrow a $$ and $$\\overrightarrow a $$ is   perpendicular to $$\\overrightarrow c $$. Then a possible value of $$\\left( {{\\lambda _1},{\\lambda _2},{\\lambda _3}} \\right)$$ is :",
+      "question_images": [],
+      "option_texts": {
         "A": "(1, 5, 1)",
         "B": "(1, 3, 1)",
         "C": "$$\\left( { - {1 \\over 2},4,0} \\right)$$",
         "D": "$$\\left( {{1 \\over 2},4, - 2} \\right)$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let $$\\overrightarrow a  = 2\\widehat i + {\\lambda _1}\\widehat j + 3\\widehat k,\\,\\,$$   $$\\overrightarrow b  = 4\\widehat i + \\left( {3 - {\\lambda _2}} \\right)\\widehat j + 6\\widehat k,$$  and  $$\\overrightarrow c  = 3\\widehat i + 6\\widehat j + \\left( {{\\lambda _3} - 1} \\right)\\widehat k$$  be three vectors such that $$\\overrightarrow b  = 2\\overrightarrow a $$ and $$\\overrightarrow a $$ is   perpendicular to $$\\overrightarrow c $$. Then a possible value of $$\\left( {{\\lambda _1},{\\lambda _2},{\\lambda _3}} \\right)$$ is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 28,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 28,
-      "question_text": "In a class of 140 students numbered 1 to 140, all even numbered students opted Mathematics course, those whose number is divisible by 3 opted Physics course and those whose number is divisible by 5 opted Chemistry course. Then the number of students who did not opt for any of the three courses is",
       "subject": "Mathematics",
       "topic": "sets-and-relations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In a class of 140 students numbered 1 to 140, all even numbered students opted Mathematics course, those whose number is divisible by 3 opted Physics course and those whose number is divisible by 5 opted Chemistry course. Then the number of students who did not opt for any of the three courses is",
+      "question_images": [],
+      "option_texts": {
         "A": "42",
         "B": "102",
         "C": "1",
         "D": "38"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "In a class of 140 students numbered 1 to 140, all even numbered students opted Mathematics course, those whose number is divisible by 3 opted Physics course and those whose number is divisible by 5 opted Chemistry course. Then the number of students who did not opt for any of the three courses is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 29,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 29,
-      "question_text": "An unbiased coin is tossed. If the outcome is a head then a pair of unbiased dice is rolled and the sum of the numbers obtained on them is noted. If the toss of the coin results in tail then a card from a well-shuffled pack of nine cards numbered 1, 2, 3, ……, 9 is randomly picked and the number on the card is noted. The probability that the noted number is either 7 or 8 is :",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An unbiased coin is tossed. If the outcome is a head then a pair of unbiased dice is rolled and the sum of the numbers obtained on them is noted. If the toss of the coin results in tail then a card from a well-shuffled pack of nine cards numbered 1, 2, 3, ……, 9 is randomly picked and the number on the card is noted. The probability that the noted number is either 7 or 8 is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/bI7E4RshlKcIu2wdV/xIqwrYt1hS4IELTl3VCkgmR4vmaYU/DfHML9XD7Sf69KWebbyL46/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{19} \\over {36}}$$",
         "B": "$${{15} \\over {72}}$$",
         "C": "$${{13} \\over {36}}$$",
         "D": "$${{19} \\over {72}}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "An unbiased coin is tossed. If the outcome is a head then a pair of unbiased dice is rolled and the sum of the numbers obtained on them is noted. If the toss of the coin results in tail then a card from a well-shuffled pack of nine cards numbered 1, 2, 3, ……, 9 is randomly picked and the number on the card is noted. The probability that the noted number is either 7 or 8 is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 30,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 30,
-      "question_text": "For each t $$ \\in $$ R , let [t] be the greatest integer less than or equal to t\n\n\nThen  $$\\mathop {\\lim }\\limits_{x \\to 1^ + } {{\\left( {1 - \\left| x \\right| + \\sin \\left| {1 - x} \\right|} \\right)\\sin \\left( {{\\pi  \\over 2}\\left[ {1 - x} \\right]} \\right)} \\over {\\left| {1 - x} \\right|.\\left[ {1 - x} \\right]}}$$",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "For each t $$ \\in $$ R , let [t] be the greatest integer less than or equal to t\n\n\nThen  $$\\mathop {\\lim }\\limits_{x \\to 1^ + } {{\\left( {1 - \\left| x \\right| + \\sin \\left| {1 - x} \\right|} \\right)\\sin \\left( {{\\pi  \\over 2}\\left[ {1 - x} \\right]} \\right)} \\over {\\left| {1 - x} \\right|.\\left[ {1 - x} \\right]}}$$",
+      "question_images": [],
+      "option_texts": {
         "A": "equals $$-$$ 1",
         "B": "equals 1",
         "C": "equals 0",
         "D": "does not exist"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "For each t $$ \\in $$ R , let [t] be the greatest integer less than or equal to t\nThen  $$\\mathop {\\lim }\\limits_{x \\to 1^ + } {{\\left( {1 - \\left| x \\right| + \\sin \\left| {1 - x} \\right|} \\right)\\sin \\left( {{\\pi  \\over 2}\\left[ {1 - x} \\right]} \\right)} \\over {\\left| {1 - x} \\right|.\\left[ {1 - x} \\right]}}$$",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 31,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 31,
-      "question_text": "Let  $$f\\left( x \\right) = \\left\\{ {\\matrix{\n   {\\max \\left\\{ {\\left| x \\right|,{x^2}} \\right\\}} & {\\left| x \\right| \\le 2}  \\cr \n   {8 - 2\\left| x \\right|} & {2 < \\left| x \\right| \\le 4}  \\cr \n\n } } \\right.$$\n\n\nLet S be the set of points in the interval (– 4, 4) at which f is not differentiable. Then S",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let  $$f\\left( x \\right) = \\left\\{ {\\matrix{\n   {\\max \\left\\{ {\\left| x \\right|,{x^2}} \\right\\}} & {\\left| x \\right| \\le 2}  \\cr \n   {8 - 2\\left| x \\right|} & {2 < \\left| x \\right| \\le 4}  \\cr \n\n } } \\right.$$\n\n\nLet S be the set of points in the interval (– 4, 4) at which f is not differentiable. Then S",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/p2z4iAtUDdd7quMsy/ZaFYycuKJDGxhKsByJyXX3VP8339B/7IMZGysxWp5P0P9TZs6PL7/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "equals $$\\left\\{ { - 2, - 1,1,2} \\right\\}$$",
         "B": "equals $$\\left\\{ { - 2, - 1,0,1,2} \\right\\}$$",
         "C": "equals $$\\left\\{ { - 2,2} \\right\\}$$",
         "D": "is an empty set"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let  $$f\\left( x \\right) = \\left\\{ {\\matrix{\n   {\\max \\left\\{ {\\left| x \\right|,{x^2}} \\right\\}} & {\\left| x \\right| \\le 2}  \\cr \n   {8 - 2\\left| x \\right|} & {2 < \\left| x \\right| \\le 4}  \\cr \n\n } } \\right.$$\nLet S be the set of points in the interval (– 4, 4) at which f is not differentiable. Then S",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 32,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 32,
-      "question_text": "Let  d $$ \\in $$ R, and \n\n\n$$A = \\left[ {\\matrix{\n   { - 2} & {4 + d} & {\\left( {\\sin \\theta } \\right) - 2}  \\cr \n   1 & {\\left( {\\sin \\theta } \\right) + 2} & d  \\cr \n   5 & {\\left( {2\\sin \\theta } \\right) - d} & {\\left( { - \\sin \\theta } \\right) + 2 + 2d}  \\cr \n\n } } \\right],$$\n\n\n$$\\theta  \\in \\left[ {0,2\\pi } \\right]$$ If the minimum value of det(A) is 8,\nthen a value of d is -",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let  d $$ \\in $$ R, and \n\n\n$$A = \\left[ {\\matrix{\n   { - 2} & {4 + d} & {\\left( {\\sin \\theta } \\right) - 2}  \\cr \n   1 & {\\left( {\\sin \\theta } \\right) + 2} & d  \\cr \n   5 & {\\left( {2\\sin \\theta } \\right) - d} & {\\left( { - \\sin \\theta } \\right) + 2 + 2d}  \\cr \n\n } } \\right],$$\n\n\n$$\\theta  \\in \\left[ {0,2\\pi } \\right]$$ If the minimum value of det(A) is 8,\nthen a value of d is -",
+      "question_images": [],
+      "option_texts": {
         "A": "$$-$$ 7",
         "B": "$$2\\left( {\\sqrt 2  + 2} \\right)$$",
         "C": "$$-$$ 5",
         "D": "$$2\\left( {\\sqrt 2  + 1} \\right)$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let  d $$ \\in $$ R, and \n$$A = \\left[ {\\matrix{\n   { - 2} & {4 + d} & {\\left( {\\sin \\theta } \\right) - 2}  \\cr \n   1 & {\\left( {\\sin \\theta } \\right) + 2} & d  \\cr \n   5 & {\\left( {2\\sin \\theta } \\right) - d} & {\\left( { - \\sin \\theta } \\right) + 2 + 2d}  \\cr \n\n } } \\right],$$\n$$\\theta  \\in \\left[ {0,2\\pi } \\right]$$ If the minimum value of det(A) is 8,\nthen a value of d is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 33,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 33,
-      "question_text": "If the third term in the binomial expansion \nof $${\\left( {1 + {x^{{{\\log }_2}x}}} \\right)^5}$$ equals 2560, then a possible value of x is -",
       "subject": "Mathematics",
       "topic": "binomial-theorem",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the third term in the binomial expansion \nof $${\\left( {1 + {x^{{{\\log }_2}x}}} \\right)^5}$$ equals 2560, then a possible value of x is -",
+      "question_images": [],
+      "option_texts": {
         "A": "$$2\\sqrt 2 $$",
         "B": "$$4\\sqrt 2 $$",
         "C": "$${1 \\over 8}$$",
         "D": "$${1 \\over 4}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "If the third term in the binomial expansion of $${\\left( {1 + {x^{{{\\log }_2}x}}} \\right)^5}$$ equals 2560, then a possible value of x is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 34,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 34,
-      "question_text": "If the line 3x + 4y – 24 = 0 intersects the x-axis at the point A and the y-axis at the point B, then the incentre of the triangle OAB, where O is the origin, is :",
       "subject": "Mathematics",
       "topic": "straight-lines-and-pair-of-straight-lines",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the line 3x + 4y – 24 = 0 intersects the x-axis at the point A and the y-axis at the point B, then the incentre of the triangle OAB, where O is the origin, is :",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/caZLQtnF2VKqfgFP9/F2ue0uu9QrNiencyRODKimzvvaivy/AhuKkfDf1cc61rhCBUsEqD/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "(3, 4)",
         "B": "(2, 2)",
         "C": "(4, 4)",
         "D": "(4, 3)"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "If the line 3x + 4y – 24 = 0 intersects the x-axis at the point A and the y-axis at the point B, then the incentre of the triangle OAB, where O is the origin, is :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 35,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 35,
-      "question_text": "If the area enclosed between the curves y = kx2 and x = ky2, (k > 0), is 1 square unit. Then k is -",
       "subject": "Mathematics",
       "topic": "area-under-the-curves",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the area enclosed between the curves y = kx2 and x = ky2, (k > 0), is 1 square unit. Then k is -",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\sqrt 3 $$",
         "B": "$${{\\sqrt 3 } \\over 2}$$",
         "C": "$${2 \\over {\\sqrt 3 }}$$",
         "D": "$${1 \\over {\\sqrt 3 }}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "If the area enclosed between the curves y = kx^{2} and x = ky^{2}, (k > 0), is 1 square unit. Then k is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 36,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 36,
-      "question_text": "Let  $${\\rm I} = \\int\\limits_a^b {\\left( {{x^4} - 2{x^2}} \\right)} dx.$$  If I is minimum then the ordered pair (a, b) is -",
       "subject": "Mathematics",
       "topic": "definite-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let  $${\\rm I} = \\int\\limits_a^b {\\left( {{x^4} - 2{x^2}} \\right)} dx.$$  If I is minimum then the ordered pair (a, b) is -",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/6326f7CfCYNQ8AJ6w/7kpxXfTX4mcsPiJ2NbdV6nGG3P9Zb/QHPEXFZOIsdKT4ZvbYHIP7/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$\\left( {\\sqrt 2 , - \\sqrt 2 } \\right)$$",
         "B": "$$\\left( {0,\\sqrt 2 } \\right)$$",
         "C": "$$\\left( { - \\sqrt 2 ,\\sqrt 2 } \\right)$$",
         "D": "$$\\left( { - \\sqrt 2 ,0} \\right)$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let  $${\\rm I} = \\int\\limits_a^b {\\left( {{x^4} - 2{x^2}} \\right)} dx.$$  If I is minimum then the ordered pair (a, b) is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 37,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 37,
-      "question_text": "Let z1 and z2 be any two non-zero complex numbers such that   $$3\\left| {{z_1}} \\right| = 4\\left| {{z_2}} \\right|.$$  If  $$z = {{3{z_1}} \\over {2{z_2}}} + {{2{z_2}} \\over {3{z_1}}}$$  then :",
       "subject": "Mathematics",
       "topic": "complex-numbers",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let z1 and z2 be any two non-zero complex numbers such that   $$3\\left| {{z_1}} \\right| = 4\\left| {{z_2}} \\right|.$$  If  $$z = {{3{z_1}} \\over {2{z_2}}} + {{2{z_2}} \\over {3{z_1}}}$$  then :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${\\rm I}m\\left( z \\right) = 0$$",
         "B": "$$\\left| z \\right| = \\sqrt {{17 \\over 2}} $$",
         "C": "$$\\left| z \\right| =$$ $${1 \\over 2}\\sqrt {9 + 16{{\\cos }^2}\\theta } $$",
         "D": "Re(z) $$=$$ 0"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let z_{1} and z_{2} be any two non-zero complex numbers such that   $$3\\left| {{z_1}} \\right| = 4\\left| {{z_2}} \\right|.$$  If  $$z = {{3{z_1}} \\over {2{z_2}}} + {{2{z_2}} \\over {3{z_1}}}$$  then :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 38,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 38,
-      "question_text": "The sum of all two digit positive numbers which when divided by 7 yield 2 or 5 as remainder is -",
       "subject": "Mathematics",
       "topic": "sequences-and-series",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The sum of all two digit positive numbers which when divided by 7 yield 2 or 5 as remainder is -",
+      "question_images": [],
+      "option_texts": {
         "A": "1356",
         "B": "1256",
         "C": "1365",
         "D": "1465"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The sum of all two digit positive numbers which when divided by 7 yield 2 or 5 as remainder is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 39,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 39,
-      "question_text": "A point P moves on the line 2x – 3y + 4 = 0. If Q(1, 4) and R (3, – 2) are fixed points, then the locus of the centroid of $$\\Delta $$PQR is a line :",
       "subject": "Mathematics",
       "topic": "straight-lines-and-pair-of-straight-lines",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A point P moves on the line 2x – 3y + 4 = 0. If Q(1, 4) and R (3, – 2) are fixed points, then the locus of the centroid of $$\\Delta $$PQR is a line :",
+      "question_images": [],
+      "option_texts": {
         "A": "parallel to y-axis",
         "B": "with slope $${2 \\over 3}$$",
         "C": "parallel to x-axis",
         "D": "with slope $${3 \\over 2}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A point P moves on the line 2x – 3y + 4 = 0. If Q(1, 4) and R (3, – 2) are fixed points, then the locus of the centroid of $$\\Delta $$PQR is a line :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 40,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 40,
-      "question_text": "The shortest distance between the point  $$\\left( {{3 \\over 2},0} \\right)$$   and the curve y = $$\\sqrt x $$,  (x > 0), is -",
       "subject": "Mathematics",
       "topic": "application-of-derivatives",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The shortest distance between the point  $$\\left( {{3 \\over 2},0} \\right)$$   and the curve y = $$\\sqrt x $$,  (x > 0), is -",
+      "question_images": [],
+      "option_texts": {
         "A": "$${{\\sqrt 3 } \\over 2}$$",
         "B": "$${5 \\over 4}$$",
         "C": "$${3 \\over 2}$$",
         "D": "$${{\\sqrt 5 } \\over 2}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The shortest distance between the point  $$\\left( {{3 \\over 2},0} \\right)$$   and the curve y = $$\\sqrt x $$,  (x > 0), is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 41,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 41,
-      "question_text": "Consider the quadratic equation (c – 5)x2 – 2cx + (c – 4) = 0, c $$ \\ne $$ 5. Let S be the set of all integral values of c for which one root of the equation lies in the interval (0, 2) and its other root lies in the interval (2, 3). Then the number of elements in S is -",
       "subject": "Mathematics",
       "topic": "quadratic-equation-and-inequalities",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider the quadratic equation (c – 5)x2 – 2cx + (c – 4) = 0, c $$ \\ne $$ 5. Let S be the set of all integral values of c for which one root of the equation lies in the interval (0, 2) and its other root lies in the interval (2, 3). Then the number of elements in S is -",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/ysa5p5hg8bwg1xCpN/hGJwhISYcCW0E35JtRh3S4Gk0yL6u/Vd8eNF854ofEQemiTRgcj9/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "12",
         "B": "18",
         "C": "10",
         "D": "11"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Consider the quadratic equation (c – 5)x^{2} – 2cx + (c – 4) = 0, c $$ \\ne $$ 5. Let S be the set of all integral values of c for which one root of the equation lies in the interval (0, 2) and its other root lies in the interval (2, 3). Then the number of elements in S is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 42,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 42,
-      "question_text": "If  $${{dy} \\over {dx}} + {3 \\over {{{\\cos }^2}x}}y = {1 \\over {{{\\cos }^2}x}},\\,\\,x \\in \\left( {{{ - \\pi } \\over 3},{\\pi  \\over 3}} \\right)$$  and  $$y\\left( {{\\pi  \\over 4}} \\right) = {4 \\over 3},$$  then  $$y\\left( { - {\\pi  \\over 4}} \\right)$$   equals -",
       "subject": "Mathematics",
       "topic": "differential-equations",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If  $${{dy} \\over {dx}} + {3 \\over {{{\\cos }^2}x}}y = {1 \\over {{{\\cos }^2}x}},\\,\\,x \\in \\left( {{{ - \\pi } \\over 3},{\\pi  \\over 3}} \\right)$$  and  $$y\\left( {{\\pi  \\over 4}} \\right) = {4 \\over 3},$$  then  $$y\\left( { - {\\pi  \\over 4}} \\right)$$   equals -",
+      "question_images": [],
+      "option_texts": {
         "A": "$${1 \\over 3} + {e^6}$$",
         "B": "$${1 \\over 3}$$",
         "C": "$${1 \\over 3}$$ + e^{3}",
         "D": "$$-$$ $${4 \\over 3}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "If  $${{dy} \\over {dx}} + {3 \\over {{{\\cos }^2}x}}y = {1 \\over {{{\\cos }^2}x}},\\,\\,x \\in \\left( {{{ - \\pi } \\over 3},{\\pi  \\over 3}} \\right)$$  and  $$y\\left( {{\\pi  \\over 4}} \\right) = {4 \\over 3},$$  then  $$y\\left( { - {\\pi  \\over 4}} \\right)$$   equals -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 43,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 43,
-      "question_text": "Let f : R $$ \\to $$ R be a function such that  f(x) = x3 + x2f'(1) + xf''(2) + f'''(3), x $$ \\in $$ R.  Then f(2) equals -",
       "subject": "Mathematics",
       "topic": "differentiation",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let f : R $$ \\to $$ R be a function such that  f(x) = x3 + x2f'(1) + xf''(2) + f'''(3), x $$ \\in $$ R.  Then f(2) equals -",
+      "question_images": [],
+      "option_texts": {
         "A": "30",
         "B": "$$-$$ 2",
         "C": "$$-$$ 4",
         "D": "8"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let f : R $$ \\to $$ R be a function such that  f(x) = x^{3} + x^{2}f'(1) + xf''(2) + f'''(3), x $$ \\in $$ R.  Then f(2) equals -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 44,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 44,
-      "question_text": "If 5, 5r, 5r2 are the lengths of the sides of a triangle, then r cannot be equal to :",
       "subject": "Mathematics",
       "topic": "straight-lines-and-pair-of-straight-lines",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If 5, 5r, 5r2 are the lengths of the sides of a triangle, then r cannot be equal to :",
+      "question_images": [],
+      "option_texts": {
         "A": "$${7 \\over 4}$$",
         "B": "$${5 \\over 4}$$",
         "C": "$${3 \\over 4}$$",
         "D": "$${3 \\over 2}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "If 5, 5r, 5r^{2} are the lengths of the sides of a triangle, then r cannot be equal to :",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 45,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 45,
-      "question_text": "A solid metal cube of edge length 2 cm is moving in a positive y-direction at a constant speed of 6 m/s. There is a uniform magnetic field of 0.1 T in the positive z-direction. The potential difference between the two faces of the cube perpendicular to the x-axis, is -",
       "subject": "Physics",
       "topic": "electromagnetic-induction",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A solid metal cube of edge length 2 cm is moving in a positive y-direction at a constant speed of 6 m/s. There is a uniform magnetic field of 0.1 T in the positive z-direction. The potential difference between the two faces of the cube perpendicular to the x-axis, is -",
+      "question_images": [],
+      "option_texts": {
         "A": "2mV",
         "B": "12 mV",
         "C": "6 mV",
         "D": "1 mV"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A solid metal cube of edge length 2 cm is moving in a positive y-direction at a constant speed of 6 m/s. There is a uniform magnetic field of 0.1 T in the positive z-direction. The potential difference between the two faces of the cube perpendicular to the x-axis, is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 46,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 46,
-      "question_text": "A charge Q is distributed over three concentric spherical shells of radii a, b, c (a < b < c) such that their surface charge densities are equal to one another. The total potential at a point at distance r from their common centre, where r < a, would be -",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A charge Q is distributed over three concentric spherical shells of radii a, b, c (a < b < c) such that their surface charge densities are equal to one another. The total potential at a point at distance r from their common centre, where r < a, would be -",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/LU4K0hipExRTL6e3R/9FMaTmzvjYVHG5R7SVMzQZoD9Fjej/832LwoUe41Yij25yqFX4Cu/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{Q\\left( {{a^2} + {b^2} + {c^2}} \\right)} \\over {4\\pi {\\varepsilon _0}\\left( {{a^3} + {b^3} + {c^3}} \\right)}}$$",
         "B": "$${Q \\over {4\\pi {\\varepsilon _0}\\left( {a + b + c} \\right)}}$$",
         "C": "$${Q \\over {12\\pi {\\varepsilon _0}}}{{ab + bc + ca} \\over {abc}}$$",
         "D": "$${{Q\\left( {a + b + c} \\right)} \\over {4\\pi {\\varepsilon _0}\\left( {{a^2} + {b^2} + {c^2}} \\right)}}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "A charge Q is distributed over three concentric spherical shells of radii a, b, c (a < b < c) such that their surface charge densities are equal to one another. The total potential at a point at distance r from their common centre, where r < a, would be -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 47,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 47,
-      "question_text": "A 2 W carbon resistor is color coded with green, black, red and brown respectively. The maximum current which can be passed through this resistor is -",
       "subject": "Physics",
       "topic": "current-electricity",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A 2 W carbon resistor is color coded with green, black, red and brown respectively. The maximum current which can be passed through this resistor is -",
+      "question_images": [],
+      "option_texts": {
         "A": "0.4 mA",
         "B": "20 mA",
         "C": "63 mA",
         "D": "100 mA"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A 2 W carbon resistor is color coded with green, black, red and brown respectively. The maximum current which can be passed through this resistor is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 48,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 48,
-      "question_text": "If the magnetic field of a plane electromagnetic wave is given by (the speed of light = 3 × 108 B = 100 × 10–6\n sin $$\\left[ {2\\pi  \\times 2 \\times {{10}^{15}}\\left( {t - {x \\over c}} \\right)} \\right]$$ then the maximum electric field associated with it is -",
       "subject": "Physics",
       "topic": "electromagnetic-waves",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If the magnetic field of a plane electromagnetic wave is given by (the speed of light = 3 × 108 B = 100 × 10–6\n sin $$\\left[ {2\\pi  \\times 2 \\times {{10}^{15}}\\left( {t - {x \\over c}} \\right)} \\right]$$ then the maximum electric field associated with it is -",
+      "question_images": [],
+      "option_texts": {
         "A": "4.5 $$ \\times $$ 10^{4} N/C",
         "B": "4 $$ \\times $$ 10^{4} N/C",
         "C": "6 $$ \\times $$ 10^{4} N/C",
         "D": "3 $$ \\times $$ 10^{4} N/C"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "If the magnetic field of a plane electromagnetic wave is given by (the speed of light = 3 × 10^{8} B = 100 × 10^{–6}\n sin $$\\left[ {2\\pi  \\times 2 \\times {{10}^{15}}\\left( {t - {x \\over c}} \\right)} \\right]$$ then the maximum electric field associated with it is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 49,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 49,
-      "question_text": "A string of length 1 m and mass 5 g is fixed at both ends. The tension in the string is 8.0 N. The string is set into vibration using an external vibrator of frequency 100 Hz. The separation between successive nodes on the string is close to -",
       "subject": "Physics",
       "topic": "waves",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A string of length 1 m and mass 5 g is fixed at both ends. The tension in the string is 8.0 N. The string is set into vibration using an external vibrator of frequency 100 Hz. The separation between successive nodes on the string is close to -",
+      "question_images": [],
+      "option_texts": {
         "A": "16.6 cm",
         "B": "10.0 cm",
         "C": "20.0 cm",
         "D": "33.3 cm"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A string of length 1 m and mass 5 g is fixed at both ends. The tension in the string is 8.0 N. The string is set into vibration using an external vibrator of frequency 100 Hz. The separation between successive nodes on the string is close to -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 50,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 50,
-      "question_text": "A homogeneous solid cylindrical roller of radius R and mass M is pulled on a cricket pitch by a horizontal force. Assuming rolling without slipping, angular acceleration of the cylinder is -",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A homogeneous solid cylindrical roller of radius R and mass M is pulled on a cricket pitch by a horizontal force. Assuming rolling without slipping, angular acceleration of the cylinder is -",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/loPSX2zo3lot8aZT6/DY0lTjD1Fkpznt2EN0E8dsJ7ayV21/lgNSmXnV7vcMeq0ZodyYZw/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${F \\over {2mR}}$$",
         "B": "$${2F \\over {3mR}}$$",
         "C": "$${3F \\over {2mR}}$$",
         "D": "$${F \\over {3mR}}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A homogeneous solid cylindrical roller of radius R and mass M is pulled on a cricket pitch by a horizontal force. Assuming rolling without slipping, angular acceleration of the cylinder is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 51,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 51,
-      "question_text": "In an electron microscope, the resolution that can be achieved is of the order of the wavelength of electrons used. To resolve a width of 7.5 × 10–12 m, the minimum electron energy required is close to -",
       "subject": "Physics",
       "topic": "dual-nature-of-radiation",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In an electron microscope, the resolution that can be achieved is of the order of the wavelength of electrons used. To resolve a width of 7.5 × 10–12 m, the minimum electron energy required is close to -",
+      "question_images": [],
+      "option_texts": {
         "A": "25 keV",
         "B": "500 keV",
         "C": "100 keV",
         "D": "1 keV"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "In an electron microscope, the resolution that can be achieved is of the order of the wavelength of electrons used. To resolve a width of 7.5 × 10^{–12} m, the minimum electron energy required is close to -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 52,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 52,
-      "question_text": "A plano convex lens of refractive index $$\\mu $$1 and focal length ƒ1 is kept in contact with another plano concave lens of refractive index $$\\mu $$2 and focal length ƒ2. If the radius of curvature of their spherical faces is R each and ƒ1 = 2ƒ2, then $$\\mu $$1 and $$\\mu $$2 are related as -",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A plano convex lens of refractive index $$\\mu $$1 and focal length ƒ1 is kept in contact with another plano concave lens of refractive index $$\\mu $$2 and focal length ƒ2. If the radius of curvature of their spherical faces is R each and ƒ1 = 2ƒ2, then $$\\mu $$1 and $$\\mu $$2 are related as -",
+      "question_images": [],
+      "option_texts": {
         "A": "$$3{\\mu _2} - 2{\\mu _1}$$ = 1",
         "B": "$${\\mu _1} + {\\mu _2}$$ = 3",
         "C": "$$2{\\mu _1} - {\\mu _2}$$ = 1",
         "D": "$$2{\\mu _2} - {\\mu _1}$$ = 1"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A plano convex lens of refractive index $$\\mu $$_{1} and focal length ƒ_{1} is kept in contact with another plano concave lens of refractive index $$\\mu $$_{2} and focal length ƒ_{2}. If the radius of curvature of their spherical faces is R each and ƒ_{1} = 2ƒ_{2}, then $$\\mu $$_{1} and $$\\mu $$_{2} are related as -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 53,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 53,
-      "question_text": "A uniform metallic wire has a resistance of 18 $$\\Omega $$ and is bent into an equilateral triangle. Then, the resistance between any two vertices of the triangle is -",
       "subject": "Physics",
       "topic": "current-electricity",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A uniform metallic wire has a resistance of 18 $$\\Omega $$ and is bent into an equilateral triangle. Then, the resistance between any two vertices of the triangle is -",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/2gJBhr8F94mhDrNgV/KfwmXKQh4k3Ul5nEUxFQ2j78eaI1K/NqJNjWuBrwRmba5gGOp5N4/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "12 $$\\Omega $$",
         "B": "2 $$\\Omega $$",
         "C": "4 $$\\Omega $$",
         "D": "8 $$\\Omega $$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A uniform metallic wire has a resistance of 18 $$\\Omega $$ and is bent into an equilateral triangle. Then, the resistance between any two vertices of the triangle is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 54,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 54,
-      "question_text": "An insulating thin rod of length $$l$$ has a linear charge density $$\\rho \\left( x \\right)$$ = $${\\rho _0}{x \\over l}$$ on it. The rod is rotated about an axis passing through the origin (x = 0) and perpendicular to the rod. If the rod makes n rotations per second, then the time averaged magnetic moment of the rod is -",
       "subject": "Physics",
       "topic": "magnetics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "An insulating thin rod of length $$l$$ has a linear charge density $$\\rho \\left( x \\right)$$ = $${\\rho _0}{x \\over l}$$ on it. The rod is rotated about an axis passing through the origin (x = 0) and perpendicular to the rod. If the rod makes n rotations per second, then the time averaged magnetic moment of the rod is -",
+      "question_images": [],
+      "option_texts": {
         "A": "$${\\pi  \\over 3}n\\rho {l^3}$$",
         "B": "$${\\pi  \\over 4}n\\rho {l^3}$$",
         "C": "$$n\\rho {l^3}$$",
         "D": "$$\\pi n\\rho {l^3}$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "An insulating thin rod of length $$l$$ has a linear charge density $$\\rho \\left( x \\right)$$ = $${\\rho _0}{x \\over l}$$ on it. The rod is rotated about an axis passing through the origin (x = 0) and perpendicular to the rod. If the rod makes n rotations per second, then the time averaged magnetic moment of the rod is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 55,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 55,
-      "question_text": "The density of a material in SI units is 128 kg m–3\n. In certain units in which the unit of length is 25 cm and the unit of mass is 50 g, the numerical value of density of the material is -",
       "subject": "Physics",
       "topic": "units-and-measurements",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The density of a material in SI units is 128 kg m–3\n. In certain units in which the unit of length is 25 cm and the unit of mass is 50 g, the numerical value of density of the material is -",
+      "question_images": [],
+      "option_texts": {
         "A": "40",
         "B": "640",
         "C": "16",
         "D": "410"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The density of a material in SI units is 128 kg m^{–3}\n. In certain units in which the unit of length is 25 cm and the unit of mass is 50 g, the numerical value of density of the material is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 56,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 56,
-      "question_text": "A piece of wood of mass 0.03 kg is dropped from the top of a 100 m height building. At the same time, a bullet of mass 0.02 kg is fired vertically upward, with a velocity 100 ms–1, from the ground. The bullet gets embedded in the wood. Then the maximum height to which the combined system reaches above the top of the building before falling below is - (g = 10 ms–2)",
       "subject": "Physics",
       "topic": "center-of-mass",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A piece of wood of mass 0.03 kg is dropped from the top of a 100 m height building. At the same time, a bullet of mass 0.02 kg is fired vertically upward, with a velocity 100 ms–1, from the ground. The bullet gets embedded in the wood. Then the maximum height to which the combined system reaches above the top of the building before falling below is - (g = 10 ms–2)",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/wJN73tVz1OuXp0Qsc/xvXftc2D1xKSX1TlrERjwInHrAwMv/3JExQNqV27WbZ2F3Nq6O22/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/WlDnH4STJjBXdEiHp/totAxAGYGpwMqUIl8gz6oqvZDP3ED/7EyAMgtgVwFoyPUoBc0WIJ/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "30 m",
         "B": "40 m",
         "C": "20 m",
         "D": "10 m"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A piece of wood of mass 0.03 kg is dropped from the top of a 100 m height building. At the same time, a bullet of mass 0.02 kg is fired vertically upward, with a velocity 100 ms^{–1}, from the ground. The bullet gets embedded in the wood. Then the maximum height to which the combined system reaches above the top of the building before falling below is - (g = 10 ms^{–2})",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 57,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 57,
-      "question_text": "In a Young’s double slit experiment with slit separation 0.1 mm, one observes a bright fringe at angle  $${1 \\over {40}}$$ by  using light of wavelength $$\\lambda $$1.  When the light of wavelength $$\\lambda $$2 is used a bright fringe is seen at the same angle in the same set up. Given that $$\\lambda $$1 and $$\\lambda $$2 are in visible range (380 nm to 740 nm), their values are -",
       "subject": "Physics",
       "topic": "wave-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In a Young’s double slit experiment with slit separation 0.1 mm, one observes a bright fringe at angle  $${1 \\over {40}}$$ by  using light of wavelength $$\\lambda $$1.  When the light of wavelength $$\\lambda $$2 is used a bright fringe is seen at the same angle in the same set up. Given that $$\\lambda $$1 and $$\\lambda $$2 are in visible range (380 nm to 740 nm), their values are -",
+      "question_images": [],
+      "option_texts": {
         "A": "400 nm, 500 nm",
         "B": "625 nm, 500 nm",
         "C": "380 nm, 500 nm",
         "D": "380 nm, 525 nm"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "In a Young’s double slit experiment with slit separation 0.1 mm, one observes a bright fringe at angle  $${1 \\over {40}}$$ by  using light of wavelength $$\\lambda $$_{1}.  When the light of wavelength $$\\lambda $$_{2} is used a bright fringe is seen at the same angle in the same set up. Given that $$\\lambda $$_{1} and $$\\lambda $$_{2} are in visible range (380 nm to 740 nm), their values are -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 58,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 58,
-      "question_text": "Water flows into a large tank with flat bottom at the rate of 10–4m3s–1. Water is also leaking out of a hole ofarea 1 cm2 at its bottom. If the height of the water in the tank remains steady, then this height is -",
       "subject": "Physics",
       "topic": "properties-of-matter",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Water flows into a large tank with flat bottom at the rate of 10–4m3s–1. Water is also leaking out of a hole ofarea 1 cm2 at its bottom. If the height of the water in the tank remains steady, then this height is -",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/93ofbO5WVULIJHrCC/ibluUjSTadjy7ykPTRYPriQgDWa2Y/w87TLGQowSaNqYo1fpON7n/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "2.9 cm",
         "B": "5.1 cm",
         "C": "4 cm",
         "D": "1.7 cm"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Water flows into a large tank with flat bottom at the rate of 10^{–4}m^{3}s^{–1}. Water is also leaking out of a hole ofarea 1 cm^{2} at its bottom. If the height of the water in the tank remains steady, then this height is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 59,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 59,
-      "question_text": "A magnet of total magnetic moment 10-2 $${\\widehat i}$$ A-m2 is placed in a time varying magnetic field, B$${\\widehat i}$$ (cos $$\\omega t$$)  where B  = 1 Tesla and $$\\omega $$ = 0.125 rad/s. The work done for reversing the direction of the magnetic moment at t = 1 second, is -",
       "subject": "Physics",
       "topic": "magnetic-properties-of-matter",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A magnet of total magnetic moment 10-2 $${\\widehat i}$$ A-m2 is placed in a time varying magnetic field, B$${\\widehat i}$$ (cos $$\\omega t$$)  where B  = 1 Tesla and $$\\omega $$ = 0.125 rad/s. The work done for reversing the direction of the magnetic moment at t = 1 second, is -",
+      "question_images": [],
+      "option_texts": {
         "A": "0.014 J",
         "B": "0.028 J",
         "C": "0.01 J",
         "D": "0.007 J"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A magnet of total magnetic moment 10^{-2} $${\\widehat i}$$ A-m^{2} is placed in a time varying magnetic field, B$${\\widehat i}$$ (cos $$\\omega t$$)  where B  = 1 Tesla and $$\\omega $$ = 0.125 rad/s. The work done for reversing the direction of the magnetic moment at t = 1 second, is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 60,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 60,
-      "question_text": "To mop-clean a floor, a cleaning machine presses a circular mop of radius R vertically down with a total force F and rotates it with a constant angular speed about its axis. If the force F is distributed uniformly over the mop and if coefficient of friction between the mop and the floor is $$\\mu $$, the torque, applied by the machine on the mop is -",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "To mop-clean a floor, a cleaning machine presses a circular mop of radius R vertically down with a total force F and rotates it with a constant angular speed about its axis. If the force F is distributed uniformly over the mop and if coefficient of friction between the mop and the floor is $$\\mu $$, the torque, applied by the machine on the mop is -",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/vTVnYoMyFrZW3hFCQ/dM8WIk6gUovRJ3rivMGcfSLQAuVOl/CVQsJ10NohihCoYaFiDPz3/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$\\mu $$FR/2",
         "B": "$$\\mu $$FR/3",
         "C": "$$\\mu $$FR/6",
         "D": "$${2 \\over 3}$$$$\\mu $$FR"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "To mop-clean a floor, a cleaning machine presses a circular mop of radius R vertically down with a total force F and rotates it with a constant angular speed about its axis. If the force F is distributed uniformly over the mop and if coefficient of friction between the mop and the floor is $$\\mu $$, the torque, applied by the machine on the mop is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 61,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 61,
-      "question_text": "A parallel plate capacitor is of area 6 cm2\n and a separation 3 mm. The gap is filled with three dielectric\nmaterials of equal thickness (see figure) with dielectric constants K1 = 10, K2 = 12 and K3 = 14. The dielectric constant of a material which when fully inserted in above capacitor, gives same capacitance would be -",
       "subject": "Physics",
       "topic": "capacitor",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A parallel plate capacitor is of area 6 cm2\n and a separation 3 mm. The gap is filled with three dielectric\nmaterials of equal thickness (see figure) with dielectric constants K1 = 10, K2 = 12 and K3 = 14. The dielectric constant of a material which when fully inserted in above capacitor, gives same capacitance would be -",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/UE2YVP3sAFASWtvUr/SinJadD9jfybAoMHq89eJZWlzJ7hf/uojGYzfxO5tdmK1r5lAj70/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "12",
         "B": "36",
         "C": "14",
         "D": "4"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A parallel plate capacitor is of area 6 cm^{2}\n and a separation 3 mm. The gap is filled with three dielectric\nmaterials of equal thickness (see figure) with dielectric constants K_{1} = 10, K_{2} = 12 and K_{3} = 14. The dielectric constant of a material which when fully inserted in above capacitor, gives same capacitance would be -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 62,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 62,
-      "question_text": "In the cube of side ‘a’ shown in the figure, the vector from the central point of the face ABOD to the central point of the face BEFO will be -",
       "subject": "Physics",
       "topic": "vector-algebra",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In the cube of side ‘a’ shown in the figure, the vector from the central point of the face ABOD to the central point of the face BEFO will be -",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/7xyf27O3dslGKUHF1/BOYW6nD2vyRln04Toe2IZDDzClq1e/pVusq3EVSuskSokhjalv4G/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${1 \\over 2}a\\left( {\\widehat k - \\widehat i} \\right)$$",
         "B": "$${1 \\over 2}a\\left( {\\widehat j - \\widehat i} \\right)$$",
         "C": "$${1 \\over 2}a\\left( {\\widehat j - \\widehat k} \\right)$$",
         "D": "$${1 \\over 2}a\\left( {\\widehat i - \\widehat k} \\right)$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "In the cube of side ‘a’ shown in the figure, the vector from the central point of the face ABOD to the central point of the face BEFO will be -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 63,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 63,
-      "question_text": "A satellite is moving with a constant speed v in circular orbit around the earth. An object of mass ‘m’ is ejected from the satellite such that it just escapes from the gravitational pull of the earth. At the time of ejection, the kinetic energy of the object is -",
       "subject": "Physics",
       "topic": "gravitation",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A satellite is moving with a constant speed v in circular orbit around the earth. An object of mass ‘m’ is ejected from the satellite such that it just escapes from the gravitational pull of the earth. At the time of ejection, the kinetic energy of the object is -",
+      "question_images": [],
+      "option_texts": {
         "A": "mv^{2}",
         "B": "$${1 \\over 2}$$ mv^{2}",
         "C": "$${3 \\over 2}$$ mv^{2}",
         "D": "2 mv^{2}"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A satellite is moving with a constant speed v in circular orbit around the earth. An object of mass ‘m’ is ejected from the satellite such that it just escapes from the gravitational pull of the earth. At the time of ejection, the kinetic energy of the object is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 64,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 64,
-      "question_text": "A heat source at T = 103 K is connected to another heat reservoir at T = 102 K by a copper slab which is 1 mthick. Given that the thermal conductivity of copper is 0.1 WK–1m–1, the energy flux through it in the steady state is -",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A heat source at T = 103 K is connected to another heat reservoir at T = 102 K by a copper slab which is 1 mthick. Given that the thermal conductivity of copper is 0.1 WK–1m–1, the energy flux through it in the steady state is -",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/Iv0T0UjhuSW2Z8Gez/FqS9JsCWH6pzJmFmD4igispgwGY2T/U1iT4htkXEQlJYuqlrHO76/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "200 Wm^{$$-$$2}",
         "B": "65  Wm^{$$-$$2}",
         "C": "120 Wm^{$$-$$2}",
         "D": "90 Wm^{$$-$$2}"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "A heat source at T = 10^{3} K is connected to another heat reservoir at T = 10^{2} K by a copper slab which is 1 mthick. Given that the thermal conductivity of copper is 0.1 WK^{–1}m^{–1}, the energy flux through it in the steady state is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 65,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 65,
-      "question_text": "Two guns A and B can fire bullets at speeds 1 km/s and 2 km/s respectively. From a point on a horizontal ground, they are fired in all possible directions. The ratio of maximum areas covered by the bullets fired by the two guns, on the ground is -",
       "subject": "Physics",
       "topic": "motion-in-a-plane",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two guns A and B can fire bullets at speeds 1 km/s and 2 km/s respectively. From a point on a horizontal ground, they are fired in all possible directions. The ratio of maximum areas covered by the bullets fired by the two guns, on the ground is -",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/N5LAoHpNVtI3STVOY/T2fbabzdwpx7F0Rs0RJIIDJW2Bb7g/dYle9iTBQEPJmfxArGRYx0/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "1 : 16",
         "B": "1 : 8",
         "C": "1 : 2",
         "D": "1 : 4"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Two guns A and B can fire bullets at speeds 1 km/s and 2 km/s respectively. From a point on a horizontal ground, they are fired in all possible directions. The ratio of maximum areas covered by the bullets fired by the two guns, on the ground is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 66,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 66,
-      "question_text": "In the given circuit the cells have zero internal resistance. The currents (in Amperes) passing through resistance R1 and R2 respectively, are -",
       "subject": "Physics",
       "topic": "current-electricity",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In the given circuit the cells have zero internal resistance. The currents (in Amperes) passing through resistance R1 and R2 respectively, are -",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/FuShiJlqHtJJ0hvUS/DNOFxXjlCATLlfNzMMY3LUJ3QLuwZ/52tvvytE5W5uMoV8Y6i3IA/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "0.5, 0",
         "B": "0, 1",
         "C": "1, 2",
         "D": "2, 2"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "In the given circuit the cells have zero internal resistance. The currents (in Amperes) passing through resistance R_{1} and R_{2} respectively, are -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 67,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 67,
-      "question_text": "To get output 1 at R, for the given logic gate circuit the input values must be",
       "subject": "Physics",
       "topic": "electronic-devices",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "To get output 1 at R, for the given logic gate circuit the input values must be",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/ghLvGTnG8ndDDdkQj/xm1KVghtMXI6ttHYjMmtBoveI9ZYY/qQeMh76xwgePFZ37rxlaV7/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "x = 0,  y = 0",
         "B": "x = 1,  y = 0",
         "C": "x = 0,  y = 1",
         "D": "x = 1,  y = 1"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "To get output 1 at R, for the given logic gate circuit the input values must be",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 68,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 68,
-      "question_text": "Two electric dipoles, A, B with respective dipole moments $${\\overrightarrow d _A} =  - 4qai$$ and $${\\overrightarrow d _B} =  - 2qai$$ are placed on the x-axis with a separation R, as shown in the figure. The distance from A at which both of them produce the same potential is -",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two electric dipoles, A, B with respective dipole moments $${\\overrightarrow d _A} =  - 4qai$$ and $${\\overrightarrow d _B} =  - 2qai$$ are placed on the x-axis with a separation R, as shown in the figure. The distance from A at which both of them produce the same potential is -",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/iJRRlmixsmznlPjfK/yxVlwjSXt5Boz4rSt2m1U4lQQWlOd/mb3B3TjBXWcex45wjwUtrb/image.png",
+          "description": ""
+        },
+        {
+          "path": "images/imagex_cdn_examgoal_net/LRAbsY5HMmjHd5Nwo/uddiMg1a9nNz4OYNojPmMM9bLzurv/lygzKO5Zw3FsxHNY17u6Jh/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{\\sqrt 2 R} \\over {\\sqrt 2  + 1}}$$",
         "B": "$${R \\over {\\sqrt 2  + 1}}$$",
         "C": "$${{\\sqrt 2 R} \\over {\\sqrt 2  - 1}}$$",
         "D": "$${R \\over {\\sqrt 2  - 1}}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Two electric dipoles, A, B with respective dipole moments $${\\overrightarrow d _A} =  - 4qai$$ and $${\\overrightarrow d _B} =  - 2qai$$ are placed on the x-axis with a separation R, as shown in the figure. The distance from A at which both of them produce the same potential is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 69,
       "year": 2019,
       "exam_type": "JEE Main",
       "shift": 1,
-      "question_number": 69,
-      "question_text": "A block of mass m is kept on a platform which starts from rest with constant acceleration g/2 upward, as shown in figure. Work done by normal reaction on block in time is -",
       "subject": "Physics",
       "topic": "work-power-and-energy",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A block of mass m is kept on a platform which starts from rest with constant acceleration g/2 upward, as shown in figure. Work done by normal reaction on block in time is -",
+      "question_images": [
+        {
+          "path": "images/imagex_cdn_examgoal_net/5A8ONG3zvxKHmVwKE/XKMxX83h9il8z0IE84oIgaR8gnXfP/IYAZAZ44WcBkC7lINumHP8/image.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{m{g^2}{t^2}} \\over 8}$$",
         "B": "$${{3m{g^2}{t^2}} \\over 8}$$",
         "C": "$$-$$ $${{m{g^2}{t^2}} \\over 8}$$",
         "D": "0"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A block of mass m is kept on a platform which starts from rest with constant acceleration g/2 upward, as shown in figure. Work done by normal reaction on block in time is -",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     }
   ]
 }

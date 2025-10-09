@@ -8,1369 +8,1572 @@
   },
   "questions": [
     {
-      "year": 2012,
-      "exam_type": "IIT JEE",
-      "shift": 1,
       "question_number": 1,
+      "year": 2012,
+      "exam_type": "IIT JEE",
+      "shift": 1,
+      "subject": "Chemistry",
+      "topic": "chemical-kinetics-and-nuclear-chemistry",
+      "sub_topic": "physical-chemistry",
       "question_text": "An organic compound undergoes first-order decomposition. The time taken for its decomposition to 1/8 and 1/10 of its initial concentration are t1/8 and t1/10 respectively. What is the value of $$\\left[ {{{{t_{1/8}}} \\over {{t_{1/10}}}}} \\right] \\times 10$$? ($${\\log _{10}}2 = 0.3$$)",
-      "subject": "Chemistry",
-      "topic": "chemical-kinetics-and-nuclear-chemistry",
-      "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "An organic compound undergoes first-order decomposition. The time taken for its decomposition to 1/8 and 1/10 of its initial concentration are t_{1/8} and t_{1/10} respectively. What is the value of $$\\left[ {{{{t_{1/8}}} \\over {{t_{1/10}}}}} \\right] \\times 10$$? ($${\\log _{10}}2 = 0.3$$)",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2012,
-      "exam_type": "IIT JEE",
-      "shift": 1,
       "question_number": 2,
-      "question_text": "The periodic table consists of 18 groups. An isotope of copper, on bombardment with protons undergoes a nuclear reaction yielding element X as shown below. To which group, element X belongs in the periodic table?\n\n\n$${}_{29}^{63}Cu$$ + $${}_1^1H$$ $$\\to$$ $$6{}_0^1n$$ + $${}_2^4\\alpha $$ + 2$${}_1^1H$$ + X",
-      "subject": "Chemistry",
-      "topic": "chemical-kinetics-and-nuclear-chemistry",
-      "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
-      "correct_answer": "",
-      "question": "The periodic table consists of 18 groups. An isotope of copper, on bombardment with protons undergoes a nuclear reaction yielding element X as shown below. To which group, element X belongs in the periodic table?\n$${}_{29}^{63}Cu$$ + $${}_1^1H$$ $$\\to$$ $$6{}_0^1n$$ + $${}_2^4\\alpha $$ + 2$${}_1^1H$$ + X",
-      "isOutOfSyllabus": false,
-      "marks": 3,
-      "negMarks": 1
-    },
-    {
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
+      "subject": "Chemistry",
+      "topic": "chemical-kinetics-and-nuclear-chemistry",
+      "sub_topic": "physical-chemistry",
+      "question_text": "The periodic table consists of 18 groups. An isotope of copper, on bombardment with protons undergoes a nuclear reaction yielding element X as shown below. To which group, element X belongs in the periodic table?\n\n\n$${}_{29}^{63}Cu$$ + $${}_1^1H$$ $$\\to$$ $$6{}_0^1n$$ + $${}_2^4\\alpha $$ + 2$${}_1^1H$$ + X",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
+      "correct_answer": "",
+      "marks": 3,
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
+    },
+    {
       "question_number": 3,
-      "question_text": "29.2 % (w/w) HCl stock solution has density of 1.25 g mL-1 . The molecular weight of HCl is 36.5 g mol-1 .\nThe volume (mL) of stock solution required to prepare a 200 mL solution of 0.4 M HCl is",
+      "year": 2012,
+      "exam_type": "IIT JEE",
+      "shift": 1,
       "subject": "Chemistry",
       "topic": "some-basic-concepts-of-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "29.2 % (w/w) HCl stock solution has density of 1.25 g mL-1 . The molecular weight of HCl is 36.5 g mol-1 .\nThe volume (mL) of stock solution required to prepare a 200 mL solution of 0.4 M HCl is",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "29.2 % (w/w) HCl stock solution has density of 1.25 g mL^{-1} . The molecular weight of HCl is 36.5 g mol^{-1} .\nThe volume (mL) of stock solution required to prepare a 200 mL solution of 0.4 M HCl is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 4,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 4,
-      "question_text": "Choose the correct reason for the stability of the Iyophobic colloidal particles",
       "subject": "Chemistry",
       "topic": "surface-chemistry",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Choose the correct reason for the stability of the Iyophobic colloidal particles",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1m03hmk20/d2cd8163-ae6b-4952-a526-a5c95e240e3d/b0091170-5f88-11ef-9de4-f1119f73123a/file-jaoe38c1m03hmk21.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "Preferential adsorption of ions on their surface from the solution",
         "B": "Preferential adsorption of solvent on their surface from the solution",
         "C": "Attraction between different particles having opposite charges on their surface",
         "D": "Potential difference between the fixed layer and the diffused layer of opposite charges around the colloidal particles."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Choose the correct reason for the stability of the Iyophobic colloidal particles",
-      "isOutOfSyllabus": false,
       "marks": 2,
-      "negMarks": 0.5
+      "negMarks": 0.5,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 5,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 5,
-      "question_text": "In allene (C3H4), the type(s) of hybridisation of the carbon atoms is (are):",
       "subject": "Chemistry",
       "topic": "hydrocarbons",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In allene (C3H4), the type(s) of hybridisation of the carbon atoms is (are):",
+      "question_images": [],
+      "option_texts": {
         "A": "sp and sp^{3}",
         "B": "sp and sp^{2}",
         "C": "only sp^{3}",
         "D": "sp^{2} and sp^{3}"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "In allene (C_{3}H_{4}), the type(s) of hybridisation of the carbon atoms is (are):",
-      "isOutOfSyllabus": false,
       "marks": 1,
-      "negMarks": 0.25
+      "negMarks": 0.25,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 6,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 6,
-      "question_text": "The kinetic energy of an electron in the second Bohr orbit of a hydrogen atom is [$$\\alpha_0$$  is Bohr radius]",
       "subject": "Chemistry",
       "topic": "structure-of-atom",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The kinetic energy of an electron in the second Bohr orbit of a hydrogen atom is [$$\\alpha_0$$  is Bohr radius]",
+      "question_images": [],
+      "option_texts": {
         "A": "$${h^2 \\over {4{\\pi ^2}m\\alpha _0^2}}$$",
         "B": "$${h^2 \\over {16{\\pi ^2}m\\alpha _0^2}}$$",
         "C": "$${h^2 \\over {32{\\pi ^2}m\\alpha _0^2}}$$",
         "D": "$${h^2 \\over {64{\\pi ^2}m\\alpha _0^2}}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The kinetic energy of an electron in the second Bohr orbit of a hydrogen atom is [$$\\alpha_0$$  is Bohr radius]",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 7,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 7,
-      "question_text": "A compound MpXq has cubic close packing (ccp) arrangement of X. Its unit cell structure is shown below. The empirical formula of the compound is",
       "subject": "Chemistry",
       "topic": "solid-state",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A compound MpXq has cubic close packing (ccp) arrangement of X. Its unit cell structure is shown below. The empirical formula of the compound is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24ldf3w/e1ac3232-35a2-483a-bdf2-10e1a361a6b0/c4370fc0-bf04-11ec-8fbf-67f2639a0a45/file-1l24ldf3x.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "MX",
         "B": "MX_{2}",
         "C": "M_{2}X",
         "D": "M_{5}X_{14}"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A compound M_{p}X_{q} has cubic close packing (ccp) arrangement of X. Its unit cell structure is shown below. The empirical formula of the compound is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 8,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 8,
-      "question_text": "The carboxyl functional group ($$-$$COOH) is present in",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The carboxyl functional group ($$-$$COOH) is present in",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l254brvd/0baba6db-d7cd-4a38-aba4-42caf720f184/e3e8ec90-bf4e-11ec-b997-87cc5d16a405/file-1l254brve.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l254ciic/89aaa81e-6e2a-414e-9ab5-d289e172a3f0/f87cb740-bf4e-11ec-b997-87cc5d16a405/file-1l254ciid.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l254dagz/8b0ea1f3-6c93-44c0-bc66-2233ef64a208/0e165930-bf4f-11ec-b997-87cc5d16a405/file-1l254dah0.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l254egsy/944f4cac-1b9a-4c25-b985-8c09a09c7f10/2ec9c720-bf4f-11ec-b997-87cc5d16a405/file-1l254egsz.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "picric acid",
         "B": "barbituric acid",
         "C": "ascorbic acid",
         "D": "aspirin"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "The carboxyl functional group ($$-$$COOH) is present in",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 9,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 9,
-      "question_text": "As per IUPAC nomenclature, the name of the complex $$[Co{({H_2}O)_4}{(N{H_3})_2}]C{l_3}$$ is",
       "subject": "Chemistry",
       "topic": "coordination-compounds",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "As per IUPAC nomenclature, the name of the complex $$[Co{({H_2}O)_4}{(N{H_3})_2}]C{l_3}$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "Tetraaquadiaminecobalt (III) chloride.",
         "B": "Tetraaquadiamminecobalt (III) chloride.",
         "C": "Diaminetetraaquacobalt (III) chloride.",
         "D": "Diamminetetraaquacobalt (III) chloride."
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "As per IUPAC nomenclature, the name of the complex $$[Co{({H_2}O)_4}{(N{H_3})_2}]C{l_3}$$ is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 10,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 10,
-      "question_text": "Which ordering of compounds is according to the decreasing order of the oxidation state of nitrogen?",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which ordering of compounds is according to the decreasing order of the oxidation state of nitrogen?",
+      "question_images": [],
+      "option_texts": {
         "A": "HNO_{3}, NO, NH_{4}Cl, N_{2}",
         "B": "HNO_{3}, NO, N_{2}, NH_{4}Cl",
         "C": "HNO_{3}, NH_{4}Cl, NO, N_{2}",
         "D": "NO, HNO_{3}, NH_{4}Cl, N_{2}"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Which ordering of compounds is according to the decreasing order of the oxidation state of nitrogen?",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 11,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 11,
-      "question_text": "For one mole of a van der Waals gas when b = 0 and T = 300 K, the PV vs. 1/V plot is shown below. The value of the van der Waals constant a (atm L2 mol$$-$$2) is",
       "subject": "Chemistry",
       "topic": "gaseous-state",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "For one mole of a van der Waals gas when b = 0 and T = 300 K, the PV vs. 1/V plot is shown below. The value of the van der Waals constant a (atm L2 mol$$-$$2) is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24lf9pp/1b49bd1c-0106-4eef-940f-99088eea51e3/f7aac0e0-bf04-11ec-8fbf-67f2639a0a45/file-1l24lf9pq.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "1.0",
         "B": "4.5",
         "C": "1.5",
         "D": "3.0"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "For one mole of a van der Waals gas when b = 0 and T = 300 K, the PV vs. 1/V plot is shown below. The value of the van der Waals constant a (atm L^{2} mol^{$$-$$2}) is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 12,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 12,
-      "question_text": "The number of aldol reactions that occur in the given transformation are",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The number of aldol reactions that occur in the given transformation are",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24lgwel/a315a484-df84-4dbe-b60d-a0ed8a20574f/25010bd0-bf05-11ec-8fbf-67f2639a0a45/file-1l24lgwem.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l254i6fr/0a5ea87c-b7b7-4713-8a9f-1026d59db46c/96047980-bf4f-11ec-b997-87cc5d16a405/file-1l254i6fs.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "1",
         "B": "2",
         "C": "3",
         "D": "4"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The number of aldol reactions that occur in the given transformation are",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 13,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 13,
-      "question_text": "The colour of light absorbed by an aqueous solution of CuSO4 is",
       "subject": "Chemistry",
       "topic": "d-and-f-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The colour of light absorbed by an aqueous solution of CuSO4 is",
+      "question_images": [],
+      "option_texts": {
         "A": "orange-red",
         "B": "blue-green",
         "C": "yellow",
         "D": "violet"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The colour of light absorbed by an aqueous solution of CuSO_{4} is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 14,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 14,
-      "question_text": "The number of optically active products obtained from the complete ozonolysis of the given compound is ______.",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The number of optically active products obtained from the complete ozonolysis of the given compound is ______.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24lilkk/c54b5d30-2ddf-45db-a9d4-308a964a75f3/5440d740-bf05-11ec-8fbf-67f2639a0a45/file-1l24lilkl.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l254x6yw/12838b4b-b74a-4ea2-8d77-5c39f507855f/37906970-bf51-11ec-91ca-9bf2f0d8c672/file-1l254x6yx.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "0",
         "B": "1",
         "C": "2",
         "D": "4"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The number of optically active products obtained from the complete ozonolysis of the given compound is ______.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 15,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 15,
-      "question_text": "Which of the following hydrogen halides reacts with AgNO3(aq.) to give a precipitate that dissolves in Na2S2O3 (aq.) ?",
       "subject": "Chemistry",
       "topic": "p-block-elements",
       "sub_topic": "inorganic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the following hydrogen halides reacts with AgNO3(aq.) to give a precipitate that dissolves in Na2S2O3 (aq.) ?",
+      "question_images": [],
+      "option_texts": {
         "A": "HCl",
         "B": "HF",
         "C": "HBr",
         "D": "HI"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Which of the following hydrogen halides reacts with AgNO_{3}(aq.) to give a precipitate that dissolves in Na_{2}S_{2}O_{3} (aq.) ?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 16,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 16,
-      "question_text": "Identify the binary mixtures that can be separated into individual compounds, by differential extraction, as shown in the given scheme.",
       "subject": "Chemistry",
       "topic": "aldehydes-ketones-and-carboxylic-acids",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Identify the binary mixtures that can be separated into individual compounds, by differential extraction, as shown in the given scheme.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24ljxen/43e98227-0517-4266-9ad9-d9b54c54a4c7/793486f0-bf05-11ec-8fbf-67f2639a0a45/file-1l24ljxeo.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "C_{6}H_{5}OH and C_{6}H_{5}COOH",
         "B": "C_{6}H_{5}COOH and C_{6}H_{5}CH_{2}OH",
         "C": "C_{6}H_{5}CH_{2}OH and C_{6}H_{5}OH",
         "D": "C_{6}H_{5}CH_{2}OH and C_{6}H_{5}CH_{2}COOH"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Identify the binary mixtures that can be separated into individual compounds, by differential extraction, as shown in the given scheme.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 17,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 17,
-      "question_text": "For an ideal gas, consider only P-V work in going from an initial state X to the final state Z. The final state Z can be reached by either of the two paths shown in the figure. Which of the following choice(s) is(are) correct? (Take $$\\Delta$$S as change in entropy and W as work done)",
       "subject": "Chemistry",
       "topic": "thermodynamics",
       "sub_topic": "physical-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "For an ideal gas, consider only P-V work in going from an initial state X to the final state Z. The final state Z can be reached by either of the two paths shown in the figure. Which of the following choice(s) is(are) correct? (Take $$\\Delta$$S as change in entropy and W as work done)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24llwrt/3febc437-e43b-4c6e-9090-c8d2493f4a1a/b05588a0-bf05-11ec-8fbf-67f2639a0a45/file-1l24llwru.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$\\Delta {S_{X \\to Z}} = \\Delta {S_{X \\to Y}} + \\Delta {S_{Y \\to Z}}$$",
         "B": "$$\\Delta {W_{X \\to Z}} = \\Delta {W_{X \\to Y}} + \\Delta {W_{Y \\to Z}}$$",
         "C": "$${W_{X \\to Y \\to Z}} = {W_{X \\to Y}}$$",
         "D": "$$\\Delta {S_{X \\to Y \\to Z}} = \\Delta {S_{X \\to Y}}$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "For an ideal gas, consider only P-V work in going from an initial state X to the final state Z. The final state Z can be reached by either of the two paths shown in the figure. Which of the following choice(s) is(are) correct? (Take $$\\Delta$$S as change in entropy and W as work done)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 18,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 18,
-      "question_text": "Which of the following molecules, in pure form, is(are) unstable at room temperature?",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Which of the following molecules, in pure form, is(are) unstable at room temperature?",
+      "question_images": [],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24lp3ok/f0380930-a861-49d6-8286-5085234efe09/09193a40-bf06-11ec-8fbf-67f2639a0a45/file-1l24lp3ol.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24lok26/d6d5cc75-47fa-4bf7-8acf-87176e66a485/f9f0eae0-bf05-11ec-8fbf-67f2639a0a45/file-1l24lok27.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24lo58o/953b3968-406d-4e9e-a7dc-01ec9b114bd4/ee7e5080-bf05-11ec-8fbf-67f2639a0a45/file-1l24lo58p.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24lnr80/6cacaf5c-9689-44b6-aeb2-872c4c05e303/e3aa1900-bf05-11ec-8fbf-67f2639a0a45/file-1l24lnr81.png",
+          "description": ""
+        }
+      },
       "correct_answer": "B",
-      "question": "Which of the following molecules, in pure form, is(are) unstable at room temperature?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 19,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 19,
-      "question_text": "The substituents R1 and R2 for nine peptides are listed in the table given below. How many of these peptides are positively charged at pH = 7.0 ?\n\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n\n\n\n\n\n\n\n\n  \n    Peptide\n    $${R_1}$$\n    $${R_2}$$\n  \n\n\n  \n    I\n    H\n    H\n  \n  \n    II\n    H\n    $$C{H_3}$$\n\n  \n  \n    III\n    $$C{H_2}COOH$$\n    H\n  \n  \n    IV\n    $$C{H_2}CON{H_2}$$\n    $${(C{H_2})_4}N{H_2}$$\n  \n  \n    V\n    $$C{H_2}CON{H_2}$$\n    $$C{H_2}CON{H_2}$$\n  \n  \n    VI\n    $${(C{H_2})_4}N{H_2}$$\n    $${(C{H_2})_4}N{H_2}$$\n  \n  \n    VII\n    $$C{H_2}COOH$$\n    $$C{H_2}CON{H_2}$$\n  \n  \n    VIII\n    $$C{H_2}OH$$\n    $${(C{H_2})_4}N{H_2}$$\n  \n  \n    IX\n    $${(C{H_2})_4}N{H_2}$$\n    $$C{H_3}$$",
       "subject": "Chemistry",
       "topic": "biomolecules",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The substituents R1 and R2 for nine peptides are listed in the table given below. How many of these peptides are positively charged at pH = 7.0 ?\n\n\n\n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n\n\n\n\n\n\n\n\n  \n    Peptide\n    $${R_1}$$\n    $${R_2}$$\n  \n\n\n  \n    I\n    H\n    H\n  \n  \n    II\n    H\n    $$C{H_3}$$\n\n  \n  \n    III\n    $$C{H_2}COOH$$\n    H\n  \n  \n    IV\n    $$C{H_2}CON{H_2}$$\n    $${(C{H_2})_4}N{H_2}$$\n  \n  \n    V\n    $$C{H_2}CON{H_2}$$\n    $$C{H_2}CON{H_2}$$\n  \n  \n    VI\n    $${(C{H_2})_4}N{H_2}$$\n    $${(C{H_2})_4}N{H_2}$$\n  \n  \n    VII\n    $$C{H_2}COOH$$\n    $$C{H_2}CON{H_2}$$\n  \n  \n    VIII\n    $$C{H_2}OH$$\n    $${(C{H_2})_4}N{H_2}$$\n  \n  \n    IX\n    $${(C{H_2})_4}N{H_2}$$\n    $$C{H_3}$$",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24lqe58/73bb3039-1e97-48a4-bb66-d37ccee42c5a/2cfd75c0-bf06-11ec-8fbf-67f2639a0a45/file-1l24lqe59.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The substituents R_{1} and R_{2} for nine peptides are listed in the table given below. How many of these peptides are positively charged at pH = 7.0 ? \n \n\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n\n\n\n\n\n\n\n\n  \n    Peptide\n    $${R_1}$$\n    $${R_2}$$\n  \n\n\n  \n    I\n    H\n    H\n  \n  \n    II\n    H\n    $$C{H_3}$$\n  \n  \n    III\n    $$C{H_2}COOH$$\n    H\n  \n  \n    IV\n    $$C{H_2}CON{H_2}$$\n    $${(C{H_2})_4}N{H_2}$$\n  \n  \n    V\n    $$C{H_2}CON{H_2}$$\n    $$C{H_2}CON{H_2}$$\n  \n  \n    VI\n    $${(C{H_2})_4}N{H_2}$$\n    $${(C{H_2})_4}N{H_2}$$\n  \n  \n    VII\n    $$C{H_2}COOH$$\n    $$C{H_2}CON{H_2}$$\n  \n  \n    VIII\n    $$C{H_2}OH$$\n    $${(C{H_2})_4}N{H_2}$$\n  \n  \n    IX\n    $${(C{H_2})_4}N{H_2}$$\n    $$C{H_3}$$",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 20,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 20,
-      "question_text": "When the following aldohexose exists in its D-configuration, the total number of stereoisomers in its pyranose form is ____________.",
       "subject": "Chemistry",
       "topic": "basics-of-organic-chemistry",
       "sub_topic": "organic-chemistry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "When the following aldohexose exists in its D-configuration, the total number of stereoisomers in its pyranose form is ____________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24ls1sr/019c7b70-29a5-47d6-824b-cea5db1d85a5/5b122eb0-bf06-11ec-8fbf-67f2639a0a45/file-1l24ls1ss.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2639n2v/c2f4dade-52ee-4183-be08-e98560e14dc3/881c1b60-bfd7-11ec-afa1-39217b76a6f3/file-1l2639n2w.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "When the following aldohexose exists in its D-configuration, the total number of stereoisomers in its pyranose form is ____________.",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 21,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 21,
-      "question_text": "Let $$\\theta ,\\,\\varphi \\, \\in \\,\\left[ {0,2\\pi } \\right]$$ be such that \n\n$$2\\cos \\theta \\left( {1 - \\sin \\,\\varphi } \\right) = {\\sin ^2}\\theta \\,\\,\\left( {\\tan {\\theta  \\over 2} + \\cot {\\theta  \\over 2}} \\right)\\cos \\varphi  - 1,\\,\\tan \\left( {2\\pi  - \\theta } \\right) > 0$$ and $$ - 1 < \\sin \\theta \\, <  - {{\\sqrt 3 } \\over 2},$$ \nthen $$\\varphi $$  cannot satisfy",
       "subject": "Mathematics",
       "topic": "trigonometric-functions-and-equations",
       "sub_topic": "trigonometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$\\theta ,\\,\\varphi \\, \\in \\,\\left[ {0,2\\pi } \\right]$$ be such that \n\n$$2\\cos \\theta \\left( {1 - \\sin \\,\\varphi } \\right) = {\\sin ^2}\\theta \\,\\,\\left( {\\tan {\\theta  \\over 2} + \\cot {\\theta  \\over 2}} \\right)\\cos \\varphi  - 1,\\,\\tan \\left( {2\\pi  - \\theta } \\right) > 0$$ and $$ - 1 < \\sin \\theta \\, <  - {{\\sqrt 3 } \\over 2},$$ \nthen $$\\varphi $$  cannot satisfy",
+      "question_images": [],
+      "option_texts": {
         "A": "$$0 < \\varphi  < {\\pi  \\over 2}$$",
         "B": "$${\\pi  \\over 2} < \\varphi  < {{4\\pi } \\over 3}$$",
         "C": "$${{4\\pi } \\over 3} < \\varphi  < {{3\\pi } \\over 2}$$",
         "D": "$${{3\\pi } \\over 2} < \\varphi  < 2\\pi $$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Let $$\\theta ,\\,\\varphi \\, \\in \\,\\left[ {0,2\\pi } \\right]$$ be such that \n$$2\\cos \\theta \\left( {1 - \\sin \\,\\varphi } \\right) = {\\sin ^2}\\theta \\,\\,\\left( {\\tan {\\theta  \\over 2} + \\cot {\\theta  \\over 2}} \\right)\\cos \\varphi  - 1,\\,\\tan \\left( {2\\pi  - \\theta } \\right) > 0$$ and $$ - 1 < \\sin \\theta \\, <  - {{\\sqrt 3 } \\over 2},$$ \nthen $$\\varphi $$  cannot satisfy",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 22,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 22,
-      "question_text": "Let z be a complex number such that the imaginary part of z is non-zero and $$a\\, = \\,{z^2} + \\,z\\, + 1$$ is real. Then a cannot take the value",
       "subject": "Mathematics",
       "topic": "complex-numbers",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let z be a complex number such that the imaginary part of z is non-zero and $$a\\, = \\,{z^2} + \\,z\\, + 1$$ is real. Then a cannot take the value",
+      "question_images": [],
+      "option_texts": {
         "A": "- 1",
         "B": "$${1 \\over 3}$$",
         "C": "$${1 \\over 2}$$",
         "D": "$${3 \\over 4}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Let z be a complex number such that the imaginary part of z is non-zero and $$a\\, = \\,{z^2} + \\,z\\, + 1$$ is real. Then a cannot take the value",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 23,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 23,
-      "question_text": "If $$\\overrightarrow a ,\\overrightarrow b $$ and $$\\overrightarrow c $$ are unit vectors satisfying \n\n$${\\left| {\\overrightarrow a  - \\overrightarrow b } \\right|^2} + {\\left| {\\overrightarrow b  - \\overrightarrow c } \\right|^2} + {\\left| {\\overrightarrow c  - \\overrightarrow a } \\right|^2} = 9,$$ then $$\\left| {2\\overrightarrow a  + 5\\overrightarrow b  + 5\\overrightarrow c } \\right|$$ is",
       "subject": "Mathematics",
       "topic": "vector-algebra",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "If $$\\overrightarrow a ,\\overrightarrow b $$ and $$\\overrightarrow c $$ are unit vectors satisfying \n\n$${\\left| {\\overrightarrow a  - \\overrightarrow b } \\right|^2} + {\\left| {\\overrightarrow b  - \\overrightarrow c } \\right|^2} + {\\left| {\\overrightarrow c  - \\overrightarrow a } \\right|^2} = 9,$$ then $$\\left| {2\\overrightarrow a  + 5\\overrightarrow b  + 5\\overrightarrow c } \\right|$$ is",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "If $$\\overrightarrow a ,\\overrightarrow b $$ and $$\\overrightarrow c $$ are unit vectors satisfying \n$${\\left| {\\overrightarrow a  - \\overrightarrow b } \\right|^2} + {\\left| {\\overrightarrow b  - \\overrightarrow c } \\right|^2} + {\\left| {\\overrightarrow c  - \\overrightarrow a } \\right|^2} = 9,$$ then $$\\left| {2\\overrightarrow a  + 5\\overrightarrow b  + 5\\overrightarrow c } \\right|$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 24,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 24,
-      "question_text": "A ship is fitted with three engines $${E_1},{E_2}$$ and $${E_3}$$. The engines function independently of each other with respective probabilities $${1 \\over 2},{1 \\over 4}$$ and $${1 \\over 4}$$. For the ship to be operational at least two of its engines must function. Let $$X$$ denote the event that the ship is operational and Let $${X_1},{X_2}$$ and $${X_3}$$ denote respectively the events that the engines $${E_1},{E_2}$$ and $${E_3}$$ are functioning. Which of the following is (are) true?",
       "subject": "Mathematics",
       "topic": "probability",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A ship is fitted with three engines $${E_1},{E_2}$$ and $${E_3}$$. The engines function independently of each other with respective probabilities $${1 \\over 2},{1 \\over 4}$$ and $${1 \\over 4}$$. For the ship to be operational at least two of its engines must function. Let $$X$$ denote the event that the ship is operational and Let $${X_1},{X_2}$$ and $${X_3}$$ denote respectively the events that the engines $${E_1},{E_2}$$ and $${E_3}$$ are functioning. Which of the following is (are) true?",
+      "question_images": [],
+      "option_texts": {
         "A": "$$P\\left[ {X_1^c|X} \\right] = {3 \\over {16}}$$",
         "B": "$$P$$ [exactly two engines of the ship are functioning $$\\left. {|X} \\right] = {7 \\over 8}$$",
         "C": "$$P\\left[ {X|{X_2}} \\right] = {5 \\over {16}}$$",
         "D": "$$P\\left[ {X|{X_1}} \\right] = {7 \\over {16}}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "A ship is fitted with three engines $${E_1},{E_2}$$ and $${E_3}$$. The engines function independently of each other with respective probabilities $${1 \\over 2},{1 \\over 4}$$ and $${1 \\over 4}$$. For the ship to be operational at least two of its engines must function. Let $$X$$ denote the event that the ship is operational and Let $${X_1},{X_2}$$ and $${X_3}$$ denote respectively the events that the engines $${E_1},{E_2}$$ and $${E_3}$$ are functioning. Which of the following is (are) true?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "hard",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 25,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 25,
-      "question_text": "The total number of ways in which 5 balls of different colours can be distributed among 3 persons so that each person gets at least one ball is",
       "subject": "Mathematics",
       "topic": "permutations-and-combinations",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The total number of ways in which 5 balls of different colours can be distributed among 3 persons so that each person gets at least one ball is",
+      "question_images": [],
+      "option_texts": {
         "A": "75",
         "B": "150",
         "C": "210",
         "D": "243"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The total number of ways in which 5 balls of different colours can be distributed among 3 persons so that each person gets at least one ball is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 26,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 26,
-      "question_text": "The locus of the mid-point of the chord of contact of tangents drawn from points lying on the straight line 4x - 5y = 20 to the circle $${x^2}\\, + \\,{y^2} = 9$$ is",
       "subject": "Mathematics",
       "topic": "circle",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The locus of the mid-point of the chord of contact of tangents drawn from points lying on the straight line 4x - 5y = 20 to the circle $${x^2}\\, + \\,{y^2} = 9$$ is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzuxyz2y/b539c3a7-8be6-479b-8218-935e964dd52c/8d9327a0-5ad5-11ef-af0c-3789cead122a/file-jaoe38c1lzuxyz2z.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$20\\,({x^2}\\, + \\,{y^2}) - \\,\\,36x\\,\\, + \\,\\,45y = 0$$",
         "B": "$$20\\,({x^2}\\, + \\,{y^2}) + \\,\\,36x\\,\\, - \\,\\,45y = 0$$",
         "C": "$$36\\,({x^2}\\, + \\,{y^2}) - \\,\\,20x\\,\\, + \\,\\,45y = 0$$",
         "D": "$$36\\,({x^2}\\, + \\,{y^2}) + \\,\\,20x\\,\\, - \\,\\,45y = 0$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The locus of the mid-point of the chord of contact of tangents drawn from points lying on the straight line 4x - 5y = 20 to the circle $${x^2}\\, + \\,{y^2} = 9$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 27,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 27,
-      "question_text": "The ellipse $${E_1}:{{{x^2}} \\over 9} + {{{y^2}} \\over 4} = 1$$ is inscribed in a rectangle $$R$$ whose sides are parallel to the coordinate axes. Another ellipse $${E_2}$$ passing through the point $$(0, 4)$$ circumscribes the rectangle $$R$$. The eccentricity of the ellipse $${E_2}$$ is",
       "subject": "Mathematics",
       "topic": "ellipse",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The ellipse $${E_1}:{{{x^2}} \\over 9} + {{{y^2}} \\over 4} = 1$$ is inscribed in a rectangle $$R$$ whose sides are parallel to the coordinate axes. Another ellipse $${E_2}$$ passing through the point $$(0, 4)$$ circumscribes the rectangle $$R$$. The eccentricity of the ellipse $${E_2}$$ is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzuwjsyy/98bdc2b5-d848-42bc-9d12-07c1aa892073/fe967ca0-5acf-11ef-8c7b-af8cf9e332e1/file-jaoe38c1lzuwjsyz.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{\\sqrt 2 } \\over 2}$$",
         "B": "$${{\\sqrt 3 } \\over 2}$$",
         "C": "$${{1 \\over 2}}$$",
         "D": "$${{3 \\over 4}}$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The ellipse $${E_1}:{{{x^2}} \\over 9} + {{{y^2}} \\over 4} = 1$$ is inscribed in a rectangle $$R$$ whose sides are parallel to the coordinate axes. Another ellipse $${E_2}$$ passing through the point $$(0, 4)$$ circumscribes the rectangle $$R$$. The eccentricity of the ellipse $${E_2}$$ is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 0.75
+      "negMarks": 0.75,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 28,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 28,
-      "question_text": "Tangents are drawn to the hyperbola $${{{x^2}} \\over 9} - {{{y^2}} \\over 4} = 1,$$ parallel to the straight line $$2x - y = 1,$$ The points of contact of the tangents on the hyperbola are",
       "subject": "Mathematics",
       "topic": "hyperbola",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Tangents are drawn to the hyperbola $${{{x^2}} \\over 9} - {{{y^2}} \\over 4} = 1,$$ parallel to the straight line $$2x - y = 1,$$ The points of contact of the tangents on the hyperbola are",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\left( {{9 \\over {2\\sqrt 2 }},{1 \\over {\\sqrt 2 }}} \\right)$$",
         "B": "$$\\left( -{{9 \\over {2\\sqrt 2 }},-{1 \\over {\\sqrt 2 }}} \\right)$$",
         "C": "$$\\left( {3\\sqrt 3 , - 2\\sqrt 2 } \\right)$$",
         "D": "$$\\left( -{3\\sqrt 3 ,  2\\sqrt 2 } \\right)$$"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Tangents are drawn to the hyperbola $${{{x^2}} \\over 9} - {{{y^2}} \\over 4} = 1,$$ parallel to the straight line $$2x - y = 1,$$ The points of contact of the tangents on the hyperbola are",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 29,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 29,
-      "question_text": "Let $$S$$ be the focus of the parabola $${y^2} = 8x$$ and let $$PQ$$ be the common chord of the circle $${x^2} + {y^2} - 2x - 4y = 0$$ and the given parabola. The area of the triangle $$PQS$$ is",
       "subject": "Mathematics",
       "topic": "parabola",
       "sub_topic": "coordinate-geometry",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "Let $$S$$ be the focus of the parabola $${y^2} = 8x$$ and let $$PQ$$ be the common chord of the circle $${x^2} + {y^2} - 2x - 4y = 0$$ and the given parabola. The area of the triangle $$PQS$$ is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzv05iuo/a590ec44-0b35-4151-8ceb-3dba899e356d/15f5bb00-5ade-11ef-ab92-f1f0f215dea0/file-jaoe38c1lzv05iup.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $$S$$ be the focus of the parabola $${y^2} = 8x$$ and let $$PQ$$ be the common chord of the circle $${x^2} + {y^2} - 2x - 4y = 0$$ and the given parabola. The area of the triangle $$PQS$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2012,
-      "exam_type": "IIT JEE",
-      "shift": 1,
       "question_number": 30,
+      "year": 2012,
+      "exam_type": "IIT JEE",
+      "shift": 1,
+      "subject": "Mathematics",
+      "topic": "application-of-derivatives",
+      "sub_topic": "calculus",
       "question_text": "Let $$f:IR \\to IR$$ be defined as $$f\\left( x \\right) = \\left| x \\right| + \\left| {{x^2} - 1} \\right|.$$ The total number of points at which $$f$$ attains either a local maximum or a local minimum is",
-      "subject": "Mathematics",
-      "topic": "application-of-derivatives",
-      "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzuzk7sx/d74989da-680c-4e3f-8466-b60f6e087926/c56edf10-5adb-11ef-ab92-f1f0f215dea0/file-jaoe38c1lzuzk7sy.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "Let $$f:IR \\to IR$$ be defined as $$f\\left( x \\right) = \\left| x \\right| + \\left| {{x^2} - 1} \\right|.$$ The total number of points at which $$f$$ attains either a local maximum or a local minimum is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
-      "year": 2012,
-      "exam_type": "IIT JEE",
-      "shift": 1,
       "question_number": 31,
-      "question_text": "Let $$p(x)$$ be a real polynomial of least degree which has a local maximum at $$x=1$$ and a local minimum at $$x=3$$. If $$p(1)=6$$ and $$p(3)=2$$, then $$p'(0)$$ is",
-      "subject": "Mathematics",
-      "topic": "application-of-derivatives",
-      "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
-      "correct_answer": "",
-      "question": "Let $$p(x)$$ be a real polynomial of least degree which has a local maximum at $$x=1$$ and a local minimum at $$x=3$$. If $$p(1)=6$$ and $$p(3)=2$$, then $$p'(0)$$ is",
-      "isOutOfSyllabus": false,
-      "marks": 4,
-      "negMarks": 1
-    },
-    {
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
+      "subject": "Mathematics",
+      "topic": "application-of-derivatives",
+      "sub_topic": "calculus",
+      "question_text": "Let $$p(x)$$ be a real polynomial of least degree which has a local maximum at $$x=1$$ and a local minimum at $$x=3$$. If $$p(1)=6$$ and $$p(3)=2$$, then $$p'(0)$$ is",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
+      "correct_answer": "",
+      "marks": 4,
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
+    },
+    {
       "question_number": 32,
-      "question_text": "The integral $\\int \\frac{\\sec ^2 x}{(\\sec x+\\tan x)^{9 / 2}} d x$ equals (for some arbitrary constant $$K$$)",
+      "year": 2012,
+      "exam_type": "IIT JEE",
+      "shift": 1,
       "subject": "Mathematics",
       "topic": "indefinite-integrals",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The integral $\\int \\frac{\\sec ^2 x}{(\\sec x+\\tan x)^{9 / 2}} d x$ equals (for some arbitrary constant $$K$$)",
+      "question_images": [],
+      "option_texts": {
         "A": "$-\\frac{1}{(\\sec x+\\tan x)^{11 / 2}}\\left\\{\\frac{1}{11}-\\frac{1}{7}(\\sec x+\\tan x)^2\\right\\}+K$",
         "B": "$\\frac{1}{(\\sec x+\\tan x)^{11 / 2}}\\left\\{\\frac{1}{11}-\\frac{1}{7}(\\sec x+\\tan x)^2\\right\\}+K$",
         "C": "$-\\frac{1}{(\\sec x+\\tan x)^{11 / 2}}\\left\\{\\frac{1}{11}+\\frac{1}{7}(\\sec x+\\tan x)^2\\right\\}+K$",
         "D": "$\\frac{1}{(\\sec x+\\tan x)^{11 / 2}}\\left\\{\\frac{1}{11}+\\frac{1}{7}(\\sec x+\\tan x)^2\\right\\}+K$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "The integral $\\int \\frac{\\sec ^2 x}{(\\sec x+\\tan x)^{9 / 2}} d x$ equals (for some arbitrary constant $$K$$)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 33,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 33,
-      "question_text": "Let $$S$$ be the area of the region enclosed by $$y = {e^{ - {x^2}}}$$, $$y=0$$, $$x=0$$, and $$x=1$$; then",
       "subject": "Mathematics",
       "topic": "application-of-integration",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$S$$ be the area of the region enclosed by $$y = {e^{ - {x^2}}}$$, $$y=0$$, $$x=0$$, and $$x=1$$; then",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzuysaqp/cfcc0260-22d1-4986-8235-0499af0d5a7d/bd0bd600-5ad8-11ef-b0db-ff5d0283da93/file-jaoe38c1lzuysaqq.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$S \\ge {1 \\over e}$$",
         "B": "$$S \\ge 1 - {1 \\over e}$$",
         "C": "$$S \\le {1 \\over 4}\\left( {1 + {1 \\over {\\sqrt e }}} \\right)$$",
         "D": "$$S \\le {1 \\over {\\sqrt 2 }} + {1 \\over {\\sqrt e }}\\left( {1 - {1 \\over {\\sqrt 2 }}} \\right)$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "Let $$S$$ be the area of the region enclosed by $$y = {e^{ - {x^2}}}$$, $$y=0$$, $$x=0$$, and $$x=1$$; then",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 34,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 34,
-      "question_text": "If $$y(x)$$ satisfies the differential equation $$y' - y\\,tan\\,x = 2x\\,secx$$ and $$y(0)=0,$$ then",
       "subject": "Mathematics",
       "topic": "differential-equations",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If $$y(x)$$ satisfies the differential equation $$y' - y\\,tan\\,x = 2x\\,secx$$ and $$y(0)=0,$$ then",
+      "question_images": [],
+      "option_texts": {
         "A": "$$y\\left( {{\\pi  \\over 4}} \\right) = {{{\\pi ^2}} \\over {8\\sqrt 2 }}$$",
         "B": "$$y'\\left( {{\\pi  \\over 4}} \\right) = {{{\\pi ^2}} \\over {18}}$$",
         "C": "$$y\\left( {{\\pi  \\over 3}} \\right) = {{{\\pi ^2}} \\over 9}$$",
         "D": "$$y'\\left( {{\\pi  \\over 3}} \\right) = {{4\\pi } \\over 3} + {{2{\\pi ^2}} \\over {3\\sqrt 3 }}$$"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "If $$y(x)$$ satisfies the differential equation $$y' - y\\,tan\\,x = 2x\\,secx$$ and $$y(0)=0,$$ then",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 35,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 35,
-      "question_text": "The point $$P$$ is the intersection of the straight line joining the points $$Q(2, 3, 5)$$ and $$R(1, -1, 4)$$ with the plane $$5x-4y-z=1.$$ If $$S$$ is the foot of the perpendicular drawn from the point $$T(2, 1, 4)$$ to $$QR,$$ then the length of the line segment $$PS$$ is",
       "subject": "Mathematics",
       "topic": "3d-geometry",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The point $$P$$ is the intersection of the straight line joining the points $$Q(2, 3, 5)$$ and $$R(1, -1, 4)$$ with the plane $$5x-4y-z=1.$$ If $$S$$ is the foot of the perpendicular drawn from the point $$T(2, 1, 4)$$ to $$QR,$$ then the length of the line segment $$PS$$ is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzuwxm49/44378e34-9c00-487b-9faa-50c90ace73f7/7e9f5290-5ad1-11ef-8c7b-af8cf9e332e1/file-jaoe38c1lzuwxm4a.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${{1 \\over {\\sqrt 2 }}}$$",
         "B": "$${\\sqrt 2 }$$",
         "C": "$$2$$",
         "D": "$${2\\sqrt 2 }$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "The point $$P$$ is the intersection of the straight line joining the points $$Q(2, 3, 5)$$ and $$R(1, -1, 4)$$ with the plane $$5x-4y-z=1.$$ If $$S$$ is the foot of the perpendicular drawn from the point $$T(2, 1, 4)$$ to $$QR,$$ then the length of the line segment $$PS$$ is",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 36,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 36,
-      "question_text": "If $$\\mathop {\\lim }\\limits_{x \\to \\infty } \\left( {{{{x^2} + x + 1} \\over {x + 1}} - ax - b} \\right) = 4$$, then",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "If $$\\mathop {\\lim }\\limits_{x \\to \\infty } \\left( {{{{x^2} + x + 1} \\over {x + 1}} - ax - b} \\right) = 4$$, then",
+      "question_images": [],
+      "option_texts": {
         "A": "a = 1, b = 4",
         "B": "a = 1, b = $$-$$4",
         "C": "a = 2, b = $$-$$3",
         "D": "a = 2, b = 3"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "If $$\\mathop {\\lim }\\limits_{x \\to \\infty } \\left( {{{{x^2} + x + 1} \\over {x + 1}} - ax - b} \\right) = 4$$, then",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 37,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 37,
-      "question_text": "Let $$P = [{a_{ij}}]$$ be a 3 $$\\times$$ 3 matrix and let $$Q = [{b_{ij}}]$$, where $${b_{ij}} = {2^{i + j}}{a_{ij}}$$ for $$1 \\le i,j \\le 3$$. If the determinant of P is 2, then the determinant of the matrix Q is",
       "subject": "Mathematics",
       "topic": "matrices-and-determinants",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$P = [{a_{ij}}]$$ be a 3 $$\\times$$ 3 matrix and let $$Q = [{b_{ij}}]$$, where $${b_{ij}} = {2^{i + j}}{a_{ij}}$$ for $$1 \\le i,j \\le 3$$. If the determinant of P is 2, then the determinant of the matrix Q is",
+      "question_images": [],
+      "option_texts": {
         "A": "2^{10}",
         "B": "2^{11}",
         "C": "2^{12}",
         "D": "2^{13}"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Let $$P = [{a_{ij}}]$$ be a 3 $$\\times$$ 3 matrix and let $$Q = [{b_{ij}}]$$, where $${b_{ij}} = {2^{i + j}}{a_{ij}}$$ for $$1 \\le i,j \\le 3$$. If the determinant of P is 2, then the determinant of the matrix Q is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 38,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 38,
-      "question_text": "Let $$f(x) = \\left\\{ {\\matrix{\n   {{x^2}\\left| {\\cos {\\pi  \\over x}} \\right|,} & {x \\ne 0}  \\cr \n   {0,} & {x = 0}  \\cr \n\n } } \\right.$$\n\nx$$\\in$$R, then f is",
       "subject": "Mathematics",
       "topic": "limits-continuity-and-differentiability",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Let $$f(x) = \\left\\{ {\\matrix{\n   {{x^2}\\left| {\\cos {\\pi  \\over x}} \\right|,} & {x \\ne 0}  \\cr \n   {0,} & {x = 0}  \\cr \n\n } } \\right.$$\n\nx$$\\in$$R, then f is",
+      "question_images": [],
+      "option_texts": {
         "A": "differentiable both at x = 0 and at x = 2.",
         "B": "differentiable at x = 0 but not differentiable at x = 2.",
         "C": "not differentiable at x = 0 but differentiable at x = 2.",
         "D": "differentiable neither at x = 0 nor at x = 2."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "Let $$f(x) = \\left\\{ {\\matrix{\n   {{x^2}\\left| {\\cos {\\pi  \\over x}} \\right|,} & {x \\ne 0}  \\cr \n   {0,} & {x = 0}  \\cr \n\n } } \\right.$$\nx$$\\in$$R, then f is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 39,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 39,
-      "question_text": "The function $$f:[0,3] \\to [1,29]$$, defined by $$f(x) = 2{x^3} - 15{x^2} + 36x + 1$$, is",
       "subject": "Mathematics",
       "topic": "functions",
       "sub_topic": "calculus",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "The function $$f:[0,3] \\to [1,29]$$, defined by $$f(x) = 2{x^3} - 15{x^2} + 36x + 1$$, is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2535w41/492b10fc-52e6-4c46-a0b7-09c3d3957add/57337d00-bf4a-11ec-8a13-c364d46c85d0/file-1l2535w42.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "one-one and onto.",
         "B": "onto but not one-one.",
         "C": "one-one but not onto.",
         "D": "neither one-one nor onto."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "The function $$f:[0,3] \\to [1,29]$$, defined by $$f(x) = 2{x^3} - 15{x^2} + 36x + 1$$, is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 40,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 40,
-      "question_text": "The value of $$6 + {\\log _{3/2}}\\left( {{1 \\over {3\\sqrt 2 }}\\sqrt {4 - {1 \\over {3\\sqrt 2 }}\\sqrt {4 - {1 \\over {3\\sqrt 2 }}\\sqrt {4 - {1 \\over {3\\sqrt 2 }}...} } } } \\right)$$ is __________.",
       "subject": "Mathematics",
       "topic": "quadratic-equation-and-inequalities",
       "sub_topic": "algebra",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "The value of $$6 + {\\log _{3/2}}\\left( {{1 \\over {3\\sqrt 2 }}\\sqrt {4 - {1 \\over {3\\sqrt 2 }}\\sqrt {4 - {1 \\over {3\\sqrt 2 }}\\sqrt {4 - {1 \\over {3\\sqrt 2 }}...} } } } \\right)$$ is __________.",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "The value of $$6 + {\\log _{3/2}}\\left( {{1 \\over {3\\sqrt 2 }}\\sqrt {4 - {1 \\over {3\\sqrt 2 }}\\sqrt {4 - {1 \\over {3\\sqrt 2 }}\\sqrt {4 - {1 \\over {3\\sqrt 2 }}...} } } } \\right)$$ is __________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 41,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 41,
-      "question_text": "A cubical region of side $$a$$ has its center at the origin. It encloses three fixed point charges, $$-q$$ at $$\\left( {0, - a/4,0} \\right), + 3q$$ at $$\\left( {0,0,0} \\right)$$ and $$-q$$ at $$\\left( {0, + a/4,0} \\right).$$ Choose the correct option(s)",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A cubical region of side $$a$$ has its center at the origin. It encloses three fixed point charges, $$-q$$ at $$\\left( {0, - a/4,0} \\right), + 3q$$ at $$\\left( {0,0,0} \\right)$$ and $$-q$$ at $$\\left( {0, + a/4,0} \\right).$$ Choose the correct option(s)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24kxnp9/7c5cc096-54d0-4c66-a06a-375cb1d2a822/0de82ed0-bf03-11ec-8fbf-67f2639a0a45/file-1l24kxnpa.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "The net electric flux crossing the plane $$x=+a/2$$ is equal to the net electric flux crossing the plane $$x=-a/2$$",
         "B": "The net electric flux crossing the plane $$y=+a/2$$ is more than the net electric flux crossing the plane $$y=-a/2.$$",
         "C": "The net electric flux crossing the entire region is $${q \\over {{\\varepsilon _0}}}$$",
         "D": "The net electric flux crossing the plane $$z =  + a/2$$ is equal to the net electric flux crossing the plane $$x=+a/2.$$"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A cubical region of side $$a$$ has its center at the origin. It encloses three fixed point charges, $$-q$$ at $$\\left( {0, - a/4,0} \\right), + 3q$$ at $$\\left( {0,0,0} \\right)$$ and $$-q$$ at $$\\left( {0, + a/4,0} \\right).$$ Choose the correct option(s)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 42,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 42,
-      "question_text": "Consider a thin spherical shell of radius $$R$$ with center at the origin, carrying uniform positive surface charge density. The variation of the magnitude of the electric field $$\\left| {\\overrightarrow E \\left( r \\right)} \\right|$$ and the electric potential $$V(r)$$ with the distance $$r$$ from the center, best represented by which graph?",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider a thin spherical shell of radius $$R$$ with center at the origin, carrying uniform positive surface charge density. The variation of the magnitude of the electric field $$\\left| {\\overrightarrow E \\left( r \\right)} \\right|$$ and the electric potential $$V(r)$$ with the distance $$r$$ from the center, best represented by which graph?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzvzxqau/e5dc4eef-c71b-4a8b-aa2d-cda90bc69a20/05e3f060-5b6a-11ef-af63-8fc242d8b580/file-jaoe38c1lzvzxqav.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzw018og/ee238eca-26f7-4cb3-ab2c-8c5f56b6feed/6783b300-5b6a-11ef-af63-8fc242d8b580/file-jaoe38c1lzw018oh.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24ktby2/95005ecd-e925-4143-896a-9c87d9e9cc00/9596f1a0-bf02-11ec-8fbf-67f2639a0a45/file-1l24ktby3.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24ku79k/d290c644-c0b2-4105-9d1b-37dfffbd7bcf/adc87c80-bf02-11ec-8fbf-67f2639a0a45/file-1l24ku79l.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24kuuxu/66936926-0a81-4496-b2f2-21e412fc70a6/c0123020-bf02-11ec-8fbf-67f2639a0a45/file-1l24kuuxv.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24kvl6i/a0574079-0d8c-42c2-a0fa-25d071977657/d4578cb0-bf02-11ec-8fbf-67f2639a0a45/file-1l24kvl6j.png",
+          "description": ""
+        }
+      },
       "correct_answer": "D",
-      "question": "Consider a thin spherical shell of radius $$R$$ with center at the origin, carrying uniform positive surface charge density. The variation of the magnitude of the electric field $$\\left| {\\overrightarrow E \\left( r \\right)} \\right|$$ and the electric potential $$V(r)$$ with the distance $$r$$ from the center, best represented by which graph?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 43,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 43,
-      "question_text": "Two large vertical and parallel metal plates having a separation of $$1$$ $$cm$$ are connected to a $$DC$$ voltage source of potential difference $$X$$. A proton is released at rest midway between the two plates. It is found to move at $${45^ \\circ }$$ to the vertical JUST after release. Then $$X$$ is nearly",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Two large vertical and parallel metal plates having a separation of $$1$$ $$cm$$ are connected to a $$DC$$ voltage source of potential difference $$X$$. A proton is released at rest midway between the two plates. It is found to move at $${45^ \\circ }$$ to the vertical JUST after release. Then $$X$$ is nearly",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/jaoe38c1lzw05uix/5edfd35f-5b49-410c-b208-29fcd428803f/e7a07b90-5b6a-11ef-af63-8fc242d8b580/file-jaoe38c1lzw05uiy.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$1 \\times {10^{ - 5}}\\,\\,V$$",
         "B": "$$1 \\times {10^{ - 7}}\\,\\,V$$",
         "C": "$$1 \\times {10^{ - 9}}\\,\\,V$$",
         "D": "$$1 \\times {10^{ - 10}}\\,\\,V$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Two large vertical and parallel metal plates having a separation of $$1$$ $$cm$$ are connected to a $$DC$$ voltage source of potential difference $$X$$. A proton is released at rest midway between the two plates. It is found to move at $${45^ \\circ }$$ to the vertical JUST after release. Then $$X$$ is nearly",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 44,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 44,
-      "question_text": "A mixture of 2 moles of helium gas (atomic mass = 4 amu) and 1 mole of argon gas (atomic mass = 40 amu) is kept at 300 K in a container. The ratio of the rms speeds $$\\left( {{{{v_{rms}}\\left( {helium} \\right)} \\over {{v_{rms}}\\left( {\\arg on} \\right)}}} \\right)$$ is",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A mixture of 2 moles of helium gas (atomic mass = 4 amu) and 1 mole of argon gas (atomic mass = 40 amu) is kept at 300 K in a container. The ratio of the rms speeds $$\\left( {{{{v_{rms}}\\left( {helium} \\right)} \\over {{v_{rms}}\\left( {\\arg on} \\right)}}} \\right)$$ is",
+      "question_images": [],
+      "option_texts": {
         "A": "0.32",
         "B": "0.45",
         "C": "2.24",
         "D": "3.16"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "A mixture of 2 moles of helium gas (atomic mass = 4 amu) and 1 mole of argon gas (atomic mass = 40 amu) is kept at 300 K in a container. The ratio of the rms speeds $$\\left( {{{{v_{rms}}\\left( {helium} \\right)} \\over {{v_{rms}}\\left( {\\arg on} \\right)}}} \\right)$$ is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 0.75
+      "negMarks": 0.75,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 45,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 45,
-      "question_text": "In the determination of Young's modulus $$\\left( {Y = {{4MLg} \\over {\\pi l{d^2}}}} \\right)$$\nby using Searle's method, a wire of length L = 2 m\nand diameter d = 0.5 mm is used. For a load M = 2.5 kg, an extension l = 0.25 mm in the length of the wire\nis observed. Quantities d and l are measured using a screw gauge and a micrometer, respectively. They\nhave the same pitch of 0.5 mm. The number of divisions on their circular scale is 100. The contributions to\nthe maximum probable error of the Y measurement",
       "subject": "Physics",
       "topic": "units-and-measurements",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "In the determination of Young's modulus $$\\left( {Y = {{4MLg} \\over {\\pi l{d^2}}}} \\right)$$\nby using Searle's method, a wire of length L = 2 m\nand diameter d = 0.5 mm is used. For a load M = 2.5 kg, an extension l = 0.25 mm in the length of the wire\nis observed. Quantities d and l are measured using a screw gauge and a micrometer, respectively. They\nhave the same pitch of 0.5 mm. The number of divisions on their circular scale is 100. The contributions to\nthe maximum probable error of the Y measurement",
+      "question_images": [],
+      "option_texts": {
         "A": "due to the errors in the measurements of d and l are the same.",
         "B": "due to the error in the measurement of d is twice that due to the error in the measurement of l.",
         "C": "due to the error in the measurement of l is twice that due to the error in the measurement of d.",
         "D": "due to the error in the measurement of d is four times that due to the error in the measurement of l."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "In the determination of Young's modulus $$\\left( {Y = {{4MLg} \\over {\\pi l{d^2}}}} \\right)$$\nby using Searle's method, a wire of length L = 2 m\nand diameter d = 0.5 mm is used. For a load M = 2.5 kg, an extension l = 0.25 mm in the length of the wire\nis observed. Quantities d and l are measured using a screw gauge and a micrometer, respectively. They\nhave the same pitch of 0.5 mm. The number of divisions on their circular scale is 100. The contributions to\nthe maximum probable error of the Y measurement",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 46,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 46,
-      "question_text": "A small mass m is attached to a massless string whose other end is fixed at P as shown in the figure. The mass is undergoing circular motion in the xy-plane with centre at O and constant angular speed $$\\omega$$. If the angular momentum of the system, calculated about O and P are denoted by $${\\overrightarrow L _O}$$ and $${\\overrightarrow L _P}$$, respectively, then",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A small mass m is attached to a massless string whose other end is fixed at P as shown in the figure. The mass is undergoing circular motion in the xy-plane with centre at O and constant angular speed $$\\omega$$. If the angular momentum of the system, calculated about O and P are denoted by $${\\overrightarrow L _O}$$ and $${\\overrightarrow L _P}$$, respectively, then",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24kk3qd/b1f8873d-59f8-4a08-bf6b-5d5d0192172d/94f63a40-bf01-11ec-a939-59543093f185/file-1l24kk3qe.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l253h2p7/7e5bea88-39d0-4327-942d-4adc821f4f1a/8e30d4a0-bf4b-11ec-b997-87cc5d16a405/file-1l253h2p8.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l253i0od/138cc767-f5b6-4d1b-adeb-ec8faa3de5d9/a87009d0-bf4b-11ec-b997-87cc5d16a405/file-1l253i0oe.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${\\overrightarrow L _O}$$ and $${\\overrightarrow L _P}$$ do not vary with time.",
         "B": "$${\\overrightarrow L _O}$$ varies with time while $${\\overrightarrow L _P}$$ remains constant.",
         "C": "$${\\overrightarrow L _O}$$ remains constant while $${\\overrightarrow L _P}$$ varies with time.",
         "D": "$${\\overrightarrow L _O}$$ and $${\\overrightarrow L _P}$$ both vary with time."
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "A small mass m is attached to a massless string whose other end is fixed at P as shown in the figure. The mass is undergoing circular motion in the xy-plane with centre at O and constant angular speed $$\\omega$$. If the angular momentum of the system, calculated about O and P are denoted by $${\\overrightarrow L _O}$$ and $${\\overrightarrow L _P}$$, respectively, then",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 47,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 47,
-      "question_text": "A biconvex lens is formed with two planoconvex lenses as shown in the figure. Refractive index n of the first lens is 1.5 and that of the second lens is 1.2. Both curved surface are of the same radius of curvature R = 14 cm. For this biconvex lens, for an object distance of 40 cm, the image distance will be",
       "subject": "Physics",
       "topic": "geometrical-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A biconvex lens is formed with two planoconvex lenses as shown in the figure. Refractive index n of the first lens is 1.5 and that of the second lens is 1.2. Both curved surface are of the same radius of curvature R = 14 cm. For this biconvex lens, for an object distance of 40 cm, the image distance will be",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24kme2r/3543bbc8-fe94-464b-aa5c-5439681b1539/d4921a20-bf01-11ec-8fbf-67f2639a0a45/file-1l24kme2s.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$-$$280.0 cm",
         "B": "40.0 cm",
         "C": "21.5 cm",
         "D": "13.3 cm"
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A biconvex lens is formed with two planoconvex lenses as shown in the figure. Refractive index n of the first lens is 1.5 and that of the second lens is 1.2. Both curved surface are of the same radius of curvature R = 14 cm. For this biconvex lens, for an object distance of 40 cm, the image distance will be",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 48,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 48,
-      "question_text": "A thin uniform rod, pivoted at O, is rotating in the horizontal plane with constant angular speed $$\\omega$$, as shown in the figure. At time t = 0, a small insect starts from O and moves with constant speed v, with respect to the rod towards the other end. It reaches the end of the rod at t = T and stops. The angular speed of the system remains $$\\omega$$ throughout. The magnitude of the torque (|$$\\tau$$|) about O, as a function of time is best represented by which plot ?",
       "subject": "Physics",
       "topic": "rotational-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A thin uniform rod, pivoted at O, is rotating in the horizontal plane with constant angular speed $$\\omega$$, as shown in the figure. At time t = 0, a small insect starts from O and moves with constant speed v, with respect to the rod towards the other end. It reaches the end of the rod at t = T and stops. The angular speed of the system remains $$\\omega$$ throughout. The magnitude of the torque (|$$\\tau$$|) about O, as a function of time is best represented by which plot ?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24kne3x/e5d77f44-bf61-472e-8e4c-19c524999bca/f067cdd0-bf01-11ec-8fbf-67f2639a0a45/file-1l24kne3y.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l253l7sl/7092c06f-d3b1-4324-80f2-e8decda1c6cb/015d1560-bf4c-11ec-b997-87cc5d16a405/file-1l253l7sm.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "",
         "B": "",
         "C": "",
         "D": ""
       },
+      "option_images": {
+        "A": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24ko5bc/74231f0b-37ad-47bd-8803-ba7479d1511d/056be680-bf02-11ec-8fbf-67f2639a0a45/file-1l24ko5bd.png",
+          "description": ""
+        },
+        "B": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24kowh1/cf29bab5-68f7-46c1-b00a-ab60343c219c/1a668950-bf02-11ec-8fbf-67f2639a0a45/file-1l24kowh2.png",
+          "description": ""
+        },
+        "C": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24kpn7p/0f576fd8-9476-4a11-8839-940b55e965aa/2f0e9f50-bf02-11ec-8fbf-67f2639a0a45/file-1l24kpn7q.png",
+          "description": ""
+        },
+        "D": {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24kqbc5/6539c147-3583-4abb-923b-8ee36f7365b5/41b12150-bf02-11ec-8fbf-67f2639a0a45/file-1l24kqbc6.png",
+          "description": ""
+        }
+      },
       "correct_answer": "B",
-      "question": "A thin uniform rod, pivoted at O, is rotating in the horizontal plane with constant angular speed $$\\omega$$, as shown in the figure. At time t = 0, a small insect starts from O and moves with constant speed v, with respect to the rod towards the other end. It reaches the end of the rod at t = T and stops. The angular speed of the system remains $$\\omega$$ throughout. The magnitude of the torque (|$$\\tau$$|) about O, as a function of time is best represented by which plot ?",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 49,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 49,
-      "question_text": "Three very large plates of same area are kept parallel and close to each other. They are considered as ideal black surfaces and have very high thermal conductively. The first and third plates are maintained at temperatures 2T and 3T, respectively. The temperature of the middle (i.e. second) plate under steady state condition is",
       "subject": "Physics",
       "topic": "heat-and-thermodynamics",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Three very large plates of same area are kept parallel and close to each other. They are considered as ideal black surfaces and have very high thermal conductively. The first and third plates are maintained at temperatures 2T and 3T, respectively. The temperature of the middle (i.e. second) plate under steady state condition is",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l253p44c/2920b6eb-7ea3-4606-9ef2-a023d1001f54/6dc305c0-bf4c-11ec-b997-87cc5d16a405/file-1l253p44d.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$${\\left( {{{65} \\over 2}} \\right)^{1/4}}T$$",
         "B": "$${\\left( {{{97} \\over 4}} \\right)^{1/4}}T$$",
         "C": "$${\\left( {{{97} \\over 2}} \\right)^{1/4}}T$$",
         "D": "$${(97)^{1/4}}T$$"
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Three very large plates of same area are kept parallel and close to each other. They are considered as ideal black surfaces and have very high thermal conductively. The first and third plates are maintained at temperatures 2T and 3T, respectively. The temperature of the middle (i.e. second) plate under steady state condition is",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 50,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 50,
-      "question_text": "A small block is connected to one end of a massless spring of un-stretched length 4.9 m. The other end of the spring (see the figure) is fixed. The system lies on a horizontal frictionless surface. The block is stretched by 0.2 m and released from rest at t = 0. It then executes simple harmonic motion with angular frequency $$\\omega$$ = ($$\\pi$$/3) rad/s. Simultaneously, at t = 0, a small pebble is projected with speed v from point P at an angle of 45$$^\\circ$$ as shown in the figure. Point O is at a horizontal distance of 10 m from O. If the pebble hits the block at t = 1 s, the value of v is (take g = 10 m/s2)",
       "subject": "Physics",
       "topic": "simple-harmonic-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A small block is connected to one end of a massless spring of un-stretched length 4.9 m. The other end of the spring (see the figure) is fixed. The system lies on a horizontal frictionless surface. The block is stretched by 0.2 m and released from rest at t = 0. It then executes simple harmonic motion with angular frequency $$\\omega$$ = ($$\\pi$$/3) rad/s. Simultaneously, at t = 0, a small pebble is projected with speed v from point P at an angle of 45$$^\\circ$$ as shown in the figure. Point O is at a horizontal distance of 10 m from O. If the pebble hits the block at t = 1 s, the value of v is (take g = 10 m/s2)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24krui7/bbec5170-14b2-434b-88fd-9e81392d343f/6c4edbf0-bf02-11ec-8fbf-67f2639a0a45/file-1l24krui8.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$\\sqrt {50} $$ m/s",
         "B": "$$\\sqrt {51} $$ m/s",
         "C": "$$\\sqrt {52} $$ m/s",
         "D": "$$\\sqrt {53} $$ m/s"
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A small block is connected to one end of a massless spring of un-stretched length 4.9 m. The other end of the spring (see the figure) is fixed. The system lies on a horizontal frictionless surface. The block is stretched by 0.2 m and released from rest at t = 0. It then executes simple harmonic motion with angular frequency $$\\omega$$ = ($$\\pi$$/3) rad/s. Simultaneously, at t = 0, a small pebble is projected with speed v from point P at an angle of 45$$^\\circ$$ as shown in the figure. Point O is at a horizontal distance of 10 m from O. If the pebble hits the block at t = 1 s, the value of v is (take g = 10 m/s^{2})",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 51,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 51,
-      "question_text": "Young's double slit experiment is carried out by using green, red and blue light, one colour at a time. The fringe widths recorded are $$\\beta$$G, $$\\beta$$R and $$\\beta$$B, respectively. Then,",
       "subject": "Physics",
       "topic": "wave-optics",
       "sub_topic": "optics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Young's double slit experiment is carried out by using green, red and blue light, one colour at a time. The fringe widths recorded are $$\\beta$$G, $$\\beta$$R and $$\\beta$$B, respectively. Then,",
+      "question_images": [],
+      "option_texts": {
         "A": "$$\\beta$$_{G} > $$\\beta$$_{B} > $$\\beta$$_{R}",
         "B": "$$\\beta$$_{B} > $$\\beta$$_{G} > $$\\beta$$_{R}",
         "C": "$$\\beta$$_{R} > $$\\beta$$_{B} > $$\\beta$$_{G}",
         "D": "$$\\beta$$_{R} > $$\\beta$$_{G} > $$\\beta$$_{B}"
       },
+      "option_images": {},
       "correct_answer": "D",
-      "question": "Young's double slit experiment is carried out by using green, red and blue light, one colour at a time. The fringe widths recorded are $$\\beta$$_{G}, $$\\beta$$_{R} and $$\\beta$$_{B}, respectively. Then,",
-      "isOutOfSyllabus": false,
       "marks": 3,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 52,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 52,
-      "question_text": "Consider the motion of a positive point charge in a region, there are simultaneous uniform electric and magnetic fields $$\\overrightarrow E  = {E_0}\\widehat j$$ and $$\\overrightarrow B  = {B_0}\\widehat j$$. At time t = 0, this charge has velocity $$\\overrightarrow v $$ in the xy-plane, making an angle $$\\theta$$ with the x-axis. Which of the following option(s) is(are) correct for time t > 0 ?",
       "subject": "Physics",
       "topic": "magnetism",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "Consider the motion of a positive point charge in a region, there are simultaneous uniform electric and magnetic fields $$\\overrightarrow E  = {E_0}\\widehat j$$ and $$\\overrightarrow B  = {B_0}\\widehat j$$. At time t = 0, this charge has velocity $$\\overrightarrow v $$ in the xy-plane, making an angle $$\\theta$$ with the x-axis. Which of the following option(s) is(are) correct for time t > 0 ?",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l253v27t/2c2a5275-5ae7-4e42-9bf4-0a86f6095d35/13256e90-bf4d-11ec-b997-87cc5d16a405/file-1l253v27u.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "If $$\\theta$$ = 0$$^\\circ$$, the charge moves in a circular path in the xy-plane.",
         "B": "If $$\\theta$$ = 0$$^\\circ$$, the charge undergoes helical motion with constant pitch along the y-axis.",
         "C": "If $$\\theta$$ = 10$$^\\circ$$, the charge undergoes helical motion with its pitch increasing with time, along the y-axis.",
         "D": "If $$\\theta$$ = 90$$^\\circ$$, the charge undergoes linear but accelerated motion along the y-axis."
       },
+      "option_images": {},
       "correct_answer": "C",
-      "question": "Consider the motion of a positive point charge in a region, there are simultaneous uniform electric and magnetic fields $$\\overrightarrow E  = {E_0}\\widehat j$$ and $$\\overrightarrow B  = {B_0}\\widehat j$$. At time t = 0, this charge has velocity $$\\overrightarrow v $$ in the xy-plane, making an angle $$\\theta$$ with the x-axis. Which of the following option(s) is(are) correct for time t > 0 ?",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 53,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 53,
-      "question_text": "A person blows into the open end of a long pipe. As a result, a high-pressure pulse of air travels down the pipe. When this pulse reaches the other end of the pipe,",
       "subject": "Physics",
       "topic": "properties-of-matter",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A person blows into the open end of a long pipe. As a result, a high-pressure pulse of air travels down the pipe. When this pulse reaches the other end of the pipe,",
+      "question_images": [],
+      "option_texts": {
         "A": "a high-pressure pulse starts travelling up the pipe, if the other end of the pipe is open.",
         "B": "a low-pressure pulse starts travelling up the pipe, it the other end of the pipe is open.",
         "C": "a low-pressure pulse starts travelling up the pipe, if the other end of the pipe is closed.",
         "D": "a high-pressure pulse starts travelling up the pipe, if the other end of the pipe is closed."
       },
+      "option_images": {},
       "correct_answer": "B",
-      "question": "A person blows into the open end of a long pipe. As a result, a high-pressure pulse of air travels down the pipe. When this pulse reaches the other end of the pipe,",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "easy",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 54,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 54,
-      "question_text": "A small block of mass 0.1 kg lies on a fixed inclined plane PQ which makes an angle $$\\theta$$ with the horizontal. A horizontal force of 1 N acts on the block through its centre of mass as shown in the figure. The block remains stationary if (take g = 10 m/s2)",
       "subject": "Physics",
       "topic": "laws-of-motion",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "A small block of mass 0.1 kg lies on a fixed inclined plane PQ which makes an angle $$\\theta$$ with the horizontal. A horizontal force of 1 N acts on the block through its centre of mass as shown in the figure. The block remains stationary if (take g = 10 m/s2)",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24kzzly/a3572ecb-ed9b-4d52-966b-004c89e54766/4eb95a60-bf03-11ec-8fbf-67f2639a0a45/file-1l24kzzlz.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l253yb13/25549356-80e2-49f8-9abb-4a60f58d2825/6d61b670-bf4d-11ec-b997-87cc5d16a405/file-1l253yb14.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "$$\\theta$$ = 45$$^\\circ$$",
         "B": "$$\\theta$$ > 45$$^\\circ$$ and a frictional force ats on the block towards P.",
         "C": "$$\\theta$$ > 45$$^\\circ$$ and a frictional force ats on the block towards Q.",
         "D": "$$\\theta$$ < 45$$^\\circ$$ and a frictional force ats on the block towards Q."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "A small block of mass 0.1 kg lies on a fixed inclined plane PQ which makes an angle $$\\theta$$ with the horizontal. A horizontal force of 1 N acts on the block through its centre of mass as shown in the figure. The block remains stationary if (take g = 10 m/s^{2})",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 55,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 55,
-      "question_text": "For the resistance network shown in the figure, choose the correct option(s).",
       "subject": "Physics",
       "topic": "current-electricity",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {
+      "question_text": "For the resistance network shown in the figure, choose the correct option(s).",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24l1ech/7b63accc-b779-4cfa-a177-4ea26fee9a77/75eac510-bf03-11ec-8fbf-67f2639a0a45/file-1l24l1eci.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2541iro/55881c83-dcea-4379-bf17-c3a12fedbe75/c6c99750-bf4d-11ec-b997-87cc5d16a405/file-1l2541irp.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {
         "A": "The current through PQ is zero.",
         "B": "I_{1} = 3A.",
         "C": "The potential at S is less than that at Q.",
         "D": "I_{2} = 2A."
       },
+      "option_images": {},
       "correct_answer": "A",
-      "question": "For the resistance network shown in the figure, choose the correct option(s).",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 2
+      "negMarks": 2,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 56,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 56,
-      "question_text": "A circular wire loop of radius R is placed in the xy plane centred at the origin O. A square loop of side a(a << R) having two turns is placed with its centre at z = $$\\sqrt3$$R along the axis of the circular wire loop, as shown in the figure. The plane of the square loop makes an angle of 45$$^\\circ$$ with respect to z-axis. If the mutual inductance between the loops is given by $${{{\\mu _0}{a^2}} \\over {{2^{p/2}}R}}$$, then the value of p is ___________.",
       "subject": "Physics",
       "topic": "electromagnetic-induction",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A circular wire loop of radius R is placed in the xy plane centred at the origin O. A square loop of side a(a << R) having two turns is placed with its centre at z = $$\\sqrt3$$R along the axis of the circular wire loop, as shown in the figure. The plane of the square loop makes an angle of 45$$^\\circ$$ with respect to z-axis. If the mutual inductance between the loops is given by $${{{\\mu _0}{a^2}} \\over {{2^{p/2}}R}}$$, then the value of p is ___________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24l3kqq/9ded8c0c-aa07-49a0-9f81-41b05e881f1f/b279da20-bf03-11ec-8fbf-67f2639a0a45/file-1l24l3kqr.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A circular wire loop of radius R is placed in the xy plane centred at the origin O. A square loop of side a(a << R) having two turns is placed with its centre at z = $$\\sqrt3$$R along the axis of the circular wire loop, as shown in the figure. The plane of the square loop makes an angle of 45$$^\\circ$$ with respect to z-axis. If the mutual inductance between the loops is given by $${{{\\mu _0}{a^2}} \\over {{2^{p/2}}R}}$$, then the value of p is ___________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 57,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 57,
-      "question_text": "An infinitely long solid cylinder of radius R has a uniform volume charge density $$\\rho$$. It has a spherical cavity of radius R/2 with its centre on the axis of the cylinder, as shown in the figure. The magnitude of the electric field at the point P, which is at a distance 2R from the axis of the cylinder, is given by the expression $${{23\\rho R} \\over {16k{\\varepsilon _0}}}$$. The value of k is _____________.",
       "subject": "Physics",
       "topic": "electrostatics",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "An infinitely long solid cylinder of radius R has a uniform volume charge density $$\\rho$$. It has a spherical cavity of radius R/2 with its centre on the axis of the cylinder, as shown in the figure. The magnitude of the electric field at the point P, which is at a distance 2R from the axis of the cylinder, is given by the expression $${{23\\rho R} \\over {16k{\\varepsilon _0}}}$$. The value of k is _____________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24l88a5/c0ac9799-896d-4e5f-a0b6-a084d1f2a4b7/33e5b7f0-bf04-11ec-8fbf-67f2639a0a45/file-1l24l88a7.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "An infinitely long solid cylinder of radius R has a uniform volume charge density $$\\rho$$. It has a spherical cavity of radius R/2 with its centre on the axis of the cylinder, as shown in the figure. The magnitude of the electric field at the point P, which is at a distance 2R from the axis of the cylinder, is given by the expression $${{23\\rho R} \\over {16k{\\varepsilon _0}}}$$. The value of k is _____________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 58,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 58,
-      "question_text": "A proton is fired from very far away towards a nucleus with charge Q = 120e, where e is the electronic charge. It makes a closest approach of 10 fm to the nucleus. The de Broglie wavelength (in units of fm) of the proton at its start is ____________. (Take the proton mass, $${m_p} = (5 \\times 3) \\times {10^{ - 27}}$$ kg; $$h/e = 4.2 \\times {10^{ - 15}}$$ J.s/C; $${1 \\over {4\\pi {\\varepsilon _0}}} = 9 \\times {10^9}$$ m/F; 1 fm = 1015 m.)",
       "subject": "Physics",
       "topic": "dual-nature-of-radiation",
       "sub_topic": "modern-physics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A proton is fired from very far away towards a nucleus with charge Q = 120e, where e is the electronic charge. It makes a closest approach of 10 fm to the nucleus. The de Broglie wavelength (in units of fm) of the proton at its start is ____________. (Take the proton mass, $${m_p} = (5 \\times 3) \\times {10^{ - 27}}$$ kg; $$h/e = 4.2 \\times {10^{ - 15}}$$ J.s/C; $${1 \\over {4\\pi {\\varepsilon _0}}} = 9 \\times {10^9}$$ m/F; 1 fm = 1015 m.)",
+      "question_images": [],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A proton is fired from very far away towards a nucleus with charge Q = 120e, where e is the electronic charge. It makes a closest approach of 10 fm to the nucleus. The de Broglie wavelength (in units of fm) of the proton at its start is ____________. (Take the proton mass, $${m_p} = (5 \\times 3) \\times {10^{ - 27}}$$ kg; $$h/e = 4.2 \\times {10^{ - 15}}$$ J.s/C; $${1 \\over {4\\pi {\\varepsilon _0}}} = 9 \\times {10^9}$$ m/F; 1 fm = 10^{15} m.)",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 59,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 59,
-      "question_text": "A lamina is made by removing a small disc of diameter 2R from a bigger disc of uniform mass density and radius 2R, as shown in the figure. The moment of inertia of this lamina about axes passing through O and P is IO and IP respectively. Both these axes are perpendicular to the plane of the lamina. The ratio IO/IP to the nearest integer is ____________.",
       "subject": "Physics",
       "topic": "impulse-and-momentum",
       "sub_topic": "mechanics",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A lamina is made by removing a small disc of diameter 2R from a bigger disc of uniform mass density and radius 2R, as shown in the figure. The moment of inertia of this lamina about axes passing through O and P is IO and IP respectively. Both these axes are perpendicular to the plane of the lamina. The ratio IO/IP to the nearest integer is ____________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24l9i8m/9f62220e-02b9-4612-8e95-d3bb2a711fc2/5765b360-bf04-11ec-8fbf-67f2639a0a45/file-1l24l9i8n.png",
+          "description": ""
+        },
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l2545993/afed38af-748b-439c-b0f1-b67c72901185/2eac4980-bf4e-11ec-b997-87cc5d16a405/file-1l2545994.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A lamina is made by removing a small disc of diameter 2R from a bigger disc of uniform mass density and radius 2R, as shown in the figure. The moment of inertia of this lamina about axes passing through O and P is I_{O} and I_{P} respectively. Both these axes are perpendicular to the plane of the lamina. The ratio I_{O}/I_{P} to the nearest integer is ____________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     },
     {
+      "question_number": 60,
       "year": 2012,
       "exam_type": "IIT JEE",
       "shift": 1,
-      "question_number": 60,
-      "question_text": "A cylinder cavity of diameter a exists inside a cylinder of diameter 2a as shown in the figure. Both the cylinder and the cavity are infinitely long. A uniform current density J flows along the length. If the magnitude of the magnetic field at the point P is given by $${N \\over {12}}{\\mu _0}aJ$$, then the value of N is ______________.",
       "subject": "Physics",
       "topic": "magnetism",
       "sub_topic": "electricity",
-      "images": "",
-      "options_images": {},
-      "image_description": "",
-      "options": {},
+      "question_text": "A cylinder cavity of diameter a exists inside a cylinder of diameter 2a as shown in the figure. Both the cylinder and the cavity are infinitely long. A uniform current density J flows along the length. If the magnitude of the magnetic field at the point P is given by $${N \\over {12}}{\\mu _0}aJ$$, then the value of N is ______________.",
+      "question_images": [
+        {
+          "path": "images/app-content_cdn_examgoal_net/image/1l24lc2dw/7c4cfe4d-2927-4169-ac32-4268d7beae7f/9e940d40-bf04-11ec-8fbf-67f2639a0a45/file-1l24lc2dx.png",
+          "description": ""
+        }
+      ],
+      "option_texts": {},
+      "option_images": {},
       "correct_answer": "",
-      "question": "A cylinder cavity of diameter a exists inside a cylinder of diameter 2a as shown in the figure. Both the cylinder and the cavity are infinitely long. A uniform current density J flows along the length. If the magnitude of the magnetic field at the point P is given by $${N \\over {12}}{\\mu _0}aJ$$, then the value of N is ______________.",
-      "isOutOfSyllabus": false,
       "marks": 4,
-      "negMarks": 1
+      "negMarks": 1,
+      "difficulty": "medium",
+      "isOutOfSyllabus": false
     }
   ]
 }
