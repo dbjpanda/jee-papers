@@ -9,6 +9,7 @@ const ROOT_DIR = path.resolve(__dirname, '..');
 const HTML_DIR = path.join(ROOT_DIR, 'html');
 const DIST_DIR = path.join(ROOT_DIR, 'dist');
 const RAW_DIR = path.join(ROOT_DIR, 'raw');
+const IMAGES_DIR = path.join(ROOT_DIR, 'images');
 
 /**
  * Convert chapter/topic name to readable format
@@ -1205,8 +1206,13 @@ async function build() {
     console.log('7. Copying HTML files to years directory...');
     await copyDirectory(HTML_DIR, path.join(DIST_DIR, 'years'));
     
-    // Step 8: Create vercel.json
-    console.log('8. Creating vercel.json...');
+    // Step 8: Copy images directory
+    console.log('8. Copying images directory...');
+    await copyDirectory(IMAGES_DIR, path.join(DIST_DIR, 'images'));
+    console.log('   Images copied successfully');
+    
+    // Step 9: Create vercel.json
+    console.log('9. Creating vercel.json...');
     const vercelConfig = {
       "buildCommand": "npm run build",
       "outputDirectory": "dist",
