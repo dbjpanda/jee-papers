@@ -5,7 +5,6 @@ node_modules/
 dist/
 
 # Generated directories
-raw-local-images/
 
 
 # Logs
@@ -26,4 +25,3 @@ Thumbs.db
 *.tmp
 .cache/
 .tmp/
-images
