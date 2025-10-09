@@ -12,6 +12,7 @@
     "download:images": "node scripts/download-images.js",
     "localize:images": "node scripts/localize-images.js",
     "verify:images": "node scripts/verify-images.js",
+    "describe:images": "node scripts/describe-images.js",
     "build": "node scripts/build.js",
     "preview": "node scripts/server.js",
     "test": "echo \"No tests specified\" && exit 0"
@@ -30,7 +31,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^3.3.2",
+    "openai": "^4.104.0"
   },
   "devDependencies": {
     "puppeteer": "^21.5.2"
