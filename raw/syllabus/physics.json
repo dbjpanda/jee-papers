@@ -1,0 +1,1274 @@
+{
+    "statusCode": 0,
+    "data": {
+        "syllabusId": "mkguk52p5",
+        "title": "Physics",
+        "country": "in",
+        "examGroup": "jee",
+        "exam": "jee-main",
+        "chapterGroups": [
+            {
+                "title": "Mechanics",
+                "chapters": [
+                    {
+                        "title": "Physics and Measurement",
+                        "topics": [
+                            {
+                                "title": "Unit of Measurement",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "SI units",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Fundamental and derived units",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Least count",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Accuracy and precision of measuring instruments",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Dimensions of Physical quantities",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Dimensional analysis and its applications",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Significant Figures",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Kinematics",
+                        "topics": [
+                            {
+                                "title": "Frame of reference",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Motion in a straight line",
+                                "subTopics": [
+                                    "Position-time graph",
+                                    "Speed and velocity"
+                                ]
+                            },
+                            {
+                                "title": "Uniform and non-uniform motion",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Average speed and instantaneous velocity",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Uniformly accelerated motion",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Velocity-time",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Position-time graphs",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Relations for uniformly accelerated motion",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Scalars and Vectors",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Vector addition and Subtraction",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Scalar and Vector products",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Unit Vector",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Resolution of a Vector",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Relative Velocity",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Motion in a plane",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Projectile Motion",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Uniform Circular Motion",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Laws of Motion",
+                        "topics": [
+                            {
+                                "title": "Force and Inertia",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Newton's First Law of motion",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Momentum",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Newton's Second Law of motion",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Impulse",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Newton's Third Law of motion",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Law of conservation of linear momentum and its applications",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Equilibrium of concurrent forces",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Static and Kinetic friction",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Laws of friction",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Rolling friction",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Dynamics of uniform circular motion",
+                                "subTopics": [
+                                    "Centripetal force and its applications",
+                                    "Vehicle on a level circular road",
+                                    "Vehicle on a banked road"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Work, Energy and Power",
+                        "topics": [
+                            {
+                                "title": "Work done by a constant force and a variable force",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Kinetic and potential energies",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Work-energy theorem",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Power",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Potential energy of a spring",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Conservation of mechanical energy",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Conservative and non-conservative forces",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Elastic and inelastic collisions in one and two dimensions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Motion in a vertical circle",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Rotational Motion",
+                        "topics": [
+                            {
+                                "title": "Centre of mass of a two-particle system",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Centre of mass of a rigid body",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Basic concepts of rotational motion",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Moment of a force",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Torque",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Angular momentum",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Conservation of angular momentum and its applications",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Moment of inertia",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Radius of gyration",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Values of moments of inertia for simple geometrical objects",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Parallel and perpendicular axes theorems and their applications",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Rigid body rotation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Equations of rotational motion",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Comparison of linear and rotational motions",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Gravitation",
+                        "topics": [
+                            {
+                                "title": "The universal law of gravitation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Acceleration due to gravity and its variation with altitude and depth",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Kepler's laws of planetary motion",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Gravitational potential energy; gravitational potential",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Escape velocity",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Motion of a satellite, orbital velocity, time period, and energy of satellite",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Properties of Solids and Liquids",
+                        "topics": [
+                            {
+                                "title": "Elastic behaviour",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Stress-strain relationship",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Hooke's Law",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Young's modulus",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Bulk modulus",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Modulus of rigidity",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Pressure due to a fluid column",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Pascal's law and its applications",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Viscosity",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Stokes' law",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Terminal velocity",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Streamline and turbulent flow",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Critical velocity",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Bernoulli's principle and its applications",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Surface energy and surface tension",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Angle of contact",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Application of surface tension",
+                                "subTopics": [
+                                    "Drops",
+                                    "Bubbles",
+                                    "Capillary rise"
+                                ]
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Heat",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Temperature",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Thermal expansion",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Specific heat capacity",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Calorimetry",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Change of state",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Latent heat",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Heat transfer-conduction",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Convection and radiation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Effect of gravity on fluid pressure",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Excess of pressure across a curved surface",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Thermodynamics",
+                        "topics": [
+                            {
+                                "title": "Thermal equilibrium",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Zeroth law of thermodynamics",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Concept of temperature",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Heat",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Work and internal energy",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "First law of thermodynamics",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Second law of thermodynamics",
+                                "subTopics": [
+                                    "Reversible and irreversible processes"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Kinetic Theory of Gases",
+                        "topics": [
+                            {
+                                "title": "Equation of state of a perfect gas",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Work done on compressing a gas",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Kinetic theory of gases-assumptions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Concept of pressure",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Kinetic energy and temperature",
+                                "subTopics": [
+                                    "rms speed of gas molecules"
+                                ]
+                            },
+                            {
+                                "title": "Degrees of freedom",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Law of equipartition of energy",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Applications to specific heat capacities of gases",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Mean free path",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Avogadro's number",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Oscillations and Waves",
+                        "topics": [
+                            {
+                                "title": "Periodic motion",
+                                "subTopics": [
+                                    "Period",
+                                    "Frequency",
+                                    "Displacement as a function of time"
+                                ]
+                            },
+                            {
+                                "title": "Periodic functions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Simple harmonic motion (S.H.M.) and its equation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Phase",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Oscillations of a spring",
+                                "subTopics": [
+                                    "Restoring force and force constant"
+                                ]
+                            },
+                            {
+                                "title": "Energy in S.H.M",
+                                "subTopics": [
+                                    "Kinetic and potential energies"
+                                ]
+                            },
+                            {
+                                "title": "Simple pendulum",
+                                "subTopics": [
+                                    "Derivation of expression for its time period"
+                                ]
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Wave motion",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Longitudinal and transverse waves",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Speed of a wave",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Displacement relation for a progressive wave",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Principle of superposition of waves",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Reflection of waves",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Standing waves in strings and organ pipes",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Fundamental mode and harmonics",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Beats",
+                                "subTopics": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Electricity",
+                "chapters": [
+                    {
+                        "title": "Electrostatics",
+                        "topics": [
+                            {
+                                "title": "Electric charges",
+                                "subTopics": [
+                                    "Conservation of charge",
+                                    "Coulomb's law-forces between two point charges",
+                                    "Forces between multiple charges"
+                                ]
+                            },
+                            {
+                                "title": "Superposition principle and continuous charge distribution",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Electric field",
+                                "subTopics": [
+                                    "Electric field due to a point charge",
+                                    "Electric field lines",
+                                    "Electric dipole",
+                                    "Electric field due to a dipole",
+                                    "Torque on a dipole in a uniform electric field"
+                                ]
+                            },
+                            {
+                                "title": "Electric flux",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Gauss's law and its applications to find field due to infinitely long uniformly charged straight wire",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Uniformly charged infinite plane sheet and uniformly charged thin spherical shell",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Electric potential and its calculation for a point charge",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Electric dipole and system of charges",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Potential difference, Equipotential surfaces",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Electrical potential energy of a system of two point charges in an electrostatic field",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Conductors and insulators",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Dielectrics and electric polarization",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Capacitor",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Combination of capacitors in series and in parallel",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Capacitance of a parallel plate capacitor with and without dielectric medium between the plates",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Energy stored in a capacitor",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Current Electricity",
+                        "topics": [
+                            {
+                                "title": "Electric current",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Drift velocity",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Ohm's law",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Electrical resistance",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "V-I characteristics of Ohmic and non-ohmic conductors",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Electrical energy and power",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Electrical resistivity and conductivity",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Series and parallel combinations of resistors",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Temperature dependence of resistance",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Electric Cell and its Internal resistance",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Potential difference and emf of a cell",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Combination of cells in series and in parallel",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Kirchhoffs laws and their applications",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Wheatstone bridge",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Metre bridge",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Magnetic Effects of Current and Magnetism",
+                        "topics": [
+                            {
+                                "title": "Biot",
+                                "subTopics": [
+                                    "Savart law and its application to current carrying circular loop"
+                                ]
+                            },
+                            {
+                                "title": "Ampere's law and its applications to infinitely long current carrying straight wire and solenoid",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Force on a moving charge in uniform magnetic and electric fields",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Force on a current-carrying conductor in a uniform magnetic field",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Force between two parallel current-carrying conductors-definition of ampere",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Torque experienced by a current loop in uniform magnetic field",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Moving coil galvanometer",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Moving coil galvanometer's current sensitivity and conversion to ammeter and voltmeter",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Current loop as a magnetic dipole and its magnetic dipole moment, Bar magnet as an equivalent solenoid",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Magnetic field lines",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Magnetic field due to a magnetic dipole (bar magnet) along its axis and perpendicular to its axis, Torque on a magnetic dipole in a uniform magnetic field",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Para-, dia- and ferro- magnetic substances",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "The effect of temperature on magnetic properties",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Electromagnetic Induction and Alternating Currents",
+                        "topics": [
+                            {
+                                "title": "Electromagnetic induction",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Faraday's law",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Induced emf and current",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Lenz's Law",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Eddy currents",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Self and mutual inductance",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Alternating currents",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Peak and rms value of alternating current/ voltage",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Reactance and impedance",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "LCR series circuit",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Resonance",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Power in AC circuits",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Wattless current",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "AC generator and transformer",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Electromagnetic Waves",
+                        "topics": [
+                            {
+                                "title": "Displacement current. Electromagnetic waves and their characteristics",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Transverse nature of electromagnetic waves",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Electromagnetic spectrum",
+                                "subTopics": [
+                                    "Radio waves",
+                                    "Microwaves",
+                                    "Infrared",
+                                    "Visible",
+                                    "Ultraviolet",
+                                    "X-rays",
+                                    "Gamma rays"
+                                ]
+                            },
+                            {
+                                "title": "Applications of e.m. waves",
+                                "subTopics": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Optics",
+                "chapters": [
+                    {
+                        "title": "Geometrical Optics",
+                        "topics": [
+                            {
+                                "title": "Reflection and refraction of light at plane and spherical surfaces",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Mirror formula",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Total internal reflection and its applications",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Deviation and Dispersion of light by a prism",
+                                "subTopics": []
+                            },
+                            {
+                                "title": " Lens Formula",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Magnification",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Power of a Lens",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Combination of thin lenses in contact",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Microscope and Astronomical Telescope (reflecting and refracting) and their magnifying powers",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Wave optics",
+                        "topics": [
+                            {
+                                "title": "Wavefront and Huygens principle",
+                                "subTopics": []
+                            },
+                            {
+                                "title": " Laws of reflection and refraction using Huygens principle",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Interference",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Young's double slit experiment and expression for fringe width",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Coherent sources and sustained interference of light",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Diffraction due to a single slit",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Width of central maximum",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Polarisation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Plane polarized light",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Brewster's law",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Uses of plane polarized light and Polaroids",
+                                "subTopics": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Modern Physics",
+                "chapters": [
+                    {
+                        "title": "Dual Nature of Matter and Radiation",
+                        "topics": [
+                            {
+                                "title": "Dual nature of radiation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Photoelectric effect",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Hertz and Lenard's observations",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Einstein's photoelectric equation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Particle nature of light",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Matter waves-wave nature of particle",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "de Broglie relation",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Atoms and Nuclei",
+                        "topics": [
+                            {
+                                "title": "Alpha-particle scattering experiment",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Rutherford's model of atom",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Bohr model",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Energy levels",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Hydrogen spectrum",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Composition and size of nucleus",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Atomic masses",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Mass-energy relation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Mass defect",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Binding energy per nucleon and its variation with mass number",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Nuclear fission and fusion",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Electronic Devices",
+                        "topics": [
+                            {
+                                "title": "Semiconductors",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Semiconductor diode",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "I-V characteristics in forward and reverse bias",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Diode as a rectifier",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "1-V characteristics of LED",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Photodiode",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Solar cell and Zener diode",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Zener diode as a voltage regulator",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Logic gates",
+                                "subTopics": [
+                                    "OR",
+                                    "AND",
+                                    "NOT",
+                                    "NAND",
+                                    "NOR"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "EXPERIMENTAL SKILLS",
+                        "topics": [
+                            {
+                                "title": "Familiarity with the basic approach and observations of the experiments and activities :",
+                                "subTopics": [
+                                    "Vernier calipers -its use to measure the internal and external diameter and depth of a vessel.",
+                                    "Screw gauge-its use to determine the thickness/ diameter of thin sheet/wire.",
+                                    "Simple Pendulum-dissipation of energy by plotting a graph between the square of amplitude and time.",
+                                    "Metre Scale - the mass of a given object by the principle of moments.",
+                                    "Young's modulus of elasticity of the material of a metallic wire",
+                                    "Surf ace tension of water by capillary rise and effect of detergents,",
+                                    "Co-efficient of Viscosity of a given viscous liquid by measuring the terminal velocity of a given spherical body,",
+                                    "Speed of sound in air at room temperature using a resonance tube",
+                                    "Specific heat capacity of a given (i) solid and (ii) liquid by method of mixtures",
+                                    "The resistivity of the material of a given wire using a metre bridge.",
+                                    "The resistance of a given wire using Ohm's law",
+                                    "Resistance and figure of merit of a galvanometer by half deflection method.",
+                                    "The focal length of : (i) Convex mirror (ii) Concave mirror, and (ii) Convex lens, using the parallax method",
+                                    "The plot of the angle of deviation vs angle of incidence for a triangular prism",
+                                    "The refractive index of a glass slab using a travelling microscope",
+                                    "Characteristic curves of a p-n junction diode in forward and reverse bias.",
+                                    "Characteristic curves of a Zener diode and finding reverse breakdown voltage",
+                                    "Identification of Diode. LED, Resistor. A capacitor from a mixed collection of such items"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "chapters": [],
+        "updatedAt": "2023-11-03T04:30:08.301Z",
+        "createdAt": "2020-10-29T08:20:13.672Z"
+    }
+}

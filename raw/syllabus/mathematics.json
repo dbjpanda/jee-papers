@@ -1,0 +1,613 @@
+{
+    "statusCode": 0,
+    "data": {
+        "syllabusId": "1khmd09qv",
+        "title": "Mathematics",
+        "country": "in",
+        "examGroup": "jee",
+        "exam": "jee-main",
+        "chapterGroups": [
+            {
+                "title": "Algebra",
+                "chapters": [
+                    {
+                        "title": "Sets, Relations and Functions",
+                        "topics": [
+                            {
+                                "title": "Sets and their representation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Union",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Intersection and complement of sets and their algebraic properties",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Power set",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Relation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Types of relations",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Equivalence relations",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Functions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "One-one Functions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Into Functions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Onto Functions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Composition of functions",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Complex Numbers and Quadratic Equations",
+                        "topics": [
+                            {
+                                "title": "Complex numbers as ordered pairs of reals",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Representation of complex numbers in the form a+ib and their representation in a plane",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Argand diagram, algebra of complex numbers",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Modulus and argument (or amplitude) of a complex number",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Quadratic equations in real and complex number system and their solutions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Relation between roots and co-efficients, nature of roots",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Formation of quadratic equations with given roots",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Matrices and Determinants",
+                        "topics": [
+                            {
+                                "title": "Matrices",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Algebra of matrices",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Types of matrices",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Determinants and matrices of order two and three",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Evaluation of determinants",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Area of triangles using determinants",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Adjoint and evaluation of inverse of a square matrix using determinants",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Test of consistency and solution of simultaneous linear equations in two or three variables using determinants and matrices",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Permutations and Combinations",
+                        "topics": [
+                            {
+                                "title": "Fundamental principle of counting",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Permutation as an arrangement and combination as selection",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Meaning of P (n,r) and C (n,r)",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Simple applications",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Binomial Theorem and its Simple Applications",
+                        "topics": [
+                            {
+                                "title": "Binomial theorem for a positive integral index",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "General term and middle term",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "And simple applications",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Sequences and Series",
+                        "topics": [
+                            {
+                                "title": "Arithmetic and Geometric progressions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Insertion of arithmetic, geometric means between two given numbers",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Relation between A.M. and G.M.",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Three Dimensional Geometry",
+                        "topics": [
+                            {
+                                "title": "Coordinates of a point in space",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Distance between two points",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Section formula",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Direction ratios and direction cosines",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Angle between two intersecting lines",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Skew lines",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "The shortest distance between them and its equation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Equations of a line",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Vector Algebra",
+                        "topics": [
+                            {
+                                "title": "Vectors and scalars",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Addition of vectors",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Components of a vector in two dimensions and three-dimensional space",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Scalar and vector products",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Statistics and Probability",
+                        "topics": [
+                            {
+                                "title": "Measures of Dispersion",
+                                "subTopics": [
+                                    "Calculation of mean",
+                                    "Median",
+                                    "Mode of grouped and ungrouped data calculation of standard deviation",
+                                    "variance and mean deviation for grouped and ungrouped data"
+                                ]
+                            },
+                            {
+                                "title": "Probability",
+                                "subTopics": [
+                                    "Probability of an event",
+                                    "Addition and multiplication theorems of probability",
+                                    "Baye's theorem",
+                                    "Probability distribution of a random variate"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Calculus",
+                "chapters": [
+                    {
+                        "title": "Limit, Continuity and Differentiability",
+                        "topics": [
+                            {
+                                "title": "Real - valued functions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Algebra of functions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Polynomials",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Rational",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Trigonometric",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Logarithmic and exponential functions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Inverse functions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Graphs of simple functions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Limits",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Continuity and differentiability",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Differentiation of the sum",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Difference",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Product and quotient of two functions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Differentiation of trigonometric",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Inverse trigonometric",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Logarithmic",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Exponential",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Composite and implicit functions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Derivatives of order upto two",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Applications of derivatives",
+                                "subTopics": [
+                                    "Rate of change of quantities",
+                                    "Monotonic - increasing and decreasing functions",
+                                    "Maxima and minima of functions of one variable"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Integral Calculus",
+                        "topics": [
+                            {
+                                "title": "Integral as an anti - derivative",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Fundamental integrals involving algebraic",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Trigonometric",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Exponential and logarithmic functions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Integration by substitution",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "By parts and by partial fractions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Integration using trigonometric identities",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Fundamental Theorem of Calculus",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Properties of definite integrals",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Evaluation of definite integrals",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Determining areas of the regions bounded by simple curves in standard form",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Differential Equations",
+                        "topics": [
+                            {
+                                "title": "Ordinary differential equations",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Their order and degree",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Solution of differential equations by the method of separation of variables",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Solution of homogeneous and linear differential equations",
+                                "subTopics": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Co-ordinate Geometry",
+                "chapters": [
+                    {
+                        "title": "Basic of Co-ordinate Geometry",
+                        "topics": [
+                            {
+                                "title": "Cartesian system of rectangular co-ordinates 10 in a plane",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Distance formula",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Section formula",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Locus and its equation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Slope of a line",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Parallel and perpendicular lines",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Intercepts of a line on the coordinate axes",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Straight lines",
+                        "topics": [
+                            {
+                                "title": "Various forms of equations of a line",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Intersection of lines",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Angles between two lines",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Conditions for concurrence of three lines",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Distance of a point from a line",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Coordinates of centroid",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Orthocentre and circumcentre of a triangle",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Circles, conic sections",
+                        "topics": [
+                            {
+                                "title": "Standard form of equation of a circle",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "General form of the equation of a circle",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Its radius and centre",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Equation of a circle when the end points of a diameter are given",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Points of intersection of a line and a circle with the centre at the origin",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Sections of cones",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Equations of conic sections in standard forms",
+                                "subTopics": [
+                                    "Parabola",
+                                    "Ellipse",
+                                    "Hyperbola"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Trigonometry",
+                "chapters": [
+                    {
+                        "title": "Trigonometry",
+                        "topics": [
+                            {
+                                "title": "Trigonometrical identities",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Trigonometrical functions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Inverse trigonometrical functions and their properties",
+                                "subTopics": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "chapters": [],
+        "updatedAt": "2023-11-02T09:57:04.669Z",
+        "createdAt": "2020-11-17T19:18:05.142Z"
+    }
+}

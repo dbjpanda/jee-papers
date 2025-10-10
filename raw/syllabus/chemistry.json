@@ -1,0 +1,973 @@
+{
+    "statusCode": 0,
+    "data": {
+        "syllabusId": "1khlrqu8v",
+        "title": "Chemistry",
+        "country": "in",
+        "examGroup": "jee",
+        "exam": "jee-main",
+        "chapterGroups": [
+            {
+                "title": "Physical Chemistry",
+                "chapters": [
+                    {
+                        "title": "Some Basic Concepts in Chemistry",
+                        "topics": [
+                            {
+                                "title": "Matter and its nature",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Dalton's atomic theory",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Concept of atom",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Molecule",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Element and compound",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Physical quantities and their measurements in Chemistry",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Precision and accuracy",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Significant figures",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "S.I. Units",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Dimensional analysis",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Laws of chemical combination",
+                                "subTopics": [
+                                    "Atomic and molecular masses",
+                                    "Mole concept",
+                                    "Molar mass",
+                                    "Percentage composition",
+                                    "Empirical and molecular formulae",
+                                    "Chemical equations and stoichiometry"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Atomic Structure",
+                        "topics": [
+                            {
+                                "title": "Nature of electromagnetic radiation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Photoelectric effect",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Spectrum of hydrogen atom",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Bohr model of hydrogen atom",
+                                "subTopics": [
+                                    "Its postulates",
+                                    "Derivation of the relations for energy of the electron and radii of the different orbits",
+                                    "Limitations of Bohr's model"
+                                ]
+                            },
+                            {
+                                "title": "Dual nature of matter",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "de-Broglie's relationship",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Heisenberg uncertainty principle",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Elementary ideas of quantum mechanics",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Quantum mechanical model of atom and It's important features",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Concept of atomic orbitals as one electron wave functions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Variation of Ψ and Ψ2 with r for 1s and 2s orbitals",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Various quantum numbers and their significance",
+                                "subTopics": [
+                                    "Principal quantum numbers",
+                                    "angular momentum quantum numbers",
+                                    "Magnetic quantum numbers"
+                                ]
+                            },
+                            {
+                                "title": "Shapes of s, p and d - orbitals",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Electron spin and spin quantum number",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Rules for filling electrons in Orbitals",
+                                "subTopics": [
+                                    "Aufbau principle",
+                                    "Pauli's exclusion principle",
+                                    "Hund's rule"
+                                ]
+                            },
+                            {
+                                "title": "Electronic configuration of elements",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Extra stability of half-filled and completely filled orbitals",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Chemical Bonding and Molecular Structure",
+                        "topics": [
+                            {
+                                "title": "Kossel - Lewis approach to chemical bond formation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Concept of ionic and covalent bonds",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Ionic Bonding",
+                                "subTopics": [
+                                    "Formation of ionic bonds",
+                                    "Factors affecting the formation of ionic bonds",
+                                    "Calculation of lattice enthalpy"
+                                ]
+                            },
+                            {
+                                "title": "Covalent Bonding",
+                                "subTopics": [
+                                    "Concept of electronegativity",
+                                    "Fajan's rule",
+                                    "Dipole moment",
+                                    "Valence Shell Electron Pair Repulsion (VSEPR) theory and shapes of simple molecules"
+                                ]
+                            },
+                            {
+                                "title": "Quantum mechanical approach to covalent bonding",
+                                "subTopics": [
+                                    "Valence bond theory - Its important features, concept of hybridization involving s, p and d orbitals",
+                                    "Resonance"
+                                ]
+                            },
+                            {
+                                "title": "Molecular Orbital Theory",
+                                "subTopics": [
+                                    "Its important features",
+                                    "LCAOs",
+                                    "Types of molecular orbitals (bonding, antibonding)",
+                                    "Sigma and pi-bonds",
+                                    "Molecular orbital electronic configurations of homonuclear diatomic molecules",
+                                    "Concept of bond order",
+                                    "Bond length and bond energy"
+                                ]
+                            },
+                            {
+                                "title": "Elementary idea of metallic bonding",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Hydrogen bonding and its applications",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Chemical Thermodynamics",
+                        "topics": [
+                            {
+                                "title": "Fundamentals of thermodynamics",
+                                "subTopics": [
+                                    "System and surroundings",
+                                    "Extensive and intensive properties",
+                                    "State functions",
+                                    "Entropy",
+                                    "Types of processes"
+                                ]
+                            },
+                            {
+                                "title": "First law of thermodynamics",
+                                "subTopics": [
+                                    "Concept of work",
+                                    "Heat internal energy and enthalpy",
+                                    "Heat capacity",
+                                    "Molar heat capacity"
+                                ]
+                            },
+                            {
+                                "title": "Hess's law of constant heat summation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Enthalpies of bond dissociation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Combustion",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Formation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Atomization",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Sublimation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Phase transition",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Hydration",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Ionization",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Solution",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Second law of thermodynamics",
+                                "subTopics": [
+                                    "Spontaneity of processes",
+                                    "∆S of the universe and ∆G of the system as criteria for spontaneity",
+                                    "∆G°(Standard Gibbs energy change) and equilibrium constant"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Solutions",
+                        "topics": [
+                            {
+                                "title": "Different methods for expressing concentration of solution",
+                                "subTopics": [
+                                    "Molality",
+                                    "Molarity",
+                                    "Mole fraction",
+                                    "Percentage (by volume and mass both)",
+                                    "Vapour pressure of solutions",
+                                    "Raoult's Law - Ideal and non-ideal solutions",
+                                    "Vapour pressure - composition",
+                                    "Plots for ideal and non-ideal solutions"
+                                ]
+                            },
+                            {
+                                "title": "Colligative properties of dilute solutions",
+                                "subTopics": [
+                                    "Relative lowering of vapour pressure",
+                                    "Depression of freezing point",
+                                    "Elevation of boiling point and osmotic pressure"
+                                ]
+                            },
+                            {
+                                "title": "Determination of molecular mass using colligative properties",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Abnormal value of molar mass",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "van't Hoff factor and its significance",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Equilibrium",
+                        "topics": [
+                            {
+                                "title": "Meaning of equilibrium",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Concept of dynamic equilibrium",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Equilibria involving physical processes",
+                                "subTopics": [
+                                    "Solid -liquid",
+                                    "Liquid - gas",
+                                    "Solid - gas equilibria",
+                                    "Henry's law",
+                                    "General characteristics of equilibrium involving physical processes"
+                                ]
+                            },
+                            {
+                                "title": "Equilibria involving chemical processes",
+                                "subTopics": [
+                                    "Law of  chemical equilibrium",
+                                    "Equilibrium constants (Kp and Kc) and their significance",
+                                    "significance of ∆G and ∆G° in chemical equilibria",
+                                    "Factors affecting equilibrium concentration, pressure, temperature, effect of catalyst"
+                                ]
+                            },
+                            {
+                                "title": "Ionic equilibrium",
+                                "subTopics": [
+                                    "Weak and strong electrolytes",
+                                    "Ionization of electrolytes",
+                                    "Various concepts of acids and bases (Arrhenius, Bronsted - Lowry and Lewis) and their ionization",
+                                    "Acid - base equilibria (including multistage ionization) and ionization constants",
+                                    "Ionization of water",
+                                    "pH scale",
+                                    "Common ion effect",
+                                    "Hydrolysis of salts and pH of their solutions",
+                                    "Solubility of sparingly soluble salts and solubility products",
+                                    "Buffer solutions"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Redox Reactions and Electrochemistry",
+                        "topics": [
+                            {
+                                "title": "Electronic concepts of oxidation and reduction",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Redox reactions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Oxidation number",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Rules for assigning oxidation number",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Balancing of redox reactions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Electrolytic and Metallic conduction",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Conductance in electrolytic solutions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Molar conductivities and their variation with concentration: Kohlrausch's law and its applications",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Electrochemical cells",
+                                "subTopics": [
+                                    "Electrolytic and Galvanic cells",
+                                    "Different types of electrodes",
+                                    "Electrode potentials including standard electrode potential",
+                                    "Half - cell and cell reactions",
+                                    "Emf of a Galvanic cell and its measurement"
+                                ]
+                            },
+                            {
+                                "title": "Nernst equation and its applications",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Relationship between cell potential and Gibbs' energy change",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Dry cell and lead accumulator",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Fuel cells",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Chemical Kinetics",
+                        "topics": [
+                            {
+                                "title": "Rate of a chemical reaction",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Factors affecting the rate of reactions",
+                                "subTopics": [
+                                    "Concentration",
+                                    "Temperature",
+                                    "Pressure",
+                                    "Catalyst"
+                                ]
+                            },
+                            {
+                                "title": "Elementary and complex reactions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Order and molecularity of reactions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Rate law",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Rate constant and its units",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Differential and integral forms of zero and first order reactions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Their characteristics and half -lives",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Effect of temperature on the rate of reactions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Arrhenius theory",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Activation energy and its calculation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Collision theory of bimolecular gaseous reactions (no derivation)",
+                                "subTopics": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Inorganic Chemistry",
+                "chapters": [
+                    {
+                        "title": "Classification of Elements and Periodicity in Properties",
+                        "topics": [
+                            {
+                                "title": "Modem periodic law and present form of the periodic table",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "s, p, d and f block elements",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Periodic trends in properties of elements atomic and ionic radii",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Ionization enthalpy",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Electron gain enthalpy",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Valence",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Oxidation states and chemical reactivity",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "p- Block Elements",
+                        "topics": [
+                            {
+                                "title": "Group -13 to Group 18 Elements : General Introduction",
+                                "subTopics": [
+                                    "Electronic configurations",
+                                    "General trends in physical and chemical properties of elements across the periods and down the groups",
+                                    "Unique behaviour of the first element in each group"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "d - and f - Block Elements",
+                        "topics": [
+                            {
+                                "title": "Transition Elements",
+                                "subTopics": [
+                                    "General introduction",
+                                    "Electronic configuration",
+                                    "Occurrence and characteristics",
+                                    "general trends in properties of the first row transition elements",
+                                    "Physical properties, ionization enthalpy, oxidation states, atomic radii, colour, catalytic behaviour, magnetic properties, complex formation, interstitial compounds, alloy formation",
+                                    "Preparation, properties and uses of K2Cr207 and KMn04"
+                                ]
+                            },
+                            {
+                                "title": "Inner Transition Elements - Lanthanoids",
+                                "subTopics": [
+                                    "Electronic configuration",
+                                    "Oxidation states and lanthanide contraction"
+                                ]
+                            },
+                            {
+                                "title": "Inner Transition Elements - Actinides",
+                                "subTopics": [
+                                    "Electronic configuration and oxidation states"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Co-Ordination Compounds",
+                        "topics": [
+                            {
+                                "title": "Introduction to co-ordination compounds",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Werner's theory",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Ligands",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Co-ordination number",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Denticity",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Chelation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "IUPAC nomenclature of mononuclear coordination compounds",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Isomerism",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Bonding-Valence bond approach and basic ideas of Crystal field theory",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Colour and magnetic properties",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Importance of co­ordination compounds (in qualitative analysis, extraction of metals and in biological systems)",
+                                "subTopics": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Organic Chemistry",
+                "chapters": [
+                    {
+                        "title": "Purification and Characterization of Organic Compounds",
+                        "topics": [
+                            {
+                                "title": "Purification",
+                                "subTopics": [
+                                    "Crystallization",
+                                    "Sublimation",
+                                    "Distillation",
+                                    "Differential extraction",
+                                    "Chromatography - principles and their applications"
+                                ]
+                            },
+                            {
+                                "title": "Qualitative analysis",
+                                "subTopics": [
+                                    "Detection of nitrogen, sulphur, phosphorus and halogens"
+                                ]
+                            },
+                            {
+                                "title": "Quantitative analysis (basic principles only) :",
+                                "subTopics": [
+                                    "Estimation of carbon, hydrogen, nitrogen, halogens, sulphur, phosphorus"
+                                ]
+                            },
+                            {
+                                "title": "Calculations of empirical formulae and molecular formulae",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Numerical problems in organic quantitative analysis",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Some Basic Principles of Organic Chemistry",
+                        "topics": [
+                            {
+                                "title": "Tetravalency of carbon",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Shapes of simple molecules - hybridization (s and p)",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Classification of organic compounds based on functional groups",
+                                "subTopics": [
+                                    "those containing halogens, oxygen, nitrogen and sulphur"
+                                ]
+                            },
+                            {
+                                "title": "Homologous series",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Isomerism - structural and stereoisomerism",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Nomenclature (Trivial and IUPAC)",
+                                "subTopics": [
+                                    "Covalent bond fission - Homolytic and heterolytic: free radicals, carbocations and carbanions",
+                                    "Stability of carbocations and free radicals, electrophiles and nucleophiles"
+                                ]
+                            },
+                            {
+                                "title": "Electronic displacement in a covalent bond",
+                                "subTopics": [
+                                    "Inductive effect",
+                                    "Electromeric effect",
+                                    "Eesonance",
+                                    "Hyperconjugation"
+                                ]
+                            },
+                            {
+                                "title": "Common types of organic reactions",
+                                "subTopics": [
+                                    "Substitution",
+                                    "Addition",
+                                    "Elimination",
+                                    "Rearrangement"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Hydrocarbons",
+                        "topics": [
+                            {
+                                "title": "Classification",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Isomerism",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "IUPAC nomenclature",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "General methods of preparation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Properties and reactions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Alkanes",
+                                "subTopics": [
+                                    "Conformations: Sawhorse and Newman projections (of ethane)",
+                                    "Mechanism of halogenation of alkanes"
+                                ]
+                            },
+                            {
+                                "title": "Alkenes",
+                                "subTopics": [
+                                    "Geometrical isomerism",
+                                    "Mechanism of electrophilic addition: addition of hydrogen, halogens, water, hydrogen halides (Markownikoff's and peroxide effect)",
+                                    "Ozonolysis and polymerization"
+                                ]
+                            },
+                            {
+                                "title": "Alkynes",
+                                "subTopics": [
+                                    "Acidic character",
+                                    "Addition of hydrogen, halogens, water and hydrogen halides",
+                                    "Polymerization"
+                                ]
+                            },
+                            {
+                                "title": "Aromatic hydrocarbons",
+                                "subTopics": [
+                                    "Nomenclature",
+                                    "Benzene - structure and aromaticity",
+                                    "Mechanism of electrophilic substitution : halogenation, nitration, Friedel - Craft's alkylation and acylation, directive influence of functional group in mono-substituted benzene"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Organic Compounds Containing Halogens",
+                        "topics": [
+                            {
+                                "title": "General methods of preparation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Properties and reactions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Nature of C-X bond",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Mechanisms of substitution reactions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "BREAK",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Uses",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Environmental effects of chloroform",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Iodoform freons and DDT",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Organic Compounds Containing Oxygen",
+                        "topics": [
+                            {
+                                "title": "General methods of preparation, properties, reactions and uses.",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "ALCOHOLS, PHENOLS AND ETHERS",
+                                "subTopics": [
+                                    "Alcohols: Identification of primary, secondary and tertiary alcohols; mechanism of dehydration.",
+                                    "Phenols: Acidic nature, electrophilic substitution reactions: halogenation, nitration and sulphonation, Reimer - Tiemann reaction.",
+                                    "Ethers: Structure.",
+                                    "Aldehyde and Ketones: Nature of carbonyl group",
+                                    "Nucleophilic addition to >C=0 group",
+                                    "Relative reactivities of aldehydes and ketones",
+                                    "Important reactions such as - Nucleophilic addition reactions (addition of HCN, NH, and its derivatives)",
+                                    "Grignard reagent",
+                                    "Oxidation",
+                                    "Reduction (Wolff Kishner and Clemmensen)",
+                                    "Acidity of ⍺-hydrogen",
+                                    "Aldol condensation",
+                                    "Cannizzaro reaction",
+                                    "Haloform reaction",
+                                    "Chemical tests to distinguish between aldehydes and Ketones",
+                                    "Carboxylic Acids - Acidic strength and factors affecting it"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Organic Compounds Containing Nitrogen",
+                        "topics": [
+                            {
+                                "title": "General methods of preparation",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Properties",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Reactions and uses",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Amines: Nomenclature, classification, structure, basic character and identification of primary, secondary and tertiary amines and their basic character",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Diazonium Salts: Importance in synthetic organic chemistry",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Biomolecules",
+                        "topics": [
+                            {
+                                "title": "General introduction and importance of biomolecules",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Carbohydrates",
+                                "subTopics": [
+                                    "Classification: aldoses and ketoses",
+                                    "Monosaccharides (glucose and fructose)",
+                                    "Constituent monosaccharides of oligosaccharides (sucrose, lactose and maltose)"
+                                ]
+                            },
+                            {
+                                "title": "Proteins",
+                                "subTopics": [
+                                    "Elementary Idea of ⍺-amino acids",
+                                    "Peptide bond",
+                                    "Polypeptides",
+                                    "Proteins: primary, secondary, tertiary and quaternary structure (qualitative idea only)",
+                                    "Denaturation of proteins",
+                                    "Enzymes"
+                                ]
+                            },
+                            {
+                                "title": "Vitamins - Classification and functions",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Nucleic Acids - Chemical constitution of DNA and RNA",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Biological functions of nucleic acids",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Hormones (General introduction)",
+                                "subTopics": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Principles Related to Practical Chemistry",
+                        "topics": [
+                            {
+                                "title": "Detection of extra elements (N, S, halogens) in organic compounds",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Detection of the following functional groups",
+                                "subTopics": [
+                                    "Hydroxyl (alcoholic and phenolic)",
+                                    "Carbonyl (aldehyde and ketone)",
+                                    "carboxyl and amino groups in organic compounds"
+                                ]
+                            },
+                            {
+                                "title": "Chemistry involved in the preparation of the following",
+                                "subTopics": [
+                                    "Inorganic compounds: Mohr's salt, potash alum",
+                                    "Organic compounds: Acetanilide, pnitroacetanilide, aniline yellow, iodoform"
+                                ]
+                            },
+                            {
+                                "title": "Chemistry involved in the titrimetric exercises - Acids bases and the use of indicators, oxalic-acid vs KMnO4, Mohr's salt vs KMnO4.",
+                                "subTopics": []
+                            },
+                            {
+                                "title": "Chemical principles involved in the qualitative salt analysis",
+                                "subTopics": [
+                                    "Cations - Pb2+, Cu+, Al3+, Fe3+, Zn2+, Ni2+, Ca2+, Ba2+,  Mg2+, NH4+",
+                                    "Anions- CO3-2, S2-, SO4-2, NO3-, NO2-, Cl-, Br-, I- . (Insoluble salts excluded)"
+                                ]
+                            },
+                            {
+                                "title": "Chemical principles involved in the following experiments",
+                                "subTopics": [
+                                    "1. Enthalpy of solution of CuS04.",
+                                    "2. Enthalpy of neutralization of strong acid and strong base.",
+                                    "3. Preparation of lyophilic and lyophobic sols.",
+                                    "4. Kinetic study of reaction of iodide ion with hydrogen peroxide at room temperature."
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "chapters": [],
+        "updatedAt": "2023-11-02T09:40:23.530Z",
+        "createdAt": "2020-11-17T09:22:53.214Z"
+    }
+}
